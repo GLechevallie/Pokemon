@@ -1,0 +1,405 @@
+Water/-
+80/82/78/95/80/85
+76.6
+50/50
+
+# 1 - 33.66 % (102 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Naive - EVs: 224 HP / 152 Atk / 132 Spd (100.0 %)  
+Waterfall
+Substitute
+Dynamic Punch
+Hone Claws
+# 2 - 16.17 % (49 battles)
+
+Golduck @ Leftovers Lv. 100 -- Swift Swim
+Nature: Bold - EVs: 20 HP / 120 Def / 128 SAtk / 104 SDef / 136 Spd (100.0 %)  
+Ice Beam
+Psychic
+Confuse Ray
+Scald
+# 3 - 15.51 % (47 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Damp
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Signal Beam
+Scald
+# 4 - 6.27 % (19 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (57.9 %)  
+Hydro Pump
+Ice Beam
+Calm Mind
+Psyshock
+# 5 - 3.96 % (12 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Focus Blast
+Scald
+# 6 - 2.31 % (7 battles)
+
+Golduck @ Leftovers Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Toxic
+Substitute
+Calm Mind
+# 7 - 2.31 % (7 battles)
+
+Golduck @ Leftovers Lv. 100 -- Damp
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Sleep Talk
+Calm Mind
+Scald
+# 8 - 1.98 % (6 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Surf
+Ice Beam
+Focus Blast
+# 9 - 1.65 % (5 battles)
+
+Golduck @ Splash Plate Lv. 100 -- Swift Swim
+Nature: Bold - EVs: 252 HP / 252 SAtk / 4 SDef (100.0 %)  
+Ice Beam
+Rain Dance
+Focus Blast
+Scald
+# 10 - 1.32 % (4 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (75.0 %)[Grass]  
+Surf
+Ice Beam
+Hidden Power
+Brine
+# 11 - 1.32 % (4 battles)
+
+Golduck @ Leftovers Lv. 100 -- Swift Swim
+Nature: Timid - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Signal Beam
+Psyshock
+# 12 - 1.32 % (4 battles)
+
+Golduck @ Leftovers Lv. 100 -- Damp
+Nature: Bold - EVs: 120 HP / 148 Def / 240 Spd (100.0 %)  
+Ice Beam
+Hypnosis
+Calm Mind
+Scald
+# 13 - 0.99 % (3 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Psychic
+Focus Blast
+# 14 - 0.99 % (3 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Grass]  
+Surf
+Ice Beam
+Hidden Power
+Focus Blast
+# 15 - 0.99 % (3 battles)
+
+Golduck @ Focus Sash Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 132 Def / 252 SAtk / 124 SDef (100.0 %)  
+Synchronoise
+Soak
+Clear Smog
+Scald
+# 16 - 0.99 % (3 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Ice Beam
+Calm Mind
+Focus Blast
+Scald
+# 17 - 0.99 % (3 battles)
+
+Golduck @ Twisted Spoon Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Future Sight
+Water Pulse
+Scald
+# 18 - 0.66 % (2 battles)
+
+Golduck @ Focus Band Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+(No Move)
+Counter
+Icy Wind
+Scald
+# 19 - 0.66 % (2 battles)
+
+Golduck @ Focus Sash Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Psychic
+Rain Dance
+# 20 - 0.66 % (2 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Calm Mind
+# 21 - 0.66 % (2 battles)
+
+Golduck @ Leftovers Lv. 100 -- Swift Swim
+Nature: Timid - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Hydro Pump
+Signal Beam
+Synchronoise
+Soak
+# 22 - 0.66 % (2 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Brave - EVs: 252 Atk / 84 Def / 172 SDef (100.0 %)  
+Surf
+Ice Beam
+Endure
+Brick Break
+# 23 - 0.33 % (1 battles)
+
+Golduck @ (No Item) Lv. 100 -- Swift Swim
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Disable
+Substitute
+Mud Bomb
+Scald
+# 24 - 0.33 % (1 battles)
+
+Golduck @ (No Item) Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Hydro Pump
+Future Sight
+Calm Mind
+Focus Blast
+# 25 - 0.33 % (1 battles)
+
+Golduck @ (No Item) Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 52 HP / 252 SAtk / 204 Spd (100.0 %)  
+Surf
+Focus Blast
+Psyshock
+Clear Smog
+# 1 - 29.73 % (11 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Naive - EVs: 224 HP / 152 Atk / 132 Spd (100.0 %)  
+Waterfall
+Substitute
+Dynamic Punch
+Hone Claws
+# 2 - 21.62 % (8 battles)
+
+Golduck @ Wide Lens Lv. 100 -- Cloud Nine
+Nature: Mild - EVs: 104 Atk / 252 SAtk / 152 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Hypnosis
+Cross Chop
+# 3 - 8.11 % (3 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Damp
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Signal Beam
+Scald
+# 4 - 5.41 % (2 battles)
+
+Golduck @ Leftovers Lv. 100 -- Damp
+Nature: Hardy - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+(No Move)
+Blizzard
+Iron Tail
+Focus Punch
+# 5 - 5.41 % (2 battles)
+
+Golduck @ Leftovers Lv. 100 -- Swift Swim
+Nature: Bold - EVs: 20 HP / 120 Def / 128 SAtk / 104 SDef / 136 Spd (100.0 %)  
+Ice Beam
+Psychic
+Confuse Ray
+Scald
+# 6 - 5.41 % (2 battles)
+
+Golduck @ Leftovers Lv. 100 -- Damp
+Nature: Hardy - EVs: 252 HP / 252 SAtk (100.0 %)  
+Psychic
+Waterfall
+Shadow Claw
+Power-Up Punch
+# 7 - 2.70 % (1 battles)
+
+Golduck @ (No Item) Lv. 100 -- Damp
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Blizzard
+# 8 - 2.70 % (1 battles)
+
+Golduck @ (No Item) Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Hydro Pump
+Ice Beam
+Psychic
+Rain Dance
+# 9 - 2.70 % (1 battles)
+
+Golduck @ (No Item) Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 88 HP / 112 Atk / 76 Def / 108 SAtk / 72 SDef / 52 Spd (100.0 %)  
+Hydro Pump
+Psychic
+Future Sight
+Secret Power
+# 10 - 2.70 % (1 battles)
+
+Golduck @ (No Item) Lv. 100 -- Swift Swim
+Nature: Calm - EVs: 196 HP / 176 SDef / 136 Spd (100.0 %)  
+Surf
+Substitute
+Calm Mind
+Synchronoise
+# 11 - 2.70 % (1 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Surf
+Ice Beam
+Focus Blast
+# 12 - 2.70 % (1 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Psychic
+Focus Blast
+# 13 - 2.70 % (1 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Focus Blast
+Scald
+# 14 - 2.70 % (1 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)[Grass]  
+Surf
+Ice Beam
+Hidden Power
+Brine
+# 15 - 2.70 % (1 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Ice Beam
+Calm Mind
+Focus Blast
+Scald
+# 16 - 0 % (102 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Naive - EVs: 224 HP / 152 Atk / 132 Spd (100.0 %)  
+Waterfall
+Substitute
+Dynamic Punch
+Hone Claws
+# 17 - 0 % (49 battles)
+
+Golduck @ Leftovers Lv. 100 -- Swift Swim
+Nature: Bold - EVs: 20 HP / 120 Def / 128 SAtk / 104 SDef / 136 Spd (100.0 %)  
+Ice Beam
+Psychic
+Confuse Ray
+Scald
+# 18 - 0 % (47 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Damp
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Signal Beam
+Scald
+# 19 - 0 % (19 battles)
+
+Golduck @ Leftovers Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (57.9 %)  
+Hydro Pump
+Ice Beam
+Calm Mind
+Psyshock
+# 20 - 0 % (12 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Focus Blast
+Scald
+# 21 - 0 % (7 battles)
+
+Golduck @ Leftovers Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Toxic
+Substitute
+Calm Mind
+# 22 - 0 % (7 battles)
+
+Golduck @ Leftovers Lv. 100 -- Damp
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Sleep Talk
+Calm Mind
+Scald
+# 23 - 0 % (6 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Surf
+Ice Beam
+Focus Blast
+# 24 - 0 % (5 battles)
+
+Golduck @ Splash Plate Lv. 100 -- Swift Swim
+Nature: Bold - EVs: 252 HP / 252 SAtk / 4 SDef (100.0 %)  
+Ice Beam
+Rain Dance
+Focus Blast
+Scald
+# 25 - 1.32 % (4 battles)
+
+Golduck @ Choice Specs Lv. 100 -- Cloud Nine
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (75.0 %)[Grass]  
+Surf
+Ice Beam
+Hidden Power
+Brine

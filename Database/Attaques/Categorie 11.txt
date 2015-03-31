@@ -1,0 +1,25 @@
+Cible	Type	Prio	PP
+
+Light Screen
+user	Psychic	0	32
+
+Reflect
+user	Psychic	0	32
+
+Safeguard
+user	Normal	0	40
+
+Spikes
+adv	Ground	0	32
+
+Stealth Rock
+adv	Rock	0	32
+
+Sticky Web
+adv	Bug	0	32
+
+Tailwind
+user	Flying	0	48
+
+Toxic Spikes
+adv	Poison	0	32

@@ -1,0 +1,405 @@
+Dragon/Psychic
+80/90/80/130/110/110
+60.0
+100/0
+
+# 1 - 6.01 % (3480 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.7 %)  
+Surf
+Defog
+Draco Meteor
+Psyshock
+# 2 - 4.85 % (2807 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (27.4 %)[Fire]  
+Hidden Power
+Defog
+Draco Meteor
+Psyshock
+# 3 - 4.71 % (2726 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.0 %)  
+Thunderbolt
+Defog
+Draco Meteor
+Psyshock
+# 4 - 4.09 % (2371 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (41.0 %)  
+Earthquake
+Defog
+Draco Meteor
+Psyshock
+# 5 - 2.91 % (1683 battles)
+
+Latios @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (82.5 %)  
+Surf
+Trick
+Draco Meteor
+Psyshock
+# 6 - 2.45 % (1418 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.5 %)  
+Roost
+Defog
+Draco Meteor
+Psyshock
+# 7 - 2.39 % (1386 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (57.2 %)  
+Surf
+Thunderbolt
+Draco Meteor
+Psyshock
+# 8 - 2.28 % (1318 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.9 %)  
+Surf
+Trick
+Draco Meteor
+Psyshock
+# 9 - 2.04 % (1184 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (36.6 %)[Fire]  
+Surf
+Hidden Power
+Draco Meteor
+Psyshock
+# 10 - 1.92 % (1110 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (48.4 %)  
+Surf
+Thunderbolt
+Draco Meteor
+Psyshock
+# 11 - 1.70 % (983 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.5 %)[Fire]  
+Hidden Power
+Roost
+Draco Meteor
+Psyshock
+# 12 - 1.56 % (902 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (29.6 %)  
+Recover
+Defog
+Draco Meteor
+Psyshock
+# 13 - 1.34 % (778 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (40.9 %)  
+Surf
+Roost
+Draco Meteor
+Psyshock
+# 14 - 1.11 % (645 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (40.5 %)  
+Trick
+Defog
+Draco Meteor
+Psyshock
+# 15 - 1.09 % (631 battles)
+
+Latios @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (47.4 %)  
+Trick
+Defog
+Draco Meteor
+Psyshock
+# 16 - 1.05 % (609 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (47.1 %)[Fire]  
+Hidden Power
+Trick
+Draco Meteor
+Psyshock
+# 17 - 1.05 % (607 battles)
+
+Latios @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (99.5 %)  
+Psychic
+Recover
+Calm Mind
+Dragon Pulse
+# 18 - 0.98 % (570 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (30.7 %)  
+Surf
+Recover
+Draco Meteor
+Psyshock
+# 19 - 0.98 % (566 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (71.4 %)  
+Ice Beam
+Thunderbolt
+Draco Meteor
+Psyshock
+# 20 - 0.92 % (534 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (95.3 %)  
+Thunder Wave
+Defog
+Draco Meteor
+Psyshock
+# 21 - 0.90 % (523 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (94.5 %)  
+Surf
+Psychic
+Energy Ball
+Draco Meteor
+# 22 - 0.82 % (476 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (59.7 %)  
+Surf
+Ice Beam
+Draco Meteor
+Psyshock
+# 23 - 0.81 % (468 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (71.8 %)  
+Thunderbolt
+Trick
+Draco Meteor
+Psyshock
+# 24 - 0.70 % (407 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (63.9 %)  
+Thunderbolt
+Roost
+Draco Meteor
+Psyshock
+# 25 - 0.68 % (395 battles)
+
+Latios @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 72 Def / 252 SAtk / 184 Spd (40.0 %)  
+Surf
+Thunderbolt
+Draco Meteor
+Psyshock
+# 1 - 4.94 % (220 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (43.6 %)  
+Earthquake
+Defog
+Draco Meteor
+Psyshock
+# 2 - 4.58 % (204 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (27.9 %)  
+Surf
+Defog
+Draco Meteor
+Psyshock
+# 3 - 4.40 % (196 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (55.6 %)  
+Thunderbolt
+Defog
+Draco Meteor
+Psyshock
+# 4 - 3.55 % (158 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (33.5 %)[Fire]  
+Hidden Power
+Defog
+Draco Meteor
+Psyshock
+# 5 - 3.21 % (143 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (28.7 %)  
+Surf
+Trick
+Draco Meteor
+Psyshock
+# 6 - 2.97 % (132 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (37.1 %)  
+Trick
+Defog
+Draco Meteor
+Psyshock
+# 7 - 2.36 % (105 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (68.6 %)[Fire]  
+Hidden Power
+Roost
+Draco Meteor
+Psyshock
+# 8 - 1.93 % (86 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (46.5 %)  
+Surf
+Thunderbolt
+Draco Meteor
+Psyshock
+# 9 - 1.62 % (72 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (66.7 %)  
+Surf
+Thunderbolt
+Draco Meteor
+Psyshock
+# 10 - 1.55 % (69 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (33.3 %)  
+Recover
+Defog
+Draco Meteor
+Psyshock
+# 11 - 1.53 % (68 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (55.9 %)[Fire]  
+Surf
+Hidden Power
+Draco Meteor
+Psyshock
+# 12 - 1.42 % (63 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (55.6 %)[Fire]  
+Thunderbolt
+Hidden Power
+Draco Meteor
+Psyshock
+# 13 - 1.35 % (60 battles)
+
+Latios @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (48.3 %)  
+Surf
+Trick
+Draco Meteor
+Psyshock
+# 14 - 1.17 % (52 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (40.4 %)[Fire]  
+Hidden Power
+Trick
+Draco Meteor
+Psyshock
+# 15 - 1.10 % (49 battles)
+
+Latios @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 72 Def / 252 SAtk / 184 Spd (53.1 %)  
+Surf
+Thunderbolt
+Draco Meteor
+Psyshock
+# 16 - 1.08 % (48 battles)
+
+Latios @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (50.0 %)  
+Trick
+Defog
+Draco Meteor
+Psyshock
+# 17 - 1.08 % (48 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (83.3 %)  
+Thunderbolt
+Trick
+Defog
+Draco Meteor
+# 18 - 1.01 % (45 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (71.1 %)  
+Ice Beam
+Thunderbolt
+Psychic
+Dragon Pulse
+# 19 - 1.01 % (45 battles)
+
+Latios @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Recover
+Calm Mind
+Dragon Pulse
+# 20 - 0.97 % (43 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (51.2 %)  
+Surf
+Psychic
+Trick
+Draco Meteor
+# 21 - 0.90 % (40 battles)
+
+Latios @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (82.5 %)  
+Ice Beam
+Psychic
+Substitute
+Draco Meteor
+# 22 - 0.90 % (40 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (45.0 %)  
+Surf
+Roost
+Draco Meteor
+Psyshock
+# 23 - 0.83 % (37 battles)
+
+Latios @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (67.6 %)[Fire]  
+Surf
+Psychic
+Hidden Power
+Draco Meteor
+# 24 - 0.83 % (37 battles)
+
+Latios @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (86.5 %)  
+Surf
+Thunderbolt
+Psychic
+Draco Meteor
+# 25 - 0.79 % (35 battles)
+
+Latios @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (40.0 %)  
+Roost
+Defog
+Draco Meteor
+Psyshock

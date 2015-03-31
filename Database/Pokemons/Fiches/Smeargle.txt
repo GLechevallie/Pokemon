@@ -1,0 +1,405 @@
+Normal/-
+55/20/35/20/45/75
+58.0
+50/50
+
+# 1 - 24.00 % (4330 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 88 HP / 204 Def / 216 Spd (13.1 %)  
+Spore
+Baton Pass
+Ingrain
+Quiver Dance
+# 2 - 8.44 % (1522 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 24 HP / 252 Def / 16 SDef / 216 Spd (36.1 %)  
+Spore
+Baton Pass
+Encore
+Ingrain
+# 3 - 2.50 % (451 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (26.6 %)  
+Spore
+Belly Drum
+Baton Pass
+Shell Smash
+# 4 - 2.34 % (422 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 Atk / 252 Spd (96.9 %)  
+Spore
+Baton Pass
+Dark Void
+Shell Smash
+# 5 - 2.01 % (362 battles)
+
+Smeargle @ Leftovers Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 168 Def / 88 SDef / 252 Spd (83.1 %)  
+Spore
+Substitute
+Baton Pass
+Ingrain
+# 6 - 1.46 % (263 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (33.8 %)  
+Spore
+Baton Pass
+Ingrain
+Shell Smash
+# 7 - 1.41 % (254 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Bold - EVs: 252 HP / 116 Def / 140 Spd (51.2 %)  
+Spore
+Baton Pass
+Ingrain
+Magic Coat
+# 8 - 1.29 % (232 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (33.6 %)  
+Spore
+Magic Coat
+Stealth Rock
+Sticky Web
+# 9 - 1.28 % (231 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (94.8 %) / Technician (5.2 %)
+Nature: Hasty - EVs: 252 HP / 4 SDef / 252 Spd (36.4 %)  
+Spore
+Baton Pass
+Shell Smash
+King's Shield
+# 10 - 1.25 % (226 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (97.8 %) / Technician (2.2 %)
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (52.2 %)  
+Spore
+Substitute
+Baton Pass
+Shell Smash
+# 11 - 1.18 % (212 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (17.5 %)  
+Spore
+Substitute
+Baton Pass
+Ingrain
+# 12 - 1.09 % (197 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 88 HP / 204 Def / 216 Spd (64.0 %)  
+Spore
+Baton Pass
+Ingrain
+Heart Swap
+# 13 - 0.97 % (175 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 24 HP / 248 Def / 8 SDef / 228 Spd (62.9 %)  
+Spore
+Baton Pass
+Ingrain
+Imprison
+# 14 - 0.87 % (157 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 80 HP / 96 Def / 80 SDef / 252 Spd (47.1 %)  
+Spore
+Taunt
+Stealth Rock
+Sticky Web
+# 15 - 0.85 % (153 battles)
+
+Smeargle @ White Herb Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 252 Spd (100.0 %)  
+Substitute
+Baton Pass
+Magic Coat
+Shell Smash
+# 16 - 0.84 % (151 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (97.4 %) / Technician (2.6 %)
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (38.4 %)  
+Spore
+Toxic Spikes
+Stealth Rock
+Sticky Web
+# 17 - 0.79 % (143 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 HP / 4 SAtk / 252 Spd (94.4 %)  
+Spore
+Baton Pass
+Dark Void
+Shift Gear
+# 18 - 0.76 % (137 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 252 Spd (23.4 %)  
+Baton Pass
+Ingrain
+Dark Void
+Quiver Dance
+# 19 - 0.73 % (132 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 88 HP / 204 Def / 44 SDef / 172 Spd (73.5 %)  
+Baton Pass
+Encore
+Ingrain
+Dark Void
+# 20 - 0.71 % (128 battles)
+
+Smeargle @ Shed Shell Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (85.2 %)  
+Spore
+Substitute
+Baton Pass
+Ingrain
+# 21 - 0.65 % (117 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (70.1 %) / Technician (29.9 %)
+Nature: Timid - EVs: 252 HP / 252 Spd (41.9 %)  
+Spore
+Rapid Spin
+Stealth Rock
+Sticky Web
+# 22 - 0.64 % (116 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (98.3 %) / Technician (1.7 %)
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (44.0 %)  
+Spore
+Endeavor
+Stealth Rock
+Sticky Web
+# 23 - 0.62 % (112 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (98.2 %) / Technician (1.8 %)
+Nature: Jolly - EVs: 252 HP / 252 Spd (24.1 %)  
+Spore
+Spikes
+Stealth Rock
+Sticky Web
+# 24 - 0.54 % (97 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (100.0 %)  
+Thunder Wave
+Spore
+Stealth Rock
+Sticky Web
+# 25 - 0.54 % (97 battles)
+
+Smeargle @ Power Herb Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (55.7 %)  
+Spore
+Substitute
+Baton Pass
+Geomancy
+# 1 - 7.09 % (1103 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (98.8 %) / Technician (1.2 %)
+Nature: Timid - EVs: 88 HP / 204 Def / 216 Spd (28.6 %)  
+Spore
+Baton Pass
+Ingrain
+Quiver Dance
+# 2 - 7.04 % (1095 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 80 HP / 96 Def / 80 SDef / 252 Spd (53.2 %)  
+Spore
+Taunt
+Stealth Rock
+Sticky Web
+# 3 - 5.32 % (828 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (99.3 %) / Technician (0.7 %)
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (28.3 %)  
+Spore
+Magic Coat
+Stealth Rock
+Sticky Web
+# 4 - 3.69 % (574 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (93.9 %) / Technician (6.1 %)
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (28.6 %)  
+Spore
+Spikes
+Stealth Rock
+Sticky Web
+# 5 - 3.00 % (466 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 HP / 4 SDef / 252 Spd (51.3 %)  
+Spore
+Baton Pass
+Ingrain
+Shell Smash
+# 6 - 2.71 % (422 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (97.4 %) / Technician (2.6 %)
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (22.7 %)  
+Spore
+Toxic Spikes
+Stealth Rock
+Sticky Web
+# 7 - 2.39 % (372 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (99.2 %)  
+Thunder Wave
+Spore
+Stealth Rock
+Sticky Web
+# 8 - 2.06 % (321 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 4 HP / 252 Def / 252 Spd (42.4 %)  
+Spore
+Destiny Bond
+Stealth Rock
+Sticky Web
+# 9 - 1.76 % (274 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 HP / 252 Spd (72.3 %)  
+Confuse Ray
+Spore
+Stealth Rock
+Sticky Web
+# 10 - 1.49 % (232 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (98.7 %) / Technician (1.3 %)
+Nature: Jolly - EVs: 252 HP / 4 SAtk / 252 Spd (37.9 %)  
+Magic Coat
+Stealth Rock
+Dark Void
+Sticky Web
+# 11 - 1.33 % (207 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 248 HP / 8 Def / 252 Spd (29.0 %)  
+Taunt
+Stealth Rock
+Dark Void
+Sticky Web
+# 12 - 1.29 % (200 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (72.5 %)  
+Spore
+Extreme Speed
+Endeavor
+Sticky Web
+# 13 - 1.27 % (197 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (73.1 %) / Technician (26.9 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (24.4 %)  
+Spore
+Substitute
+Baton Pass
+Shell Smash
+# 14 - 1.27 % (197 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (95.9 %) / Technician (4.1 %)
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (41.6 %)  
+Spore
+Rapid Spin
+Stealth Rock
+Sticky Web
+# 15 - 1.19 % (185 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (96.8 %) / Technician (3.2 %)
+Nature: Jolly - EVs: 252 Def / 4 SDef / 252 Spd (28.1 %)  
+Spore
+Baton Pass
+Magic Coat
+Shell Smash
+# 16 - 0.96 % (149 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 24 HP / 252 Def / 16 SDef / 216 Spd (72.5 %)  
+Spore
+Baton Pass
+Encore
+Ingrain
+# 17 - 0.95 % (147 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (98.6 %) / Technician (1.4 %)
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (33.3 %)  
+Spore
+Endeavor
+Stealth Rock
+Sticky Web
+# 18 - 0.85 % (132 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (57.6 %)  
+Whirlwind
+Spore
+Spikes
+Stealth Rock
+# 19 - 0.84 % (131 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 128 Def / 128 SDef / 252 Spd (44.3 %)  
+Whirlwind
+Spore
+Stealth Rock
+Sticky Web
+# 20 - 0.81 % (126 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 Atk / 252 Spd (64.3 %)  
+Spore
+Extreme Speed
+Endeavor
+Stealth Rock
+# 21 - 0.78 % (122 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 HP / 44 Def / 212 Spd (26.2 %)  
+Spore
+Substitute
+Baton Pass
+Ingrain
+# 22 - 0.78 % (122 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 176 HP / 80 Def / 252 Spd (77.9 %)  
+Spore
+Baton Pass
+Ingrain
+Magic Coat
+# 23 - 0.78 % (122 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (26.2 %)  
+Spore
+Stealth Rock
+Nuzzle
+Sticky Web
+# 24 - 0.77 % (120 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo (95.8 %) / Technician (4.2 %)
+Nature: Hardy - EVs: 252 HP / 4 SDef / 252 Spd (98.3 %)  
+Spore
+Rapid Spin
+Toxic Spikes
+Stealth Rock
+# 25 - 0.73 % (114 battles)
+
+Smeargle @ Focus Sash Lv. 100 -- Own Tempo
+Nature: Timid - EVs: 252 Def / 4 SDef / 252 Spd (48.2 %)  
+Spore
+Baton Pass
+Ingrain
+Cotton Guard

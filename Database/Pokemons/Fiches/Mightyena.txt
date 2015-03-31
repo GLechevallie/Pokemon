@@ -1,0 +1,405 @@
+Dark/-
+70/90/70/60/60/70
+37.0
+50/50
+
+# 1 - 9.14 % (17 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Intimidate (52.9 %) / Moxie (47.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Play Rough
+# 2 - 6.99 % (13 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Play Rough
+# 3 - 6.99 % (13 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (69.2 %)  
+Substitute
+Crunch
+Sucker Punch
+Play Rough
+# 4 - 6.99 % (13 battles)
+
+Mightyena @ Liechi Berry Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Poison Fang
+Sucker Punch
+Play Rough
+# 5 - 5.38 % (10 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Facade
+Sucker Punch
+Play Rough
+# 6 - 5.38 % (10 battles)
+
+Mightyena @ Lum Berry Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Toxic
+Substitute
+Crunch
+Sucker Punch
+# 7 - 4.84 % (9 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Dig
+Crunch
+Sucker Punch
+Play Rough
+# 8 - 4.84 % (9 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (55.6 %)  
+Crunch
+Sucker Punch
+Fire Fang
+Play Rough
+# 9 - 3.76 % (7 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Poison Fang
+Sucker Punch
+Play Rough
+# 10 - 3.23 % (6 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Crunch
+Thunder Fang
+Fire Fang
+Play Rough
+# 11 - 3.23 % (6 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Iron Tail
+Sucker Punch
+Ice Fang
+# 12 - 2.69 % (5 battles)
+
+Mightyena @ Focus Sash Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Thunder Fang
+Ice Fang
+Fire Fang
+Foul Play
+# 13 - 2.69 % (5 battles)
+
+Mightyena @ Leftovers Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Poison Fang
+Sucker Punch
+Play Rough
+# 14 - 2.69 % (5 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Facade
+Sucker Punch
+Ice Fang
+Play Rough
+# 15 - 2.15 % (4 battles)
+
+Mightyena @ Choice Band Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Sucker Punch
+Thunder Fang
+Fire Fang
+Play Rough
+# 16 - 2.15 % (4 battles)
+
+Mightyena @ Focus Sash Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Sucker Punch
+Thunder Fang
+Fire Fang
+Play Rough
+# 17 - 2.15 % (4 battles)
+
+Mightyena @ Leftovers Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Play Rough
+# 18 - 2.15 % (4 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Poison Fang
+Howl
+Sucker Punch
+# 19 - 2.15 % (4 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Dark Pulse
+Fire Fang
+# 20 - 2.15 % (4 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Fire Fang
+# 21 - 2.15 % (4 battles)
+
+Mightyena @ Assault Vest Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (100.0 %)  
+Crunch
+Sucker Punch
+Fire Fang
+Play Rough
+# 22 - 1.61 % (3 battles)
+
+Mightyena @ Choice Band Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Play Rough
+# 23 - 1.61 % (3 battles)
+
+Mightyena @ Expert Belt Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Ice Fang
+Fire Fang
+Play Rough
+# 24 - 1.61 % (3 battles)
+
+Mightyena @ Leftovers Lv. 100 -- Intimidate
+Nature: Hardy - EVs: 252 HP / 252 Atk (100.0 %)  
+Crunch
+Thunder Fang
+Ice Fang
+Fire Fang
+# 25 - 1.61 % (3 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 80 HP / 252 Atk / 176 Spd (100.0 %)  
+Protect
+Iron Tail
+Sucker Punch
+Giga Impact
+# 1 - 16.67 % (3 battles)
+
+Mightyena @ Leftovers Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Poison Fang
+Sucker Punch
+Play Rough
+# 2 - 16.67 % (3 battles)
+
+Mightyena @ Liechi Berry Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Poison Fang
+Sucker Punch
+Play Rough
+# 3 - 11.11 % (2 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Fire Fang
+Play Rough
+# 4 - 11.11 % (2 battles)
+
+Mightyena @ Metronome Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Protect
+Yawn
+Sucker Punch
+Fire Fang
+# 5 - 5.56 % (1 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Poison Fang
+Sucker Punch
+Play Rough
+# 6 - 5.56 % (1 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Play Rough
+# 7 - 5.56 % (1 battles)
+
+Mightyena @ Focus Sash Lv. 100 -- Intimidate
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (100.0 %)  
+Roar
+Heal Bell
+Howl
+Sucker Punch
+# 8 - 5.56 % (1 battles)
+
+Mightyena @ Focus Sash Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Sucker Punch
+Thunder Fang
+Fire Fang
+Play Rough
+# 9 - 5.56 % (1 battles)
+
+Mightyena @ Leftovers Lv. 100 -- Intimidate
+Nature: Jolly - EVs: 176 HP / 128 Atk / 204 Spd (100.0 %)  
+Scary Face
+Taunt
+Sucker Punch
+Play Rough
+# 10 - 5.56 % (1 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 48 HP / 136 Atk / 76 Def / 76 SDef / 172 Spd (100.0 %)  
+Super Fang
+Substitute
+Iron Tail
+Sucker Punch
+# 11 - 5.56 % (1 battles)
+
+Mightyena @ Metronome Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Yawn
+Howl
+Sucker Punch
+Fire Fang
+# 12 - 5.56 % (1 battles)
+
+Mightyena @ Lum Berry Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Toxic
+Substitute
+Crunch
+Sucker Punch
+# 13 - 0 % (17 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Intimidate (52.9 %) / Moxie (47.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Play Rough
+# 14 - 0 % (13 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Sucker Punch
+Ice Fang
+Play Rough
+# 15 - 0 % (13 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (69.2 %)  
+Substitute
+Crunch
+Sucker Punch
+Play Rough
+# 16 - 0 % (13 battles)
+
+Mightyena @ Liechi Berry Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Poison Fang
+Sucker Punch
+Play Rough
+# 17 - 0 % (10 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Facade
+Sucker Punch
+Play Rough
+# 18 - 0 % (10 battles)
+
+Mightyena @ Lum Berry Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Toxic
+Substitute
+Crunch
+Sucker Punch
+# 19 - 0 % (9 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Dig
+Crunch
+Sucker Punch
+Play Rough
+# 20 - 0 % (9 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (55.6 %)  
+Crunch
+Sucker Punch
+Fire Fang
+Play Rough
+# 21 - 0 % (7 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Poison Fang
+Sucker Punch
+Play Rough
+# 22 - 0 % (6 battles)
+
+Mightyena @ Choice Scarf Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Crunch
+Thunder Fang
+Fire Fang
+Play Rough
+# 23 - 0 % (6 battles)
+
+Mightyena @ Life Orb Lv. 100 -- Moxie
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Iron Tail
+Sucker Punch
+Ice Fang
+# 24 - 0 % (5 battles)
+
+Mightyena @ Focus Sash Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Thunder Fang
+Ice Fang
+Fire Fang
+Foul Play
+# 25 - 0 % (5 battles)
+
+Mightyena @ Leftovers Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Poison Fang
+Sucker Punch
+Play Rough

@@ -1,0 +1,4 @@
+Ghost/Poison
+60/65/80/170/95/130
+Shadow Tag
+40.5

@@ -1,0 +1,405 @@
+Normal/Flying
+76/65/45/92/42/91
+1.9
+50/50
+
+# 1 - 13.90 % (78 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye (24.4 %) / Big Pecks (75.6 %)
+Nature: Timid - EVs: 8 Def / 252 SAtk / 248 Spd (75.6 %)  
+Substitute
+Defog
+Chatter
+Boomburst
+# 2 - 9.63 % (54 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 28 HP / 252 SAtk / 228 Spd (100.0 %)[Ground]  
+Hidden Power
+Heat Wave
+Hyper Voice
+Chatter
+# 3 - 7.84 % (44 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Keen Eye (43.2 %) / Tangled Feet (56.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (56.8 %)[Grass]  
+Hidden Power
+U-turn
+Chatter
+Boomburst
+# 4 - 6.60 % (37 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye (32.4 %) / Tangled Feet (43.2 %) / Big Pecks (24.3 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (67.6 %)  
+Substitute
+Encore
+Chatter
+Boomburst
+# 5 - 4.63 % (26 battles)
+
+Chatot @ Life Orb Lv. 100 -- Tangled Feet
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (88.5 %)  
+Nasty Plot
+Defog
+Chatter
+Boomburst
+# 6 - 4.46 % (25 battles)
+
+Chatot @ Bright Powder Lv. 100 -- Keen Eye (32.0 %) / Tangled Feet (68.0 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Substitute
+Nasty Plot
+Chatter
+Boomburst
+# 7 - 3.92 % (22 battles)
+
+Chatot @ Life Orb Lv. 100 -- Keen Eye (95.5 %) / Tangled Feet (4.5 %)
+Nature: Quiet - EVs: 252 HP / 4 Def / 252 SAtk (95.5 %)[Ground]  
+Hidden Power
+Nasty Plot
+Chatter
+Boomburst
+# 8 - 3.74 % (21 battles)
+
+Chatot @ Life Orb Lv. 100 -- Tangled Feet (4.8 %) / Big Pecks (95.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (95.2 %)  
+Roost
+Defog
+Chatter
+Boomburst
+# 9 - 3.57 % (20 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (65.0 %)  
+Substitute
+Nasty Plot
+Chatter
+Boomburst
+# 10 - 3.39 % (19 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)[Ghost]  
+Hidden Power
+Chatter
+Echoed Voice
+Boomburst
+# 11 - 3.21 % (18 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (83.3 %)[Grass]  
+Hidden Power
+U-turn
+Chatter
+Boomburst
+# 12 - 2.85 % (16 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Keen Eye (56.2 %) / Tangled Feet (43.8 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Sleep Talk
+Chatter
+# 13 - 2.67 % (15 battles)
+
+Chatot @ Life Orb Lv. 100 -- Keen Eye (80.0 %) / Big Pecks (20.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (93.3 %)[Ground]  
+Hidden Power
+Roost
+Chatter
+Boomburst
+# 14 - 2.50 % (14 battles)
+
+Chatot @ Bright Powder Lv. 100 -- Tangled Feet
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Encore
+Roost
+Defog
+Chatter
+# 15 - 2.14 % (12 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Keen Eye (8.3 %) / Tangled Feet (58.3 %) / Big Pecks (33.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (58.3 %)  
+(No Move)
+Heat Wave
+U-turn
+Chatter
+# 16 - 1.78 % (10 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)[Ghost]  
+Toxic
+Hidden Power
+U-turn
+Boomburst
+# 17 - 1.43 % (8 battles)
+
+Chatot @ Sitrus Berry Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Heat Wave
+Defog
+Chatter
+Ominous Wind
+# 18 - 1.25 % (7 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Keen Eye (14.3 %) / Big Pecks (85.7 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (85.7 %)  
+Heat Wave
+Hyper Voice
+U-turn
+Chatter
+# 19 - 1.25 % (7 battles)
+
+Chatot @ Wide Lens Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Nasty Plot
+Defog
+Chatter
+Boomburst
+# 20 - 1.07 % (6 battles)
+
+Chatot @ Silk Scarf Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Substitute
+Encore
+Chatter
+Boomburst
+# 21 - 0.89 % (5 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Supersonic
+Taunt
+Chatter
+Boomburst
+# 22 - 0.71 % (4 battles)
+
+Chatot @ Focus Sash Lv. 100 -- Tangled Feet
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Encore
+Nasty Plot
+Chatter
+Boomburst
+# 23 - 0.71 % (4 battles)
+
+Chatot @ Focus Sash Lv. 100 -- Tangled Feet
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Heat Wave
+Hyper Voice
+Nasty Plot
+Chatter
+# 24 - 0.71 % (4 battles)
+
+Chatot @ Focus Sash Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Hyper Voice
+Nasty Plot
+Ominous Wind
+Synchronoise
+# 25 - 0.71 % (4 battles)
+
+Chatot @ Leftovers Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Encore
+Nasty Plot
+Chatter
+Boomburst
+# 1 - 17.39 % (16 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (62.5 %)[Grass]  
+Hidden Power
+U-turn
+Chatter
+Boomburst
+# 2 - 10.87 % (10 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Tangled Feet (90.0 %) / Big Pecks (10.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (90.0 %)[Grass]  
+Hidden Power
+U-turn
+Chatter
+Boomburst
+# 3 - 9.78 % (9 battles)
+
+Chatot @ Leftovers Lv. 100 -- Tangled Feet (55.6 %) / Big Pecks (44.4 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Substitute
+Encore
+Chatter
+Boomburst
+# 4 - 6.52 % (6 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Sleep Talk
+Chatter
+# 5 - 5.43 % (5 battles)
+
+Chatot @ Bright Powder Lv. 100 -- Tangled Feet
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Encore
+Roost
+Defog
+Chatter
+# 6 - 5.43 % (5 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye (20.0 %) / Big Pecks (80.0 %)
+Nature: Timid - EVs: 8 Def / 252 SAtk / 248 Spd (80.0 %)  
+Substitute
+Defog
+Chatter
+Boomburst
+# 7 - 5.43 % (5 battles)
+
+Chatot @ Life Orb Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (60.0 %)  
+Nasty Plot
+Defog
+Chatter
+Boomburst
+# 8 - 4.35 % (4 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Big Pecks
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Heat Wave
+Hyper Voice
+U-turn
+Chatter
+# 9 - 4.35 % (4 battles)
+
+Chatot @ Focus Sash Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Agility
+Nasty Plot
+Chatter
+Boomburst
+# 10 - 3.26 % (3 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Supersonic
+Taunt
+Chatter
+Boomburst
+# 11 - 3.26 % (3 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (66.7 %)  
+Substitute
+Nasty Plot
+Chatter
+Boomburst
+# 12 - 2.17 % (2 battles)
+
+Chatot @ Bright Powder Lv. 100 -- Keen Eye (50.0 %) / Tangled Feet (50.0 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Substitute
+Nasty Plot
+Chatter
+Boomburst
+# 13 - 2.17 % (2 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)[Ghost]  
+Hidden Power
+Chatter
+Echoed Voice
+Boomburst
+# 14 - 2.17 % (2 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 116 HP / 252 SAtk / 140 Spd (100.0 %)  
+Agility
+Roost
+Chatter
+Boomburst
+# 15 - 1.09 % (1 battles)
+
+Chatot @ Choice Band Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 252 SAtk / 212 Spd (100.0 %)  
+(No Move)
+Sing
+Aerial Ace
+Chatter
+# 16 - 1.09 % (1 battles)
+
+Chatot @ Choice Scarf Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)[Ghost]  
+Toxic
+Hidden Power
+U-turn
+Boomburst
+# 17 - 1.09 % (1 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Boomburst
+# 18 - 1.09 % (1 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)[Fighting] 
+(No Move)
+Hidden Power
+Heat Wave
+Chatter
+# 19 - 1.09 % (1 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Tangled Feet
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)[Ice]  
+(No Move)
+Hidden Power
+Chatter
+Ominous Wind
+# 20 - 1.09 % (1 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Big Pecks
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+(No Move)
+Heat Wave
+U-turn
+Chatter
+# 21 - 1.09 % (1 battles)
+
+Chatot @ Choice Specs Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Hidden Power
+Air Cutter
+Synchronoise
+Boomburst
+# 22 - 1.09 % (1 battles)
+
+Chatot @ Leftovers Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Hidden Power
+Roost
+Chatter
+Boomburst
+# 23 - 1.09 % (1 battles)
+
+Chatot @ Power Herb Lv. 100 -- Big Pecks
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Sky Attack
+Steel Wing
+Return
+U-turn
+# 24 - 1.09 % (1 battles)
+
+Chatot @ Silk Scarf Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Substitute
+Encore
+Chatter
+Boomburst
+# 25 - 1.09 % (1 battles)
+
+Chatot @ Life Orb Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Substitute
+Hyper Voice
+Nasty Plot
+Boomburst

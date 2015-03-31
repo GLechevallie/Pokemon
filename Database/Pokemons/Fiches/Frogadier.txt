@@ -1,0 +1,405 @@
+Water/-
+54/63/52/83/56/97
+10.9
+87.5/12.5
+
+# 1 - 43.64 % (72 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (97.2 %)[Electric]  
+Surf
+Ice Beam
+Hidden Power
+Dark Pulse
+# 2 - 18.79 % (31 battles)
+
+Frogadier @ Eviolite Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 3 - 13.33 % (22 battles)
+
+Frogadier @ Choice Specs Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Dark Pulse
+Grass Knot
+# 4 - 5.45 % (9 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (66.7 %)[Fire]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Dark Pulse
+# 5 - 2.42 % (4 battles)
+
+Frogadier @ Leftovers Lv. 100 -- Protean
+Nature: Modest - EVs: 128 HP / 252 SAtk / 128 Spd (100.0 %)  
+Ice Beam
+Dark Pulse
+Grass Knot
+Scald
+# 6 - 2.42 % (4 battles)
+
+Frogadier @ Wise Glasses Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 7 - 2.42 % (4 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 8 - 1.82 % (3 battles)
+
+Frogadier @ (No Item) Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 9 - 1.82 % (3 battles)
+
+Frogadier @ Expert Belt Lv. 100 -- Protean
+Nature: Rash - EVs: 12 Atk / 244 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse
+# 10 - 1.82 % (3 battles)
+
+Frogadier @ Focus Sash Lv. 100 -- Torrent
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Taunt
+Toxic Spikes
+# 11 - 1.82 % (3 battles)
+
+Frogadier @ Leftovers Lv. 100 -- Torrent
+Nature: Brave - EVs: 120 HP / 132 Atk / 140 Def / 56 SAtk / 52 SDef / 8 Spd (66.7 %) 
+Substitute
+Aerial Ace
+Water Pulse
+Power-Up Punch
+# 12 - 1.82 % (3 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Surf
+Ice Beam
+U-turn
+# 13 - 1.21 % (2 battles)
+
+Frogadier @ Life Orb Lv. 50 -- Protean
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse
+# 14 - 1.21 % (2 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Toxic Spikes
+Dark Pulse
+# 15 - 0 % (14 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Electric] 
+Surf
+Ice Beam
+Hidden Power
+Dark Pulse
+# 16 - 0 % (11 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (72.7 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Dark Pulse
+# 17 - 0 % (9 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Toxic Spikes
+Dark Pulse
+# 18 - 0 % (7 battles)
+
+Frogadier @ Focus Sash Lv. 100 -- Torrent
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Taunt
+Toxic Spikes
+# 19 - 0 % (6 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (83.3 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 20 - 0 % (5 battles)
+
+Frogadier @ Choice Specs Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Dark Pulse
+Grass Knot
+# 21 - 0 % (4 battles)
+
+Frogadier @ Eviolite Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 22 - 0 % (1 battles)
+
+Frogadier @ (No Item) Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 23 - 0 % (1 battles)
+
+Frogadier @ Leftovers Lv. 100 -- Protean
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 24 - 0 % (1 battles)
+
+Frogadier @ Wise Glasses Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground] 
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 25 - 0 % (579 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Torrent (2.4 %) / Protean (97.6 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (29.7 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+Dark Pulse
+# 1 - 23.73 % (14 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Electric] 
+Surf
+Ice Beam
+Hidden Power
+Dark Pulse
+# 2 - 18.64 % (11 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (72.7 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Dark Pulse
+# 3 - 15.25 % (9 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Toxic Spikes
+Dark Pulse
+# 4 - 11.86 % (7 battles)
+
+Frogadier @ Focus Sash Lv. 100 -- Torrent
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Taunt
+Toxic Spikes
+# 5 - 10.17 % (6 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (83.3 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 6 - 8.47 % (5 battles)
+
+Frogadier @ Choice Specs Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Dark Pulse
+Grass Knot
+# 7 - 6.78 % (4 battles)
+
+Frogadier @ Eviolite Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 8 - 1.69 % (1 battles)
+
+Frogadier @ (No Item) Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 9 - 1.69 % (1 battles)
+
+Frogadier @ Leftovers Lv. 100 -- Protean
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 10 - 1.69 % (1 battles)
+
+Frogadier @ Wise Glasses Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground] 
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 11 - 0 % (72 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (97.2 %)[Electric]  
+Surf
+Ice Beam
+Hidden Power
+Dark Pulse
+# 12 - 0 % (31 battles)
+
+Frogadier @ Eviolite Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 13 - 0 % (22 battles)
+
+Frogadier @ Choice Specs Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Dark Pulse
+Grass Knot
+# 14 - 0 % (9 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (66.7 %)[Fire]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Dark Pulse
+# 15 - 0 % (4 battles)
+
+Frogadier @ Leftovers Lv. 100 -- Protean
+Nature: Modest - EVs: 128 HP / 252 SAtk / 128 Spd (100.0 %)  
+Ice Beam
+Dark Pulse
+Grass Knot
+Scald
+# 16 - 0 % (4 battles)
+
+Frogadier @ Wise Glasses Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 17 - 0 % (4 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 18 - 0 % (3 battles)
+
+Frogadier @ (No Item) Lv. 100 -- Protean
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 19 - 0 % (3 battles)
+
+Frogadier @ Expert Belt Lv. 100 -- Protean
+Nature: Rash - EVs: 12 Atk / 244 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse
+# 20 - 0 % (3 battles)
+
+Frogadier @ Focus Sash Lv. 100 -- Torrent
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Taunt
+Toxic Spikes
+# 21 - 0 % (3 battles)
+
+Frogadier @ Leftovers Lv. 100 -- Torrent
+Nature: Brave - EVs: 120 HP / 132 Atk / 140 Def / 56 SAtk / 52 SDef / 8 Spd (66.7 %) 
+Substitute
+Aerial Ace
+Water Pulse
+Power-Up Punch
+# 22 - 0 % (3 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Surf
+Ice Beam
+U-turn
+# 23 - 0 % (2 battles)
+
+Frogadier @ Life Orb Lv. 50 -- Protean
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse
+# 24 - 0 % (2 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Toxic Spikes
+Dark Pulse
+# 25 - 0 % (14 battles)
+
+Frogadier @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Electric] 
+Surf
+Ice Beam
+Hidden Power
+Dark Pulse

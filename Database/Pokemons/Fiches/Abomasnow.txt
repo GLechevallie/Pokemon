@@ -1,0 +1,405 @@
+Grass/Ice
+90/92/75/92/85/60
+135.5
+50/50
+
+# 1 - 32.69 % (269 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning (68.0 %) / Soundproof (32.0 %)
+Nature: Brave - EVs: 252 Atk / 252 SAtk (27.5 %)  
+Blizzard
+Earthquake
+Giga Drain
+Ice Shard
+# 2 - 19.20 % (158 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Sassy - EVs: 252 HP / 4 Atk / 252 SDef (100.0 %)  
+Leech Seed
+Protect
+Giga Drain
+Ice Shard
+# 3 - 13.73 % (113 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning (95.6 %) / Soundproof (4.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (56.6 %)  
+Swords Dance
+Earthquake
+Ice Shard
+Wood Hammer
+# 4 - 4.13 % (34 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Brave - EVs: 252 Atk / 240 SAtk / 4 SDef / 12 Spd (100.0 %)[Fire]  
+Earthquake
+Giga Drain
+Hidden Power
+Ice Shard
+# 5 - 3.40 % (28 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning (50.0 %) / Soundproof (50.0 %)
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 SAtk (42.9 %)  
+Blizzard
+Earthquake
+Ice Shard
+Wood Hammer
+# 6 - 3.16 % (26 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning (46.2 %) / Soundproof (53.8 %)
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (53.8 %)  
+Blizzard
+Giga Drain
+Focus Blast
+Ice Shard
+# 7 - 1.09 % (9 battles)
+
+Abomasnow @ Never-Melt Ice Lv. 100 -- Snow Warning
+Nature: Bold - EVs: 116 Def / 252 SAtk / 140 SDef (100.0 %)  
+Blizzard
+Giga Drain
+Shadow Ball
+Water Pulse
+# 8 - 1.09 % (9 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 SDef (100.0 %)  
+Leech Seed
+Earthquake
+Avalanche
+Wood Hammer
+# 9 - 1.09 % (9 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Earthquake
+Substitute
+Ice Shard
+Wood Hammer
+# 10 - 0.97 % (8 battles)
+
+Abomasnow @ Focus Sash Lv. 100 -- Snow Warning
+Nature: Mild - EVs: 252 Atk / 252 SAtk / 4 Spd (100.0 %)  
+Blizzard
+Substitute
+Focus Punch
+Wood Hammer
+# 11 - 0.97 % (8 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Modest - EVs: 128 Def / 252 SAtk / 128 SDef (100.0 %)[Ground]  
+Blizzard
+Leech Seed
+Giga Drain
+Hidden Power
+# 12 - 0.85 % (7 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Soundproof
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (85.7 %)  
+Swords Dance
+Earthquake
+Seed Bomb
+Ice Shard
+# 13 - 0.85 % (7 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (42.9 %)  
+Blizzard
+Leech Seed
+Protect
+Giga Drain
+# 14 - 0.85 % (7 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Soundproof
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Blizzard
+Focus Blast
+Energy Ball
+Frost Breath
+# 15 - 0.85 % (7 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Soundproof
+Nature: Adamant - EVs: 28 HP / 160 Atk / 160 Def / 160 SDef (100.0 %)  
+Leech Seed
+Earthquake
+Seed Bomb
+Ice Shard
+# 16 - 0.73 % (6 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Lonely - EVs: 248 HP / 252 Atk / 4 SDef / 4 Spd (83.3 %)  
+Ice Punch
+Earthquake
+Ice Shard
+Wood Hammer
+# 17 - 0.73 % (6 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Sassy - EVs: 252 HP / 4 SAtk / 252 SDef (66.7 %)  
+Blizzard
+Protect
+Giga Drain
+Ice Shard
+# 18 - 0.73 % (6 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Adamant - EVs: 252 Atk / 252 SDef / 4 Spd (100.0 %)  
+Leech Seed
+Protect
+Ice Shard
+Wood Hammer
+# 19 - 0.61 % (5 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Naughty - EVs: 4 HP / 252 Atk / 252 SAtk (100.0 %)  
+Swords Dance
+Blizzard
+Giga Drain
+Ice Shard
+# 20 - 0.49 % (4 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 SDef (100.0 %)  
+Ice Punch
+Toxic
+Protect
+Wood Hammer
+# 21 - 0.49 % (4 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Hardy - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Leech Seed
+Earthquake
+Bullet Seed
+# 22 - 0.49 % (4 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Modest - EVs: 128 Def / 252 SAtk / 128 SDef (100.0 %)  
+Blizzard
+Leech Seed
+Giga Drain
+Shadow Ball
+# 23 - 0.49 % (4 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Leech Seed
+Protect
+Seed Bomb
+Ice Shard
+# 24 - 0.36 % (3 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Soundproof
+Nature: Adamant - EVs: 252 Atk / 152 Def / 104 SDef (100.0 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Ice Shard
+# 25 - 0.36 % (3 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Timid - EVs: 80 Def / 176 SDef / 252 Spd (100.0 %)  
+Ice Beam
+Earthquake
+Outrage
+Energy Ball
+# 1 - 43.82 % (78 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning (60.3 %) / Soundproof (39.7 %)
+Nature: Brave - EVs: 252 Atk / 252 SAtk (33.3 %)  
+Blizzard
+Earthquake
+Giga Drain
+Ice Shard
+# 2 - 11.80 % (21 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Quiet - EVs: 252 HP / 160 SAtk / 96 SDef (52.4 %)  
+Blizzard
+Leech Seed
+Giga Drain
+Ice Shard
+# 3 - 6.18 % (11 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning (72.7 %) / Soundproof (27.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (45.5 %)  
+Swords Dance
+Earthquake
+Ice Shard
+Wood Hammer
+# 4 - 5.62 % (10 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning (60.0 %) / Soundproof (40.0 %)
+Nature: Brave - EVs: 176 HP / 252 Atk / 4 SAtk / 76 Spd (50.0 %)  
+Blizzard
+Earthquake
+Ice Shard
+Wood Hammer
+# 5 - 3.93 % (7 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (100.0 %)  
+Blizzard
+Protect
+Giga Drain
+Ice Shard
+# 6 - 3.93 % (7 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Quiet - EVs: 252 HP / 44 Atk / 208 SAtk / 4 SDef (100.0 %)  
+Blizzard
+Protect
+Energy Ball
+Ice Shard
+# 7 - 2.81 % (5 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (60.0 %)  
+Blizzard
+Leech Seed
+Protect
+Giga Drain
+# 8 - 2.81 % (5 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Sassy - EVs: 252 HP / 4 Atk / 252 SDef (100.0 %)  
+Leech Seed
+Protect
+Giga Drain
+Ice Shard
+# 9 - 2.25 % (4 battles)
+
+Abomasnow @ Choice Specs Lv. 100 -- Snow Warning
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (100.0 %)  
+Blizzard
+Giga Drain
+Shadow Ball
+Focus Blast
+# 10 - 2.25 % (4 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (50.0 %)  
+Blizzard
+Giga Drain
+Shadow Ball
+Ice Shard
+# 11 - 1.69 % (3 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Gentle - EVs: 232 HP / 252 SDef / 24 Spd (100.0 %)  
+Blizzard
+Leech Seed
+Protect
+Wood Hammer
+# 12 - 1.12 % (2 battles)
+
+Abomasnow @ Leftovers Lv. 100 -- Snow Warning
+Nature: Adamant - EVs: 156 HP / 252 Atk / 100 Def (50.0 %)  
+Swords Dance
+Earthquake
+Ice Shard
+Wood Hammer
+# 13 - 1.12 % (2 battles)
+
+Abomasnow @ Leftovers Lv. 100 -- Snow Warning
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Blizzard
+Toxic
+Protect
+Wood Hammer
+# 14 - 1.12 % (2 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Brave - EVs: 252 HP / 148 Atk / 108 SAtk (100.0 %)  
+Blizzard
+Earthquake
+Avalanche
+Wood Hammer
+# 15 - 1.12 % (2 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Def (100.0 %)  
+Leech Seed
+Substitute
+Focus Punch
+Ice Shard
+# 16 - 0.56 % (1 battles)
+
+Abomasnow @ Focus Sash Lv. 100 -- Snow Warning
+Nature: Mild - EVs: 28 Atk / 252 SAtk / 228 Spd (100.0 %)[Fire]  
+Blizzard
+Giga Drain
+Hidden Power
+Ice Shard
+# 17 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Hardy - EVs: 252 HP / 96 Def / 160 SDef (100.0 %)  
+Ice Punch
+Earthquake
+Rest
+Seed Bomb
+# 18 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Naughty - EVs: 4 HP / 252 Atk / 252 SAtk (100.0 %)  
+Swords Dance
+Blizzard
+Giga Drain
+Ice Shard
+# 19 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Soundproof
+Nature: Adamant - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Swords Dance
+Earthquake
+Bullet Seed
+Ice Shard
+# 20 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Adamant - EVs: 236 Atk / 136 Def / 136 SDef (100.0 %)[Rock]  
+Swords Dance
+Hidden Power
+Seed Bomb
+Ice Shard
+# 21 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Hardy - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Leech Seed
+Earthquake
+Bullet Seed
+# 22 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Sassy - EVs: 248 HP / 8 SAtk / 252 SDef (100.0 %)  
+Blizzard
+Leech Seed
+Earthquake
+Protect
+# 23 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Blizzard
+Leech Seed
+Substitute
+Protect
+# 24 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Blizzard
+Leech Seed
+Giga Drain
+Worry Seed
+# 25 - 0.56 % (1 battles)
+
+Abomasnow @ Abomasite Lv. 100 -- Snow Warning
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (100.0 %)  
+Blizzard
+Earthquake
+Protect
+Giga Drain

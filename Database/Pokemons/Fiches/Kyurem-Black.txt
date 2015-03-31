@@ -1,0 +1,405 @@
+Dragon/Ice
+125/170/100/120/90/95
+325.0
+asexue
+
+# 1 - 17.00 % (3101 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Mild - EVs: 56 HP / 216 SAtk / 236 Spd (27.7 %)  
+Ice Beam
+Substitute
+Earth Power
+Fusion Bolt
+# 2 - 6.84 % (1247 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Lonely - EVs: 56 HP / 252 Atk / 200 Spd (57.0 %)  
+Ice Beam
+Substitute
+Dragon Claw
+Fusion Bolt
+# 3 - 5.31 % (968 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Naughty - EVs: 4 HP / 252 Atk / 252 Spd (36.4 %)  
+Ice Beam
+Outrage
+Earth Power
+Fusion Bolt
+# 4 - 4.91 % (895 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 4 Def / 252 SAtk / 252 Spd (29.9 %)  
+Ice Beam
+Roost
+Earth Power
+Fusion Bolt
+# 5 - 3.43 % (625 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (27.2 %)  
+Ice Beam
+Outrage
+Dragon Claw
+Fusion Bolt
+# 6 - 2.98 % (544 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 Atk / 252 Spd (26.5 %)  
+Outrage
+Dragon Claw
+Iron Head
+Fusion Bolt
+# 7 - 1.79 % (327 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Naive - EVs: 64 HP / 76 Atk / 244 SAtk / 124 Spd (16.8 %)  
+Ice Beam
+Substitute
+Dragon Claw
+Earth Power
+# 8 - 1.46 % (267 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Lonely - EVs: 4 HP / 252 Atk / 252 Spd (16.9 %)  
+Ice Beam
+Outrage
+Iron Head
+Fusion Bolt
+# 9 - 1.42 % (259 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (57.1 %)  
+Ice Beam
+Outrage
+Dragon Claw
+Fusion Bolt
+# 10 - 1.38 % (251 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Lonely - EVs: 252 Atk / 252 SAtk / 4 Spd (15.5 %)  
+Ice Beam
+Outrage
+Earth Power
+Fusion Bolt
+# 11 - 1.12 % (205 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Lonely - EVs: 152 Atk / 120 SAtk / 236 Spd (22.0 %)  
+Ice Beam
+Dragon Claw
+Roost
+Fusion Bolt
+# 12 - 1.07 % (195 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Lonely - EVs: 252 Atk / 156 Def / 4 SAtk / 96 Spd (14.9 %)  
+Ice Beam
+Dragon Claw
+Earth Power
+Fusion Bolt
+# 13 - 1.00 % (183 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (39.3 %)  
+Outrage
+Iron Head
+Stone Edge
+Fusion Bolt
+# 14 - 0.88 % (161 battles)
+
+Kyurem @ Power Herb Lv. 100 -- Pressure
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (73.3 %)  
+Dragon Claw
+Iron Head
+Freeze Shock
+Fusion Bolt
+# 15 - 0.88 % (160 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 Atk / 252 Spd (53.1 %)  
+Rock Slide
+Outrage
+Iron Head
+Fusion Bolt
+# 16 - 0.73 % (133 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (79.7 %)[Fire]  
+Ice Beam
+Outrage
+Hidden Power
+Fusion Bolt
+# 17 - 0.73 % (133 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (52.6 %)  
+Substitute
+Dragon Claw
+Freeze Shock
+Fusion Bolt
+# 18 - 0.72 % (131 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (30.5 %)  
+Outrage
+Zen Headbutt
+Iron Head
+Fusion Bolt
+# 19 - 0.71 % (130 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Careful - EVs: 196 HP / 96 Def / 216 SDef (66.9 %)  
+Toxic
+Dragon Claw
+Roost
+Fusion Bolt
+# 20 - 0.69 % (126 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Adamant - EVs: 128 HP / 252 Atk / 44 Def / 84 SDef (72.2 %)  
+Outrage
+Zen Headbutt
+Stone Edge
+Fusion Bolt
+# 21 - 0.69 % (125 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Naughty - EVs: 136 Atk / 136 SAtk / 236 Spd (48.8 %)  
+Ice Beam
+Outrage
+Iron Head
+Fusion Bolt
+# 22 - 0.64 % (117 battles)
+
+Kyurem @ Assault Vest Lv. 100 -- Pressure
+Nature: Rash - EVs: 96 Atk / 96 Def / 252 SAtk / 64 Spd (74.4 %)  
+Ice Beam
+Dragon Claw
+Earth Power
+Fusion Bolt
+# 23 - 0.63 % (115 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (86.1 %)  
+Dragon Claw
+Roost
+Iron Head
+Fusion Bolt
+# 24 - 0.62 % (114 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Dragon Claw
+Fusion Bolt
+# 25 - 0.62 % (114 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Naughty - EVs: 52 HP / 252 Atk / 204 Spd (73.7 %)  
+Substitute
+Outrage
+Earth Power
+Fusion Bolt
+# 1 - 21.28 % (520 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Mild - EVs: 56 HP / 216 SAtk / 236 Spd (24.0 %)  
+Ice Beam
+Substitute
+Earth Power
+Fusion Bolt
+# 2 - 6.96 % (170 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (35.9 %)  
+Outrage
+Dragon Claw
+Iron Head
+Fusion Bolt
+# 3 - 5.73 % (140 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (95.7 %)  
+Ice Beam
+Outrage
+Dragon Claw
+Fusion Bolt
+# 4 - 5.56 % (136 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Mild - EVs: 56 Atk / 252 SAtk / 200 Spd (22.1 %)  
+Ice Beam
+Roost
+Earth Power
+Fusion Bolt
+# 5 - 4.34 % (106 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Lonely - EVs: 252 Atk / 252 Spd (100.0 %)  
+Ice Beam
+Outrage
+Focus Blast
+Fusion Bolt
+# 6 - 4.17 % (102 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Lonely - EVs: 56 HP / 216 Atk / 236 Spd (45.1 %)  
+Ice Beam
+Substitute
+Dragon Claw
+Fusion Bolt
+# 7 - 2.50 % (61 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Naughty - EVs: 4 HP / 252 Atk / 252 Spd (18.0 %)  
+Ice Beam
+Outrage
+Earth Power
+Fusion Bolt
+# 8 - 2.09 % (51 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Hasty - EVs: 52 HP / 252 SAtk / 204 Spd (47.1 %)  
+Ice Beam
+Substitute
+Dragon Claw
+Earth Power
+# 9 - 1.84 % (45 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (15.6 %)  
+Ice Beam
+Outrage
+Iron Head
+Fusion Bolt
+# 10 - 1.68 % (41 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Naughty - EVs: 4 HP / 252 Atk / 252 Spd (24.4 %)  
+Ice Beam
+Outrage
+Dragon Claw
+Fusion Bolt
+# 11 - 1.31 % (32 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 Atk / 252 Spd (56.2 %)  
+Outrage
+Iron Head
+Stone Edge
+Fusion Bolt
+# 12 - 1.31 % (32 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Hardy - EVs: 4 Atk / 252 Def / 252 Spd (65.6 %)  
+Outrage
+Iron Head
+Freeze Shock
+Fusion Bolt
+# 13 - 1.31 % (32 battles)
+
+Kyurem @ Focus Sash Lv. 100 -- Pressure
+Nature: Rash - EVs: 32 Atk / 252 SAtk / 224 Spd (96.9 %)[Fire]  
+Ice Beam
+Hidden Power
+Earth Power
+Fusion Bolt
+# 14 - 0.90 % (22 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Earth Power
+Fusion Bolt
+# 15 - 0.82 % (20 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Mild - EVs: 12 HP / 252 SAtk / 244 Spd (55.0 %)  
+Ice Beam
+Earth Power
+Draco Meteor
+Fusion Bolt
+# 16 - 0.82 % (20 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Naive - EVs: 252 Atk / 252 Spd (70.0 %)  
+Outrage
+Earth Power
+Iron Head
+Fusion Bolt
+# 17 - 0.78 % (19 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (47.4 %)  
+Outrage
+Zen Headbutt
+Iron Head
+Fusion Bolt
+# 18 - 0.70 % (17 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (23.5 %)  
+Ice Beam
+Dragon Claw
+Earth Power
+Fusion Bolt
+# 19 - 0.70 % (17 battles)
+
+Kyurem @ Assault Vest Lv. 100 -- Pressure
+Nature: Hardy - EVs: 252 Atk / 252 SAtk (100.0 %)  
+Ice Beam
+Dragon Claw
+Earth Power
+Fusion Bolt
+# 20 - 0.65 % (16 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Dragon Claw
+Fusion Bolt
+# 21 - 0.61 % (15 battles)
+
+Kyurem @ Choice Scarf Lv. 100 -- Pressure
+Nature: Naughty - EVs: 252 Atk / 96 SAtk / 160 Spd (100.0 %)  
+Outrage
+Draco Meteor
+Iron Head
+Fusion Bolt
+# 22 - 0.61 % (15 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Dragon Claw
+Roost
+Iron Head
+Fusion Bolt
+# 23 - 0.57 % (14 battles)
+
+Kyurem @ Choice Band Lv. 100 -- Pressure
+Nature: Adamant - EVs: 128 HP / 252 Atk / 44 Def / 84 SDef (57.1 %)  
+Outrage
+Zen Headbutt
+Stone Edge
+Fusion Bolt
+# 24 - 0.57 % (14 battles)
+
+Kyurem @ Leftovers Lv. 100 -- Pressure
+Nature: Modest - EVs: 56 HP / 216 SAtk / 236 Spd (92.9 %)  
+Ice Beam
+Substitute
+Roost
+Earth Power
+# 25 - 0.57 % (14 battles)
+
+Kyurem @ Life Orb Lv. 100 -- Pressure
+Nature: Lonely - EVs: 152 Atk / 120 SAtk / 236 Spd (42.9 %)  
+Ice Beam
+Dragon Claw
+Roost
+Fusion Bolt

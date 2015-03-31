@@ -1,0 +1,405 @@
+Fire/-
+65/130/60/95/110/65
+25.0
+87.5/12.5
+
+# 1 - 5.30 % (169 battles)
+
+Flareon @ Air Balloon Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 HP / 252 Def (100.0 %)  
+Will-O-Wisp
+Superpower
+Flare Blitz
+Flame Charge
+# 2 - 5.26 % (168 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Toxic
+Fire Blast
+Substitute
+Baton Pass
+# 3 - 5.11 % (163 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 Atk / 192 SDef / 64 Spd (100.0 %)  
+Quick Attack
+Iron Tail
+Superpower
+Flare Blitz
+# 4 - 5.11 % (163 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Facade
+Fire Fang
+Flame Charge
+# 5 - 4.07 % (130 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Naive - EVs: 252 Atk / 252 Spd (80.0 %)  
+Quick Attack
+Will-O-Wisp
+Facade
+Flare Blitz
+# 6 - 3.29 % (105 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (61.9 %)  
+Facade
+Superpower
+Flare Blitz
+Flame Charge
+# 7 - 3.20 % (102 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 120 HP / 252 Atk / 136 SDef (83.3 %)  
+Rest
+Sleep Talk
+Facade
+Flare Blitz
+# 8 - 3.17 % (101 battles)
+
+Flareon @ Life Orb Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 SDef (100.0 %)  
+Bite
+Will-O-Wisp
+Flare Blitz
+Flame Charge
+# 9 - 2.98 % (95 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (97.9 %)  
+Bite
+Facade
+Superpower
+Flame Charge
+# 10 - 2.04 % (65 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (100.0 %)  
+Protect
+Iron Tail
+Wish
+Flare Blitz
+# 11 - 1.72 % (55 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Rest
+Sleep Talk
+Facade
+Flame Charge
+# 12 - 1.66 % (53 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Hardy - EVs: 116 HP / 32 Atk / 100 Def / 100 SDef / 160 Spd (100.0 %) 
+Double-Edge
+Will-O-Wisp
+Superpower
+Flare Blitz
+# 13 - 1.66 % (53 battles)
+
+Flareon @ Muscle Band Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Baton Pass
+Flare Blitz
+Flame Charge
+# 14 - 1.28 % (41 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Bold - EVs: 100 Atk / 156 Def / 252 Spd (100.0 %)  
+Return
+Will-O-Wisp
+Superpower
+Fire Fang
+# 15 - 1.28 % (41 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (36.6 %)  
+Quick Attack
+Facade
+Superpower
+Flare Blitz
+# 16 - 1.07 % (34 battles)
+
+Flareon @ Quick Claw Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 SDef (100.0 %)  
+Quick Attack
+Return
+Superpower
+Flare Blitz
+# 17 - 1.03 % (33 battles)
+
+Flareon @ Choice Band Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (75.8 %)  
+Bite
+Dig
+Quick Attack
+Fire Fang
+# 18 - 1.00 % (32 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Hardy - EVs: 252 HP / 20 Atk / 20 Def / 28 SAtk / 36 SDef / 56 Spd (96.9 %)  
+Sunny Day
+Will-O-Wisp
+Overheat
+Lava Plume
+# 19 - 0.94 % (30 battles)
+
+Flareon @ Flame Plate Lv. 100 -- Flash Fire
+Nature: Naughty - EVs: 116 HP / 252 Atk / 140 Def (63.3 %)  
+Iron Tail
+Sunny Day
+Fire Fang
+Flame Charge
+# 20 - 0.91 % (29 battles)
+
+Flareon @ Quick Claw Lv. 100 -- Flash Fire
+Nature: Impish - EVs: 44 HP / 4 Atk / 208 Def / 252 SDef (100.0 %)  
+Curse
+Superpower
+Yawn
+Flare Blitz
+# 21 - 0.85 % (27 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (70.4 %)  
+Protect
+Facade
+Superpower
+Flame Charge
+# 22 - 0.81 % (26 battles)
+
+Flareon @ Focus Sash Lv. 100 -- Flash Fire
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Dig
+Frustration
+Rock Smash
+Overheat
+# 23 - 0.81 % (26 battles)
+
+Flareon @ Life Orb Lv. 100 -- Flash Fire (65.4 %) / Guts (34.6 %)
+Nature: Rash - EVs: 188 Atk / 160 SAtk / 160 Spd (100.0 %)  
+Baton Pass
+Superpower
+Flare Blitz
+Work Up
+# 24 - 0.78 % (25 battles)
+
+Flareon @ Choice Band Lv. 100 -- Flash Fire (36.0 %) / Guts (64.0 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Bite
+Quick Attack
+Superpower
+Flare Blitz
+# 25 - 0.75 % (24 battles)
+
+Flareon @ Air Balloon Lv. 100 -- Flash Fire
+Nature: Naughty - EVs: 188 HP / 212 Atk / 64 Def / 44 SDef (100.0 %)  
+Iron Tail
+Superpower
+Flare Blitz
+Fire Fang
+# 1 - 22.55 % (83 battles)
+
+Flareon @ Choice Scarf Lv. 100 -- Flash Fire
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (97.6 %)  
+Double-Edge
+Iron Tail
+Superpower
+Flare Blitz
+# 2 - 8.70 % (32 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (53.1 %)  
+Facade
+Superpower
+Flare Blitz
+Flame Charge
+# 3 - 6.25 % (23 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Hardy - EVs: 116 HP / 32 Atk / 100 Def / 100 SDef / 160 Spd (100.0 %) 
+Double-Edge
+Will-O-Wisp
+Superpower
+Flare Blitz
+# 4 - 5.98 % (22 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Quick Attack
+Will-O-Wisp
+Facade
+Flare Blitz
+# 5 - 1.90 % (7 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Hardy - EVs: 84 HP / 84 Atk / 84 Def / 84 SAtk / 84 SDef / 84 Spd (100.0 %)  
+Flamethrower
+Iron Tail
+Superpower
+Synchronoise
+# 6 - 1.90 % (7 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Toxic
+Fire Blast
+Substitute
+Baton Pass
+# 7 - 1.90 % (7 battles)
+
+Flareon @ Flame Plate Lv. 100 -- Flash Fire
+Nature: Naughty - EVs: 116 HP / 252 Atk / 140 Def (71.4 %)  
+Iron Tail
+Sunny Day
+Fire Fang
+Flame Charge
+# 8 - 1.36 % (5 battles)
+
+Flareon @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Will-O-Wisp
+Flare Blitz
+Flame Charge
+# 9 - 1.36 % (5 battles)
+
+Flareon @ Quick Claw Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 SDef (100.0 %)  
+Quick Attack
+Return
+Superpower
+Flare Blitz
+# 10 - 1.09 % (4 battles)
+
+Flareon @ Choice Scarf Lv. 100 -- Flash Fire (75.0 %) / Guts (25.0 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (75.0 %)  
+Return
+Iron Tail
+Superpower
+Flare Blitz
+# 11 - 1.09 % (4 battles)
+
+Flareon @ Focus Sash Lv. 100 -- Flash Fire
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Iron Tail
+Will-O-Wisp
+Superpower
+Flare Blitz
+# 12 - 1.09 % (4 battles)
+
+Flareon @ Focus Sash Lv. 100 -- Guts
+Nature: Hasty - EVs: 252 Atk / 252 Spd (100.0 %)  
+Superpower
+Overheat
+Last Resort
+Flame Charge
+# 13 - 1.09 % (4 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Bite
+Dig
+Toxic
+Flare Blitz
+# 14 - 1.09 % (4 battles)
+
+Flareon @ Leftovers Lv. 100 -- Guts
+Nature: Impish - EVs: 4 HP / 232 Atk / 252 Def / 20 SDef (50.0 %)  
+Dig
+Facade
+Wish
+Flare Blitz
+# 15 - 1.09 % (4 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Jolly - EVs: 4 HP / 252 Def / 252 Spd (100.0 %)  
+Protect
+Wish
+Superpower
+Flare Blitz
+# 16 - 1.09 % (4 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 128 HP / 252 Atk / 128 SDef (100.0 %)  
+Detect
+Superpower
+Flare Blitz
+Fire Fang
+# 17 - 1.09 % (4 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Lonely - EVs: 252 Atk / 252 SDef / 4 Spd (100.0 %)  
+Wish
+Superpower
+Flare Blitz
+Work Up
+# 18 - 1.09 % (4 battles)
+
+Flareon @ Life Orb Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 Atk / 252 SDef (100.0 %)  
+Body Slam
+Superpower
+Flare Blitz
+Flame Charge
+# 19 - 1.09 % (4 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (100.0 %)  
+Protect
+Facade
+Wish
+Flare Blitz
+# 20 - 1.09 % (4 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Protect
+Facade
+Superpower
+Flame Charge
+# 21 - 1.09 % (4 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Hasty - EVs: 128 Atk / 128 SDef / 252 Spd (100.0 %)  
+Baton Pass
+Iron Tail
+Facade
+Flame Charge
+# 22 - 1.09 % (4 battles)
+
+Flareon @ Toxic Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Baton Pass
+Wish
+Superpower
+Flame Charge
+# 23 - 0.82 % (3 battles)
+
+Flareon @ Choice Band Lv. 100 -- Flash Fire
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (66.7 %)  
+Bite
+Return
+Superpower
+Fire Fang
+# 24 - 0.82 % (3 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Hardy - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Sing
+Toxic
+Flare Blitz
+Lava Plume
+# 25 - 0.82 % (3 battles)
+
+Flareon @ Leftovers Lv. 100 -- Flash Fire
+Nature: Hardy - EVs: 160 HP / 120 Def / 44 SAtk / 116 SDef / 68 Spd (100.0 %) 
+Flamethrower
+Shadow Ball
+Heat Wave
+Superpower

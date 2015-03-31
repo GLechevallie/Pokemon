@@ -1,0 +1,4 @@
+Bug/Fighting
+80/185/115/40/105/75
+Skill Link
+62.5

@@ -1,0 +1,405 @@
+Psychic/-
+50/70/160/70/160/90
+60.8
+asexue
+
+# 1 - 17.23 % (1088 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (43.3 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 2 - 9.07 % (573 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (42.1 %)  
+Thunder Wave
+Spikes
+Taunt
+Stealth Rock
+# 3 - 3.94 % (249 battles)
+
+Deoxys @ Mental Herb Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (41.8 %)  
+Thunder Wave
+Spikes
+Taunt
+Stealth Rock
+# 4 - 2.01 % (127 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Jolly - EVs: 216 HP / 40 Atk / 252 Spd (29.9 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 5 - 1.85 % (117 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 252 Spd (74.4 %)  
+Seismic Toss
+Spikes
+Taunt
+Stealth Rock
+# 6 - 1.77 % (112 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (73.2 %)  
+Recover
+Spikes
+Taunt
+Stealth Rock
+# 7 - 1.73 % (109 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Thunder Wave
+Night Shade
+Recover
+Stealth Rock
+# 8 - 1.69 % (107 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (41.1 %)  
+Thunder Wave
+Spikes
+Taunt
+Stealth Rock
+# 9 - 1.44 % (91 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Bold - EVs: 252 HP / 208 Def / 48 SDef (26.4 %)  
+Seismic Toss
+Recover
+Spikes
+Stealth Rock
+# 10 - 1.41 % (89 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Impish - EVs: 252 HP / 212 Def / 44 Spd (93.3 %)  
+Recover
+Spikes
+Taunt
+Knock Off
+# 11 - 1.39 % (88 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (90.9 %)  
+Seismic Toss
+Recover
+Spikes
+Taunt
+# 12 - 1.35 % (85 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (47.1 %)  
+Thunder Wave
+Recover
+Spikes
+Stealth Rock
+# 13 - 1.19 % (75 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Timid - EVs: 124 Def / 132 SDef / 252 Spd (85.3 %)  
+Night Shade
+Spikes
+Taunt
+Stealth Rock
+# 14 - 1.14 % (72 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (100.0 %)  
+Night Shade
+Recover
+Spikes
+Stealth Rock
+# 15 - 1.11 % (70 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Lax - EVs: 252 HP / 128 Def / 128 SDef (100.0 %)  
+Reflect
+Spikes
+Taunt
+Stealth Rock
+# 16 - 1.09 % (69 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Timid - EVs: 124 Def / 132 SDef / 252 Spd (75.4 %)  
+Night Shade
+Spikes
+Taunt
+Stealth Rock
+# 17 - 1.01 % (64 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Bold - EVs: 236 HP / 252 Def / 20 SDef (46.9 %)  
+Night Shade
+Spikes
+Magic Coat
+Stealth Rock
+# 18 - 1.00 % (63 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 160 Atk / 112 SAtk / 236 Spd (100.0 %)  
+Ice Beam
+Extreme Speed
+Superpower
+Psycho Boost
+# 19 - 0.93 % (59 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Calm - EVs: 252 HP / 40 Def / 104 SDef / 112 Spd (86.4 %)  
+Night Shade
+Recover
+Spikes
+Taunt
+# 20 - 0.89 % (56 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Bold - EVs: 232 HP / 252 Def / 24 SDef (55.4 %)  
+Night Shade
+Spikes
+Magic Coat
+Stealth Rock
+# 21 - 0.79 % (50 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Calm - EVs: 252 HP / 56 Def / 104 SDef / 96 Spd (54.0 %)  
+Thunder Wave
+Night Shade
+Recover
+Spikes
+# 22 - 0.76 % (48 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (91.7 %)  
+Thunder Wave
+Recover
+Knock Off
+Stealth Rock
+# 23 - 0.76 % (48 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Calm - EVs: 252 Def / 252 SDef (83.3 %)  
+Toxic
+Recover
+Spikes
+Stealth Rock
+# 24 - 0.71 % (45 battles)
+
+Deoxys @ Mental Herb Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 28 Atk / 228 Spd (51.1 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 25 - 0.71 % (45 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Thunder Wave
+Night Shade
+Recover
+Stealth Rock
+# 1 - 30.09 % (4150 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (49.4 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 2 - 13.67 % (1886 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (42.0 %)  
+Thunder Wave
+Spikes
+Taunt
+Stealth Rock
+# 3 - 5.47 % (755 battles)
+
+Deoxys @ Mental Herb Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (41.5 %)  
+Thunder Wave
+Spikes
+Taunt
+Stealth Rock
+# 4 - 2.60 % (358 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Bold - EVs: 136 HP / 176 Def / 196 SDef (29.6 %)  
+Thunder Wave
+Spikes
+Magic Coat
+Stealth Rock
+# 5 - 2.52 % (347 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Jolly - EVs: 216 HP / 40 Atk / 252 Spd (44.7 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 6 - 1.91 % (263 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Lax - EVs: 252 HP / 128 Def / 128 SDef (100.0 %)  
+Reflect
+Spikes
+Taunt
+Stealth Rock
+# 7 - 1.65 % (228 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Bold - EVs: 236 HP / 252 Def / 20 SDef (45.6 %)  
+Night Shade
+Spikes
+Magic Coat
+Stealth Rock
+# 8 - 1.29 % (178 battles)
+
+Deoxys @ Mental Herb Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 28 Atk / 228 Spd (51.1 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 9 - 1.28 % (176 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (46.6 %)  
+Recover
+Spikes
+Taunt
+Stealth Rock
+# 10 - 1.04 % (143 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Timid - EVs: 248 HP / 8 Def / 252 Spd (56.6 %)  
+Thunder Wave
+Spikes
+Taunt
+Stealth Rock
+# 11 - 1.02 % (141 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Thunder Wave
+Night Shade
+Recover
+Stealth Rock
+# 12 - 0.86 % (119 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Impish - EVs: 4 HP / 252 Def / 252 SDef (98.3 %)  
+Toxic
+Recover
+Spikes
+Stealth Rock
+# 13 - 0.75 % (104 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (44.2 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 14 - 0.74 % (102 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (60.8 %)  
+Night Shade
+Spikes
+Taunt
+Stealth Rock
+# 15 - 0.73 % (100 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (35.0 %)  
+Night Shade
+Spikes
+Taunt
+Stealth Rock
+# 16 - 0.70 % (96 battles)
+
+Deoxys @ Light Clay Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (49.0 %)  
+Light Screen
+Reflect
+Taunt
+Stealth Rock
+# 17 - 0.69 % (95 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (50.5 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 18 - 0.69 % (95 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Calm - EVs: 252 Def / 156 SDef / 100 Spd (100.0 %)  
+Seismic Toss
+Thunder Wave
+Spikes
+Stealth Rock
+# 19 - 0.68 % (94 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Bold - EVs: 252 HP / 120 Def / 136 SDef (87.2 %)  
+Thunder Wave
+Psychic
+Spikes
+Stealth Rock
+# 20 - 0.58 % (80 battles)
+
+Deoxys @ Mental Herb Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (100.0 %)  
+Toxic
+Recover
+Taunt
+Stealth Rock
+# 21 - 0.58 % (80 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (37.5 %)  
+Spikes
+Mirror Coat
+Taunt
+Stealth Rock
+# 22 - 0.57 % (78 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (32.1 %)  
+Seismic Toss
+Recover
+Spikes
+Stealth Rock
+# 23 - 0.56 % (77 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 252 Spd (28.6 %)  
+Seismic Toss
+Spikes
+Taunt
+Stealth Rock
+# 24 - 0.54 % (75 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 252 Spd (60.0 %)  
+Seismic Toss
+Spikes
+Taunt
+Stealth Rock
+# 25 - 0.52 % (72 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Rash - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Light Screen
+Spikes
+Taunt
+Stealth Rock

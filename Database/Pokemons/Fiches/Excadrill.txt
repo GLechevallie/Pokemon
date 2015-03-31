@@ -1,0 +1,405 @@
+Ground/Steel
+110/135/60/50/65/88
+40.4
+50/50
+
+# 1 - 17.19 % (12874 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (1.5 %) / Sand Force (0.2 %) / Mold Breaker (98.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.5 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 2 - 13.96 % (10458 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (46.8 %) / Sand Force (0.1 %) / Mold Breaker (53.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (23.3 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 3 - 5.33 % (3989 battles)
+
+Excadrill @ Life Orb Lv. 100 -- Sand Rush (85.8 %) / Sand Force (1.4 %) / Mold Breaker (12.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (24.9 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 4 - 4.51 % (3379 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (36.3 %) / Sand Force (0.0 %) / Mold Breaker (63.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (29.8 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Rapid Spin
+# 5 - 3.96 % (2966 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (18.3 %) / Sand Force (0.5 %) / Mold Breaker (81.2 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (24.3 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 6 - 3.94 % (2951 battles)
+
+Excadrill @ Assault Vest Lv. 100 -- Sand Rush (5.1 %) / Sand Force (0.4 %) / Mold Breaker (94.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (18.8 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 7 - 2.78 % (2084 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (76.2 %) / Sand Force (0.4 %) / Mold Breaker (23.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.7 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Iron Head
+# 8 - 2.35 % (1763 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (11.9 %) / Mold Breaker (88.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (19.8 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 9 - 2.32 % (1736 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (48.5 %) / Sand Force (1.3 %) / Mold Breaker (50.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (18.4 %)  
+Swords Dance
+Earthquake
+Rapid Spin
+Iron Head
+# 10 - 1.85 % (1384 battles)
+
+Excadrill @ Life Orb Lv. 100 -- Sand Rush (94.8 %) / Sand Force (0.7 %) / Mold Breaker (4.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (24.9 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Iron Head
+# 11 - 1.78 % (1335 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Sand Rush (21.6 %) / Mold Breaker (78.4 %)
+Nature: Adamant - EVs: 176 HP / 52 Atk / 80 Def / 200 SDef (38.1 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Rapid Spin
+# 12 - 1.75 % (1309 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Sand Rush (33.7 %) / Sand Force (0.6 %) / Mold Breaker (65.7 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (27.2 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 13 - 1.34 % (1005 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (1.7 %) / Mold Breaker (98.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.2 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 14 - 1.24 % (928 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (1.0 %) / Sand Force (0.6 %) / Mold Breaker (98.4 %)
+Nature: Adamant - EVs: 88 HP / 184 Atk / 236 Spd (32.0 %)  
+Earthquake
+Rock Slide
+Iron Head
+Stealth Rock
+# 15 - 1.20 % (896 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Sand Rush (7.0 %) / Sand Force (2.6 %) / Mold Breaker (90.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (17.0 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 16 - 1.18 % (882 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Sand Rush (3.4 %) / Mold Breaker (96.6 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (35.6 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 17 - 1.11 % (830 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Sand Rush (0.5 %) / Mold Breaker (99.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (62.5 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 18 - 1.06 % (797 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (1.3 %) / Sand Force (0.9 %) / Mold Breaker (97.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (34.6 %)  
+Earthquake
+Rock Slide
+X-Scissor
+Iron Head
+# 19 - 1.00 % (747 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (5.4 %) / Sand Force (0.5 %) / Mold Breaker (94.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (25.0 %)  
+Earthquake
+Rock Slide
+Brick Break
+Iron Head
+# 20 - 0.89 % (664 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (3.9 %) / Mold Breaker (96.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.0 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 21 - 0.81 % (608 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Sand Rush (5.4 %) / Mold Breaker (94.6 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (22.2 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 22 - 0.73 % (543 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (90.6 %) / Mold Breaker (9.4 %)
+Nature: Hardy - EVs: 252 Atk / 252 Spd (51.2 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Shadow Claw
+# 23 - 0.68 % (508 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Sand Rush (43.5 %) / Mold Breaker (56.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (32.7 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 24 - 0.66 % (492 battles)
+
+Excadrill @ Life Orb Lv. 100 -- Sand Rush (42.3 %) / Sand Force (4.1 %) / Mold Breaker (53.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (26.0 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Rapid Spin
+# 25 - 0.56 % (423 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (0.7 %) / Sand Force (5.4 %) / Mold Breaker (93.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.0 %)  
+Earthquake
+Rapid Spin
+Rock Tomb
+Iron Head
+# 1 - 13.77 % (1039 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Sand Rush (4.8 %) / Mold Breaker (95.2 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (48.2 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 2 - 12.79 % (965 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (0.4 %) / Mold Breaker (99.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.8 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 3 - 8.26 % (623 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (11.9 %) / Mold Breaker (88.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (23.9 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 4 - 7.04 % (531 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Sand Rush (0.8 %) / Mold Breaker (99.2 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (36.2 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 5 - 5.99 % (452 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (22.3 %) / Mold Breaker (77.7 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (38.9 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 6 - 3.87 % (292 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (5.1 %) / Mold Breaker (94.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (39.0 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 7 - 3.05 % (230 battles)
+
+Excadrill @ Assault Vest Lv. 100 -- Sand Rush (1.3 %) / Sand Force (0.4 %) / Mold Breaker (98.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (13.5 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 8 - 2.89 % (218 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (2.3 %) / Mold Breaker (97.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (34.4 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 9 - 2.66 % (201 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (9.0 %) / Mold Breaker (91.0 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (38.3 %)  
+Swords Dance
+Earthquake
+Rapid Spin
+Iron Head
+# 10 - 2.58 % (195 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Sand Rush (1.5 %) / Sand Force (3.1 %) / Mold Breaker (95.4 %)
+Nature: Jolly - EVs: 128 Def / 128 SDef / 252 Spd (27.2 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 11 - 2.11 % (159 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Mold Breaker
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (20.8 %)  
+Earthquake
+Rock Slide
+Iron Head
+Stealth Rock
+# 12 - 1.76 % (133 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Sand Rush (13.5 %) / Sand Force (46.6 %) / Mold Breaker (39.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (43.6 %)  
+Earthquake
+Rock Slide
+Iron Head
+Stealth Rock
+# 13 - 1.30 % (98 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Sand Rush (3.1 %) / Mold Breaker (96.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (39.8 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 14 - 1.22 % (92 battles)
+
+Excadrill @ Life Orb Lv. 100 -- Sand Rush (54.3 %) / Mold Breaker (45.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (22.8 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 15 - 1.03 % (78 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Sand Rush (15.4 %) / Mold Breaker (84.6 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (28.2 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Stealth Rock
+# 16 - 0.95 % (72 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Mold Breaker
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (41.7 %)  
+Earthquake
+Rock Slide
+X-Scissor
+Iron Head
+# 17 - 0.95 % (72 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (1.4 %) / Mold Breaker (98.6 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 248 Spd (62.5 %)  
+Earthquake
+Rock Slide
+Iron Head
+Stealth Rock
+# 18 - 0.93 % (70 battles)
+
+Excadrill @ Choice Scarf Lv. 100 -- Mold Breaker
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.1 %)  
+Earthquake
+Rock Slide
+Brick Break
+Iron Head
+# 19 - 0.91 % (69 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Mold Breaker
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (76.8 %)  
+Earthquake
+Rapid Spin
+Rock Tomb
+Stealth Rock
+# 20 - 0.91 % (69 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Sand Rush (7.2 %) / Mold Breaker (92.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (23.2 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Rapid Spin
+# 21 - 0.90 % (68 battles)
+
+Excadrill @ Air Balloon Lv. 100 -- Mold Breaker
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (55.9 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Stealth Rock
+# 22 - 0.69 % (52 battles)
+
+Excadrill @ Life Orb Lv. 100 -- Sand Rush (1.9 %) / Mold Breaker (98.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (44.2 %)  
+Earthquake
+Rapid Spin
+Iron Head
+Stealth Rock
+# 23 - 0.65 % (49 battles)
+
+Excadrill @ Focus Sash Lv. 100 -- Sand Rush (4.1 %) / Sand Force (2.0 %) / Mold Breaker (93.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (38.8 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head
+# 24 - 0.65 % (49 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Mold Breaker
+Nature: Adamant - EVs: 176 HP / 52 Atk / 80 Def / 200 SDef (42.9 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Rapid Spin
+# 25 - 0.65 % (49 battles)
+
+Excadrill @ Leftovers Lv. 100 -- Sand Rush (12.2 %) / Mold Breaker (87.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (28.6 %)  
+Earthquake
+Rock Slide
+Rapid Spin
+Iron Head

@@ -1,0 +1,405 @@
+Bug/Steel
+70/130/100/55/80/65
+118.0
+50/50
+
+# 1 - 13.51 % (14717 battles)
+
+Scizor @ Choice Band Lv. 100 -- Swarm (3.5 %) / Technician (96.5 %) / Light Metal (0.0 %)
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (16.1 %)  
+Pursuit
+Superpower
+U-turn
+Bullet Punch
+# 2 - 6.18 % (6734 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (1.4 %) / Technician (85.0 %) / Light Metal (13.6 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (12.9 %)  
+Swords Dance
+Knock Off
+Roost
+Bullet Punch
+# 3 - 4.44 % (4832 battles)
+
+Scizor @ Choice Band Lv. 100 -- Swarm (2.0 %) / Technician (98.0 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (18.0 %)  
+Superpower
+Knock Off
+U-turn
+Bullet Punch
+# 4 - 4.09 % (4455 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (4.6 %) / Technician (93.5 %) / Light Metal (2.0 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (14.2 %)  
+Swords Dance
+Roost
+Bullet Punch
+Bug Bite
+# 5 - 3.00 % (3266 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (19.1 %) / Technician (75.9 %) / Light Metal (4.9 %)
+Nature: Careful - EVs: 236 HP / 216 Atk / 56 Def (9.7 %)  
+Roost
+U-turn
+Bullet Punch
+Defog
+# 6 - 2.10 % (2291 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (1.7 %) / Technician (96.6 %) / Light Metal (1.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (16.6 %)  
+Swords Dance
+Superpower
+Bullet Punch
+Bug Bite
+# 7 - 1.70 % (1848 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (5.1 %) / Technician (91.8 %) / Light Metal (3.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (12.3 %)  
+Swords Dance
+Roost
+U-turn
+Bullet Punch
+# 8 - 1.21 % (1313 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (0.2 %) / Technician (80.0 %) / Light Metal (19.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (12.0 %)  
+Knock Off
+Roost
+Bullet Punch
+Defog
+# 9 - 1.19 % (1294 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (1.4 %) / Technician (97.2 %) / Light Metal (1.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (21.4 %)  
+Swords Dance
+Knock Off
+Bullet Punch
+Bug Bite
+# 10 - 1.19 % (1292 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (8.4 %) / Technician (91.3 %) / Light Metal (0.2 %)
+Nature: Adamant - EVs: 176 HP / 240 Atk / 76 SDef / 16 Spd (17.7 %)  
+Swords Dance
+Roost
+X-Scissor
+Bullet Punch
+# 11 - 1.04 % (1130 battles)
+
+Scizor @ Leftovers Lv. 100 -- Technician
+Nature: Adamant - EVs: 80 HP / 252 Atk / 136 SDef / 40 Spd (39.2 %)  
+Swords Dance
+Superpower
+Bullet Punch
+Bug Bite
+# 12 - 0.98 % (1065 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (2.1 %) / Technician (97.9 %)
+Nature: Hardy - EVs: 156 HP / 252 Atk / 100 Spd (13.5 %)  
+Swords Dance
+Superpower
+U-turn
+Bullet Punch
+# 13 - 0.95 % (1036 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (11.2 %) / Technician (86.2 %) / Light Metal (2.6 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (16.2 %)  
+Swords Dance
+Superpower
+Roost
+Bullet Punch
+# 14 - 0.95 % (1032 battles)
+
+Scizor @ Leftovers Lv. 100 -- Swarm (2.2 %) / Technician (97.8 %)
+Nature: Adamant - EVs: 80 HP / 252 Atk / 72 Def / 104 Spd (11.2 %)  
+Roost
+U-turn
+Bullet Punch
+Defog
+# 15 - 0.92 % (1005 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (4.5 %) / Technician (79.2 %) / Light Metal (16.3 %)
+Nature: Adamant - EVs: 252 Atk / 252 Def / 4 Spd (11.7 %)  
+Knock Off
+Roost
+U-turn
+Bullet Punch
+# 16 - 0.90 % (976 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (2.4 %) / Technician (93.2 %) / Light Metal (4.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (17.6 %)  
+Swords Dance
+Superpower
+Knock Off
+Bullet Punch
+# 17 - 0.87 % (943 battles)
+
+Scizor @ Life Orb Lv. 100 -- Swarm (1.4 %) / Technician (98.6 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (29.9 %)  
+Swords Dance
+Superpower
+Bullet Punch
+Bug Bite
+# 18 - 0.76 % (827 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (4.1 %) / Technician (95.0 %) / Light Metal (0.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (24.4 %)  
+Swords Dance
+Brick Break
+Bullet Punch
+Bug Bite
+# 19 - 0.73 % (797 battles)
+
+Scizor @ Leftovers Lv. 100 -- Technician
+Nature: Adamant - EVs: 252 HP / 252 Atk (54.1 %)  
+Swords Dance
+Quick Attack
+Roost
+Bullet Punch
+# 20 - 0.70 % (760 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (3.9 %) / Technician (90.8 %) / Light Metal (5.3 %)
+Nature: Adamant - EVs: 252 Atk / 252 Def (38.3 %)  
+Knock Off
+U-turn
+Bullet Punch
+Defog
+# 21 - 0.68 % (742 battles)
+
+Scizor @ Choice Band Lv. 100 -- Swarm (10.4 %) / Technician (88.8 %) / Light Metal (0.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.0 %)  
+Superpower
+Aerial Ace
+U-turn
+Bullet Punch
+# 22 - 0.65 % (713 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (5.5 %) / Technician (94.5 %)
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (34.2 %)  
+Pursuit
+Superpower
+U-turn
+Bullet Punch
+# 23 - 0.64 % (702 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (3.8 %) / Technician (96.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (16.7 %)  
+Swords Dance
+Aerial Ace
+Bullet Punch
+Bug Bite
+# 24 - 0.62 % (673 battles)
+
+Scizor @ Scizorite Lv. 100 -- Technician
+Nature: Adamant - EVs: 252 HP / 40 Atk / 216 SDef (66.3 %)  
+Roost
+Bullet Punch
+Defog
+Bug Bite
+# 25 - 0.60 % (658 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (4.0 %) / Technician (53.3 %) / Light Metal (42.7 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (38.3 %)  
+Swords Dance
+Roost
+Bullet Punch
+Defog
+# 1 - 16.52 % (1834 battles)
+
+Scizor @ Choice Band Lv. 100 -- Swarm (3.6 %) / Technician (96.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (14.4 %)  
+Pursuit
+Superpower
+U-turn
+Bullet Punch
+# 2 - 9.65 % (1072 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (1.2 %) / Technician (87.8 %) / Light Metal (11.0 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (40.6 %)  
+Swords Dance
+Knock Off
+Roost
+Bullet Punch
+# 3 - 6.49 % (721 battles)
+
+Scizor @ Choice Band Lv. 100 -- Swarm (2.6 %) / Technician (97.4 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (14.6 %)  
+Superpower
+Knock Off
+U-turn
+Bullet Punch
+# 4 - 2.96 % (329 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (0.3 %) / Technician (99.1 %) / Light Metal (0.6 %)
+Nature: Adamant - EVs: 252 Atk / 252 SDef (81.2 %)  
+Swords Dance
+Knock Off
+U-turn
+Bullet Punch
+# 5 - 2.89 % (321 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (17.1 %) / Technician (80.1 %) / Light Metal (2.8 %)
+Nature: Careful - EVs: 236 HP / 216 Atk / 56 Def (11.5 %)  
+Roost
+U-turn
+Bullet Punch
+Defog
+# 6 - 2.61 % (290 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (14.8 %) / Technician (81.0 %) / Light Metal (4.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (14.1 %)  
+Swords Dance
+Roost
+Bullet Punch
+Bug Bite
+# 7 - 1.95 % (216 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (2.8 %) / Technician (81.9 %) / Light Metal (15.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (29.6 %)  
+Knock Off
+Roost
+U-turn
+Bullet Punch
+# 8 - 1.37 % (152 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (1.3 %) / Technician (92.1 %) / Light Metal (6.6 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (9.2 %)  
+Swords Dance
+Roost
+U-turn
+Bullet Punch
+# 9 - 1.35 % (150 battles)
+
+Scizor @ Leftovers Lv. 100 -- Swarm (4.7 %) / Technician (95.3 %)
+Nature: Adamant - EVs: 80 HP / 252 Atk / 72 Def / 104 Spd (36.7 %)  
+Roost
+U-turn
+Bullet Punch
+Defog
+# 10 - 1.34 % (149 battles)
+
+Scizor @ Scizorite Lv. 100 -- Technician (74.5 %) / Light Metal (25.5 %)
+Nature: Adamant - EVs: 248 HP / 44 Atk / 116 Def / 100 SDef (15.4 %)  
+Knock Off
+Roost
+Bullet Punch
+Defog
+# 11 - 1.27 % (141 battles)
+
+Scizor @ Choice Scarf Lv. 100 -- Swarm (0.7 %) / Technician (99.3 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (91.5 %)  
+Superpower
+Aerial Ace
+U-turn
+Bullet Punch
+# 12 - 1.12 % (124 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (5.6 %) / Technician (94.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (14.5 %)  
+Swords Dance
+Superpower
+Bullet Punch
+Bug Bite
+# 13 - 0.93 % (103 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (1.9 %) / Technician (98.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (23.3 %)  
+Swords Dance
+Superpower
+U-turn
+Bullet Punch
+# 14 - 0.93 % (103 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (3.9 %) / Technician (96.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (31.1 %)  
+Swords Dance
+Roost
+X-Scissor
+Bullet Punch
+# 15 - 0.87 % (97 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (3.1 %) / Technician (72.2 %) / Light Metal (24.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (37.1 %)  
+Knock Off
+U-turn
+Bullet Punch
+Defog
+# 16 - 0.84 % (93 battles)
+
+Scizor @ Scizorite Lv. 100 -- Technician
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (45.2 %)  
+Superpower
+Knock Off
+U-turn
+Bullet Punch
+# 17 - 0.76 % (84 battles)
+
+Scizor @ Leftovers Lv. 100 -- Technician
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (53.6 %)  
+Swords Dance
+Agility
+Baton Pass
+Bullet Punch
+# 18 - 0.75 % (83 battles)
+
+Scizor @ Leftovers Lv. 100 -- Technician
+Nature: Jolly - EVs: 252 HP / 252 Def (79.5 %)  
+Swords Dance
+Baton Pass
+Knock Off
+Bullet Punch
+# 19 - 0.71 % (79 battles)
+
+Scizor @ Choice Band Lv. 100 -- Swarm (3.8 %) / Technician (96.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (36.7 %)  
+Superpower
+Aerial Ace
+U-turn
+Bullet Punch
+# 20 - 0.70 % (78 battles)
+
+Scizor @ Choice Band Lv. 100 -- Swarm (2.6 %) / Technician (97.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (41.0 %)  
+Pursuit
+U-turn
+Bullet Punch
+Bug Bite
+# 21 - 0.67 % (74 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (2.7 %) / Technician (95.9 %) / Light Metal (1.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (31.1 %)  
+Swords Dance
+Knock Off
+Bullet Punch
+Bug Bite
+# 22 - 0.64 % (71 battles)
+
+Scizor @ Scizorite Lv. 100 -- Swarm (4.2 %) / Technician (95.8 %)
+Nature: Adamant - EVs: 252 HP / 12 Atk / 244 SDef (21.1 %)  
+Swords Dance
+Superpower
+Roost
+Bullet Punch
+# 23 - 0.61 % (68 battles)
+
+Scizor @ Choice Scarf Lv. 100 -- Technician
+Nature: Hardy - EVs: 252 Atk / 252 Spd (75.0 %)  
+Pursuit
+Superpower
+U-turn
+Bullet Punch
+# 24 - 0.56 % (62 battles)
+
+Scizor @ Life Orb Lv. 100 -- Technician
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (90.3 %)  
+Swords Dance
+Roost
+X-Scissor
+Bullet Punch
+# 25 - 0.52 % (58 battles)
+
+Scizor @ Scizorite Lv. 100 -- Technician
+Nature: Adamant - EVs: 28 HP / 252 Atk / 228 Spd (24.1 %)  
+Superpower
+U-turn
+Bullet Punch
+Defog

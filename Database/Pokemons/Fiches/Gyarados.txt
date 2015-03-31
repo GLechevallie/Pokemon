@@ -1,0 +1,405 @@
+Water/Flying
+95/125/79/60/100/81
+235.0
+50/50
+
+# 1 - 30.67 % (19800 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (86.1 %) / Moxie (13.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (17.0 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 2 - 4.32 % (2786 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (46.1 %) / Moxie (53.9 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (18.4 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 3 - 3.46 % (2233 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (71.2 %) / Moxie (28.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (25.2 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Stone Edge
+# 4 - 2.77 % (1788 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (87.4 %) / Moxie (12.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (23.0 %)  
+Earthquake
+Waterfall
+Taunt
+Dragon Dance
+# 5 - 2.42 % (1565 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (80.5 %) / Moxie (19.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (24.9 %)  
+Earthquake
+Waterfall
+Substitute
+Dragon Dance
+# 6 - 2.29 % (1479 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (65.2 %) / Moxie (34.8 %)
+Nature: Jolly - EVs: 88 HP / 248 Atk / 4 Def / 168 Spd (33.3 %)  
+Waterfall
+Substitute
+Bounce
+Dragon Dance
+# 7 - 2.24 % (1444 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (49.6 %) / Moxie (50.4 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (21.5 %)  
+Earthquake
+Waterfall
+Substitute
+Dragon Dance
+# 8 - 2.07 % (1335 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (12.2 %) / Moxie (87.8 %)
+Nature: Adamant - EVs: 32 HP / 252 Atk / 224 Spd (39.8 %)  
+Earthquake
+Waterfall
+Bounce
+Dragon Dance
+# 9 - 1.71 % (1105 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (88.0 %) / Moxie (12.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.3 %)  
+Bite
+Earthquake
+Waterfall
+Dragon Dance
+# 10 - 1.57 % (1011 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (9.9 %) / Moxie (90.1 %)
+Nature: Adamant - EVs: 148 Atk / 100 Def / 112 SDef / 148 Spd (62.8 %)  
+Thunder Wave
+Waterfall
+Substitute
+Dragon Dance
+# 11 - 1.43 % (924 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (98.4 %) / Moxie (1.6 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (18.6 %)  
+Waterfall
+Rest
+Sleep Talk
+Dragon Tail
+# 12 - 1.19 % (768 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (81.4 %) / Moxie (18.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (32.2 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Iron Head
+# 13 - 1.04 % (670 battles)
+
+Gyarados @ Muscle Band Lv. 100 -- Intimidate (0.3 %) / Moxie (99.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (79.9 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 14 - 0.97 % (628 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (93.8 %) / Moxie (6.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (87.1 %)  
+Bite
+Waterfall
+Dragon Dance
+Ice Fang
+# 15 - 0.93 % (603 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (87.1 %) / Moxie (12.9 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (25.9 %)  
+Earthquake
+Waterfall
+Taunt
+Dragon Dance
+# 16 - 0.90 % (579 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (67.2 %) / Moxie (32.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.5 %)  
+Earthquake
+Waterfall
+Bounce
+Dragon Dance
+# 17 - 0.82 % (529 battles)
+
+Gyarados @ Lum Berry Lv. 100 -- Intimidate (34.2 %) / Moxie (65.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.0 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 18 - 0.80 % (519 battles)
+
+Gyarados @ Rocky Helmet Lv. 100 -- Intimidate
+Nature: Adamant - EVs: 252 HP / 132 Atk / 124 Def (100.0 %)  
+Waterfall
+Taunt
+Bounce
+Dragon Dance
+# 19 - 0.75 % (483 battles)
+
+Gyarados @ Life Orb Lv. 100 -- Intimidate (33.7 %) / Moxie (66.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (28.4 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 20 - 0.74 % (480 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (42.7 %) / Moxie (57.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (32.3 %)  
+Earthquake
+Waterfall
+Outrage
+Dragon Dance
+# 21 - 0.70 % (449 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (53.2 %) / Moxie (46.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (20.0 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Stone Edge
+# 22 - 0.67 % (435 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (56.1 %) / Moxie (43.9 %)
+Nature: Jolly - EVs: 88 HP / 252 Atk / 168 Spd (33.3 %)  
+Waterfall
+Taunt
+Bounce
+Dragon Dance
+# 23 - 0.65 % (419 battles)
+
+Gyarados @ Focus Sash Lv. 100 -- Intimidate (20.3 %) / Moxie (79.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (66.3 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 24 - 0.65 % (417 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (90.4 %) / Moxie (9.6 %)
+Nature: Adamant - EVs: 100 Atk / 156 SDef / 252 Spd (46.5 %)  
+Waterfall
+Taunt
+Dragon Dance
+Stone Edge
+# 25 - 0.63 % (408 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (99.3 %) / Moxie (0.7 %)
+Nature: Adamant - EVs: 156 HP / 184 Def / 16 SDef / 152 Spd (32.4 %)  
+Waterfall
+Rest
+Sleep Talk
+Dragon Dance
+# 1 - 21.80 % (1573 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (82.9 %) / Moxie (17.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (17.2 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 2 - 3.53 % (255 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (58.4 %) / Moxie (41.6 %)
+Nature: Jolly - EVs: 252 Atk / 88 Def / 168 Spd (27.5 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 3 - 2.98 % (215 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (80.0 %) / Moxie (20.0 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (54.9 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Stone Edge
+# 4 - 2.91 % (210 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (92.9 %) / Moxie (7.1 %)
+Nature: Jolly - EVs: 252 HP / 252 Atk (20.0 %)  
+Earthquake
+Waterfall
+Taunt
+Dragon Dance
+# 5 - 2.77 % (200 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (41.5 %) / Moxie (58.5 %)
+Nature: Jolly - EVs: 120 HP / 136 Atk / 252 Spd (21.5 %)  
+Earthquake
+Waterfall
+Substitute
+Dragon Dance
+# 6 - 2.58 % (186 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (55.4 %)  
+Thunder Wave
+Waterfall
+Substitute
+Taunt
+# 7 - 2.22 % (160 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (79.4 %) / Moxie (20.6 %)
+Nature: Jolly - EVs: 88 HP / 248 Atk / 4 Def / 168 Spd (45.6 %)  
+Waterfall
+Substitute
+Bounce
+Dragon Dance
+# 8 - 1.97 % (142 battles)
+
+Gyarados @ Muscle Band Lv. 100 -- Intimidate
+Nature: Adamant - EVs: 64 HP / 252 Atk / 64 Def / 64 SDef / 64 Spd (100.0 %)  
+Waterfall
+Rain Dance
+Bounce
+Dragon Dance
+# 9 - 1.79 % (129 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (97.7 %) / Moxie (2.3 %)
+Nature: Jolly - EVs: 32 HP / 56 Atk / 224 Def / 196 Spd (20.9 %)  
+Earthquake
+Waterfall
+Taunt
+Dragon Dance
+# 10 - 1.55 % (112 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (90.2 %) / Moxie (9.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (25.0 %)  
+Earthquake
+Waterfall
+Substitute
+Dragon Dance
+# 11 - 1.54 % (111 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (10.8 %) / Moxie (89.2 %)
+Nature: Adamant - EVs: 148 Atk / 100 Def / 112 SDef / 148 Spd (60.4 %)  
+Thunder Wave
+Waterfall
+Substitute
+Dragon Dance
+# 12 - 1.46 % (105 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (10.5 %) / Moxie (89.5 %)
+Nature: Jolly - EVs: 88 HP / 248 Atk / 4 Def / 168 Spd (81.9 %)  
+Earthquake
+Waterfall
+Bounce
+Dragon Dance
+# 13 - 1.44 % (104 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (66.3 %) / Moxie (33.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Earthquake
+Waterfall
+Outrage
+Dragon Dance
+# 14 - 1.26 % (91 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (37.4 %)  
+Waterfall
+Rest
+Sleep Talk
+Dragon Tail
+# 15 - 1.12 % (81 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate
+Nature: Timid - EVs: 252 HP / 4 Def / 252 SDef (70.4 %)  
+Thunder Wave
+Rest
+Sleep Talk
+Dragon Tail
+# 16 - 1.11 % (80 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate (28.8 %) / Moxie (71.2 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (40.0 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Stone Edge
+# 17 - 1.03 % (74 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (77.0 %) / Moxie (23.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (32.4 %)  
+Bite
+Earthquake
+Waterfall
+Dragon Dance
+# 18 - 0.98 % (71 battles)
+
+Gyarados @ Life Orb Lv. 100 -- Intimidate (54.9 %) / Moxie (45.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (36.6 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 19 - 0.97 % (70 battles)
+
+Gyarados @ Lum Berry Lv. 100 -- Intimidate (31.4 %) / Moxie (68.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (34.3 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Ice Fang
+# 20 - 0.93 % (67 battles)
+
+Gyarados @ Focus Band Lv. 100 -- Intimidate
+Nature: Lonely - EVs: 200 HP / 204 Atk / 104 Spd (100.0 %)  
+Waterfall
+Substitute
+Outrage
+Dragon Dance
+# 21 - 0.93 % (67 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (73.1 %)  
+Thunder Wave
+Waterfall
+Substitute
+Dragon Tail
+# 22 - 0.91 % (66 battles)
+
+Gyarados @ Leftovers Lv. 100 -- Intimidate
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Thunder Wave
+Earthquake
+Waterfall
+Ice Fang
+# 23 - 0.86 % (62 battles)
+
+Gyarados @ Focus Sash Lv. 100 -- Moxie
+Nature: Hardy - EVs: 252 Atk / 60 Def / 196 Spd (100.0 %)  
+Earthquake
+Aqua Tail
+Ice Fang
+Iron Head
+# 24 - 0.82 % (59 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (91.5 %) / Moxie (8.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (33.9 %)  
+Earthquake
+Waterfall
+Dragon Dance
+Iron Head
+# 25 - 0.79 % (57 battles)
+
+Gyarados @ Gyaradosite Lv. 100 -- Intimidate (98.2 %) / Moxie (1.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (98.2 %)  
+Waterfall
+Taunt
+Dragon Dance
+Ice Fang

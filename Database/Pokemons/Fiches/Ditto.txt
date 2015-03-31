@@ -1,0 +1,405 @@
+Normal/-
+48/48/48/48/48/48
+4.0
+asexue
+
+# 1 - 80.20 % (19291 battles)
+
+Ditto @ Choice Scarf Lv. 100 -- Limber (0.2 %) / Imposter (99.8 %)
+Nature: Hardy - EVs: 252 HP (11.7 %) 
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 2 - 7.06 % (1699 battles)
+
+Ditto @ Leftovers Lv. 100 -- Limber (5.2 %) / Imposter (94.8 %)
+Nature: Hardy - EVs: 252 HP / 252 Spd (18.1 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 3 - 5.23 % (1258 battles)
+
+Ditto @ Focus Sash Lv. 100 -- Limber (0.1 %) / Imposter (99.9 %)
+Nature: Bold - EVs: 252 HP / 4 Def / 252 SDef (7.8 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 4 - 1.57 % (377 battles)
+
+Ditto @ Quick Powder Lv. 100 -- Limber (0.8 %) / Imposter (99.2 %)
+Nature: Hardy - EVs: 4 Atk / 116 Def / 136 SDef / 252 Spd (15.6 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 5 - 1.11 % (266 battles)
+
+Ditto @ Lum Berry Lv. 100 -- Imposter
+Nature: Timid - EVs: 252 HP / 252 Spd (63.2 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 6 - 0.67 % (160 battles)
+
+Ditto @ Expert Belt Lv. 100 -- Imposter
+Nature: Naive - EVs: 252 HP / 4 SDef / 252 Spd (66.9 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 7 - 0.66 % (159 battles)
+
+Ditto @ Quick Claw Lv. 100 -- Imposter
+Nature: Hasty - EVs: 252 HP / 252 Spd (25.8 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 8 - 0.58 % (139 battles)
+
+Ditto @ Rocky Helmet Lv. 100 -- Imposter
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (89.9 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 9 - 0.53 % (128 battles)
+
+Ditto @ (No Item) Lv. 100 -- Limber (17.2 %) / Imposter (82.8 %)
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (39.1 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 10 - 0.52 % (125 battles)
+
+Ditto @ Life Orb Lv. 100 -- Limber (2.4 %) / Imposter (97.6 %)
+Nature: Docile - EVs: 252 HP / 4 Atk / 252 Spd (12.8 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 11 - 0.28 % (68 battles)
+
+Ditto @ Sitrus Berry Lv. 100 -- Imposter
+Nature: Adamant - EVs: 252 Atk / 252 Spd (29.4 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 12 - 0.27 % (66 battles)
+
+Ditto @ Red Card Lv. 100 -- Imposter
+Nature: Quirky - EVs: 104 HP / 80 Atk / 80 Def / 72 SAtk / 72 SDef / 100 Spd (27.3 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 13 - 0.24 % (57 battles)
+
+Ditto @ Bright Powder Lv. 100 -- Imposter
+Nature: Naive - EVs: 252 HP / 4 Def / 252 Spd (57.9 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 14 - 0.14 % (34 battles)
+
+Ditto @ Silk Scarf Lv. 100 -- Imposter
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (85.3 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 15 - 0.13 % (31 battles)
+
+Ditto @ Air Balloon Lv. 100 -- Imposter
+Nature: Timid - EVs: 248 HP / 8 Def / 252 Spd (54.8 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 16 - 0.12 % (30 battles)
+
+Ditto @ Haban Berry Lv. 100 -- Imposter
+Nature: Jolly - EVs: 248 HP / 8 Def / 252 Spd (86.7 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 17 - 0.11 % (27 battles)
+
+Ditto @ Weakness Policy Lv. 100 -- Imposter
+Nature: Bashful - EVs: 252 HP / 252 Spd (85.2 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 18 - 0.11 % (26 battles)
+
+Ditto @ Assault Vest Lv. 100 -- Imposter
+Nature: Hardy - EVs: 252 HP (23.1 %) 
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 19 - 0.08 % (20 battles)
+
+Ditto @ Choice Band Lv. 100 -- Limber (60.0 %) / Imposter (40.0 %)
+Nature: Lonely - EVs: 0 (60.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 20 - 0.07 % (17 battles)
+
+Ditto @ Focus Band Lv. 100 -- Imposter
+Nature: Hardy - EVs: 252 HP (52.9 %) 
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 21 - 0.07 % (16 battles)
+
+Ditto @ Shell Bell Lv. 100 -- Imposter
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 22 - 0.06 % (15 battles)
+
+Ditto @ Metal Powder Lv. 100 -- Imposter
+Nature: Serious - EVs: 104 HP / 60 Atk / 60 Def / 56 SAtk / 60 SDef / 168 Spd (33.3 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 23 - 0.04 % (9 battles)
+
+Ditto @ Safety Goggles Lv. 100 -- Imposter
+Nature: Jolly - EVs: 252 HP / 60 Atk / 60 Def / 60 SAtk / 60 SDef / 16 Spd (100.0 %) 
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 24 - 0.03 % (8 battles)
+
+Ditto @ Eject Button Lv. 100 -- Imposter
+Nature: Quirky - EVs: 252 HP / 252 Def (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 25 - 0.02 % (6 battles)
+
+Ditto @ Cheri Berry Lv. 100 -- Imposter
+Nature: Hardy - EVs: 252 Def / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 1 - 71.03 % (1635 battles)
+
+Ditto @ Choice Scarf Lv. 100 -- Limber (0.3 %) / Imposter (99.7 %)
+Nature: Hardy - EVs: 252 HP (6.8 %) 
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 2 - 11.38 % (262 battles)
+
+Ditto @ Leftovers Lv. 100 -- Limber (9.2 %) / Imposter (90.8 %)
+Nature: Hardy - EVs: 252 HP / 252 Spd (9.2 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 3 - 5.30 % (122 battles)
+
+Ditto @ Focus Sash Lv. 100 -- Limber (1.6 %) / Imposter (98.4 %)
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (29.5 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 4 - 3.13 % (72 battles)
+
+Ditto @ Quick Powder Lv. 100 -- Limber (5.6 %) / Imposter (94.4 %)
+Nature: Serious - EVs: 80 HP / 92 Atk / 80 Def / 92 SAtk / 80 SDef / 84 Spd (15.3 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 5 - 1.95 % (45 battles)
+
+Ditto @ Quick Claw Lv. 100 -- Imposter
+Nature: Hardy - EVs: 252 HP / 4 SAtk / 252 Spd (60.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 6 - 1.22 % (28 battles)
+
+Ditto @ Expert Belt Lv. 100 -- Imposter
+Nature: Jolly - EVs: 252 HP / 252 Spd (85.7 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 7 - 1.17 % (27 battles)
+
+Ditto @ (No Item) Lv. 100 -- Limber (7.4 %) / Imposter (92.6 %)
+Nature: Brave - EVs: 252 Atk / 252 Def / 4 Spd (25.9 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 8 - 1.13 % (26 battles)
+
+Ditto @ Rocky Helmet Lv. 100 -- Imposter
+Nature: Hardy - EVs: 252 Atk / 252 Spd (38.5 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 9 - 0.65 % (15 battles)
+
+Ditto @ Lum Berry Lv. 100 -- Imposter
+Nature: Timid - EVs: 112 HP / 72 Atk / 92 Def / 92 SAtk / 88 SDef / 52 Spd (40.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 10 - 0.61 % (14 battles)
+
+Ditto @ Haban Berry Lv. 100 -- Imposter
+Nature: Jolly - EVs: 248 HP / 8 Def / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 11 - 0.56 % (13 battles)
+
+Ditto @ Sitrus Berry Lv. 100 -- Imposter
+Nature: Timid - EVs: 252 HP / 252 Spd (84.6 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 12 - 0.52 % (12 battles)
+
+Ditto @ Life Orb Lv. 100 -- Limber (8.3 %) / Imposter (91.7 %)
+Nature: Rash - EVs: 252 HP / 4 SAtk / 252 Spd (16.7 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 13 - 0.30 % (7 battles)
+
+Ditto @ Weakness Policy Lv. 100 -- Imposter
+Nature: Naive - EVs: 252 SAtk / 4 SDef / 252 Spd (57.1 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 14 - 0.26 % (6 battles)
+
+Ditto @ Red Card Lv. 100 -- Imposter
+Nature: Naive - EVs: 88 HP / 88 Atk / 88 Def / 88 SAtk / 88 SDef / 68 Spd (33.3 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 15 - 0.22 % (5 battles)
+
+Ditto @ Shell Bell Lv. 100 -- Imposter
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 16 - 0.17 % (4 battles)
+
+Ditto @ Metal Powder Lv. 100 -- Imposter
+Nature: Calm - EVs: 252 HP / 172 Def / 84 SDef (50.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 17 - 0.13 % (3 battles)
+
+Ditto @ Leppa Berry Lv. 100 -- Imposter
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 18 - 0.09 % (2 battles)
+
+Ditto @ Choice Band Lv. 100 -- Imposter
+Nature: Hardy - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 19 - 0.04 % (1 battles)
+
+Ditto @ Bright Powder Lv. 100 -- Imposter
+Nature: Timid - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 20 - 0.04 % (1 battles)
+
+Ditto @ Power Herb Lv. 100 -- Imposter
+Nature: Hardy - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 21 - 0.04 % (1 battles)
+
+Ditto @ Silk Scarf Lv. 100 -- Imposter
+Nature: Naive - EVs: 252 Def / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 22 - 0.04 % (1 battles)
+
+Ditto @ White Herb Lv. 100 -- Imposter
+Nature: Naive - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 23 - 0 % (19291 battles)
+
+Ditto @ Choice Scarf Lv. 100 -- Limber (0.2 %) / Imposter (99.8 %)
+Nature: Hardy - EVs: 252 HP (11.7 %) 
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 24 - 0 % (1699 battles)
+
+Ditto @ Leftovers Lv. 100 -- Limber (5.2 %) / Imposter (94.8 %)
+Nature: Hardy - EVs: 252 HP / 252 Spd (18.1 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform
+# 25 - 0 % (1258 battles)
+
+Ditto @ Focus Sash Lv. 100 -- Limber (0.1 %) / Imposter (99.9 %)
+Nature: Bold - EVs: 252 HP / 4 Def / 252 SDef (7.8 %)  
+(No Move)
+(No Move)
+(No Move)
+Transform

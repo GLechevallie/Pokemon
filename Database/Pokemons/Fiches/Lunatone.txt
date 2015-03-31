@@ -1,0 +1,405 @@
+Rock/Psychic
+70/55/65/95/85/70
+168.0
+50/50
+
+# 1 - 57.66 % (79 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 168 HP / 252 Def / 88 Spd (92.4 %)  
+Substitute
+Baton Pass
+Ancient Power
+Cosmic Power
+# 2 - 7.30 % (10 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (70.0 %)  
+Substitute
+Baton Pass
+Cosmic Power
+Moonblast
+# 3 - 5.84 % (8 battles)
+
+Lunatone @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Earth Power
+Grass Knot
+Psyshock
+# 4 - 5.11 % (7 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Baton Pass
+Cosmic Power
+Moonblast
+# 5 - 4.38 % (6 battles)
+
+Lunatone @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Earth Power
+Moonblast
+# 6 - 3.65 % (5 battles)
+
+Lunatone @ Assault Vest Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (100.0 %)  
+Shadow Ball
+Earth Power
+Psyshock
+Moonblast
+# 7 - 2.92 % (4 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (100.0 %)  
+Psychic
+Moonlight
+Calm Mind
+Earth Power
+# 8 - 2.19 % (3 battles)
+
+Lunatone @ Light Clay Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Light Screen
+Reflect
+Stealth Rock
+# 9 - 2.19 % (3 battles)
+
+Lunatone @ Pixie Plate Lv. 100 -- Levitate
+Nature: Modest - EVs: 208 Def / 252 SAtk / 48 SDef (100.0 %)  
+Moonlight
+Future Sight
+Rock Polish
+Moonblast
+# 10 - 1.46 % (2 battles)
+
+Lunatone @ Life Orb Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Rock Polish
+Earth Power
+# 11 - 0.73 % (1 battles)
+
+Lunatone @ (No Item) Lv. 100 -- Levitate
+Nature: Hardy - EVs: 40 HP / 72 Atk / 112 Def / 4 SAtk / 28 SDef / 252 Spd (100.0 %)  
+Rock Throw
+Explosion
+Endure
+Embargo
+# 12 - 0.73 % (1 battles)
+
+Lunatone @ Choice Band Lv. 100 -- Levitate
+Nature: Lonely - EVs: 252 Atk (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Explosion
+# 13 - 0.73 % (1 battles)
+
+Lunatone @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Earth Power
+Grass Knot
+Moonblast
+# 14 - 0.73 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+(No Move)
+Substitute
+Baton Pass
+Cosmic Power
+# 15 - 0.73 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Ice Beam
+Psychic
+Reflect
+Moonblast
+# 16 - 0.73 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Toxic
+Psychic
+Moonlight
+Stealth Rock
+# 17 - 0.73 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 76 HP / 252 SAtk / 180 SDef (100.0 %)  
+Psychic
+Hypnosis
+Grass Knot
+Moonblast
+# 18 - 0.73 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)[Rock]  
+Psychic
+Moonlight
+Hidden Power
+Stealth Rock
+# 19 - 0.73 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Substitute
+Pain Split
+Baton Pass
+Cosmic Power
+# 20 - 0.73 % (1 battles)
+
+Lunatone @ Iron Ball Lv. 100 -- Levitate
+Nature: Modest - EVs: 160 HP / 160 Def / 188 SAtk (100.0 %)  
+Psychic
+Cosmic Power
+Gyro Ball
+Stealth Rock
+# 21 - 0 % (10 battles)
+
+Lunatone @ Light Clay Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Light Screen
+Reflect
+Stealth Rock
+# 22 - 0 % (5 battles)
+
+Lunatone @ Iron Ball Lv. 100 -- Levitate
+Nature: Modest - EVs: 160 HP / 160 Def / 188 SAtk (100.0 %)  
+Psychic
+Cosmic Power
+Gyro Ball
+Stealth Rock
+# 23 - 0 % (3 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)[Rock]  
+Psychic
+Moonlight
+Hidden Power
+Stealth Rock
+# 24 - 0 % (1 battles)
+
+Lunatone @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Earth Power
+Moonblast
+# 25 - 0 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Ancient Power
+Earth Power
+Moonblast
+# 1 - 47.62 % (10 battles)
+
+Lunatone @ Light Clay Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Light Screen
+Reflect
+Stealth Rock
+# 2 - 23.81 % (5 battles)
+
+Lunatone @ Iron Ball Lv. 100 -- Levitate
+Nature: Modest - EVs: 160 HP / 160 Def / 188 SAtk (100.0 %)  
+Psychic
+Cosmic Power
+Gyro Ball
+Stealth Rock
+# 3 - 14.29 % (3 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)[Rock]  
+Psychic
+Moonlight
+Hidden Power
+Stealth Rock
+# 4 - 4.76 % (1 battles)
+
+Lunatone @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Earth Power
+Moonblast
+# 5 - 4.76 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Ancient Power
+Earth Power
+Moonblast
+# 6 - 4.76 % (1 battles)
+
+Lunatone @ Life Orb Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Earth Power
+Charge Beam
+Moonblast
+# 7 - 0 % (79 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 168 HP / 252 Def / 88 Spd (92.4 %)  
+Substitute
+Baton Pass
+Ancient Power
+Cosmic Power
+# 8 - 0 % (10 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (70.0 %)  
+Substitute
+Baton Pass
+Cosmic Power
+Moonblast
+# 9 - 0 % (8 battles)
+
+Lunatone @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Earth Power
+Grass Knot
+Psyshock
+# 10 - 0 % (7 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Baton Pass
+Cosmic Power
+Moonblast
+# 11 - 0 % (6 battles)
+
+Lunatone @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Earth Power
+Moonblast
+# 12 - 0 % (5 battles)
+
+Lunatone @ Assault Vest Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (100.0 %)  
+Shadow Ball
+Earth Power
+Psyshock
+Moonblast
+# 13 - 0 % (4 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (100.0 %)  
+Psychic
+Moonlight
+Calm Mind
+Earth Power
+# 14 - 0 % (3 battles)
+
+Lunatone @ Light Clay Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Light Screen
+Reflect
+Stealth Rock
+# 15 - 0 % (3 battles)
+
+Lunatone @ Pixie Plate Lv. 100 -- Levitate
+Nature: Modest - EVs: 208 Def / 252 SAtk / 48 SDef (100.0 %)  
+Moonlight
+Future Sight
+Rock Polish
+Moonblast
+# 16 - 0 % (2 battles)
+
+Lunatone @ Life Orb Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Psychic
+Rock Polish
+Earth Power
+# 17 - 0 % (1 battles)
+
+Lunatone @ (No Item) Lv. 100 -- Levitate
+Nature: Hardy - EVs: 40 HP / 72 Atk / 112 Def / 4 SAtk / 28 SDef / 252 Spd (100.0 %)  
+Rock Throw
+Explosion
+Endure
+Embargo
+# 18 - 0 % (1 battles)
+
+Lunatone @ Choice Band Lv. 100 -- Levitate
+Nature: Lonely - EVs: 252 Atk (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Explosion
+# 19 - 0 % (1 battles)
+
+Lunatone @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Earth Power
+Grass Knot
+Moonblast
+# 20 - 0 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+(No Move)
+Substitute
+Baton Pass
+Cosmic Power
+# 21 - 0 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Ice Beam
+Psychic
+Reflect
+Moonblast
+# 22 - 0 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Toxic
+Psychic
+Moonlight
+Stealth Rock
+# 23 - 0 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 76 HP / 252 SAtk / 180 SDef (100.0 %)  
+Psychic
+Hypnosis
+Grass Knot
+Moonblast
+# 24 - 0 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)[Rock]  
+Psychic
+Moonlight
+Hidden Power
+Stealth Rock
+# 25 - 0 % (1 battles)
+
+Lunatone @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Substitute
+Pain Split
+Baton Pass
+Cosmic Power

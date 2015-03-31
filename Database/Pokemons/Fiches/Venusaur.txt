@@ -1,0 +1,405 @@
+Grass/Poison
+80/82/83/100/100/80
+100.0
+87.5/12.5
+
+# 1 - 17.47 % (15843 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (56.0 %) / Chlorophyll (44.0 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (9.1 %)  
+Leech Seed
+Sludge Bomb
+Giga Drain
+Synthesis
+# 2 - 11.07 % (10045 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (47.4 %) / Chlorophyll (52.6 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (5.1 %)[Fire]  
+Sludge Bomb
+Giga Drain
+Synthesis
+Hidden Power
+# 3 - 7.03 % (6375 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (52.9 %) / Chlorophyll (47.1 %)
+Nature: Bold - EVs: 252 HP / 128 Def / 128 SDef (7.4 %)  
+Leech Seed
+Sleep Powder
+Sludge Bomb
+Giga Drain
+# 4 - 4.91 % (4454 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (46.4 %) / Chlorophyll (53.6 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (17.0 %)  
+Sleep Powder
+Sludge Bomb
+Giga Drain
+Synthesis
+# 5 - 3.75 % (3405 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (65.8 %) / Chlorophyll (34.2 %)
+Nature: Relaxed - EVs: 4 HP / 252 Def / 252 SDef (16.8 %)  
+Earthquake
+Sludge Bomb
+Giga Drain
+Synthesis
+# 6 - 3.28 % (2979 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (58.6 %) / Chlorophyll (41.4 %)
+Nature: Modest - EVs: 248 HP / 252 SAtk / 8 Spd (10.7 %)[Fire]  
+Leech Seed
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 7 - 1.97 % (1791 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (23.1 %) / Chlorophyll (76.9 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (54.6 %)[Fire]  
+Sleep Powder
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 8 - 1.83 % (1658 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (12.4 %) / Chlorophyll (87.6 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (27.3 %)[Fire]  
+Earthquake
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 9 - 1.79 % (1620 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (7.2 %) / Chlorophyll (92.8 %)
+Nature: Modest - EVs: 108 Def / 192 SAtk / 112 SDef / 96 Spd (15.4 %)[Fire]  
+Growth
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 10 - 1.07 % (970 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (39.5 %) / Chlorophyll (60.5 %)
+Nature: Sassy - EVs: 252 HP / 68 Def / 188 SDef (18.1 %)[Fire]  
+Leech Seed
+Sludge Bomb
+Synthesis
+Hidden Power
+# 11 - 1.03 % (932 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (60.5 %) / Chlorophyll (39.5 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (15.3 %)  
+Leech Seed
+Toxic
+Giga Drain
+Synthesis
+# 12 - 1.02 % (929 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (66.5 %) / Chlorophyll (33.5 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (22.3 %)  
+Leech Seed
+Sleep Powder
+Sludge Bomb
+Synthesis
+# 13 - 0.95 % (865 battles)
+
+Venusaur @ Life Orb Lv. 100 -- Overgrow (0.3 %) / Chlorophyll (99.7 %)
+Nature: Timid - EVs: 72 HP / 4 Def / 252 SAtk / 180 Spd (40.7 %)[Fire]  
+Growth
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 14 - 0.87 % (791 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (62.5 %) / Chlorophyll (37.5 %)
+Nature: Relaxed - EVs: 124 HP / 68 Atk / 80 Def / 128 SAtk / 108 SDef (54.7 %) 
+Growth
+Earthquake
+Sludge Bomb
+Giga Drain
+# 15 - 0.86 % (783 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (48.5 %) / Chlorophyll (51.5 %)
+Nature: Calm - EVs: 252 HP / 144 Def / 112 SDef (15.7 %)[Ground]  
+Leech Seed
+Giga Drain
+Synthesis
+Hidden Power
+# 16 - 0.82 % (741 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (88.8 %) / Chlorophyll (11.2 %)
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (19.7 %)  
+Leech Seed
+Substitute
+Sludge Bomb
+Giga Drain
+# 17 - 0.82 % (740 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (73.8 %) / Chlorophyll (26.2 %)
+Nature: Relaxed - EVs: 252 HP / 232 Def / 24 SAtk (38.2 %)  
+Leech Seed
+Earthquake
+Sludge Bomb
+Giga Drain
+# 18 - 0.73 % (658 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (74.6 %) / Chlorophyll (25.4 %)
+Nature: Calm - EVs: 156 HP / 204 SAtk / 148 SDef (19.3 %)  
+Leech Seed
+Protect
+Sludge Bomb
+Giga Drain
+# 19 - 0.70 % (635 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (0.8 %) / Chlorophyll (99.2 %)
+Nature: Modest - EVs: 16 HP / 120 Def / 252 SAtk / 120 SDef (23.8 %)[Fire]  
+Sleep Powder
+Giga Drain
+Synthesis
+Hidden Power
+# 20 - 0.63 % (571 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (83.2 %) / Chlorophyll (16.8 %)
+Nature: Bold - EVs: 252 HP / 104 Def / 88 SAtk / 64 SDef (27.8 %)  
+Leech Seed
+Sludge Bomb
+Synthesis
+Energy Ball
+# 21 - 0.60 % (542 battles)
+
+Venusaur @ Black Sludge Lv. 100 -- Overgrow (8.7 %) / Chlorophyll (91.3 %)
+Nature: Modest - EVs: 200 HP / 252 SAtk / 56 Spd (47.0 %)  
+Leech Seed
+Sleep Powder
+Sludge Bomb
+Giga Drain
+# 22 - 0.59 % (537 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (63.3 %) / Chlorophyll (36.7 %)
+Nature: Bold - EVs: 248 HP / 128 Def / 128 SDef / 4 Spd (16.9 %)  
+Sludge Bomb
+Giga Drain
+Synthesis
+Knock Off
+# 23 - 0.53 % (482 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (71.8 %) / Chlorophyll (28.2 %)
+Nature: Bold - EVs: 252 HP / 4 Def / 252 SDef (13.1 %)  
+Leech Seed
+Toxic
+Sludge Bomb
+Giga Drain
+# 24 - 0.52 % (469 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Chlorophyll
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (93.8 %)  
+Leech Seed
+Sleep Powder
+Synthesis
+Knock Off
+# 25 - 0.42 % (42 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Chlorophyll
+Nature: Calm - EVs: 252 HP / 172 Def / 84 SDef (27.2 %)  
+Leech Seed
+Sleep Powder
+Giga Drain
+Synthesis
+# 1 - 20.86 % (2144 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (52.1 %) / Chlorophyll (47.9 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (7.4 %)  
+Leech Seed
+Sludge Bomb
+Giga Drain
+Synthesis
+# 2 - 12.80 % (1316 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (40.0 %) / Chlorophyll (60.0 %)
+Nature: Modest - EVs: 28 HP / 252 SAtk / 228 Spd (6.8 %)[Fire]  
+Sludge Bomb
+Giga Drain
+Synthesis
+Hidden Power
+# 3 - 6.31 % (649 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (54.2 %) / Chlorophyll (45.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (8.2 %)  
+Leech Seed
+Sleep Powder
+Sludge Bomb
+Giga Drain
+# 4 - 5.66 % (582 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (40.0 %) / Chlorophyll (60.0 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (15.8 %)  
+Sleep Powder
+Sludge Bomb
+Giga Drain
+Synthesis
+# 5 - 3.85 % (396 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (65.4 %) / Chlorophyll (34.6 %)
+Nature: Relaxed - EVs: 4 HP / 252 Def / 252 SDef (15.4 %)  
+Earthquake
+Sludge Bomb
+Giga Drain
+Synthesis
+# 6 - 3.57 % (367 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (62.7 %) / Chlorophyll (37.3 %)
+Nature: Modest - EVs: 244 HP / 108 Def / 148 SAtk / 8 Spd (18.3 %)[Fire]  
+Leech Seed
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 7 - 2.02 % (208 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (94.7 %) / Chlorophyll (5.3 %)
+Nature: Calm - EVs: 252 HP / 252 SDef / 4 Spd (91.8 %)  
+Toxic
+Sludge Bomb
+Giga Drain
+Synthesis
+# 8 - 1.78 % (183 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Chlorophyll
+Nature: Modest - EVs: 104 HP / 152 Def / 252 SDef (30.6 %)[Fire]  
+Sleep Powder
+Giga Drain
+Synthesis
+Hidden Power
+# 9 - 1.68 % (173 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (14.5 %) / Chlorophyll (85.5 %)
+Nature: Modest - EVs: 248 HP / 252 SAtk / 8 Spd (37.0 %)[Fire]  
+Earthquake
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 10 - 1.63 % (168 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (35.1 %) / Chlorophyll (64.9 %)
+Nature: Modest - EVs: 248 HP / 252 SAtk / 8 Spd (17.9 %)[Fire]  
+Sleep Powder
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 11 - 1.14 % (117 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (59.8 %) / Chlorophyll (40.2 %)
+Nature: Bold - EVs: 252 HP / 140 Def / 112 SDef (17.1 %)  
+Leech Seed
+Toxic
+Giga Drain
+Synthesis
+# 12 - 1.04 % (107 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (49.5 %) / Chlorophyll (50.5 %)
+Nature: Calm - EVs: 252 HP / 144 Def / 112 SDef (14.0 %)[Ground]  
+Leech Seed
+Giga Drain
+Synthesis
+Hidden Power
+# 13 - 1.03 % (106 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (69.8 %) / Chlorophyll (30.2 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (17.9 %)  
+Leech Seed
+Sleep Powder
+Sludge Bomb
+Synthesis
+# 14 - 0.89 % (91 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (50.5 %) / Chlorophyll (49.5 %)
+Nature: Careful - EVs: 248 HP / 92 Def / 168 SDef (19.8 %)[Fire]  
+Leech Seed
+Sludge Bomb
+Synthesis
+Hidden Power
+# 15 - 0.83 % (85 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (67.1 %) / Chlorophyll (32.9 %)
+Nature: Modest - EVs: 136 HP / 252 SAtk / 120 Spd (21.2 %)  
+Leech Seed
+Substitute
+Sludge Bomb
+Giga Drain
+# 16 - 0.79 % (81 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (85.2 %) / Chlorophyll (14.8 %)
+Nature: Bold - EVs: 252 HP / 104 Def / 88 SAtk / 64 SDef (46.9 %)  
+Leech Seed
+Sludge Bomb
+Synthesis
+Energy Ball
+# 17 - 0.77 % (79 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (98.7 %) / Chlorophyll (1.3 %)
+Nature: Calm - EVs: 248 HP / 132 Def / 128 SDef (81.0 %)[Fire]  
+Leech Seed
+Sleep Powder
+Sludge Bomb
+Hidden Power
+# 18 - 0.73 % (75 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow
+Nature: Sassy - EVs: 252 HP / 84 Def / 172 SDef (50.7 %)  
+Toxic
+Giga Drain
+Synthesis
+Knock Off
+# 19 - 0.70 % (72 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (69.4 %) / Chlorophyll (30.6 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (16.7 %)  
+Sludge Bomb
+Giga Drain
+Synthesis
+Knock Off
+# 20 - 0.60 % (62 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (98.4 %) / Chlorophyll (1.6 %)
+Nature: Modest - EVs: 128 HP / 252 SAtk / 128 SDef (90.3 %)  
+Sleep Powder
+Sludge Bomb
+Giga Drain
+Knock Off
+# 21 - 0.54 % (56 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (41.1 %) / Chlorophyll (58.9 %)
+Nature: Calm - EVs: 196 HP / 60 Def / 252 SDef (30.4 %)  
+Leech Seed
+Protect
+Sludge Bomb
+Giga Drain
+# 22 - 0.50 % (51 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (51.0 %) / Chlorophyll (49.0 %)
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (39.2 %)  
+Roar
+Leech Seed
+Sludge Bomb
+Synthesis
+# 23 - 0.50 % (51 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Chlorophyll
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)[Fire]  
+Sludge Bomb
+Giga Drain
+Hidden Power
+Knock Off
+# 24 - 0.49 % (50 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (16.0 %) / Chlorophyll (84.0 %)
+Nature: Calm - EVs: 252 HP / 136 Def / 60 SAtk / 60 SDef (54.0 %)  
+Roar
+Leech Seed
+Sludge Bomb
+Giga Drain
+# 25 - 0.46 % (47 battles)
+
+Venusaur @ Venusaurite Lv. 100 -- Overgrow (19.1 %) / Chlorophyll (80.9 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (80.9 %)  
+Roar
+Sludge Bomb
+Giga Drain
+Synthesis

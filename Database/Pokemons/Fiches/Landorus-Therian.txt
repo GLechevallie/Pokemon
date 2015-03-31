@@ -1,0 +1,405 @@
+Ground/Flying
+89/145/90/105/80/91
+68.0
+100/0
+
+# 1 - 15.57 % (6311 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (16.3 %)  
+Earthquake
+U-turn
+Stone Edge
+Stealth Rock
+# 2 - 10.68 % (4330 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (17.5 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 3 - 6.76 % (2741 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (26.1 %)  
+Earthquake
+Superpower
+U-turn
+Stone Edge
+# 4 - 6.60 % (2676 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (14.1 %)  
+Earthquake
+Knock Off
+U-turn
+Stealth Rock
+# 5 - 3.22 % (1307 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (17.4 %)  
+Earthquake
+U-turn
+Stone Edge
+Stealth Rock
+# 6 - 2.91 % (1178 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Naive - EVs: 248 HP / 172 Def / 88 Spd (22.1 %)[Ice]  
+Earthquake
+Hidden Power
+U-turn
+Stealth Rock
+# 7 - 2.70 % (1095 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (23.9 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 8 - 2.31 % (936 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 184 HP / 252 Def / 72 Spd (13.9 %)  
+Earthquake
+Knock Off
+Stone Edge
+Stealth Rock
+# 9 - 1.85 % (752 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.1 %)  
+Earthquake
+Rock Slide
+Knock Off
+U-turn
+# 10 - 1.85 % (752 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Naive - EVs: 4 HP / 252 Atk / 252 Spd (26.9 %)[Ice]  
+Earthquake
+Hidden Power
+U-turn
+Stone Edge
+# 11 - 1.81 % (735 battles)
+
+Landorus @ Rocky Helmet Lv. 100 -- Sand Force
+Nature: Jolly - EVs: 244 HP / 176 Def / 88 Spd (30.5 %)  
+Earthquake
+U-turn
+Stone Edge
+Stealth Rock
+# 12 - 1.48 % (602 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (33.6 %)  
+Earthquake
+Explosion
+U-turn
+Stone Edge
+# 13 - 1.45 % (587 battles)
+
+Landorus @ Assault Vest Lv. 100 -- Sand Force
+Nature: Impish - EVs: 4 Atk / 252 Def / 252 SDef (24.4 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 14 - 1.39 % (565 battles)
+
+Landorus @ Choice Band Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (47.8 %)  
+Earthquake
+Superpower
+U-turn
+Stone Edge
+# 15 - 1.13 % (460 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 252 Spd (38.0 %)  
+Earthquake
+Explosion
+Knock Off
+U-turn
+# 16 - 0.97 % (393 battles)
+
+Landorus @ Choice Band Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 252 Spd (30.5 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 17 - 0.91 % (370 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 248 HP / 52 Atk / 92 Def / 116 Spd (25.1 %)  
+Swords Dance
+Earthquake
+Rock Polish
+Stone Edge
+# 18 - 0.89 % (362 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 200 HP / 216 Def / 92 Spd (17.4 %)  
+Earthquake
+Rock Slide
+U-turn
+Stealth Rock
+# 19 - 0.84 % (339 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (42.2 %)  
+Earthquake
+Superpower
+Knock Off
+U-turn
+# 20 - 0.80 % (325 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (50.8 %)  
+Earthquake
+U-turn
+Stealth Rock
+Smack Down
+# 21 - 0.72 % (291 battles)
+
+Landorus @ Rocky Helmet Lv. 100 -- Sand Force
+Nature: Impish - EVs: 140 HP / 252 Def / 116 Spd (62.9 %)  
+Earthquake
+Toxic
+U-turn
+Stealth Rock
+# 22 - 0.70 % (285 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.9 %)  
+Earthquake
+Rock Slide
+Superpower
+U-turn
+# 23 - 0.70 % (282 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (59.2 %)  
+Earthquake
+Outrage
+U-turn
+Stone Edge
+# 24 - 0.70 % (282 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (71.3 %)  
+Earthquake
+Rock Slide
+Knock Off
+Stealth Rock
+# 25 - 0.61 % (248 battles)
+
+Landorus @ Earth Plate Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 204 HP / 252 Atk / 52 Spd (60.1 %)  
+Earthquake
+U-turn
+Stone Edge
+Stealth Rock
+# 1 - 16.21 % (3161 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (18.6 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 2 - 11.51 % (2245 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (11.4 %)  
+Earthquake
+U-turn
+Stone Edge
+Stealth Rock
+# 3 - 7.85 % (1531 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (21.8 %)  
+Earthquake
+Knock Off
+U-turn
+Stealth Rock
+# 4 - 7.18 % (1399 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (34.5 %)  
+Earthquake
+Superpower
+U-turn
+Stone Edge
+# 5 - 4.53 % (884 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Jolly - EVs: 148 HP / 252 Atk / 108 Spd (13.0 %)  
+Earthquake
+U-turn
+Stone Edge
+Stealth Rock
+# 6 - 3.14 % (613 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (20.9 %)  
+Earthquake
+Knock Off
+Stone Edge
+Stealth Rock
+# 7 - 3.09 % (603 battles)
+
+Landorus @ Rocky Helmet Lv. 100 -- Sand Force
+Nature: Jolly - EVs: 244 HP / 176 Def / 88 Spd (64.2 %)  
+Earthquake
+U-turn
+Stone Edge
+Stealth Rock
+# 8 - 2.53 % (494 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 252 Spd (43.9 %)  
+Earthquake
+Explosion
+U-turn
+Stone Edge
+# 9 - 2.34 % (456 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Naive - EVs: 252 HP / 168 Def / 88 Spd (27.2 %)[Ice]  
+Earthquake
+Hidden Power
+U-turn
+Stealth Rock
+# 10 - 2.04 % (397 battles)
+
+Landorus @ Assault Vest Lv. 100 -- Sand Force
+Nature: Impish - EVs: 4 Atk / 252 Def / 252 SDef (47.1 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 11 - 2.03 % (396 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (29.8 %)[Ice]  
+Earthquake
+Hidden Power
+U-turn
+Stone Edge
+# 12 - 1.87 % (365 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (35.6 %)  
+Earthquake
+Rock Slide
+Knock Off
+U-turn
+# 13 - 1.74 % (339 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 252 Spd (50.1 %)  
+Earthquake
+Explosion
+Knock Off
+U-turn
+# 14 - 1.31 % (255 battles)
+
+Landorus @ Choice Band Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 252 Spd (61.2 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 15 - 1.17 % (229 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 200 HP / 48 Atk / 252 Def / 8 Spd (35.4 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge
+# 16 - 1.06 % (207 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (42.0 %)  
+Earthquake
+Rock Slide
+U-turn
+Stealth Rock
+# 17 - 0.99 % (193 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 64 HP / 252 Atk / 192 Spd (99.0 %)  
+Earthquake
+Explosion
+U-turn
+Stealth Rock
+# 18 - 0.96 % (188 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.8 %)  
+Earthquake
+Rock Slide
+Superpower
+U-turn
+# 19 - 0.89 % (174 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (20.1 %)  
+Earthquake
+Rock Slide
+U-turn
+Stealth Rock
+# 20 - 0.86 % (168 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 72 Def / 184 Spd (100.0 %)  
+Earthquake
+Explosion
+Return
+U-turn
+# 21 - 0.83 % (161 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 252 Spd (64.0 %)  
+Earthquake
+Knock Off
+U-turn
+Stealth Rock
+# 22 - 0.82 % (160 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (50.6 %)  
+Earthquake
+Toxic
+U-turn
+Stealth Rock
+# 23 - 0.70 % (137 battles)
+
+Landorus @ Choice Band Lv. 100 -- Sand Force
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (92.0 %)  
+Earthquake
+Explosion
+Superpower
+U-turn
+# 24 - 0.69 % (134 battles)
+
+Landorus @ Rocky Helmet Lv. 100 -- Sand Force
+Nature: Adamant - EVs: 252 Atk / 252 Spd (56.0 %)  
+Earthquake
+Toxic
+U-turn
+Stealth Rock
+# 25 - 0.66 % (128 battles)
+
+Landorus @ Leftovers Lv. 100 -- Sand Force
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (68.8 %)  
+Earthquake
+Rock Slide
+Knock Off
+Stealth Rock

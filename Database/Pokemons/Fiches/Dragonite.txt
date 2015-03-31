@@ -1,0 +1,405 @@
+Dragon/Flying
+91/134/95/100/100/80
+210.0
+50/50
+
+# 1 - 10.41 % (9351 battles)
+
+Dragonite @ Choice Band Lv. 100 -- Inner Focus (2.2 %) / Multiscale (97.8 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (28.2 %)  
+Fire Punch
+Earthquake
+Outrage
+Extreme Speed
+# 2 - 8.23 % (7387 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (3.3 %) / Multiscale (96.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (20.1 %)  
+Earthquake
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 3 - 6.64 % (5967 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (0.6 %) / Multiscale (99.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (42.2 %)  
+Fire Punch
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 4 - 4.96 % (4450 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Inner Focus (4.7 %) / Multiscale (95.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.6 %)  
+Earthquake
+Outrage
+Extreme Speed
+Dragon Dance
+# 5 - 2.47 % (2222 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Inner Focus (2.5 %) / Multiscale (97.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.5 %)  
+Fire Punch
+Outrage
+Extreme Speed
+Dragon Dance
+# 6 - 1.98 % (1777 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (10.7 %) / Multiscale (89.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.5 %)  
+Earthquake
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 7 - 1.96 % (1756 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (5.8 %) / Multiscale (94.2 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (25.3 %)  
+Earthquake
+Outrage
+Extreme Speed
+Dragon Dance
+# 8 - 1.70 % (1531 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Inner Focus (1.1 %) / Multiscale (98.9 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (28.3 %)  
+Fire Punch
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 9 - 1.65 % (1480 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Inner Focus (2.2 %) / Multiscale (97.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (54.1 %)  
+Earthquake
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 10 - 1.55 % (1393 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (41.9 %) / Multiscale (58.1 %)
+Nature: Lonely - EVs: 252 Atk / 252 Spd (39.6 %)  
+Fire Punch
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 11 - 1.27 % (1140 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (0.2 %) / Multiscale (99.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (27.6 %)  
+Fire Punch
+Earthquake
+Dragon Claw
+Dragon Dance
+# 12 - 1.13 % (1012 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (5.5 %) / Multiscale (94.5 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (44.0 %)  
+Fire Punch
+Earthquake
+Outrage
+Dragon Dance
+# 13 - 1.07 % (961 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (0.4 %) / Multiscale (99.6 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (17.8 %)  
+Extreme Speed
+Dragon Claw
+Dragon Dance
+Roost
+# 14 - 1.05 % (939 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (8.4 %) / Multiscale (91.6 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (50.1 %)  
+Fire Punch
+Outrage
+Extreme Speed
+Dragon Dance
+# 15 - 1.03 % (927 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (1.0 %) / Multiscale (99.0 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (27.5 %)  
+Fire Punch
+Outrage
+Extreme Speed
+Dragon Dance
+# 16 - 0.91 % (818 battles)
+
+Dragonite @ Choice Band Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 Spd (28.1 %)  
+Fire Punch
+Earthquake
+Extreme Speed
+Dragon Claw
+# 17 - 0.87 % (784 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Multiscale
+Nature: Jolly - EVs: 4 HP / 252 Atk / 48 Def / 8 SDef / 196 Spd (56.6 %)  
+Fire Punch
+Dragon Claw
+Dragon Dance
+Roost
+# 18 - 0.80 % (716 battles)
+
+Dragonite @ Choice Band Lv. 100 -- Inner Focus (8.4 %) / Multiscale (91.6 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (22.6 %)  
+Fire Punch
+Outrage
+Extreme Speed
+Superpower
+# 19 - 0.77 % (693 battles)
+
+Dragonite @ Choice Band Lv. 100 -- Inner Focus (0.3 %) / Multiscale (99.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (38.0 %)  
+Earthquake
+Outrage
+Extreme Speed
+Superpower
+# 20 - 0.75 % (671 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (3.4 %) / Multiscale (96.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.5 %)  
+Ice Punch
+Earthquake
+Extreme Speed
+Dragon Dance
+# 21 - 0.73 % (654 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (4.0 %) / Multiscale (96.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.6 %)  
+Fire Punch
+Dragon Claw
+Dragon Dance
+Roost
+# 22 - 0.72 % (649 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (12.5 %) / Multiscale (87.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (26.2 %)  
+Earthquake
+Dragon Claw
+Dragon Dance
+Roost
+# 23 - 0.67 % (604 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (9.6 %) / Multiscale (90.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (64.7 %)  
+Fire Punch
+Earthquake
+Dragon Claw
+Dragon Dance
+# 24 - 0.61 % (552 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (2.7 %) / Multiscale (97.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (33.7 %)  
+Extreme Speed
+Dragon Claw
+Dragon Dance
+Iron Head
+# 25 - 0.59 % (534 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (8.8 %) / Multiscale (91.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.5 %)  
+Extreme Speed
+Dragon Claw
+Dragon Dance
+Roost
+# 1 - 10.57 % (897 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (0.4 %) / Multiscale (99.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (49.9 %)  
+Fire Punch
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 2 - 6.41 % (544 battles)
+
+Dragonite @ Choice Band Lv. 100 -- Inner Focus (3.7 %) / Multiscale (96.3 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (28.1 %)  
+Fire Punch
+Earthquake
+Outrage
+Extreme Speed
+# 3 - 6.39 % (542 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (1.8 %) / Multiscale (98.2 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (22.3 %)  
+Earthquake
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 4 - 5.14 % (436 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Inner Focus (0.5 %) / Multiscale (99.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (80.7 %)  
+Earthquake
+Outrage
+Extreme Speed
+Dragon Dance
+# 5 - 3.88 % (329 battles)
+
+Dragonite @ Choice Band Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Earthquake
+Outrage
+Extreme Speed
+Dragon Tail
+# 6 - 2.66 % (226 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Multiscale
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (52.7 %)  
+Fire Punch
+Outrage
+Extreme Speed
+Dragon Dance
+# 7 - 2.31 % (196 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (54.6 %) / Multiscale (45.4 %)
+Nature: Adamant - EVs: 48 HP / 252 Atk / 84 Def / 124 SDef (46.4 %)  
+Earthquake
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 8 - 2.09 % (177 battles)
+
+Dragonite @ Wide Lens Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 252 Atk / 128 Def / 128 SDef (79.7 %)  
+Rock Slide
+Extreme Speed
+Aerial Ace
+Dragon Tail
+# 9 - 1.76 % (149 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Multiscale
+Nature: Jolly - EVs: 252 Atk / 252 Spd (45.6 %)  
+Fire Punch
+Extreme Speed
+Dragon Dance
+Dragon Rush
+# 10 - 1.47 % (125 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (41.6 %)  
+Fire Punch
+Earthquake
+Dragon Claw
+Dragon Dance
+# 11 - 1.39 % (118 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (53.4 %)  
+Fire Punch
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 12 - 1.28 % (109 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (85.3 %)  
+Fire Punch
+Earthquake
+Outrage
+Dragon Dance
+# 13 - 1.16 % (98 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (4.1 %) / Multiscale (95.9 %)
+Nature: Gentle - EVs: 4 HP / 252 Atk / 252 SDef (24.5 %)  
+Earthquake
+Outrage
+Extreme Speed
+Dragon Dance
+# 14 - 1.01 % (86 battles)
+
+Dragonite @ Lum Berry Lv. 100 -- Inner Focus (5.8 %) / Multiscale (94.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (29.1 %)  
+Earthquake
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 15 - 0.92 % (78 battles)
+
+Dragonite @ Life Orb Lv. 100 -- Multiscale
+Nature: Mild - EVs: 56 HP / 252 SAtk / 200 Spd (70.5 %)  
+Flamethrower
+Extreme Speed
+Superpower
+Draco Meteor
+# 16 - 0.85 % (72 battles)
+
+Dragonite @ Persim Berry Lv. 100 -- Inner Focus (2.8 %) / Multiscale (97.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Fire Punch
+Outrage
+Dragon Dance
+Iron Head
+# 17 - 0.77 % (65 battles)
+
+Dragonite @ Choice Band Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (24.6 %)  
+Earthquake
+Outrage
+Extreme Speed
+Superpower
+# 18 - 0.74 % (63 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (44.4 %)  
+Fire Punch
+Dragon Claw
+Dragon Dance
+Roost
+# 19 - 0.67 % (57 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (80.7 %)  
+Fire Punch
+Thunder Punch
+Dragon Claw
+Dragon Dance
+# 20 - 0.65 % (55 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (98.2 %)  
+Earthquake
+Extreme Speed
+Dragon Dance
+Aqua Tail
+# 21 - 0.64 % (54 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Multiscale
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (88.9 %)  
+Fire Punch
+Substitute
+Dragon Claw
+Dragon Dance
+# 22 - 0.64 % (54 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Inner Focus (1.9 %) / Multiscale (98.1 %)
+Nature: Impish - EVs: 252 HP / 128 Def / 128 SDef (37.0 %)  
+Earthquake
+Dragon Claw
+Dragon Dance
+Roost
+# 23 - 0.61 % (52 battles)
+
+Dragonite @ Weakness Policy Lv. 100 -- Multiscale
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (32.7 %)  
+Extreme Speed
+Dragon Claw
+Dragon Dance
+Iron Head
+# 24 - 0.60 % (51 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (17.6 %) / Multiscale (82.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (25.5 %)  
+Fire Punch
+Extreme Speed
+Dragon Claw
+Dragon Dance
+# 25 - 0.57 % (48 battles)
+
+Dragonite @ Leftovers Lv. 100 -- Inner Focus (10.4 %) / Multiscale (89.6 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (37.5 %)  
+Fire Punch
+Outrage
+Extreme Speed
+Dragon Dance

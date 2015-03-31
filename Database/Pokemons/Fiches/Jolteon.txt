@@ -1,0 +1,405 @@
+Electric/-
+65/65/60/110/95/130
+24.5
+87.5/12.5
+
+# 1 - 9.82 % (2181 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb (85.2 %) / Quick Feet (14.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (35.8 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 2 - 8.57 % (1904 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb (98.2 %) / Quick Feet (1.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (38.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 3 - 3.75 % (832 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb (99.9 %) / Quick Feet (0.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (46.2 %)[Grass]  
+Thunderbolt
+Hidden Power
+Signal Beam
+Volt Switch
+# 4 - 3.31 % (735 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Hasty - EVs: 252 SAtk / 4 SDef / 252 Spd (89.0 %)[Ice]  
+Thunder
+Hidden Power
+Shadow Ball
+Volt Switch
+# 5 - 3.22 % (715 battles)
+
+Jolteon @ Air Balloon Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.6 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 6 - 2.30 % (511 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb (99.0 %) / Quick Feet (1.0 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (26.0 %)  
+Thunderbolt
+Shadow Ball
+Signal Beam
+Volt Switch
+# 7 - 2.08 % (463 battles)
+
+Jolteon @ Expert Belt Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (95.0 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Signal Beam
+# 8 - 1.97 % (438 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (28.3 %)[Ice]  
+Thunderbolt
+Hidden Power
+Signal Beam
+Volt Switch
+# 9 - 1.12 % (248 battles)
+
+Jolteon @ Leftovers Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (34.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 10 - 1.07 % (238 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb (99.2 %) / Quick Feet (0.8 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (25.6 %)[Fighting]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Signal Beam
+# 11 - 0.98 % (217 battles)
+
+Jolteon @ Expert Belt Lv. 100 -- Volt Absorb
+Nature: Jolly - EVs: 4 HP / 252 SAtk / 252 Spd (35.9 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 12 - 0.94 % (209 battles)
+
+Jolteon @ Toxic Orb Lv. 100 -- Quick Feet
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (92.3 %)[Ice]  
+Protect
+Hidden Power
+Shadow Ball
+Volt Switch
+# 13 - 0.88 % (195 battles)
+
+Jolteon @ Focus Sash Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 252 SAtk / 252 Spd (88.7 %)  
+Thunderbolt
+Thunder Wave
+Shadow Ball
+Volt Switch
+# 14 - 0.85 % (188 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb (94.1 %) / Quick Feet (5.9 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (57.4 %)  
+Thunderbolt
+Shadow Ball
+Hyper Voice
+Volt Switch
+# 15 - 0.83 % (185 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb (98.9 %) / Quick Feet (1.1 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (40.5 %)  
+Thunderbolt
+Shadow Ball
+Signal Beam
+Volt Switch
+# 16 - 0.78 % (174 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.8 %)[Ice]  
+Hidden Power
+Shadow Ball
+Signal Beam
+Volt Switch
+# 17 - 0.77 % (171 battles)
+
+Jolteon @ Choice Scarf Lv. 100 -- Volt Absorb (87.1 %) / Quick Feet (12.9 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (38.6 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 18 - 0.73 % (162 battles)
+
+Jolteon @ Air Balloon Lv. 100 -- Volt Absorb (91.4 %) / Quick Feet (8.6 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (56.2 %)[Grass]  
+Thunderbolt
+Hidden Power
+Signal Beam
+Volt Switch
+# 19 - 0.71 % (158 battles)
+
+Jolteon @ Air Balloon Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Thunderbolt
+Baton Pass
+Hidden Power
+Work Up
+# 20 - 0.70 % (155 battles)
+
+Jolteon @ Leftovers Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 252 SAtk / 252 Spd (39.4 %)[Ice]  
+Thunderbolt
+Hidden Power
+Signal Beam
+Volt Switch
+# 21 - 0.69 % (154 battles)
+
+Jolteon @ Focus Sash Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Thunderbolt
+Detect
+Hidden Power
+Volt Switch
+# 22 - 0.63 % (141 battles)
+
+Jolteon @ Magnet Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (73.0 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 23 - 0.62 % (138 battles)
+
+Jolteon @ Air Balloon Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Hyper Beam
+Thunderbolt
+Hidden Power
+Shadow Ball
+# 24 - 0.61 % (135 battles)
+
+Jolteon @ Focus Sash Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (51.1 %)[Ice]  
+Thunderbolt
+Hidden Power
+Signal Beam
+Volt Switch
+# 25 - 0.59 % (132 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (41.7 %)[Ice]  
+Thunderbolt
+Protect
+Hidden Power
+Volt Switch
+# 1 - 19.84 % (1387 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb (99.5 %) / Quick Feet (0.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (49.5 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 2 - 8.24 % (576 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb (91.1 %) / Quick Feet (8.9 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.5 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 3 - 3.46 % (242 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (49.2 %)[Ice]  
+Hidden Power
+Shadow Ball
+Signal Beam
+Volt Switch
+# 4 - 3.12 % (218 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 252 SAtk / 252 Spd (41.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Signal Beam
+Volt Switch
+# 5 - 3.00 % (210 battles)
+
+Jolteon @ Choice Scarf Lv. 100 -- Volt Absorb
+Nature: Mild - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Thunderbolt
+Protect
+Hidden Power
+Volt Switch
+# 6 - 1.73 % (121 battles)
+
+Jolteon @ Toxic Orb Lv. 100 -- Quick Feet
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (99.2 %)[Ice]  
+Protect
+Hidden Power
+Shadow Ball
+Volt Switch
+# 7 - 1.66 % (116 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (51.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Signal Beam
+Volt Switch
+# 8 - 1.62 % (113 battles)
+
+Jolteon @ Leftovers Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Substitute
+Baton Pass
+Hidden Power
+Discharge
+# 9 - 1.34 % (94 battles)
+
+Jolteon @ Air Balloon Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (36.2 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 10 - 1.33 % (93 battles)
+
+Jolteon @ Air Balloon Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Signal Beam
+Charge Beam
+Volt Switch
+# 11 - 1.29 % (90 battles)
+
+Jolteon @ Leftovers Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Protect
+Wish
+Volt Switch
+# 12 - 1.13 % (79 battles)
+
+Jolteon @ Leftovers Lv. 100 -- Volt Absorb
+Nature: Hardy - EVs: 36 HP / 48 Def / 120 SAtk / 52 SDef / 252 Spd (87.3 %)  
+Thunderbolt
+Toxic
+Magnet Rise
+Volt Switch
+# 13 - 1.13 % (79 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (41.8 %)[Ice]  
+Thunderbolt
+Protect
+Hidden Power
+Volt Switch
+# 14 - 1.07 % (75 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 212 Spd (54.7 %)[Ice]  
+Hidden Power
+Shadow Ball
+Discharge
+Volt Switch
+# 15 - 0.97 % (68 battles)
+
+Jolteon @ Choice Specs Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (47.1 %)  
+Thunderbolt
+Shadow Ball
+Signal Beam
+Volt Switch
+# 16 - 0.96 % (67 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Hasty - EVs: 252 SAtk / 4 SDef / 252 Spd (88.1 %)[Ice]  
+Thunder
+Hidden Power
+Shadow Ball
+Volt Switch
+# 17 - 0.96 % (67 battles)
+
+Jolteon @ Assault Vest Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (97.0 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 18 - 0.87 % (61 battles)
+
+Jolteon @ Leftovers Lv. 100 -- Volt Absorb
+Nature: Hardy - EVs: 4 HP / 252 SAtk / 252 Spd (39.3 %)[Ice]  
+Thunderbolt
+Substitute
+Baton Pass
+Hidden Power
+# 19 - 0.83 % (58 battles)
+
+Jolteon @ Magnet Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (39.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 20 - 0.83 % (58 battles)
+
+Jolteon @ Petaya Berry Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (75.9 %)[Ice]  
+Thunderbolt
+Hidden Power
+Magnet Rise
+Charge Beam
+# 21 - 0.82 % (57 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (75.4 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Volt Switch
+# 22 - 0.79 % (55 battles)
+
+Jolteon @ Focus Sash Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 23 - 0.79 % (55 battles)
+
+Jolteon @ Life Orb Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (81.8 %)[Ice]  
+Protect
+Hidden Power
+Shadow Ball
+Volt Switch
+# 24 - 0.74 % (52 battles)
+
+Jolteon @ Leftovers Lv. 100 -- Volt Absorb
+Nature: Modest - EVs: 112 HP / 100 Def / 96 SAtk / 200 Spd (96.2 %)  
+Thunderbolt
+Shadow Ball
+Wish
+Volt Switch
+# 25 - 0.74 % (52 battles)
+
+Jolteon @ Air Balloon Lv. 100 -- Volt Absorb
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Hyper Beam
+Thunderbolt
+Hidden Power
+Shadow Ball

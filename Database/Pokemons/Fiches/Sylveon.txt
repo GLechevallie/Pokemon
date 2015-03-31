@@ -1,0 +1,405 @@
+Fairy/-
+95/65/65/110/130/60
+23.5
+87.5/12.5
+
+# 1 - 26.95 % (12518 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (1.7 %) / Pixilate (98.3 %)
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (20.4 %)  
+Protect
+Heal Bell
+Wish
+Hyper Voice
+# 2 - 9.84 % (4571 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (0.3 %) / Pixilate (99.7 %)
+Nature: Calm - EVs: 216 HP / 208 SDef / 84 Spd (18.0 %)  
+Baton Pass
+Hyper Voice
+Calm Mind
+Stored Power
+# 3 - 6.33 % (2942 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (1.1 %) / Pixilate (98.9 %)
+Nature: Calm - EVs: 252 HP / 252 SDef (19.1 %)  
+Substitute
+Baton Pass
+Hyper Voice
+Calm Mind
+# 4 - 3.20 % (1488 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (84.3 %) / Pixilate (15.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (14.9 %)  
+Protect
+Heal Bell
+Wish
+Moonblast
+# 5 - 2.00 % (931 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (0.2 %) / Pixilate (99.8 %)
+Nature: Calm - EVs: 252 HP / 252 SDef (22.7 %)  
+Toxic
+Protect
+Wish
+Hyper Voice
+# 6 - 1.81 % (843 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (96.0 %) / Pixilate (4.0 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (31.4 %)  
+Toxic
+Protect
+Wish
+Moonblast
+# 7 - 1.80 % (834 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (0.4 %) / Pixilate (99.6 %)
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 Spd (19.3 %)  
+Heal Bell
+Wish
+Hyper Voice
+Calm Mind
+# 8 - 1.60 % (744 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (0.4 %) / Pixilate (99.6 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (22.7 %)  
+Toxic
+Heal Bell
+Wish
+Hyper Voice
+# 9 - 1.30 % (602 battles)
+
+Sylveon @ Choice Specs Lv. 100 -- Pixilate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (15.1 %)[Fire]  
+Hidden Power
+Shadow Ball
+Hyper Voice
+Psyshock
+# 10 - 1.11 % (517 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (4.4 %) / Pixilate (95.6 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (87.8 %)  
+Baton Pass
+Hyper Voice
+Calm Mind
+Draining Kiss
+# 11 - 1.05 % (490 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (97.3 %) / Pixilate (2.7 %)
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (31.0 %)  
+Protect
+Wish
+Calm Mind
+Moonblast
+# 12 - 0.74 % (345 battles)
+
+Sylveon @ Choice Scarf Lv. 100 -- Pixilate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (87.8 %)[Ground] 
+Heal Bell
+Hidden Power
+Shadow Ball
+Hyper Voice
+# 13 - 0.74 % (345 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (2.0 %) / Pixilate (98.0 %)
+Nature: Bold - EVs: 120 HP / 196 Def / 176 SAtk / 16 SDef (28.1 %)  
+Protect
+Wish
+Hyper Voice
+Calm Mind
+# 14 - 0.67 % (310 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Bold - EVs: 252 HP / 168 Def / 88 SAtk (53.2 %)  
+Rest
+Sleep Talk
+Hyper Voice
+Calm Mind
+# 15 - 0.67 % (310 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (1.9 %) / Pixilate (98.1 %)
+Nature: Modest - EVs: 216 Def / 236 SAtk / 56 SDef (88.7 %)  
+Protect
+Wish
+Hyper Voice
+Moonblast
+# 16 - 0.65 % (303 battles)
+
+Sylveon @ Assault Vest Lv. 100 -- Pixilate
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (83.8 %)[Fire]  
+Hidden Power
+Shadow Ball
+Hyper Voice
+Psyshock
+# 17 - 0.62 % (289 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (11.1 %) / Pixilate (88.9 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (21.1 %)  
+Baton Pass
+Wish
+Hyper Voice
+Calm Mind
+# 18 - 0.61 % (282 battles)
+
+Sylveon @ Choice Scarf Lv. 100 -- Pixilate
+Nature: Jolly - EVs: 4 HP / 252 SAtk / 252 Spd (92.9 %)[Fire]  
+Hidden Power
+Shadow Ball
+Hyper Voice
+Psyshock
+# 19 - 0.51 % (235 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Calm - EVs: 248 HP / 4 Def / 252 SDef / 4 Spd (69.4 %)[Fire]  
+Hidden Power
+Wish
+Hyper Voice
+Calm Mind
+# 20 - 0.49 % (228 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (95.6 %) / Pixilate (4.4 %)
+Nature: Bold - EVs: 252 HP / 72 Def / 184 Spd (34.2 %)  
+Substitute
+Baton Pass
+Calm Mind
+Moonblast
+# 21 - 0.48 % (222 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (96.4 %) / Pixilate (3.6 %)
+Nature: Modest - EVs: 252 SAtk / 80 SDef / 176 Spd (75.7 %)  
+Shadow Ball
+Wish
+Calm Mind
+Moonblast
+# 22 - 0.47 % (217 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Calm - EVs: 4 HP / 252 SAtk / 252 SDef (41.5 %)  
+Wish
+Hyper Voice
+Calm Mind
+Psyshock
+# 23 - 0.46 % (216 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (28.7 %)  
+Heal Bell
+Wish
+Yawn
+Hyper Voice
+# 24 - 0.44 % (204 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Modest - EVs: 144 HP / 252 SAtk / 112 SDef (15.2 %)[Fire]  
+Heal Bell
+Hidden Power
+Wish
+Hyper Voice
+# 25 - 0.44 % (203 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (1.5 %) / Pixilate (98.5 %)
+Nature: Calm - EVs: 120 HP / 136 SAtk / 244 SDef / 8 Spd (20.2 %)  
+Heal Bell
+Baton Pass
+Wish
+Hyper Voice
+# 1 - 20.08 % (491 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (1.2 %) / Pixilate (98.8 %)
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (23.6 %)  
+Protect
+Heal Bell
+Wish
+Hyper Voice
+# 2 - 5.56 % (136 battles)
+
+Sylveon @ Choice Specs Lv. 100 -- Pixilate
+Nature: Modest - EVs: 252 HP / 252 SAtk (30.9 %)[Ground]  
+Hidden Power
+Shadow Ball
+Hyper Voice
+Psyshock
+# 3 - 3.35 % (82 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (22.0 %)  
+Toxic
+Protect
+Wish
+Hyper Voice
+# 4 - 2.29 % (56 battles)
+
+Sylveon @ Kee Berry Lv. 100 -- Cute Charm
+Nature: Bold - EVs: 4 HP / 252 Def / 12 SAtk / 240 SDef (48.2 %)  
+Reflect
+Calm Mind
+Psyshock
+Draining Kiss
+# 5 - 1.92 % (47 battles)
+
+Sylveon @ Choice Specs Lv. 100 -- Pixilate
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (66.0 %)[Fire]  
+Hyper Beam
+Hidden Power
+Hyper Voice
+Psyshock
+# 6 - 1.84 % (45 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Bold - EVs: 252 HP / 84 Def / 172 SAtk (46.7 %)  
+Substitute
+Baton Pass
+Hyper Voice
+Calm Mind
+# 7 - 1.84 % (45 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (46.7 %)  
+Protect
+Wish
+Calm Mind
+Moonblast
+# 8 - 1.72 % (42 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Careful - EVs: 36 HP / 136 Atk / 136 Def / 200 SDef (100.0 %)  
+Body Slam
+Curse
+Baton Pass
+Wish
+# 9 - 1.68 % (41 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Modest - EVs: 4 HP / 200 Def / 252 SAtk / 52 SDef (90.2 %)  
+Toxic
+Protect
+Shadow Ball
+Hyper Voice
+# 10 - 1.43 % (35 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm
+Nature: Modest - EVs: 92 HP / 96 Def / 148 SAtk / 88 SDef / 84 Spd (85.7 %)[Dark]  
+Hidden Power
+Shadow Ball
+Calm Mind
+Moonblast
+# 11 - 1.39 % (34 battles)
+
+Sylveon @ Assault Vest Lv. 100 -- Cute Charm
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (100.0 %)  
+Attract
+Shadow Ball
+Psyshock
+Moonblast
+# 12 - 1.15 % (28 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm
+Nature: Calm - EVs: 252 HP / 252 Def / 4 SDef (60.7 %)  
+Toxic
+Protect
+Wish
+Moonblast
+# 13 - 1.06 % (26 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm
+Nature: Bold - EVs: 168 HP / 252 Def / 88 SDef (100.0 %)  
+Curse
+Baton Pass
+Calm Mind
+Draining Kiss
+# 14 - 0.98 % (24 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (95.8 %) / Pixilate (4.2 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (70.8 %)  
+Toxic
+Protect
+Wish
+Draining Kiss
+# 15 - 0.98 % (24 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (87.5 %) / Pixilate (12.5 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (12.5 %)  
+Protect
+Heal Bell
+Wish
+Moonblast
+# 16 - 0.86 % (21 battles)
+
+Sylveon @ Choice Specs Lv. 100 -- Pixilate
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Hidden Power
+Shadow Ball
+Hyper Voice
+Moonblast
+# 17 - 0.86 % (21 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (9.5 %) / Pixilate (90.5 %)
+Nature: Modest - EVs: 252 HP / 236 SAtk / 20 Spd (38.1 %)  
+Protect
+Baton Pass
+Wish
+Hyper Voice
+# 18 - 0.86 % (21 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Calm - EVs: 216 HP / 208 SDef / 84 Spd (28.6 %)  
+Baton Pass
+Hyper Voice
+Calm Mind
+Stored Power
+# 19 - 0.82 % (20 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Cute Charm (5.0 %) / Pixilate (95.0 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (30.0 %)  
+Heal Bell
+Wish
+Hyper Voice
+Calm Mind
+# 20 - 0.82 % (20 battles)
+
+Sylveon @ Light Clay Lv. 100 -- Pixilate
+Nature: Bold - EVs: 252 HP / 4 SAtk / 252 SDef (80.0 %)  
+Light Screen
+Reflect
+Heal Bell
+Hyper Voice
+# 21 - 0.82 % (20 battles)
+
+Sylveon @ Sitrus Berry Lv. 100 -- Cute Charm
+Nature: Modest - EVs: 252 HP / 128 SAtk / 128 SDef (100.0 %)  
+Attract
+Dazzling Gleam
+Draining Kiss
+Moonblast
+# 22 - 0.78 % (19 battles)
+
+Sylveon @ Choice Scarf Lv. 100 -- Pixilate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (89.5 %)[Ground]  
+Heal Bell
+Hidden Power
+Shadow Ball
+Hyper Voice
+# 23 - 0.78 % (19 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Calm - EVs: 128 HP / 252 SAtk / 128 SDef (94.7 %)[Ground]  
+Reflect
+Hidden Power
+Hyper Voice
+Calm Mind
+# 24 - 0.74 % (18 battles)
+
+Sylveon @ (No Item) Lv. 100 -- Cute Charm
+Nature: Hardy - EVs: 252 SAtk / 252 SDef (100.0 %)  
+Shadow Ball
+Hyper Voice
+Dazzling Gleam
+Moonblast
+# 25 - 0.74 % (18 battles)
+
+Sylveon @ Leftovers Lv. 100 -- Pixilate
+Nature: Hardy - EVs: 76 HP / 136 Def / 120 SDef / 176 Spd (50.0 %)  
+Rest
+Sleep Talk
+Hyper Voice
+Calm Mind

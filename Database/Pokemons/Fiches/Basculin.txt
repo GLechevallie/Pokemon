@@ -1,0 +1,405 @@
+Water/-
+70/92/65/80/55/98
+18.0
+50/50
+
+# 1 - 29.93 % (41 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability
+Nature: Timid - EVs: 4 HP / 252 Atk / 252 Spd (51.2 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 2 - 21.90 % (30 battles)
+
+Basculin @ Splash Plate Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 3 - 10.95 % (15 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability (86.7 %) / Mold Breaker (13.3 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (46.7 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 4 - 7.30 % (10 battles)
+
+Basculin @ Life Orb Lv. 100 -- Mold Breaker
+Nature: Naive - EVs: 128 Atk / 128 SDef / 252 Spd (100.0 %)  
+Ice Beam
+Zen Headbutt
+Aqua Jet
+Scald
+# 5 - 5.11 % (7 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Crunch
+Zen Headbutt
+Aqua Jet
+# 6 - 4.38 % (6 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Waterfall
+Frustration
+Superpower
+Aqua Jet
+# 7 - 4.38 % (6 battles)
+
+Basculin @ Choice Scarf Lv. 100 -- Reckless
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Flail
+Crunch
+# 8 - 3.65 % (5 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (80.0 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 9 - 2.92 % (4 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Superpower
+Aqua Tail
+Aqua Jet
+# 10 - 2.19 % (3 battles)
+
+Basculin @ Choice Band Lv. 100 -- Reckless
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Crunch
+Aqua Jet
+# 11 - 2.19 % (3 battles)
+
+Basculin @ Expert Belt Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 12 - 1.46 % (2 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Agility
+Waterfall
+Zen Headbutt
+Aqua Jet
+# 13 - 1.46 % (2 battles)
+
+Basculin @ Life Orb Lv. 100 -- Mold Breaker
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Taunt
+Superpower
+Aqua Jet
+# 14 - 0.73 % (1 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Agility
+Aqua Tail
+Zen Headbutt
+Aqua Jet
+# 15 - 0.73 % (1 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Hasty - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Superpower
+Zen Headbutt
+Aqua Jet
+# 16 - 0.73 % (1 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Aqua Tail
+Zen Headbutt
+Aqua Jet
+# 17 - 0 % (20 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Taunt
+Superpower
+Aqua Jet
+# 18 - 0.00 % (12 battles)
+
+Basculin @ Leftovers Lv. 100 -- Rock Head
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Waterfall
+Substitute
+Crunch
+Final Gambit
+# 19 - 0 % (5 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability (80.0 %) / Mold Breaker (20.0 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (60.0 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 20 - 0 % (4 battles)
+
+Basculin @ Choice Scarf Lv. 100 -- Rock Head
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Double-Edge
+Crunch
+Aqua Tail
+Zen Headbutt
+# 21 - 0 % (3 battles)
+
+Basculin @ Leftovers Lv. 100 -- Rock Head
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+Substitute
+Crunch
+Final Gambit
+# 22 - 0 % (2 battles)
+
+Basculin @ Leftovers Lv. 100 -- Rock Head
+Nature: Hardy - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Final Gambit
+# 23 - 0 % (2 battles)
+
+Basculin @ Splash Plate Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 24 - 0 % (14 battles)
+
+Basculin @ Splash Plate Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 25 - 0 % (8 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 252 Atk / 252 Spd (87.5 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 1 - 48.28 % (14 battles)
+
+Basculin @ Splash Plate Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 2 - 27.59 % (8 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 252 Atk / 252 Spd (87.5 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 3 - 6.90 % (2 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 4 - 6.90 % (2 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Superpower
+Aqua Tail
+Aqua Jet
+# 5 - 6.90 % (2 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability (50.0 %) / Mold Breaker (50.0 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (50.0 %)  
+Crunch
+Aqua Tail
+Zen Headbutt
+Aqua Jet
+# 6 - 3.45 % (1 battles)
+
+Basculin @ Life Orb Lv. 100 -- Mold Breaker
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Taunt
+Superpower
+Aqua Jet
+# 7 - 0 % (6 battles)
+
+Basculin @ Choice Scarf Lv. 100 -- Reckless
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Flail
+Crunch
+# 8 - 0 % (5 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (80.0 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 9 - 0 % (4 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Superpower
+Aqua Tail
+Aqua Jet
+# 10 - 0 % (3 battles)
+
+Basculin @ Choice Band Lv. 100 -- Reckless
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Crunch
+Aqua Jet
+# 11 - 0 % (3 battles)
+
+Basculin @ Expert Belt Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 12 - 0 % (2 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Agility
+Waterfall
+Zen Headbutt
+Aqua Jet
+# 13 - 0 % (2 battles)
+
+Basculin @ Life Orb Lv. 100 -- Mold Breaker
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Taunt
+Superpower
+Aqua Jet
+# 14 - 0 % (1 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Agility
+Aqua Tail
+Zen Headbutt
+Aqua Jet
+# 15 - 0 % (1 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Hasty - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Superpower
+Zen Headbutt
+Aqua Jet
+# 16 - 0 % (1 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Crunch
+Aqua Tail
+Zen Headbutt
+Aqua Jet
+# 17 - 0 % (20 battles)
+
+Basculin @ Life Orb Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Taunt
+Superpower
+Aqua Jet
+# 18 - 0.00 % (12 battles)
+
+Basculin @ Leftovers Lv. 100 -- Rock Head
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Waterfall
+Substitute
+Crunch
+Final Gambit
+# 19 - 0 % (5 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability (80.0 %) / Mold Breaker (20.0 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (60.0 %)  
+Waterfall
+Crunch
+Superpower
+Aqua Jet
+# 20 - 0 % (4 battles)
+
+Basculin @ Choice Scarf Lv. 100 -- Rock Head
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Double-Edge
+Crunch
+Aqua Tail
+Zen Headbutt
+# 21 - 0 % (3 battles)
+
+Basculin @ Leftovers Lv. 100 -- Rock Head
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+Substitute
+Crunch
+Final Gambit
+# 22 - 0 % (2 battles)
+
+Basculin @ Leftovers Lv. 100 -- Rock Head
+Nature: Hardy - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Final Gambit
+# 23 - 0 % (2 battles)
+
+Basculin @ Splash Plate Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 24 - 0 % (14 battles)
+
+Basculin @ Splash Plate Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet
+# 25 - 0 % (8 battles)
+
+Basculin @ Choice Band Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 252 Atk / 252 Spd (87.5 %)  
+Double-Edge
+Waterfall
+Superpower
+Aqua Jet

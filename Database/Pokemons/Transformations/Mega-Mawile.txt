@@ -1,0 +1,4 @@
+Steel/Fairy
+50/105/125/55/95/50
+Huge Power
+23.5

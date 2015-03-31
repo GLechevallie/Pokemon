@@ -1,0 +1,4 @@
+Dragon/Flying
+105/180/100/180/100/115
+Delta Stream
+392.0

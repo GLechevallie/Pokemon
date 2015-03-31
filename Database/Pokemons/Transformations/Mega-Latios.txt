@@ -1,0 +1,4 @@
+Dragon/Psychic
+80/130/100/160/120/110
+Levitate
+70.0

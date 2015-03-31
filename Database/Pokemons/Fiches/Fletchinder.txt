@@ -1,0 +1,405 @@
+Fire/Flying
+62/73/55/56/52/84
+16.0
+50/50
+
+# 1 - 64.36 % (428 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Flame Body (1.9 %) / Gale Wings (98.1 %)
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (25.7 %)  
+Swords Dance
+Will-O-Wisp
+Roost
+Acrobatics
+# 2 - 13.23 % (88 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Flame Body (2.3 %) / Gale Wings (97.7 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (46.6 %)  
+Swords Dance
+Roost
+Flame Charge
+Acrobatics
+# 3 - 4.81 % (32 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (100.0 %)  
+Swords Dance
+Snatch
+Roost
+Acrobatics
+# 4 - 3.91 % (26 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Naughty - EVs: 232 HP / 252 Atk / 24 Spd (100.0 %)  
+Swords Dance
+Flamethrower
+Roost
+Acrobatics
+# 5 - 2.41 % (16 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Lonely - EVs: 252 Atk / 252 SAtk / 4 Spd (100.0 %)  
+Overheat
+Roost
+Tailwind
+Acrobatics
+# 6 - 2.26 % (15 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Lonely - EVs: 252 Atk / 48 SAtk / 208 Spd (60.0 %)  
+Swords Dance
+Overheat
+Roost
+Acrobatics
+# 7 - 1.65 % (11 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 112 HP / 252 Atk / 144 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Tailwind
+Acrobatics
+# 8 - 1.35 % (9 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Taunt
+Flame Charge
+Acrobatics
+# 9 - 1.20 % (8 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Substitute
+Will-O-Wisp
+Acrobatics
+# 10 - 0.60 % (4 battles)
+
+Fletchinder @ Sharp Beak Lv. 100 -- Gale Wings
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Fly
+Flamethrower
+Roost
+U-turn
+# 11 - 0.30 % (2 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Overheat
+Acrobatics
+# 12 - 0.30 % (2 battles)
+
+Fletchinder @ Choice Band Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fly
+Overheat
+Aerial Ace
+U-turn
+# 13 - 0.30 % (2 battles)
+
+Fletchinder @ Choice Scarf Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Aerial Ace
+Tailwind
+U-turn
+Flame Charge
+# 14 - 0.30 % (2 battles)
+
+Fletchinder @ Focus Sash Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Taunt
+Acrobatics
+# 15 - 0.30 % (2 battles)
+
+Fletchinder @ Leftovers Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 32 HP / 252 Atk / 224 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Roost
+Acrobatics
+# 16 - 0.30 % (2 battles)
+
+Fletchinder @ Eviolite Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 32 HP / 252 Atk / 224 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Roost
+Acrobatics
+# 17 - 0.30 % (2 battles)
+
+Fletchinder @ Eviolite Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Roost
+U-turn
+Flame Charge
+Acrobatics
+# 18 - 0.30 % (2 battles)
+
+Fletchinder @ Cell Battery Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Steel Wing
+Roost
+Flame Charge
+Acrobatics
+# 19 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 50 -- Gale Wings
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Swords Dance
+Taunt
+Roost
+Acrobatics
+# 20 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Naughty - EVs: 232 HP / 252 Atk / 24 Spd (100.0 %)  
+Swords Dance
+Fire Blast
+Roost
+Acrobatics
+# 21 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Swords Dance
+Return
+Roost
+Acrobatics
+# 22 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Flame Charge
+Acrobatics
+# 23 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Steel Wing
+Roost
+Flame Charge
+Acrobatics
+# 24 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Will-O-Wisp
+Roost
+Tailwind
+Acrobatics
+# 25 - 0.15 % (1 battles)
+
+Fletchinder @ Choice Band Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Aerial Ace
+Tailwind
+U-turn
+Flame Charge
+# 1 - 66.67 % (42 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (38.1 %)  
+Swords Dance
+Will-O-Wisp
+Roost
+Acrobatics
+# 2 - 9.52 % (6 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (100.0 %)  
+Swords Dance
+Snatch
+Roost
+Acrobatics
+# 3 - 3.17 % (2 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Roost
+Flame Charge
+Acrobatics
+# 4 - 3.17 % (2 battles)
+
+Fletchinder @ Focus Sash Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Fly
+Will-O-Wisp
+Acrobatics
+# 5 - 3.17 % (2 battles)
+
+Fletchinder @ Eviolite Lv. 100 -- Gale Wings
+Nature: Naive - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Fire Blast
+Return
+Acrobatics
+# 6 - 3.17 % (2 battles)
+
+Fletchinder @ Sitrus Berry Lv. 100 -- Gale Wings
+Nature: Naughty - EVs: 252 HP / 252 Atk / 4 SDef (100.0 %)  
+Swords Dance
+Substitute
+Overheat
+Acrobatics
+# 7 - 1.59 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Substitute
+Will-O-Wisp
+Acrobatics
+# 8 - 1.59 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Swords Dance
+Return
+Roost
+Acrobatics
+# 9 - 1.59 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Lonely - EVs: 252 Atk / 48 SAtk / 208 Spd (100.0 %)  
+Swords Dance
+Overheat
+Roost
+Acrobatics
+# 10 - 1.59 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Steel Wing
+Roost
+Flame Charge
+Acrobatics
+# 11 - 1.59 % (1 battles)
+
+Fletchinder @ Focus Sash Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Taunt
+Acrobatics
+# 12 - 1.59 % (1 battles)
+
+Fletchinder @ Sharp Beak Lv. 100 -- Gale Wings
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Fly
+Flamethrower
+Roost
+U-turn
+# 13 - 1.59 % (1 battles)
+
+Fletchinder @ Normal Gem Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Return
+Roost
+Flame Charge
+Acrobatics
+# 14 - 0.30 % (2 battles)
+
+Fletchinder @ Focus Sash Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Taunt
+Acrobatics
+# 15 - 0.30 % (2 battles)
+
+Fletchinder @ Leftovers Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 32 HP / 252 Atk / 224 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Roost
+Acrobatics
+# 16 - 0.30 % (2 battles)
+
+Fletchinder @ Eviolite Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 32 HP / 252 Atk / 224 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Roost
+Acrobatics
+# 17 - 0.30 % (2 battles)
+
+Fletchinder @ Eviolite Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Roost
+U-turn
+Flame Charge
+Acrobatics
+# 18 - 0.30 % (2 battles)
+
+Fletchinder @ Cell Battery Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Steel Wing
+Roost
+Flame Charge
+Acrobatics
+# 19 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 50 -- Gale Wings
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Swords Dance
+Taunt
+Roost
+Acrobatics
+# 20 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Naughty - EVs: 232 HP / 252 Atk / 24 Spd (100.0 %)  
+Swords Dance
+Fire Blast
+Roost
+Acrobatics
+# 21 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Swords Dance
+Return
+Roost
+Acrobatics
+# 22 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Flame Charge
+Acrobatics
+# 23 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Steel Wing
+Roost
+Flame Charge
+Acrobatics
+# 24 - 0.15 % (1 battles)
+
+Fletchinder @ (No Item) Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Will-O-Wisp
+Roost
+Tailwind
+Acrobatics
+# 25 - 0.15 % (1 battles)
+
+Fletchinder @ Choice Band Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Aerial Ace
+Tailwind
+U-turn
+Flame Charge

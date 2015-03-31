@@ -1,0 +1,31 @@
+Type	Prio	PP
+
+Electric Terrain
+Electric	0	16
+
+Gravity
+Psychic	0	8
+
+Hail
+Ice	0	16
+
+Magic Room
+Psychic	0	16
+
+Misty Terrain
+Fairy	0	16
+
+Rain Dance
+Water	0	8
+
+Sandstorm
+Rock	0	16
+
+Sunny Day
+Fire	0	8
+
+Trick Room
+Psychic	-7	8
+
+Water Sport
+Water	0	24

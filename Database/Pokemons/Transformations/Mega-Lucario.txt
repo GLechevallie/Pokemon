@@ -1,0 +1,4 @@
+Fighting/Steel
+70/145/88/140/70/112
+Adaptability
+57.5

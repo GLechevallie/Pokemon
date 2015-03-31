@@ -1,0 +1,405 @@
+Ice/Ground
+110/130/80/70/60/80
+291.0
+50/50
+
+# 1 - 5.95 % (1672 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (2.2 %) / Thick Fat (97.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (39.2 %)  
+Earthquake
+Superpower
+Ice Shard
+Icicle Crash
+# 2 - 5.22 % (1466 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (52.8 %) / Snow Cloak (6.8 %) / Thick Fat (40.4 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (47.3 %)  
+Earthquake
+Endeavor
+Ice Shard
+Stealth Rock
+# 3 - 4.51 % (1268 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (1.1 %) / Thick Fat (98.9 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (62.9 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Freeze-Dry
+# 4 - 4.26 % (1196 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (21.6 %) / Snow Cloak (0.1 %) / Thick Fat (78.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (39.0 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Stealth Rock
+# 5 - 4.25 % (1195 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (25.2 %) / Snow Cloak (0.3 %) / Thick Fat (74.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (33.9 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Icicle Crash
+# 6 - 4.01 % (1128 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (2.7 %) / Thick Fat (97.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (79.6 %)  
+Earthquake
+Superpower
+Icicle Spear
+Ice Shard
+# 7 - 2.80 % (787 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (26.0 %) / Thick Fat (74.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (33.4 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Icicle Crash
+# 8 - 2.58 % (724 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (1.0 %) / Thick Fat (99.0 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (30.4 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Stealth Rock
+# 9 - 2.56 % (720 battles)
+
+Mamoswine @ Leftovers Lv. 100 -- Oblivious (5.1 %) / Snow Cloak (1.1 %) / Thick Fat (93.8 %)
+Nature: Jolly - EVs: 252 Atk / 4 SAtk / 252 Spd (29.3 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Icicle Crash
+# 10 - 2.53 % (711 battles)
+
+Mamoswine @ Choice Band Lv. 100 -- Oblivious (2.0 %) / Snow Cloak (0.8 %) / Thick Fat (97.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (57.0 %)  
+Earthquake
+Ice Shard
+Stone Edge
+Icicle Crash
+# 11 - 2.38 % (669 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (1.6 %) / Snow Cloak (9.4 %) / Thick Fat (88.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (54.9 %)  
+Earthquake
+Endeavor
+Ice Shard
+Icicle Crash
+# 12 - 2.00 % (563 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (2.5 %) / Thick Fat (97.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.2 %)  
+Earthquake
+Knock Off
+Ice Shard
+Icicle Crash
+# 13 - 1.95 % (549 battles)
+
+Mamoswine @ Assault Vest Lv. 100 -- Thick Fat
+Nature: Adamant - EVs: 132 HP / 252 Atk / 60 Def / 64 SDef (32.1 %)  
+Earthquake
+Knock Off
+Ice Shard
+Icicle Crash
+# 14 - 1.63 % (458 battles)
+
+Mamoswine @ Choice Scarf Lv. 100 -- Thick Fat
+Nature: Jolly - EVs: 36 HP / 252 Atk / 220 Spd (59.0 %)  
+Earthquake
+Superpower
+Ice Shard
+Icicle Crash
+# 15 - 1.52 % (426 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (39.4 %) / Thick Fat (60.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (48.1 %)  
+Earthquake
+Ice Shard
+Stone Edge
+Stealth Rock
+# 16 - 1.44 % (404 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (1.0 %) / Thick Fat (99.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (43.3 %)  
+Earthquake
+Knock Off
+Ice Shard
+Stealth Rock
+# 17 - 1.39 % (390 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (32.3 %) / Thick Fat (67.7 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (34.4 %)  
+Roar
+Earthquake
+Ice Shard
+Stealth Rock
+# 18 - 1.27 % (358 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Snow Cloak (8.1 %) / Thick Fat (91.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.8 %)  
+Earthquake
+Ice Shard
+Stone Edge
+Icicle Crash
+# 19 - 1.17 % (329 battles)
+
+Mamoswine @ Choice Scarf Lv. 100 -- Oblivious (3.3 %) / Thick Fat (96.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (58.4 %)  
+Earthquake
+Ice Shard
+Stone Edge
+Icicle Crash
+# 20 - 1.17 % (329 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (5.5 %) / Thick Fat (94.5 %)
+Nature: Brave - EVs: 252 Atk / 4 Def / 252 SAtk (43.8 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Freeze-Dry
+# 21 - 1.10 % (308 battles)
+
+Mamoswine @ Icicle Plate Lv. 100 -- Thick Fat
+Nature: Adamant - EVs: 180 Atk / 76 Def / 252 Spd (100.0 %)  
+Roar
+Earthquake
+Ice Shard
+Icicle Crash
+# 22 - 1.01 % (285 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (2.5 %) / Thick Fat (97.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (80.0 %)  
+Earthquake
+Rock Slide
+Ice Shard
+Icicle Crash
+# 23 - 0.98 % (276 battles)
+
+Mamoswine @ Leftovers Lv. 100 -- Oblivious (0.4 %) / Thick Fat (99.6 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (41.3 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Stealth Rock
+# 24 - 0.81 % (227 battles)
+
+Mamoswine @ Weakness Policy Lv. 100 -- Thick Fat
+Nature: Timid - EVs: 4 HP / 252 Atk / 252 Spd (96.0 %)  
+Earthquake
+Rock Slide
+Ice Shard
+Icicle Crash
+# 25 - 0.79 % (221 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (3.6 %) / Thick Fat (96.4 %)
+Nature: Naive - EVs: 244 Atk / 12 SAtk / 252 Spd (29.4 %)  
+Earthquake
+Ice Shard
+Icicle Crash
+Freeze-Dry
+# 1 - 17.62 % (1977 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (33.7 %) / Thick Fat (66.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.4 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Stealth Rock
+# 2 - 13.66 % (1533 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (28.6 %) / Snow Cloak (0.2 %) / Thick Fat (71.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.2 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Icicle Crash
+# 3 - 11.91 % (1337 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (33.0 %) / Snow Cloak (7.1 %) / Thick Fat (59.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.0 %)  
+Earthquake
+Endeavor
+Ice Shard
+Stealth Rock
+# 4 - 4.99 % (560 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (20.4 %) / Thick Fat (79.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (40.5 %)  
+Earthquake
+Ice Shard
+Stone Edge
+Stealth Rock
+# 5 - 4.16 % (467 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (11.3 %) / Thick Fat (88.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (27.0 %)  
+Earthquake
+Knock Off
+Ice Shard
+Stealth Rock
+# 6 - 3.80 % (426 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (1.2 %) / Thick Fat (98.8 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (43.0 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Icicle Crash
+# 7 - 2.77 % (311 battles)
+
+Mamoswine @ Leftovers Lv. 100 -- Oblivious (17.4 %) / Thick Fat (82.6 %)
+Nature: Hardy - EVs: 88 HP / 72 Atk / 84 Def / 96 SAtk / 96 SDef / 52 Spd (39.9 %) 
+Earthquake
+Ice Shard
+Stealth Rock
+Icicle Crash
+# 8 - 1.92 % (216 battles)
+
+Mamoswine @ Leftovers Lv. 100 -- Thick Fat
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (89.8 %)  
+Earthquake
+Ice Shard
+Stone Edge
+Stealth Rock
+# 9 - 1.56 % (175 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (4.6 %) / Thick Fat (95.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (54.3 %)  
+Earthquake
+Superpower
+Ice Shard
+Icicle Crash
+# 10 - 1.37 % (154 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (0.6 %) / Thick Fat (99.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (70.1 %)  
+Earthquake
+Superpower
+Icicle Spear
+Ice Shard
+# 11 - 1.28 % (144 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (1.4 %) / Thick Fat (98.6 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (24.3 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Stealth Rock
+# 12 - 1.14 % (128 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Snow Cloak (7.8 %) / Thick Fat (92.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (47.7 %)  
+Earthquake
+Endeavor
+Ice Shard
+Icicle Crash
+# 13 - 1.01 % (113 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Thick Fat
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (92.0 %)  
+Ice Shard
+Stealth Rock
+Bulldoze
+Icicle Crash
+# 14 - 0.86 % (97 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (41.2 %) / Thick Fat (58.8 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (43.3 %)  
+Roar
+Earthquake
+Ice Shard
+Stealth Rock
+# 15 - 0.83 % (93 battles)
+
+Mamoswine @ Choice Band Lv. 100 -- Oblivious (3.2 %) / Thick Fat (96.8 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (49.5 %)  
+Earthquake
+Ice Shard
+Stone Edge
+Icicle Crash
+# 16 - 0.83 % (93 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (1.1 %) / Thick Fat (98.9 %)
+Nature: Naive - EVs: 240 Atk / 16 SAtk / 252 Spd (31.2 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Freeze-Dry
+# 17 - 0.81 % (91 battles)
+
+Mamoswine @ Weakness Policy Lv. 100 -- Thick Fat
+Nature: Adamant - EVs: 180 HP / 252 Atk / 4 Def / 52 SDef / 20 Spd (93.4 %) 
+Earthquake
+Icicle Spear
+Ice Shard
+Stealth Rock
+# 18 - 0.72 % (81 battles)
+
+Mamoswine @ Leftovers Lv. 100 -- Oblivious (3.7 %) / Thick Fat (96.3 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (34.6 %)  
+Earthquake
+Superpower
+Ice Shard
+Stealth Rock
+# 19 - 0.71 % (80 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (45.0 %) / Thick Fat (55.0 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (28.8 %)  
+Earthquake
+Superpower
+Ice Shard
+Stealth Rock
+# 20 - 0.70 % (79 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Oblivious (1.3 %) / Thick Fat (98.7 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (55.7 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Freeze-Dry
+# 21 - 0.70 % (78 battles)
+
+Mamoswine @ Leftovers Lv. 100 -- Thick Fat
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (19.2 %)  
+Earthquake
+Icicle Spear
+Ice Shard
+Stealth Rock
+# 22 - 0.69 % (77 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (19.5 %) / Thick Fat (80.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.6 %)  
+Earthquake
+Ice Shard
+Stealth Rock
+Freeze-Dry
+# 23 - 0.64 % (72 battles)
+
+Mamoswine @ Focus Sash Lv. 100 -- Oblivious (15.3 %) / Thick Fat (84.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (75.0 %)  
+Earthquake
+Ice Shard
+Iron Head
+Stealth Rock
+# 24 - 0.61 % (69 battles)
+
+Mamoswine @ Choice Scarf Lv. 100 -- Oblivious (4.3 %) / Thick Fat (95.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (84.1 %)  
+Earthquake
+Superpower
+Icicle Spear
+Ice Shard
+# 25 - 0.61 % (68 battles)
+
+Mamoswine @ Life Orb Lv. 100 -- Thick Fat
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (63.2 %)  
+Earthquake
+Knock Off
+Ice Shard
+Icicle Crash

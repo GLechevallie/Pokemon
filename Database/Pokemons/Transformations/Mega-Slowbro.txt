@@ -1,0 +1,4 @@
+Water/Psychic
+95/75/180/130/80/30
+Shell Armor
+120.0

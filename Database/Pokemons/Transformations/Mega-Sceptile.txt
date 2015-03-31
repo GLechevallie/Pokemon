@@ -1,0 +1,4 @@
+Grass/Dragon
+70/110/75/145/85/145
+Lightningrod
+55.2

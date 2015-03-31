@@ -1,0 +1,405 @@
+Normal/-
+255/10/10/75/135/55
+46.8
+0/100
+
+# 1 - 7.10 % (3249 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (98.2 %) / Serene Grace (1.2 %) / Healer (0.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (18.7 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Aromatherapy
+# 2 - 6.69 % (3061 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (21.5 %)  
+Seismic Toss
+Toxic
+Protect
+Wish
+# 3 - 6.38 % (2917 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (99.8 %) / Serene Grace (0.2 %)
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (9.4 %)  
+Seismic Toss
+Protect
+Heal Bell
+Wish
+# 4 - 4.81 % (2199 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (98.3 %) / Serene Grace (0.9 %) / Healer (0.8 %)
+Nature: Calm - EVs: 252 HP / 252 SDef / 4 Spd (11.8 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Aromatherapy
+# 5 - 4.61 % (2109 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (96.2 %) / Serene Grace (2.6 %) / Healer (1.3 %)
+Nature: Calm - EVs: 252 Def / 252 SDef / 4 Spd (25.4 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Heal Bell
+# 6 - 4.30 % (1968 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (99.0 %) / Serene Grace (1.0 %)
+Nature: Sassy - EVs: 252 HP / 252 SDef (22.4 %)  
+Toxic
+Protect
+Heal Bell
+Wish
+# 7 - 4.00 % (1830 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (99.9 %) / Serene Grace (0.1 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (20.4 %)  
+Seismic Toss
+Thunder Wave
+Heal Bell
+Wish
+# 8 - 3.97 % (1814 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (15.8 %)  
+Seismic Toss
+Toxic
+Heal Bell
+Wish
+# 9 - 3.71 % (1696 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (67.7 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Stealth Rock
+# 10 - 3.31 % (1514 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (99.1 %) / Serene Grace (0.6 %) / Healer (0.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (18.4 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Heal Bell
+# 11 - 2.61 % (1192 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 HP / 252 SDef (21.6 %)  
+Seismic Toss
+Soft-Boiled
+Heal Bell
+Wish
+# 12 - 2.16 % (990 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (98.6 %) / Serene Grace (1.4 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (20.0 %)  
+Seismic Toss
+Thunder Wave
+Protect
+Wish
+# 13 - 1.98 % (904 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (99.9 %) / Serene Grace (0.1 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (35.7 %)  
+Flamethrower
+Toxic
+Protect
+Wish
+# 14 - 1.25 % (572 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 Def / 252 SDef (63.6 %)  
+Seismic Toss
+Soft-Boiled
+Heal Bell
+Stealth Rock
+# 15 - 0.95 % (435 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (84.1 %) / Serene Grace (2.8 %) / Healer (13.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def (13.3 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Protect
+# 16 - 0.90 % (411 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (30.9 %)  
+Flamethrower
+Seismic Toss
+Soft-Boiled
+Aromatherapy
+# 17 - 0.80 % (367 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 Def / 252 SAtk / 4 Spd (55.3 %)  
+Ice Beam
+Thunder Wave
+Heal Bell
+Wish
+# 18 - 0.78 % (355 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (99.4 %) / Serene Grace (0.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (36.3 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Stealth Rock
+# 19 - 0.75 % (343 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (59.8 %)  
+Ice Beam
+Toxic
+Soft-Boiled
+Aromatherapy
+# 20 - 0.72 % (329 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (91.5 %) / Serene Grace (8.5 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (38.3 %)  
+Flamethrower
+Toxic
+Soft-Boiled
+Aromatherapy
+# 21 - 0.71 % (327 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (59.3 %) / Serene Grace (40.7 %)
+Nature: Modest - EVs: 252 HP / 128 SAtk / 128 SDef (40.7 %)  
+Flamethrower
+Toxic
+Soft-Boiled
+Heal Bell
+# 22 - 0.69 % (317 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (63.1 %) / Serene Grace (36.3 %) / Healer (0.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (32.8 %)  
+Ice Beam
+Seismic Toss
+Soft-Boiled
+Aromatherapy
+# 23 - 0.68 % (313 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (99.7 %) / Serene Grace (0.3 %)
+Nature: Bold - EVs: 252 Def / 252 SDef / 4 Spd (26.8 %)  
+Seismic Toss
+Soft-Boiled
+Aromatherapy
+Stealth Rock
+# 24 - 0.61 % (281 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 4 HP / 4 Def / 244 SAtk / 252 SDef / 4 Spd (52.3 %)  
+Flamethrower
+Toxic
+Soft-Boiled
+Protect
+# 25 - 0.59 % (272 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (98.9 %) / Serene Grace (1.1 %)
+Nature: Calm - EVs: 252 HP / 252 SDef (32.4 %)  
+Seismic Toss
+Heal Bell
+Wish
+Stealth Rock
+# 1 - 8.77 % (159 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (29.6 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Stealth Rock
+# 2 - 3.53 % (64 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (35.9 %)  
+Seismic Toss
+Toxic
+Protect
+Wish
+# 3 - 3.42 % (62 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (96.8 %) / Serene Grace (1.6 %) / Healer (1.6 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (22.6 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Aromatherapy
+# 4 - 3.36 % (61 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (41.0 %)  
+Seismic Toss
+Thunder Wave
+Heal Bell
+Wish
+# 5 - 3.31 % (60 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Modest - EVs: 120 HP / 124 Def / 132 SAtk / 132 SDef (86.7 %)  
+Toxic
+Soft-Boiled
+Stealth Rock
+Dazzling Gleam
+# 6 - 3.25 % (59 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (94.9 %) / Serene Grace (3.4 %) / Healer (1.7 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (20.3 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Heal Bell
+# 7 - 2.59 % (47 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 188 HP / 172 Def / 148 SDef (27.7 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Stealth Rock
+# 8 - 2.21 % (40 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (32.5 %)  
+Seismic Toss
+Protect
+Heal Bell
+Wish
+# 9 - 2.15 % (39 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Sassy - EVs: 252 HP / 252 SDef (41.0 %)  
+Toxic
+Protect
+Heal Bell
+Wish
+# 10 - 2.15 % (39 battles)
+
+Blissey @ Charcoal Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SAtk (100.0 %)  
+Flamethrower
+Counter
+Toxic
+Soft-Boiled
+# 11 - 1.98 % (36 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (88.9 %) / Serene Grace (11.1 %)
+Nature: Calm - EVs: 252 Def / 252 SDef (19.4 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Heal Bell
+# 12 - 1.98 % (36 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (30.6 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Aromatherapy
+# 13 - 1.76 % (32 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (25.0 %)  
+Seismic Toss
+Thunder Wave
+Protect
+Wish
+# 14 - 1.71 % (31 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (61.3 %)  
+Flamethrower
+Toxic
+Protect
+Wish
+# 15 - 1.65 % (30 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 HP / 252 SDef / 4 Spd (26.7 %)  
+Seismic Toss
+Soft-Boiled
+Aromatherapy
+Stealth Rock
+# 16 - 1.60 % (29 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 Def / 252 SDef (62.1 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Protect
+# 17 - 1.60 % (29 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 Def / 252 SDef (24.1 %)  
+Seismic Toss
+Toxic
+Heal Bell
+Wish
+# 18 - 1.54 % (28 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Hardy - EVs: 252 HP / 252 Def (100.0 %)  
+Flamethrower
+Toxic
+Soft-Boiled
+Wish
+# 19 - 1.32 % (24 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 Def / 252 SDef (41.7 %)  
+Seismic Toss
+Soft-Boiled
+Heal Bell
+Stealth Rock
+# 20 - 1.10 % (20 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure (95.0 %) / Healer (5.0 %)
+Nature: Impish - EVs: 252 HP / 252 Def (30.0 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Protect
+# 21 - 1.10 % (20 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 104 HP / 252 Def / 152 SAtk (100.0 %)  
+Toxic
+Metronome
+Protect
+Wish
+# 22 - 0.99 % (18 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Hardy - EVs: 252 HP / 252 SDef (72.2 %)  
+Thunder Wave
+Toxic
+Soft-Boiled
+Aromatherapy
+# 23 - 0.94 % (17 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 HP / 252 Def / 4 SDef (64.7 %)  
+Toxic
+Soft-Boiled
+Aromatherapy
+Stealth Rock
+# 24 - 0.88 % (16 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 64 HP / 252 Def / 152 SDef (31.2 %)  
+Seismic Toss
+Thunder Wave
+Wish
+Stealth Rock
+# 25 - 0.72 % (13 battles)
+
+Blissey @ Leftovers Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 Def / 252 SDef (23.1 %)  
+Seismic Toss
+Thunder Wave
+Toxic
+Soft-Boiled

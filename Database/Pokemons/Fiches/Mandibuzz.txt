@@ -1,0 +1,405 @@
+Dark/Flying
+110/65/105/55/95/80
+39.5
+0/100
+
+# 1 - 12.71 % (7326 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (14.5 %) / Overcoat (85.3 %) / Weak Armor (0.2 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (19.6 %)  
+Knock Off
+Roost
+Defog
+Foul Play
+# 2 - 12.34 % (7113 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (6.7 %) / Overcoat (93.3 %)
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (8.9 %)  
+Taunt
+Roost
+Defog
+Foul Play
+# 3 - 11.77 % (6786 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (14.7 %) / Overcoat (85.3 %)
+Nature: Impish - EVs: 252 HP / 108 Def / 148 SDef (18.0 %)  
+Toxic
+Roost
+Defog
+Foul Play
+# 4 - 7.76 % (4472 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (10.0 %) / Overcoat (89.9 %) / Weak Armor (0.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (28.5 %)  
+Knock Off
+Roost
+Defog
+Foul Play
+# 5 - 6.36 % (3666 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (18.5 %) / Overcoat (81.5 %) / Weak Armor (0.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (21.2 %)  
+Whirlwind
+Roost
+Defog
+Foul Play
+# 6 - 5.24 % (3020 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (9.1 %) / Overcoat (90.9 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (13.1 %)  
+Taunt
+Roost
+Defog
+Foul Play
+# 7 - 4.32 % (2492 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (13.3 %) / Overcoat (86.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (19.3 %)  
+Toxic
+Roost
+Defog
+Foul Play
+# 8 - 4.10 % (2366 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (7.9 %) / Overcoat (91.6 %) / Weak Armor (0.5 %)
+Nature: Impish - EVs: 248 HP / 148 Def / 112 Spd (19.8 %)  
+Roost
+Brave Bird
+Defog
+Foul Play
+# 9 - 2.56 % (1477 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (12.5 %) / Overcoat (87.5 %)
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (15.4 %)  
+Toxic
+Knock Off
+Roost
+Defog
+# 10 - 2.38 % (1372 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (7.7 %) / Overcoat (92.3 %) / Weak Armor (0.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (15.7 %)  
+Whirlwind
+Roost
+Defog
+Foul Play
+# 11 - 2.12 % (1223 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (11.4 %) / Overcoat (88.6 %)
+Nature: Impish - EVs: 252 HP / 132 Def / 124 SDef (17.0 %)  
+Roost
+Brave Bird
+Defog
+Foul Play
+# 12 - 2.02 % (1165 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (35.0 %) / Overcoat (65.0 %)
+Nature: Bold - EVs: 248 HP / 148 Def / 112 Spd (8.4 %)  
+Toxic
+Taunt
+Roost
+Foul Play
+# 13 - 1.53 % (882 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (11.1 %) / Overcoat (88.9 %)
+Nature: Impish - EVs: 252 HP / 252 Def (28.0 %)  
+Whirlwind
+Knock Off
+Roost
+Defog
+# 14 - 1.41 % (813 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (40.2 %) / Overcoat (59.8 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (14.6 %)  
+Taunt
+Knock Off
+Roost
+Defog
+# 15 - 1.36 % (785 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (7.6 %) / Overcoat (92.4 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (50.3 %)  
+Toxic
+Taunt
+Roost
+Foul Play
+# 16 - 1.07 % (615 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (24.7 %) / Overcoat (75.3 %)
+Nature: Impish - EVs: 4 HP / 252 Def / 252 SDef (22.0 %)  
+Roost
+U-turn
+Defog
+Foul Play
+# 17 - 0.94 % (542 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (9.0 %) / Overcoat (89.5 %) / Weak Armor (1.5 %)
+Nature: Impish - EVs: 248 HP / 180 Def / 24 SDef / 56 Spd (13.8 %)  
+Taunt
+Knock Off
+Roost
+Foul Play
+# 18 - 0.92 % (533 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (14.8 %) / Overcoat (85.2 %)
+Nature: Careful - EVs: 252 HP / 252 Def (38.8 %)  
+Whirlwind
+Toxic
+Roost
+Foul Play
+# 19 - 0.78 % (447 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (5.4 %) / Overcoat (94.6 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (21.5 %)  
+Toxic
+Knock Off
+Roost
+Foul Play
+# 20 - 0.75 % (432 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Overcoat
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (82.2 %)  
+Taunt
+Roost
+Brave Bird
+Defog
+# 21 - 0.64 % (369 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (18.7 %) / Overcoat (81.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (49.6 %)  
+Knock Off
+Roost
+Brave Bird
+Defog
+# 22 - 0.63 % (363 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (12.1 %) / Overcoat (87.3 %) / Weak Armor (0.6 %)
+Nature: Careful - EVs: 252 HP / 128 Def / 128 SDef (27.0 %)  
+Iron Defense
+Roost
+Defog
+Foul Play
+# 23 - 0.60 % (345 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (17.4 %) / Overcoat (82.6 %)
+Nature: Impish - EVs: 240 HP / 252 Def / 16 Spd (19.1 %)  
+Roost
+U-turn
+Defog
+Foul Play
+# 24 - 0.57 % (330 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (33.0 %) / Overcoat (67.0 %)
+Nature: Impish - EVs: 252 HP / 4 Def / 252 SDef (26.7 %)  
+Whirlwind
+Knock Off
+Roost
+Defog
+# 25 - 0.57 % (326 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (5.8 %) / Overcoat (93.6 %) / Weak Armor (0.6 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (58.6 %)  
+Taunt
+Knock Off
+Roost
+Defog
+# 1 - 13.21 % (550 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (17.8 %) / Overcoat (82.0 %) / Weak Armor (0.2 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (18.9 %)  
+Knock Off
+Roost
+Defog
+Foul Play
+# 2 - 13.07 % (544 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (7.9 %) / Overcoat (92.1 %)
+Nature: Bold - EVs: 248 HP / 136 Def / 108 SDef / 16 Spd (11.0 %)  
+Taunt
+Roost
+Defog
+Foul Play
+# 3 - 10.11 % (421 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (14.3 %) / Overcoat (85.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (30.4 %)  
+Knock Off
+Roost
+Defog
+Foul Play
+# 4 - 7.45 % (310 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (27.4 %) / Overcoat (72.3 %) / Weak Armor (0.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (21.0 %)  
+Toxic
+Roost
+Defog
+Foul Play
+# 5 - 5.93 % (247 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (13.4 %) / Overcoat (86.6 %)
+Nature: Impish - EVs: 248 HP / 168 Def / 92 Spd (10.1 %)  
+Taunt
+Roost
+Defog
+Foul Play
+# 6 - 4.30 % (179 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (11.7 %) / Overcoat (88.3 %)
+Nature: Careful - EVs: 12 HP / 228 Def / 196 SDef / 72 Spd (28.5 %)  
+Toxic
+Roost
+Defog
+Foul Play
+# 7 - 3.72 % (155 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (38.1 %) / Overcoat (61.9 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (18.7 %)  
+Whirlwind
+Roost
+Defog
+Foul Play
+# 8 - 3.63 % (151 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (20.5 %) / Overcoat (79.5 %)
+Nature: Bold - EVs: 248 HP / 148 Def / 112 Spd (15.9 %)  
+Toxic
+Taunt
+Roost
+Foul Play
+# 9 - 3.60 % (150 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (2.0 %) / Overcoat (98.0 %)
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (66.0 %)  
+Toxic
+Knock Off
+Roost
+Foul Play
+# 10 - 3.27 % (136 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (8.8 %) / Overcoat (91.2 %)
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (19.9 %)  
+Toxic
+Knock Off
+Roost
+Defog
+# 11 - 3.00 % (125 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (4.0 %) / Overcoat (96.0 %)
+Nature: Impish - EVs: 252 HP / 252 Def (22.4 %)  
+Whirlwind
+Knock Off
+Roost
+Defog
+# 12 - 3.00 % (125 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (12.0 %) / Overcoat (88.0 %)
+Nature: Bold - EVs: 252 HP / 144 Def / 112 Spd (23.2 %)  
+Roost
+Brave Bird
+Defog
+Foul Play
+# 13 - 1.35 % (56 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (5.4 %) / Overcoat (94.6 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (21.4 %)  
+Whirlwind
+Roost
+Defog
+Foul Play
+# 14 - 1.13 % (47 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (10.6 %) / Overcoat (85.1 %) / Weak Armor (4.3 %)
+Nature: Impish - EVs: 248 HP / 4 Def / 252 SDef / 4 Spd (12.8 %)  
+Taunt
+Knock Off
+Roost
+Foul Play
+# 15 - 1.03 % (43 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (4.7 %) / Overcoat (95.3 %)
+Nature: Impish - EVs: 240 HP / 252 Def / 16 Spd (46.5 %)  
+Roost
+U-turn
+Defog
+Foul Play
+# 16 - 1.03 % (43 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (20.9 %) / Overcoat (79.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (53.5 %)  
+Taunt
+Knock Off
+Roost
+Defog
+# 17 - 0.94 % (39 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (5.1 %) / Overcoat (94.9 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (53.8 %)  
+Toxic
+Taunt
+Roost
+Foul Play
+# 18 - 0.91 % (38 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks (42.1 %) / Overcoat (57.9 %)
+Nature: Impish - EVs: 248 HP / 252 Def / 8 SDef (36.8 %)  
+Taunt
+Knock Off
+Roost
+Defog
+# 19 - 0.89 % (37 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Overcoat
+Nature: Careful - EVs: 252 HP / 252 Def / 4 SDef (27.0 %)  
+Iron Defense
+Roost
+Defog
+Foul Play
+# 20 - 0.86 % (36 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Overcoat
+Nature: Careful - EVs: 0 (80.6 %)  
+Whirlwind
+Toxic
+Knock Off
+Roost
+# 21 - 0.86 % (36 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (2.8 %) / Overcoat (97.2 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (27.8 %)  
+Toxic
+Knock Off
+Roost
+Defog
+# 22 - 0.70 % (29 battles)
+
+Mandibuzz @ Leftovers Lv. 100 -- Big Pecks
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (69.0 %)  
+Knock Off
+Roost
+Tailwind
+U-turn
+# 23 - 0.67 % (28 battles)
+
+Mandibuzz @ Choice Band Lv. 100 -- Overcoat
+Nature: Adamant - EVs: 252 Atk / 252 Spd (64.3 %)  
+Bone Rush
+Knock Off
+Rock Tomb
+Brave Bird
+# 24 - 0.65 % (27 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (25.9 %) / Overcoat (74.1 %)
+Nature: Bold - EVs: 172 HP / 84 Def / 252 Spd (14.8 %)  
+Roost
+Brave Bird
+Defog
+Foul Play
+# 25 - 0.55 % (23 battles)
+
+Mandibuzz @ Rocky Helmet Lv. 100 -- Big Pecks (69.6 %) / Overcoat (30.4 %)
+Nature: Impish - EVs: 252 HP / 252 Def (30.4 %)  
+Toxic
+Knock Off
+Roost
+Foul Play

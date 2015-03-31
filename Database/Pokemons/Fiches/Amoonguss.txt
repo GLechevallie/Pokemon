@@ -1,0 +1,405 @@
+Grass/Poison
+114/85/70/85/80/30
+10.5
+50/50
+
+# 1 - 16.36 % (2127 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (0.5 %) / Regenerator (99.5 %)
+Nature: Calm - EVs: 212 HP / 96 Def / 200 SDef (16.4 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Foul Play
+# 2 - 12.11 % (1574 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (0.1 %) / Regenerator (99.9 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def (20.4 %)[Fire]  
+Spore
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 3 - 8.31 % (1080 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (0.8 %) / Regenerator (99.2 %)
+Nature: Calm - EVs: 240 HP / 32 Def / 236 SDef (7.6 %)  
+Spore
+Giga Drain
+Foul Play
+Clear Smog
+# 4 - 7.42 % (965 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (1.0 %) / Regenerator (99.0 %)
+Nature: Modest - EVs: 136 HP / 120 Def / 252 SAtk (34.4 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Clear Smog
+# 5 - 4.92 % (640 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (0.6 %) / Regenerator (99.4 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (23.3 %)  
+Stun Spore
+Spore
+Sludge Bomb
+Giga Drain
+# 6 - 3.82 % (497 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (1.2 %) / Regenerator (98.8 %)
+Nature: Bold - EVs: 248 HP / 216 Def / 44 SDef (10.9 %)[Fire]  
+Spore
+Giga Drain
+Hidden Power
+Clear Smog
+# 7 - 2.44 % (317 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (0.3 %) / Regenerator (99.7 %)
+Nature: Calm - EVs: 252 HP / 36 Def / 220 SDef (40.7 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Synthesis
+# 8 - 2.25 % (292 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 140 Def / 116 SDef (59.9 %)  
+Spore
+Protect
+Sludge Bomb
+Gastro Acid
+# 9 - 2.01 % (261 battles)
+
+Amoonguss @ Assault Vest Lv. 100 -- Effect Spore (0.4 %) / Regenerator (99.6 %)
+Nature: Calm - EVs: 252 HP / 132 Def / 124 SDef (12.6 %)[Ground]  
+Sludge Bomb
+Giga Drain
+Hidden Power
+Foul Play
+# 10 - 1.61 % (209 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Effect Spore (2.9 %) / Regenerator (97.1 %)
+Nature: Bold - EVs: 248 HP / 128 Def / 132 SDef (34.0 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Synthesis
+# 11 - 1.58 % (205 battles)
+
+Amoonguss @ Assault Vest Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 100 Def / 152 SDef (40.5 %)  
+Sludge Bomb
+Giga Drain
+Foul Play
+Clear Smog
+# 12 - 1.40 % (182 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Effect Spore (9.9 %) / Regenerator (90.1 %)
+Nature: Modest - EVs: 252 HP / 84 Def / 44 SAtk / 128 SDef (23.1 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Foul Play
+# 13 - 1.33 % (173 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Effect Spore (1.7 %) / Regenerator (98.3 %)
+Nature: Modest - EVs: 252 HP / 116 Def / 80 SAtk / 36 SDef / 24 Spd (30.1 %)[Fire] 
+Spore
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 14 - 1.24 % (161 battles)
+
+Amoonguss @ Assault Vest Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 88 Def / 168 SDef (34.8 %)[Fire]  
+Giga Drain
+Hidden Power
+Foul Play
+Clear Smog
+# 15 - 1.22 % (158 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 80 Def / 56 SAtk / 120 SDef (70.9 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Clear Smog
+# 16 - 1.20 % (156 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (3.8 %) / Regenerator (96.2 %)
+Nature: Bold - EVs: 200 HP / 136 Def / 172 SDef (57.1 %)  
+Stun Spore
+Spore
+Giga Drain
+Foul Play
+# 17 - 1.20 % (156 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (4.5 %) / Regenerator (95.5 %)
+Nature: Bold - EVs: 160 HP / 96 Def / 52 SAtk / 180 SDef / 20 Spd (17.9 %)  
+Stun Spore
+Spore
+Giga Drain
+Clear Smog
+# 18 - 1.05 % (136 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (0.7 %) / Regenerator (99.3 %)
+Nature: Calm - EVs: 252 HP / 252 SDef / 4 Spd (30.1 %)  
+Spore
+Giga Drain
+Synthesis
+Clear Smog
+# 19 - 0.93 % (121 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Effect Spore (1.7 %) / Regenerator (98.3 %)
+Nature: Modest - EVs: 76 HP / 176 Def / 120 SAtk / 136 SDef (26.4 %)[Fire]  
+Spore
+Giga Drain
+Hidden Power
+Clear Smog
+# 20 - 0.92 % (119 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (3.4 %) / Regenerator (96.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (30.3 %)  
+Spore
+Protect
+Sludge Bomb
+Giga Drain
+# 21 - 0.81 % (105 battles)
+
+Amoonguss @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def (40.0 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Foul Play
+# 22 - 0.78 % (101 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Modest - EVs: 252 Def / 252 SDef / 4 Spd (100.0 %)  
+Spore
+Sludge Bomb
+Energy Ball
+Clear Smog
+# 23 - 0.72 % (93 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (4.3 %) / Regenerator (95.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (28.0 %)  
+Toxic
+Spore
+Sludge Bomb
+Giga Drain
+# 24 - 0.70 % (91 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 168 Def / 88 SDef (61.5 %)[Fire]  
+Spore
+Sludge Bomb
+Hidden Power
+Foul Play
+# 25 - 0.69 % (90 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 252 Def / 4 Spd (36.7 %)  
+Spore
+Giga Drain
+Foul Play
+Clear Smog
+# 1 - 17.38 % (277 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (2.5 %) / Regenerator (97.5 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def (34.7 %)[Fire]  
+Spore
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 2 - 14.49 % (231 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (75.3 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Clear Smog
+# 3 - 11.98 % (191 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (1.6 %) / Regenerator (98.4 %)
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (11.5 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Foul Play
+# 4 - 6.21 % (99 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 56 Def / 200 SDef (21.2 %)  
+Stun Spore
+Spore
+Sludge Bomb
+Giga Drain
+# 5 - 5.14 % (82 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (4.9 %) / Regenerator (95.1 %)
+Nature: Sassy - EVs: 220 HP / 192 Def / 96 SDef (13.4 %)  
+Spore
+Giga Drain
+Foul Play
+Clear Smog
+# 6 - 4.77 % (76 battles)
+
+Amoonguss @ Assault Vest Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 132 Def / 124 SDef (42.1 %)[Ground]  
+Sludge Bomb
+Giga Drain
+Hidden Power
+Foul Play
+# 7 - 3.58 % (57 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (1.8 %) / Regenerator (98.2 %)
+Nature: Calm - EVs: 252 HP / 88 Def / 52 SAtk / 116 Spd (40.4 %)[Fire]  
+Spore
+Giga Drain
+Hidden Power
+Clear Smog
+# 8 - 3.39 % (54 battles)
+
+Amoonguss @ Assault Vest Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 116 Def / 140 SDef (37.0 %)  
+Sludge Bomb
+Giga Drain
+Foul Play
+Clear Smog
+# 9 - 2.32 % (37 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (94.6 %)[Fire]  
+Stun Spore
+Spore
+Giga Drain
+Hidden Power
+# 10 - 1.63 % (26 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Relaxed - EVs: 252 HP / 252 Def (76.9 %)[Fire]  
+Spore
+Sludge Bomb
+Giga Drain
+Hidden Power
+# 11 - 1.32 % (21 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 252 SDef (38.1 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Synthesis
+# 12 - 1.13 % (18 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Modest - EVs: 252 HP / 132 Def / 124 SDef (61.1 %)  
+Toxic
+Spore
+Giga Drain
+Clear Smog
+# 13 - 1.07 % (17 battles)
+
+Amoonguss @ Assault Vest Lv. 100 -- Regenerator
+Nature: Sassy - EVs: 128 HP / 128 Def / 252 SDef (35.3 %)[Fire]  
+Giga Drain
+Hidden Power
+Foul Play
+Clear Smog
+# 14 - 1.00 % (16 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Hardy - EVs: 0 (100.0 %)[Fire] 
+Stun Spore
+Giga Drain
+Hidden Power
+Clear Smog
+# 15 - 1.00 % (16 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 252 SDef (100.0 %)  
+Stun Spore
+Spore
+Sludge Bomb
+Energy Ball
+# 16 - 1.00 % (16 battles)
+
+Amoonguss @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Sassy - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Toxic
+Spore
+Protect
+Giga Drain
+# 17 - 0.82 % (13 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Effect Spore (7.7 %) / Regenerator (92.3 %)
+Nature: Modest - EVs: 252 HP / 84 Def / 44 SAtk / 128 SDef (15.4 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Foul Play
+# 18 - 0.82 % (13 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 180 SDef / 76 Spd (38.5 %)  
+Stun Spore
+Spore
+Giga Drain
+Foul Play
+# 19 - 0.75 % (12 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Effect Spore (8.3 %) / Regenerator (91.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (41.7 %)  
+Toxic
+Spore
+Sludge Bomb
+Giga Drain
+# 20 - 0.75 % (12 battles)
+
+Amoonguss @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def (75.0 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Foul Play
+# 21 - 0.69 % (11 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Calm - EVs: 252 HP / 252 Def / 4 Spd (36.4 %)  
+Spore
+Giga Drain
+Foul Play
+Clear Smog
+# 22 - 0.63 % (10 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Calm - EVs: 240 HP / 16 SAtk / 252 SDef (30.0 %)  
+Stun Spore
+Spore
+Sludge Bomb
+Giga Drain
+# 23 - 0.56 % (9 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Effect Spore (33.3 %) / Regenerator (66.7 %)
+Nature: Hardy - EVs: 252 HP / 128 Def / 120 SDef (55.6 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Synthesis
+# 24 - 0.56 % (9 battles)
+
+Amoonguss @ Leftovers Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 116 Def / 24 SAtk / 116 SDef (77.8 %)  
+Spore
+Sludge Bomb
+Giga Drain
+Clear Smog
+# 25 - 0.56 % (9 battles)
+
+Amoonguss @ Black Sludge Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Stun Spore
+Sludge Bomb
+Giga Drain
+Foul Play

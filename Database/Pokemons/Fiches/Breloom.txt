@@ -1,0 +1,405 @@
+Grass/Fighting
+60/130/80/60/60/70
+39.2
+50/50
+
+# 1 - 16.70 % (6119 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (0.6 %) / Poison Heal (0.0 %) / Technician (99.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (35.4 %)  
+Spore
+Mach Punch
+Rock Tomb
+Bullet Seed
+# 2 - 8.95 % (3281 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (1.3 %) / Poison Heal (0.1 %) / Technician (98.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.9 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 3 - 8.17 % (2995 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Effect Spore (0.2 %) / Poison Heal (99.8 %) / Technician (0.0 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (31.4 %)  
+Spore
+Substitute
+Focus Punch
+Seed Bomb
+# 4 - 5.40 % (1980 battles)
+
+Breloom @ Life Orb Lv. 100 -- Effect Spore (0.4 %) / Poison Heal (0.1 %) / Technician (99.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (42.5 %)  
+Spore
+Mach Punch
+Rock Tomb
+Bullet Seed
+# 5 - 5.14 % (1885 battles)
+
+Breloom @ Life Orb Lv. 100 -- Effect Spore (4.7 %) / Poison Heal (0.1 %) / Technician (95.2 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (21.4 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 6 - 4.88 % (1789 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Effect Spore (0.2 %) / Poison Heal (99.8 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (22.2 %)  
+Leech Seed
+Spore
+Substitute
+Focus Punch
+# 7 - 2.40 % (879 battles)
+
+Breloom @ Leftovers Lv. 100 -- Effect Spore (1.0 %) / Technician (99.0 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (48.8 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 8 - 2.35 % (860 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Effect Spore (0.1 %) / Poison Heal (99.9 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (15.8 %)  
+Spore
+Substitute
+Focus Punch
+Rock Tomb
+# 9 - 2.11 % (774 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Jolly - EVs: 252 Atk / 252 Spd (75.2 %)  
+Swords Dance
+Spore
+Mach Punch
+Rock Tomb
+# 10 - 1.51 % (552 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.5 %)  
+Spore
+Rock Slide
+Substitute
+Focus Punch
+# 11 - 1.47 % (538 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Effect Spore (1.1 %) / Poison Heal (98.9 %)
+Nature: Jolly - EVs: 12 HP / 244 Atk / 252 Spd (36.4 %)  
+Spore
+Substitute
+Focus Punch
+Stone Edge
+# 12 - 1.40 % (512 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (64.1 %)  
+Leech Seed
+Spore
+Protect
+Drain Punch
+# 13 - 0.93 % (341 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (34.9 %)  
+Swords Dance
+Mach Punch
+Rock Tomb
+Bullet Seed
+# 14 - 0.88 % (324 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (29.3 %)  
+Spore
+Substitute
+Seed Bomb
+Drain Punch
+# 15 - 0.86 % (317 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal (99.7 %) / Technician (0.3 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (34.4 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 16 - 0.86 % (316 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 252 SDef / 252 Spd (27.8 %)  
+Leech Seed
+Spore
+Substitute
+Drain Punch
+# 17 - 0.83 % (303 battles)
+
+Breloom @ Life Orb Lv. 100 -- Technician
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (63.0 %)  
+Spore
+Mach Punch
+Bullet Seed
+Low Sweep
+# 18 - 0.80 % (292 battles)
+
+Breloom @ Lum Berry Lv. 100 -- Effect Spore (13.0 %) / Technician (87.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (52.1 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 19 - 0.56 % (204 battles)
+
+Breloom @ Life Orb Lv. 100 -- Technician
+Nature: Adamant - EVs: 252 Atk / 252 Spd (88.7 %)  
+Swords Dance
+Spore
+Mach Punch
+Rock Tomb
+# 20 - 0.55 % (200 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (97.0 %)  
+Swords Dance
+Spore
+Mach Punch
+Drain Punch
+# 21 - 0.55 % (200 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (29.0 %)  
+Spore
+Substitute
+Mach Punch
+Focus Punch
+# 22 - 0.53 % (193 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (1.6 %) / Technician (98.4 %)
+Nature: Lonely - EVs: 4 HP / 252 Atk / 252 Spd (60.6 %)  
+Swords Dance
+Spore
+Mach Punch
+Stone Edge
+# 23 - 0.52 % (192 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (76.0 %)  
+Spore
+Mach Punch
+Bullet Seed
+Stone Edge
+# 24 - 0.52 % (191 battles)
+
+Breloom @ Leftovers Lv. 100 -- Effect Spore (2.6 %) / Technician (97.4 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (86.9 %)  
+Leech Seed
+Spore
+Mach Punch
+Bullet Seed
+# 25 - 0.52 % (190 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (60.0 %)  
+Mach Punch
+Rock Tomb
+Bullet Seed
+Force Palm
+# 1 - 49.28 % (5612 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (0.2 %) / Technician (99.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (40.3 %)  
+Spore
+Mach Punch
+Rock Tomb
+Bullet Seed
+# 2 - 9.12 % (1038 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (0.8 %) / Poison Heal (0.1 %) / Technician (99.1 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (29.4 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 3 - 2.61 % (297 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (30.0 %)  
+Spore
+Substitute
+Focus Punch
+Seed Bomb
+# 4 - 2.25 % (256 battles)
+
+Breloom @ Leftovers Lv. 100 -- Poison Heal (0.8 %) / Technician (99.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (95.7 %)  
+Spore
+Mach Punch
+Bullet Seed
+Power-Up Punch
+# 5 - 2.20 % (250 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (37.2 %)  
+Spore
+Mach Punch
+Bullet Seed
+Stone Edge
+# 6 - 2.07 % (236 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Effect Spore (0.8 %) / Poison Heal (99.2 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (27.1 %)  
+Leech Seed
+Spore
+Substitute
+Focus Punch
+# 7 - 1.96 % (223 battles)
+
+Breloom @ Life Orb Lv. 100 -- Effect Spore (2.7 %) / Technician (97.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (26.0 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 8 - 1.95 % (222 battles)
+
+Breloom @ Life Orb Lv. 100 -- Effect Spore (0.5 %) / Technician (99.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.4 %)  
+Spore
+Mach Punch
+Rock Tomb
+Bullet Seed
+# 9 - 1.81 % (206 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 232 HP / 24 Atk / 252 Def (51.5 %)  
+Leech Seed
+Spore
+Protect
+Drain Punch
+# 10 - 1.36 % (155 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (3.9 %) / Technician (96.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (67.7 %)  
+Swords Dance
+Spore
+Mach Punch
+Rock Tomb
+# 11 - 1.22 % (139 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (50.4 %)  
+Swords Dance
+Mach Punch
+Rock Tomb
+Bullet Seed
+# 12 - 0.91 % (104 battles)
+
+Breloom @ Leftovers Lv. 100 -- Effect Spore (1.0 %) / Technician (99.0 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (34.6 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed
+# 13 - 0.83 % (95 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Spore
+Mach Punch
+Seed Bomb
+Stone Edge
+# 14 - 0.77 % (88 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (40.9 %)  
+Spore
+Rock Slide
+Substitute
+Focus Punch
+# 15 - 0.70 % (80 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (96.2 %)  
+Spore
+Mach Punch
+Bullet Seed
+Power-Up Punch
+# 16 - 0.64 % (73 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (20.5 %)  
+Spore
+Substitute
+Focus Punch
+Rock Tomb
+# 17 - 0.57 % (65 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (4.6 %) / Technician (95.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (56.9 %)  
+Spore
+Mach Punch
+Bullet Seed
+Power-Up Punch
+# 18 - 0.45 % (51 battles)
+
+Breloom @ Leftovers Lv. 100 -- Technician
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (43.1 %)  
+Spore
+Mach Punch
+Rock Tomb
+Bullet Seed
+# 19 - 0.42 % (48 battles)
+
+Breloom @ Choice Scarf Lv. 100 -- Technician
+Nature: Careful - EVs: 252 Atk / 4 Def / 252 Spd (87.5 %)  
+Mach Punch
+Superpower
+Rock Tomb
+Bullet Seed
+# 20 - 0.39 % (44 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Poison Heal (11.4 %) / Technician (88.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (59.1 %)  
+Spore
+Mach Punch
+Rock Tomb
+Seed Bomb
+# 21 - 0.35 % (40 battles)
+
+Breloom @ Choice Band Lv. 100 -- Effect Spore (12.5 %) / Technician (87.5 %)
+Nature: Adamant - EVs: 240 HP / 252 Atk / 16 Spd (32.5 %)  
+Mach Punch
+Rock Tomb
+Bullet Seed
+Low Sweep
+# 22 - 0.33 % (38 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Technician
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (84.2 %)  
+Mach Punch
+Rock Tomb
+Bullet Seed
+Force Palm
+# 23 - 0.33 % (38 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Spore
+Substitute
+Facade
+Focus Punch
+# 24 - 0.32 % (37 battles)
+
+Breloom @ Focus Sash Lv. 100 -- Effect Spore (18.9 %) / Technician (81.1 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (18.9 %)  
+Spore
+Mach Punch
+Focus Punch
+Bullet Seed
+# 25 - 0.29 % (33 battles)
+
+Breloom @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.5 %)  
+Swords Dance
+Spore
+Mach Punch
+Bullet Seed

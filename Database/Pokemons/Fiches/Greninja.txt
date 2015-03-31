@@ -1,0 +1,405 @@
+Water/Dark
+72/95/67/103/71/122
+40.0
+87.5/12.5
+
+# 1 - 4.53 % (4272 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (3.5 %) / Protean (96.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (40.0 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+Dark Pulse
+# 2 - 3.58 % (3373 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (2.3 %) / Protean (97.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (63.5 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 3 - 3.52 % (3321 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (1.4 %) / Protean (98.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.8 %)  
+Surf
+Ice Beam
+Extrasensory
+Dark Pulse
+# 4 - 2.98 % (2811 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (2.7 %) / Protean (97.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (28.1 %)  
+Ice Beam
+Extrasensory
+Dark Pulse
+Scald
+# 5 - 2.82 % (2656 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (1.6 %) / Protean (98.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (54.5 %)  
+Surf
+Ice Beam
+Dark Pulse
+Grass Knot
+# 6 - 2.78 % (2624 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.8 %) / Protean (99.2 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (54.9 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+Shadow Sneak
+# 7 - 2.51 % (2362 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.8 %) / Protean (99.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (28.3 %)  
+Ice Beam
+Dark Pulse
+Grass Knot
+Scald
+# 8 - 2.43 % (2289 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (4.5 %) / Protean (95.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.5 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse
+# 9 - 2.31 % (2180 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (1.3 %) / Protean (98.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (31.7 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Dark Pulse
+# 10 - 2.28 % (2145 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (3.2 %) / Protean (96.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (24.1 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Extrasensory
+# 11 - 1.85 % (1745 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (4.0 %) / Protean (96.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (24.8 %)  
+Surf
+Ice Beam
+U-turn
+Dark Pulse
+# 12 - 1.83 % (1724 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (2.9 %) / Protean (97.1 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (17.3 %)[Fire]  
+Surf
+Ice Beam
+Hidden Power
+Dark Pulse
+# 13 - 1.65 % (1551 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Torrent (0.6 %) / Protean (99.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (64.7 %)  
+Ice Beam
+Extrasensory
+Dark Pulse
+Scald
+# 14 - 1.18 % (1110 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (2.4 %) / Protean (97.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (20.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 15 - 1.17 % (1105 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.9 %) / Protean (99.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (16.8 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+U-turn
+# 16 - 1.10 % (1033 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (1.2 %) / Protean (98.8 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (41.4 %)[Fire]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Grass Knot
+# 17 - 1.09 % (1029 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (4.6 %) / Protean (95.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (16.0 %)  
+Ice Beam
+U-turn
+Dark Pulse
+Scald
+# 18 - 0.89 % (838 battles)
+
+Greninja @ Life Orb Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (37.4 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Shadow Sneak
+# 19 - 0.86 % (809 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.1 %) / Protean (99.9 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.6 %)  
+Surf
+Ice Beam
+Dark Pulse
+Shadow Sneak
+# 20 - 0.84 % (789 battles)
+
+Greninja @ Leftovers Lv. 100 -- Torrent (9.8 %) / Protean (90.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.5 %)  
+Ice Beam
+Extrasensory
+Dark Pulse
+Scald
+# 21 - 0.83 % (784 battles)
+
+Greninja @ Lum Berry Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+Dark Pulse
+# 22 - 0.78 % (734 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Torrent (0.7 %) / Protean (99.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.5 %)  
+Surf
+Ice Beam
+Dark Pulse
+Grass Knot
+# 23 - 0.74 % (699 battles)
+
+Greninja @ Focus Sash Lv. 100 -- Torrent (1.7 %) / Protean (98.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (48.8 %)  
+Surf
+Ice Beam
+Extrasensory
+Dark Pulse
+# 24 - 0.65 % (613 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Torrent (2.6 %) / Protean (97.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (23.0 %)  
+Ice Beam
+U-turn
+Dark Pulse
+Scald
+# 25 - 0.61 % (579 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Torrent (2.4 %) / Protean (97.6 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (29.7 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+Dark Pulse
+# 1 - 3.96 % (915 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.9 %) / Protean (99.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (77.2 %)  
+Hydro Pump
+Ice Beam
+Dark Pulse
+Grass Knot
+# 2 - 3.49 % (808 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (2.5 %) / Protean (97.5 %)
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (29.2 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse
+# 3 - 2.68 % (619 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (3.9 %) / Protean (96.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.1 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+Dark Pulse
+# 4 - 2.39 % (552 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (2.0 %) / Protean (98.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (29.3 %)  
+Surf
+Ice Beam
+U-turn
+Dark Pulse
+# 5 - 1.94 % (449 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.7 %) / Protean (99.3 %)
+Nature: Hasty - EVs: 4 HP / 252 SAtk / 252 Spd (48.3 %)  
+Ice Beam
+U-turn
+Dark Pulse
+Scald
+# 6 - 1.79 % (413 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (4.4 %) / Protean (95.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (33.9 %)  
+Ice Beam
+Extrasensory
+Dark Pulse
+Scald
+# 7 - 1.76 % (407 battles)
+
+Greninja @ Focus Sash Lv. 100 -- Protean
+Nature: Timid - EVs: 244 HP / 12 Def / 252 Spd (45.5 %)  
+Toxic
+Spikes
+Taunt
+Scald
+# 8 - 1.72 % (398 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (1.0 %) / Protean (99.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (34.7 %)  
+Ice Beam
+Dark Pulse
+Grass Knot
+Scald
+# 9 - 1.72 % (397 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.8 %) / Protean (99.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.9 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Dark Pulse
+# 10 - 1.57 % (364 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Torrent (2.2 %) / Protean (97.8 %)
+Nature: Naive - EVs: 4 Def / 252 SAtk / 252 Spd (37.9 %)  
+Ice Beam
+U-turn
+Dark Pulse
+Scald
+# 11 - 1.48 % (343 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (1.7 %) / Protean (98.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (37.3 %)  
+Surf
+Ice Beam
+Extrasensory
+Dark Pulse
+# 12 - 1.41 % (325 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (5.2 %) / Protean (94.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (40.0 %)  
+Surf
+Ice Beam
+Dark Pulse
+Grass Knot
+# 13 - 1.28 % (297 battles)
+
+Greninja @ Focus Sash Lv. 100 -- Torrent (2.0 %) / Protean (98.0 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (33.7 %)  
+Surf
+Ice Beam
+U-turn
+Dark Pulse
+# 14 - 1.19 % (276 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (0.7 %) / Protean (99.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.8 %)[Fire]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Extrasensory
+# 15 - 1.14 % (263 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (3.4 %) / Protean (96.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (36.1 %)[Fire]  
+Surf
+Ice Beam
+Hidden Power
+Dark Pulse
+# 16 - 1.11 % (256 battles)
+
+Greninja @ Focus Sash Lv. 100 -- Protean
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Toxic
+Dark Pulse
+Scald
+# 17 - 1.09 % (251 battles)
+
+Greninja @ Choice Scarf Lv. 100 -- Protean
+Nature: Rash - EVs: 40 Atk / 252 SAtk / 216 Spd (80.5 %)  
+Surf
+Ice Beam
+U-turn
+Dark Pulse
+# 18 - 1.04 % (241 battles)
+
+Greninja @ Focus Sash Lv. 100 -- Protean
+Nature: Naive - EVs: 44 Atk / 212 SAtk / 252 Spd (96.3 %)  
+Ice Beam
+U-turn
+Grass Knot
+Scald
+# 19 - 1.01 % (234 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (3.0 %) / Protean (97.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (53.0 %)[Grass]  
+Ice Beam
+Hidden Power
+Dark Pulse
+Scald
+# 20 - 1.00 % (231 battles)
+
+Greninja @ Focus Sash Lv. 100 -- Torrent (1.3 %) / Protean (98.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (65.8 %)  
+Ice Beam
+Extrasensory
+Dark Pulse
+Scald
+# 21 - 0.94 % (217 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Protean
+Nature: Timid - EVs: 252 SAtk / 252 Spd (31.8 %)  
+Ice Beam
+Extrasensory
+Dark Pulse
+Scald
+# 22 - 0.90 % (207 battles)
+
+Greninja @ Life Orb Lv. 100 -- Torrent (1.9 %) / Protean (98.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (44.9 %)[Fire]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Grass Knot
+# 23 - 0.78 % (180 battles)
+
+Greninja @ Expert Belt Lv. 100 -- Torrent (0.6 %) / Protean (99.4 %)
+Nature: Modest - EVs: 4 Atk / 252 SAtk / 252 Spd (36.7 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse
+# 24 - 0.77 % (177 battles)
+
+Greninja @ Lum Berry Lv. 100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Extrasensory
+Dark Pulse
+# 25 - 0.66 % (152 battles)
+
+Greninja @ Focus Sash Lv. 100 -- Torrent (13.8 %) / Protean (86.2 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (52.0 %)  
+Hydro Pump
+Ice Beam
+U-turn
+Dark Pulse

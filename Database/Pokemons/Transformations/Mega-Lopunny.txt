@@ -1,0 +1,4 @@
+Normal/Fighting
+65/136/94/54/96/135
+Scrappy
+28.3

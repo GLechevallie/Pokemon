@@ -1,0 +1,405 @@
+Ice/-
+65/60/110/130/95/65
+25.9
+87.5/12.5
+
+# 1 - 7.06 % (174 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak (0.6 %) / Ice Body (99.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (99.4 %)[Psychic]  
+Ice Beam
+Hidden Power
+Shadow Ball
+Signal Beam
+# 2 - 5.88 % (145 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (100.0 %)[Fighting]  
+Blizzard
+Toxic
+Substitute
+Hidden Power
+# 3 - 3.53 % (87 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Ice Body
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Hidden Power
+Shadow Ball
+Signal Beam
+Frost Breath
+# 4 - 3.29 % (81 battles)
+
+Glaceon @ Choice Scarf Lv. 100 -- Snow Cloak (11.1 %) / Ice Body (88.9 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (88.9 %)[Ground]  
+Ice Beam
+Hidden Power
+Shadow Ball
+Frost Breath
+# 5 - 3.20 % (79 battles)
+
+Glaceon @ Assault Vest Lv. 100 -- Ice Body
+Nature: Modest - EVs: 252 Def / 236 SAtk / 20 Spd (82.3 %)[Ground]  
+Ice Beam
+Hidden Power
+Shadow Ball
+Signal Beam
+# 6 - 2.68 % (66 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Calm - EVs: 180 Def / 116 SAtk / 180 SDef / 32 Spd (100.0 %)  
+Ice Beam
+Toxic
+Protect
+Water Pulse
+# 7 - 1.91 % (47 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Bold - EVs: 252 HP / 252 SAtk (100.0 %)  
+Blizzard
+Substitute
+Shadow Ball
+Ice Shard
+# 8 - 1.91 % (47 battles)
+
+Glaceon @ Assault Vest Lv. 100 -- Ice Body
+Nature: Modest - EVs: 252 Def / 236 SAtk / 20 Spd (100.0 %)[Ground]  
+Blizzard
+Hidden Power
+Shadow Ball
+Signal Beam
+# 9 - 1.62 % (40 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak (40.0 %) / Ice Body (60.0 %)
+Nature: Bold - EVs: 252 HP / 252 SDef (60.0 %)  
+Ice Beam
+Toxic
+Protect
+Wish
+# 10 - 1.50 % (37 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Quiet - EVs: 252 Def / 252 SAtk (100.0 %)  
+Ice Beam
+Hyper Beam
+Shadow Ball
+Signal Beam
+# 11 - 1.46 % (36 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak (5.6 %) / Ice Body (94.4 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (94.4 %)[Ground]  
+Ice Beam
+Hidden Power
+Shadow Ball
+Frost Breath
+# 12 - 1.46 % (36 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Calm - EVs: 252 HP / 120 Def / 136 SDef (100.0 %)  
+Blizzard
+Protect
+Heal Bell
+Wish
+# 13 - 1.30 % (32 battles)
+
+Glaceon @ Focus Sash Lv. 100 -- Ice Body
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Rock]  
+Ice Beam
+Baton Pass
+Hidden Power
+Shadow Ball
+# 14 - 1.18 % (29 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (82.8 %)  
+Ice Beam
+Shadow Ball
+Signal Beam
+Water Pulse
+# 15 - 1.14 % (28 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Modest - EVs: 252 HP / 212 SAtk / 4 Spd (100.0 %)  
+Blizzard
+Protect
+Hail
+Ice Shard
+# 16 - 1.10 % (27 battles)
+
+Glaceon @ Never-Melt Ice Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 252 SAtk (100.0 %) 
+Ice Beam
+Shadow Ball
+Wish
+Water Pulse
+# 17 - 1.01 % (25 battles)
+
+Glaceon @ Focus Sash Lv. 100 -- Snow Cloak
+Nature: Hardy - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Quick Attack
+Signal Beam
+Water Pulse
+# 18 - 1.01 % (25 battles)
+
+Glaceon @ Icicle Plate Lv. 100 -- Ice Body
+Nature: Calm - EVs: 128 HP / 64 Atk / 80 Def / 136 SAtk / 100 SDef (100.0 %)  
+Ice Beam
+Blizzard
+Detect
+Iron Tail
+# 19 - 0.97 % (24 battles)
+
+Glaceon @ Assault Vest Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 4 HP / 252 Def / 252 SAtk (100.0 %)[Fire]  
+Hidden Power
+Shadow Ball
+Water Pulse
+Frost Breath
+# 20 - 0.93 % (23 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak (17.4 %) / Ice Body (82.6 %)
+Nature: Bold - EVs: 252 Def / 4 SAtk / 252 SDef (56.5 %)  
+Ice Beam
+Substitute
+Heal Bell
+Baton Pass
+# 21 - 0.89 % (22 battles)
+
+Glaceon @ Choice Scarf Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (63.6 %)[Fire]  
+Blizzard
+Hidden Power
+Shadow Ball
+Water Pulse
+# 22 - 0.89 % (22 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Blizzard
+Substitute
+Protect
+Baton Pass
+# 23 - 0.89 % (22 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Timid - EVs: 188 HP / 68 SAtk / 252 Spd (54.5 %)  
+Shadow Ball
+Hail
+Wish
+Frost Breath
+# 24 - 0.85 % (21 battles)
+
+Glaceon @ Icicle Plate Lv. 100 -- Ice Body
+Nature: Modest - EVs: 252 Def / 252 SDef (100.0 %)  
+Icy Wind
+Mirror Coat
+Shadow Ball
+Hail
+# 25 - 0.81 % (20 battles)
+
+Glaceon @ Focus Sash Lv. 100 -- Ice Body
+Nature: Naive - EVs: 116 HP / 68 Atk / 76 Def / 68 SAtk / 56 SDef / 124 Spd (100.0 %)[Fire]  
+Ice Beam
+Hyper Beam
+Hidden Power
+Aqua Tail
+# 1 - 11.17 % (20 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 112 Def / 252 SAtk / 144 SDef (100.0 %)  
+Ice Beam
+Heal Bell
+Shadow Ball
+Frost Breath
+# 2 - 7.26 % (13 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Quiet - EVs: 252 Def / 252 SAtk (100.0 %)  
+Ice Beam
+Hyper Beam
+Shadow Ball
+Signal Beam
+# 3 - 5.03 % (9 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Hardy - EVs: 52 HP / 96 Atk / 84 Def / 132 SAtk / 28 SDef / 116 Spd (100.0 %)  
+Ice Beam
+Blizzard
+Dig
+Hail
+# 4 - 3.35 % (6 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Calm - EVs: 180 Def / 116 SAtk / 180 SDef / 32 Spd (100.0 %)  
+Ice Beam
+Toxic
+Protect
+Water Pulse
+# 5 - 2.79 % (5 battles)
+
+Glaceon @ Icicle Plate Lv. 100 -- Ice Body
+Nature: Calm - EVs: 128 HP / 64 Atk / 80 Def / 136 SAtk / 100 SDef (100.0 %) 
+Ice Beam
+Blizzard
+Detect
+Iron Tail
+# 6 - 2.23 % (4 battles)
+
+Glaceon @ Choice Scarf Lv. 100 -- Snow Cloak (50.0 %) / Ice Body (50.0 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)[Ground]  
+Ice Beam
+Hidden Power
+Shadow Ball
+Frost Breath
+# 7 - 2.23 % (4 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 128 HP / 128 Def / 252 SAtk (75.0 %)  
+Ice Beam
+Shadow Ball
+Signal Beam
+Water Pulse
+# 8 - 2.23 % (4 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Hardy - EVs: 72 HP / 56 Atk / 64 Def / 128 SAtk / 100 SDef / 88 Spd (100.0 %)  
+(No Move)
+Ice Beam
+Blizzard
+Water Pulse
+# 9 - 2.23 % (4 battles)
+
+Glaceon @ Black Belt Lv. 100 -- Snow Cloak
+Nature: Brave - EVs: 128 HP / 180 Atk / 32 Def / 20 SDef / 148 Spd (100.0 %) 
+Bite
+Blizzard
+Hyper Beam
+Aqua Tail
+# 10 - 1.68 % (3 battles)
+
+Glaceon @ Choice Scarf Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Echoed Voice
+Frost Breath
+# 11 - 1.68 % (3 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Hyper Beam
+Shadow Ball
+Hyper Voice
+# 12 - 1.68 % (3 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Hardy - EVs: 72 HP / 56 Atk / 64 Def / 128 SAtk / 100 SDef / 88 Spd (100.0 %)  
+Ice Beam
+Blizzard
+Dig
+Water Pulse
+# 13 - 1.68 % (3 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Hardy - EVs: 0 (100.0 %)  
+Ice Beam
+Blizzard
+Water Pulse
+Aqua Tail
+# 14 - 1.68 % (3 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Calm - EVs: 180 Def / 116 SAtk / 180 SDef / 32 Spd (100.0 %)  
+Ice Beam
+Toxic
+Barrier
+Protect
+# 15 - 1.68 % (3 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak (66.7 %) / Ice Body (33.3 %)
+Nature: Calm - EVs: 112 Def / 144 SAtk / 252 SDef (66.7 %)  
+Ice Beam
+Barrier
+Baton Pass
+Stored Power
+# 16 - 1.68 % (3 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Ice Body
+Nature: Modest - EVs: 252 Def / 252 SAtk / 4 SDef (100.0 %)  
+Ice Beam
+Protect
+Wish
+Aqua Tail
+# 17 - 1.68 % (3 battles)
+
+Glaceon @ Leftovers Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Ice Beam
+Return
+Rain Dance
+Aqua Tail
+# 18 - 1.68 % (3 battles)
+
+Glaceon @ Life Orb Lv. 100 -- Ice Body
+Nature: Modest - EVs: 128 Def / 220 SAtk / 160 SDef (100.0 %)  
+Roar
+Ice Beam
+Shadow Ball
+Wish
+# 19 - 1.68 % (3 battles)
+
+Glaceon @ Quick Claw Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Ice Beam
+Attract
+Shadow Ball
+Water Pulse
+# 20 - 1.68 % (3 battles)
+
+Glaceon @ Assault Vest Lv. 100 -- Ice Body
+Nature: Modest - EVs: 196 HP / 128 SAtk / 184 SDef (100.0 %)[Fire]  
+Ice Beam
+Hidden Power
+Shadow Ball
+Hyper Voice
+# 21 - 1.12 % (2 battles)
+
+Glaceon @ Choice Scarf Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Blizzard
+Wish
+Water Pulse
+# 22 - 1.12 % (2 battles)
+
+Glaceon @ Choice Scarf Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Ice Beam
+Heal Bell
+Hidden Power
+Frost Breath
+# 23 - 1.12 % (2 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak
+Nature: Rash - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Ice Beam
+Baton Pass
+Shadow Ball
+Synchronoise
+# 24 - 1.12 % (2 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 212 SAtk / 252 Spd (100.0 %)[Ground]  
+Ice Beam
+Hidden Power
+Shadow Ball
+Wish
+# 25 - 1.12 % (2 battles)
+
+Glaceon @ Choice Specs Lv. 100 -- Snow Cloak
+Nature: Modest - EVs: 112 Def / 252 SAtk / 144 SDef (100.0 %)  
+Ice Beam
+Shadow Ball
+Yawn
+Frost Breath

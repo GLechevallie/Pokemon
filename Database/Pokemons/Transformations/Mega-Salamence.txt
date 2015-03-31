@@ -1,0 +1,4 @@
+Dragon/Flying
+95/145/130/120/90/120
+Aerilate
+112.5

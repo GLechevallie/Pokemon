@@ -1,0 +1,133 @@
+Cible	Type	Prec	Prio	PP	Stats	Variat°	Sonore
+
+Acid Armor
+user	Poison	101	0	32	Def	2	no
+
+Acupressure
+user	Normal	101	0	48	???	2	no
+
+Agility
+user	Psychic	101	0	48	Vit	2	no
+
+Amnesia
+user	Psychic	101	0	32	SDef	2	no
+
+Autotomize
+user	Steel	101	0	24	Vit	2	no
+
+Baby-Doll Eyes
+adv	Fairy	100	1	48	Atq	-1	no
+
+Barrier
+user	Psychic	101	0	32	Def	2	no
+
+Bulk Up
+user	Fighting	101	0	32	Atq/Def	1/1	no
+
+Calm Mind
+user	Psychic	101	0	32	SAtq/SDef	1/1	no
+
+Charm
+adv	Fairy	100	0	32	Atq	-2	no
+
+Coil
+user	Poison	101	0	32	Atq/Def/Prec	1/1/1	no
+
+Confide
+adv	Normal	100	0	32	SAtq	-1	no
+
+Cosmic Power
+user	Psychic	101	0	32	Def/SDef	1/1	no
+
+Cotton Guard
+user	Grass	101	0	16	Def	3	no
+
+Curse
+user	Ghost	101	0	16	Atq/Def/Vit	1/1/-1	no
+
+Double Team
+user	Normal	101	0	24	Esq	1	no
+
+Dragon Dance
+user	Dragon	101	0	32	Atq/Vit	1/1	no
+
+Fake Tears
+adv	Dark	100	0	32	SDef	-2	no
+
+Feather Dance
+adv	Flying	100	0	24	Atq	-2	no
+
+Flash
+adv	Normal	100	0	32	Prec	-1	no
+
+Focus Energy
+user	Normal	101	0	48	Crit	1	no
+
+Geomancy
+user	Fairy	101	0	16	SAtq/SDef/Vit	2/2/2	no
+
+Growl
+allAdv	Normal	100	0	64	Atq	-1	yes
+
+Growth
+user	Grass	101	0	64	Atq/SAtq	1/1	no
+
+Hone Claws
+user	Dark	101	0	24	Atq/Prec	1/1	no
+
+Howl
+user	Normal	101	0	64	Atq	1	no
+
+Iron Defense
+user	Steel	101	0	24	Def	2	no
+
+Minimize
+user	Normal	101	0	16	Esq	1	no
+
+Metal Sound
+adv	Steel	85	0	64	SDef	-2	yes
+
+Nasty Plot
+user	Dark	101	0	32	SAtq	2	no
+
+Parting Shot
+adv	Dark	100	0	32	Atq/SAtq	-1/-1	yes
+
+Quiver Dance
+user	Bug	101	0	32	SAtq/SDef/Vit	1/1/1	no
+
+Rock Polish
+user	Rock	101	0	32	Vit	2	no
+
+Sand Attack
+adv	Ground	100	0	24	Prec	-1	no
+
+Scary Face
+adv	Normal	100	0	16	Vit	-2	no
+
+Shell Smash
+user	Normal	101	0	24	Atq/Def/SAtq/SDef/Vit	2/-1/2/-1/2	no
+
+Shift Gear
+user	Steel	101	0	16	Atq/Vit	1/2	no
+
+Smokescreen
+adv	Normal	100	0	32	Prec	-1	no
+
+Swords Dance
+user	Normal	101	0	48	Atq	2	no
+
+Tail Glow
+user	Bug	101	0	32	SAtq	3	no
+
+Tickle
+adv	Normal	100	0	32	Atq/Def	-1/-1	no
+
+Venom Drench
+allAdv	Poison	100	0	32	Atq/SAtq/Vit	-1/-1/-1	no
+
+Withdraw
+user	Water	100	0	64	Def	1	no
+
+Work Up
+user	Normal	101	0	48	Atq/SAtq	1/1	no

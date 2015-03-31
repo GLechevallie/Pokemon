@@ -1,0 +1,317 @@
+Normal/-
+55/55/50/45/65/55
+6.5
+87.5/12.5
+
+# 1 - 11.11 % (7 battles)
+
+Eevee @ Leftovers Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Bite
+Last Resort
+# 2 - 9.52 % (6 battles)
+
+Eevee @ Choice Band Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Bite
+Sing
+Quick Attack
+Return
+# 3 - 6.35 % (4 battles)
+
+Eevee @ Leftovers Lv. 100 -- Anticipation
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Def (100.0 %)  
+Iron Tail
+Shadow Ball
+Yawn
+Last Resort
+# 4 - 6.35 % (4 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Careful - EVs: 252 HP / 252 SDef (100.0 %)  
+Quick Attack
+Curse
+Return
+Wish
+# 5 - 4.76 % (3 battles)
+
+Eevee @ Focus Band Lv. 100 -- Anticipation
+Nature: Impish - EVs: 56 Atk / 220 Def / 176 SDef / 56 Spd (100.0 %)  
+(No Move)
+(No Move)
+Quick Attack
+Helping Hand
+# 6 - 4.76 % (3 battles)
+
+Eevee @ Eviolite Lv. 100 -- Run Away
+Nature: Jolly - EVs: 168 HP / 164 Atk / 176 Spd (100.0 %)  
+Toxic
+Charm
+Iron Tail
+Facade
+# 7 - 4.76 % (3 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Sassy - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Quick Attack
+Curse
+Return
+Iron Tail
+# 8 - 4.76 % (3 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Impish - EVs: 112 Atk / 220 Def / 176 SDef (66.7 %)  
+Curse
+Return
+Wish
+Refresh
+# 9 - 3.17 % (2 battles)
+
+Eevee @ (No Item) Lv. 100 -- Run Away
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 SAtk (100.0 %)  
+Take Down
+Sing
+Attract
+Shadow Ball
+# 10 - 3.17 % (2 battles)
+
+Eevee @ Focus Sash Lv. 100 -- Adaptability
+Nature: Naive - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Quick Attack
+Protect
+Return
+Wish
+# 11 - 3.17 % (2 battles)
+
+Eevee @ Leftovers Lv. 100 -- Anticipation
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Dig
+Attract
+Iron Tail
+# 12 - 3.17 % (2 battles)
+
+Eevee @ Quick Powder Lv. 100 -- Anticipation
+Nature: Hasty - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+Substitute
+Protect
+Trump Card
+Synchronoise
+# 13 - 3.17 % (2 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Headbutt
+Dig
+Rest
+Iron Tail
+# 14 - 3.17 % (2 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Body Slam
+Facade
+Wish
+Retaliate
+# 15 - 3.17 % (2 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Hardy - EVs: 108 Def / 160 SAtk / 120 SDef / 120 Spd (100.0 %)  
+Return
+Facade
+Last Resort
+Synchronoise
+# 16 - 3.17 % (2 battles)
+
+Eevee @ Salac Berry Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Flail
+Endure
+Baton Pass
+# 17 - 1.59 % (1 battles)
+
+Eevee @ (No Item) Lv. 100 -- Run Away
+Nature: Hardy - EVs: 136 HP / 84 Atk / 92 SAtk / 60 SDef / 136 Spd (100.0 %) 
+Body Slam
+Take Down
+Bite
+Hyper Voice
+# 18 - 1.59 % (1 battles)
+
+Eevee @ Focus Band Lv. 100 -- Run Away
+Nature: Lonely - EVs: 28 HP / 252 Atk / 64 Def / 56 SDef / 108 Spd (100.0 %)  
+Take Down
+Secret Power
+Last Resort
+Round
+# 19 - 1.59 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Run Away
+Nature: Hardy - EVs: 176 HP / 176 Atk / 156 Def (100.0 %)  
+Body Slam
+Double-Edge
+Bite
+Last Resort
+# 20 - 1.59 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Adaptability
+Nature: Naughty - EVs: 60 HP / 80 Atk / 80 Def / 52 SAtk / 64 SDef / 60 Spd (100.0 %)  
+Body Slam
+Covet
+Last Resort
+Echoed Voice
+# 21 - 1.59 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Anticipation
+Nature: Hardy - EVs: 76 HP / 144 Atk / 84 Def / 92 SAtk / 88 SDef / 24 Spd (100.0 %)  
+Double-Edge
+Dig
+Iron Tail
+Shadow Ball
+# 22 - 1.59 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Anticipation
+Nature: Quirky - EVs: 124 HP / 144 Atk / 76 Def / 72 SDef / 92 Spd (100.0 %)  
+Double-Edge
+Endure
+Heal Bell
+Baby-Doll Eyes
+# 23 - 1.59 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Run Away
+Nature: Hardy - EVs: 252 HP / 252 SDef (100.0 %)  
+Bite
+Attract
+Baton Pass
+Baby-Doll Eyes
+# 24 - 1.59 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Toxic
+Curse
+Protect
+Return
+# 25 - 1.59 % (1 battles)
+
+Eevee @ Silk Scarf Lv. 100 -- Adaptability
+Nature: Calm - EVs: 208 HP / 16 Atk / 112 Def / 44 SAtk / 104 SDef / 24 Spd (100.0 %)  
+Detect
+Heal Bell
+Last Resort
+Synchronoise
+# 1 - 19.23 % (5 battles)
+
+Eevee @ Leftovers Lv. 100 -- Run Away
+Nature: Hardy - EVs: 80 HP / 84 Atk / 84 Def / 84 SAtk / 84 SDef / 92 Spd (100.0 %)  
+Headbutt
+Double-Edge
+Iron Tail
+Shadow Ball
+# 2 - 19.23 % (5 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Hardy - EVs: 108 Def / 160 SAtk / 120 SDef / 120 Spd (100.0 %)  
+Return
+Facade
+Last Resort
+Synchronoise
+# 3 - 11.54 % (3 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Adamant - EVs: 252 HP / 144 Atk / 112 SDef (100.0 %)  
+Bite
+Quick Attack
+Curse
+Return
+# 4 - 7.69 % (2 battles)
+
+Eevee @ Leftovers Lv. 100 -- Run Away
+Nature: Hardy - EVs: 252 HP / 64 Def / 192 Spd (100.0 %)  
+Tackle
+Tail Whip
+Attract
+Hyper Voice
+# 5 - 7.69 % (2 battles)
+
+Eevee @ White Herb Lv. 100 -- Anticipation
+Nature: Relaxed - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Curse
+Heal Bell
+Baton Pass
+Synchronoise
+# 6 - 3.85 % (1 battles)
+
+Eevee @ (No Item) Lv. 100 -- Run Away
+Nature: Hardy - EVs: 136 HP / 84 Atk / 92 SAtk / 60 SDef / 136 Spd (100.0 %) 
+Body Slam
+Take Down
+Bite
+Hyper Voice
+# 7 - 3.85 % (1 battles)
+
+Eevee @ Focus Band Lv. 100 -- Anticipation
+Nature: Impish - EVs: 56 Atk / 220 Def / 176 SDef / 56 Spd (100.0 %)  
+(No Move)
+(No Move)
+Quick Attack
+Helping Hand
+# 8 - 3.85 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Anticipation
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Double-Edge
+Dig
+Attract
+Iron Tail
+# 9 - 3.85 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Run Away
+Nature: Hardy - EVs: 0 (100.0 %)  
+Bite
+Dig
+Iron Tail
+Secret Power
+# 10 - 3.85 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Run Away
+Nature: Brave - EVs: 4 HP / 252 Atk / 252 Def (100.0 %)  
+Dig
+Iron Tail
+Shadow Ball
+Last Resort
+# 11 - 3.85 % (1 battles)
+
+Eevee @ Leftovers Lv. 100 -- Run Away
+Nature: Hardy - EVs: 0 (100.0 %)  
+Shadow Ball
+Hyper Voice
+Fake Tears
+Baby-Doll Eyes
+# 12 - 3.85 % (1 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Sassy - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Quick Attack
+Curse
+Return
+Iron Tail
+# 13 - 3.85 % (1 battles)
+
+Eevee @ Eviolite Lv. 100 -- Adaptability
+Nature: Bold - EVs: 184 Def / 188 SAtk / 136 SDef (100.0 %)  
+Wish
+Refresh
+Hyper Voice
+Work Up
+# 14 - 3.85 % (1 battles)
+
+Eevee @ Salac Berry Lv. 100 -- Adaptability
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Flail
+Endure
+Baton Pass

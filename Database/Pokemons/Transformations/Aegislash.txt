@@ -1,0 +1,4 @@
+Steel/Ghost
+60/50/150/50/150/60
+Stance Change
+53.0

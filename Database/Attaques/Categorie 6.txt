@@ -1,0 +1,97 @@
+Classe	Type	Puis	Prec	Prio	PP	Cibles	NCoups	Crit	Peur	Recul	Stats	Variat°	Taux	Contact	Sonore
+
+Acid Spray
+spec	Poison	40	100	0	32	adv	1	0	0	0	SDef	-2	100	no	no
+
+Bubble
+spec	Water	40	100	0	48	allAdv	1	0	0	0	Vit	-1	10	no	no
+
+Bubble Beam
+spec	Water	65	100	0	32	adv	1	0	0	0	Vit	-1	10	no	no
+
+Bug Buzz
+spec	Bug	90	100	0	16	adv	1	0	0	0	SDef	-1	10	no	yes
+
+Bulldoze
+phys	Ground	60	100	0	32	allAdj	1	0	0	0	Vit	-1	100	no	no
+
+Crunch
+phys	Dark	80	100	0	24	adv	1	0	0	0	Def	-1	20	yes	no
+
+Earth Power
+spec	Ground	90	100	0	16	adv	1	0	0	0	SDef	-1	10	no	no
+
+Electroweb
+spec	Electric	55	95	0	24	allAdv	1	0	0	0	Vit	-1	100	no	no
+
+Energy Ball
+spec	Grass	90	100	0	16	adv	1	0	0	0	SDef	-1	10	no	no
+
+Flash Cannon
+spec	Steel	80	100	0	16	adv	1	0	0	0	SDef	-1	10	no	no
+
+Focus Blast
+spec	Fighting	120	70	0	8	adv	1	0	0	0	SDef	-1	10	no	no
+
+Glaciate
+spec	Ice	65	95	0	16	allAdv	1	0	0	0	Vit	-1	100	no	no
+
+Icy Wind
+spec	Ice	55	95	0	24	allAdv	1	0	0	0	Vit	-1	100	no	no
+
+Iron Tail
+phys	Steel	100	75	0	24	adv	1	0	0	0	Def	-1	30	yes	no
+
+Leaf Tornado
+spec	Grass	65	90	0	16	adv	1	0	0	0	Prec	-1	50	no	no
+
+Low Sweep
+phys	Fighting	65	100	0	32	adv	1	0	0	0	Vit	-1	100	yes	no
+
+Luster Purge
+spec	Psychic	70	100	0	8	adv	1	0	0	0	SDef	-1	50	no	no
+
+Moonblast
+spec	Fairy	95	100	0	24	adv	1	0	0	0	SAtq	-1	30	no	no
+
+Mud Bomb
+spec	Ground	65	85	0	16	adv	1	0	0	0	Prec	-1	30	no	no
+
+Mud-Slap
+spec	Ground	20	100	0	16	adv	1	0	0	0	Prec	-1	100	no	no
+
+Muddy Water
+spec	Water	90	85	0	16	adv	1	0	0	0	Prec	-1	30	no	no
+
+Mystical Fire
+spec	Fire	65	100	0	16	adv	1	0	0	0	SAtq	-1	100	no	no
+
+Night Daze
+spec	Dark	85	95	0	16	adv	1	0	0	0	Prec	-1	40	no	no
+
+Play Rough
+phys	Fairy	90	90	0	16	adv	1	0	0	0	Atq	-1	10	yes	no
+
+Psychic
+spec	Psychic	90	100	0	16	adv	1	0	0	0	SDef	-1	10	no	no
+
+Razor Shell
+phys	Water	75	95	0	24	adv	1	0	0	0	Def	-1	50	yes	no
+
+Rock Smash
+phys	Fighting	40	100	0	24	adv	1	0	0	0	Def	-1	50	yes	no
+
+Rock Tomb
+phys	Rock	60	95	0	24	adv	1	0	0	0	Vit	-1	100	no	no
+
+Seed Flare
+spec	Grass	120	85	0	8	adv	1	0	0	0	SDef	-2	40	no	no
+
+Shadow Ball
+spec	Ghost	80	100	0	24	adv	1	0	0	0	SDef	-1	20	no	no
+
+Snarl
+spec	Dark	55	95	0	24	allAdv	1	0	0	0	SAtq	-1	100	no	yes
+
+Struggle Bug
+spec	Bug	50	100	0	32	allAdv	1	0	0	0	SAtq	-1	100	no	no

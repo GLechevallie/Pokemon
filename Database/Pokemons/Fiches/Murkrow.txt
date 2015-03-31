@@ -1,0 +1,405 @@
+Dark/Flying
+60/85/42/85/42/91
+2.1
+50/50
+
+# 1 - 18.37 % (52 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Insomnia
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (40.4 %)  
+Roost
+Sucker Punch
+Brave Bird
+Defog
+# 2 - 13.43 % (38 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Calm - EVs: 160 HP / 204 Def / 144 SDef (86.8 %)  
+Toxic
+Taunt
+Roost
+Foul Play
+# 3 - 10.25 % (29 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Feather Dance
+Roost
+Brave Bird
+# 4 - 9.89 % (28 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (53.6 %)  
+Substitute
+Calm Mind
+Roost
+Dark Pulse
+# 5 - 3.53 % (10 battles)
+
+Murkrow @ Life Orb Lv. 100 -- Insomnia
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roost
+Sucker Punch
+Brave Bird
+Defog
+# 6 - 3.53 % (10 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Feather Dance
+Calm Mind
+Roost
+Dark Pulse
+# 7 - 3.18 % (9 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 248 Def / 8 SDef (100.0 %)  
+Night Shade
+Confuse Ray
+Feather Dance
+Roost
+# 8 - 2.83 % (8 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (62.5 %)  
+Confuse Ray
+Calm Mind
+Roost
+Dark Pulse
+# 9 - 2.83 % (8 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Perish Song
+Mean Look
+Taunt
+Roost
+# 10 - 2.47 % (7 battles)
+
+Murkrow @ Focus Sash Lv. 100 -- Prankster
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Thunder Wave
+Steel Wing
+Sucker Punch
+Brave Bird
+# 11 - 2.12 % (6 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 248 HP / 252 Atk (100.0 %)  
+Thunder Wave
+Haze
+Roost
+Brave Bird
+# 12 - 1.77 % (5 battles)
+
+Murkrow @ Life Orb Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Thunder Wave
+Pursuit
+Sucker Punch
+Brave Bird
+# 13 - 1.77 % (5 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (60.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Perish Song
+# 14 - 1.77 % (5 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 156 Def / 100 SDef (100.0 %)  
+Substitute
+Perish Song
+Mean Look
+Roost
+# 15 - 1.41 % (4 battles)
+
+Murkrow @ Leftovers Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 Atk / 252 Spd (100.0 %)  
+Whirlwind
+Pursuit
+Sucker Punch
+Brave Bird
+# 16 - 1.41 % (4 battles)
+
+Murkrow @ Life Orb Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Haze
+Substitute
+Pursuit
+Brave Bird
+# 17 - 1.41 % (4 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 HP / 120 Def / 136 SDef (75.0 %)  
+(No Move)
+(No Move)
+Thunder Wave
+Taunt
+# 18 - 1.41 % (4 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+(No Move)
+Calm Mind
+Roost
+Dark Pulse
+# 19 - 1.41 % (4 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 100 Def / 156 SDef (100.0 %)  
+Toxic
+Feather Dance
+Roost
+Confide
+# 20 - 1.41 % (4 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Taunt
+Tailwind
+Sucker Punch
+Brave Bird
+# 21 - 1.06 % (3 battles)
+
+Murkrow @ Life Orb Lv. 100 -- Prankster
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Thunder Wave
+Tailwind
+Sucker Punch
+Brave Bird
+# 22 - 1.06 % (3 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Thunder Wave
+Taunt
+Feather Dance
+Roost
+# 23 - 1.06 % (3 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Roost
+Tailwind
+Sucker Punch
+Brave Bird
+# 24 - 0.71 % (2 battles)
+
+Murkrow @ Choice Band Lv. 100 -- Insomnia
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Pursuit
+Sucker Punch
+Brave Bird
+Defog
+# 25 - 0.71 % (2 battles)
+
+Murkrow @ Leftovers Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Confuse Ray
+Roost
+Sucker Punch
+Brave Bird
+# 1 - 50.00 % (31 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 HP / 128 Def / 128 SDef (48.4 %)  
+Toxic
+Taunt
+Roost
+Foul Play
+# 2 - 11.29 % (7 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Insomnia
+Nature: Jolly - EVs: 252 Atk / 252 Spd (57.1 %)  
+Roost
+Sucker Punch
+Brave Bird
+Defog
+# 3 - 6.45 % (4 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Substitute
+Calm Mind
+Roost
+Dark Pulse
+# 4 - 4.84 % (3 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 HP / 120 Def / 136 SDef (100.0 %)  
+Whirlwind
+Thunder Wave
+Taunt
+Feather Dance
+# 5 - 4.84 % (3 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Feather Dance
+Roost
+Brave Bird
+# 6 - 3.23 % (2 battles)
+
+Murkrow @ (No Item) Lv. 100 -- Super Luck
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Perish Song
+# 7 - 3.23 % (2 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 HP / 120 Def / 136 SDef (100.0 %)  
+(No Move)
+(No Move)
+Thunder Wave
+Taunt
+# 8 - 3.23 % (2 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 HP / 120 Def / 136 SDef (100.0 %)  
+Thunder Wave
+Taunt
+Feather Dance
+Roost
+# 9 - 3.23 % (2 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Thunder Wave
+Feather Dance
+Roost
+Foul Play
+# 10 - 3.23 % (2 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 156 Def / 100 SDef (100.0 %)  
+Substitute
+Perish Song
+Mean Look
+Roost
+# 11 - 1.61 % (1 battles)
+
+Murkrow @ Choice Band Lv. 100 -- Insomnia
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Pursuit
+Sucker Punch
+Brave Bird
+Defog
+# 12 - 1.61 % (1 battles)
+
+Murkrow @ Choice Scarf Lv. 100 -- Insomnia
+Nature: Lonely - EVs: 216 Atk / 40 SAtk / 252 Spd (100.0 %)  
+Return
+Heat Wave
+Sucker Punch
+Brave Bird
+# 13 - 1.61 % (1 battles)
+
+Murkrow @ Leftovers Lv. 100 -- Insomnia
+Nature: Hardy - EVs: 100 HP / 88 Atk / 68 Def / 88 SAtk / 76 SDef / 88 Spd (100.0 %)  
+Air Cutter
+Aerial Ace
+Payback
+Dark Pulse
+# 14 - 1.61 % (1 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Perish Song
+# 15 - 0 % (52 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Insomnia
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (40.4 %)  
+Roost
+Sucker Punch
+Brave Bird
+Defog
+# 16 - 0 % (38 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Calm - EVs: 160 HP / 204 Def / 144 SDef (86.8 %)  
+Toxic
+Taunt
+Roost
+Foul Play
+# 17 - 0 % (29 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Feather Dance
+Roost
+Brave Bird
+# 18 - 0 % (28 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (53.6 %)  
+Substitute
+Calm Mind
+Roost
+Dark Pulse
+# 19 - 0 % (10 battles)
+
+Murkrow @ Life Orb Lv. 100 -- Insomnia
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roost
+Sucker Punch
+Brave Bird
+Defog
+# 20 - 0 % (10 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Feather Dance
+Calm Mind
+Roost
+Dark Pulse
+# 21 - 0 % (9 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 248 Def / 8 SDef (100.0 %)  
+Night Shade
+Confuse Ray
+Feather Dance
+Roost
+# 22 - 0 % (8 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (62.5 %)  
+Confuse Ray
+Calm Mind
+Roost
+Dark Pulse
+# 23 - 0 % (8 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Perish Song
+Mean Look
+Taunt
+Roost
+# 24 - 0 % (7 battles)
+
+Murkrow @ Focus Sash Lv. 100 -- Prankster
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Thunder Wave
+Steel Wing
+Sucker Punch
+Brave Bird
+# 25 - 0 % (6 battles)
+
+Murkrow @ Eviolite Lv. 100 -- Prankster
+Nature: Adamant - EVs: 248 HP / 252 Atk (100.0 %)  
+Thunder Wave
+Haze
+Roost
+Brave Bird

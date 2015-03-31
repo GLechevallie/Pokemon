@@ -1,0 +1,405 @@
+Dragon/Ground
+108/130/95/80/85/102
+95.0
+50/50
+
+# 1 - 4.18 % (3497 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (7.2 %) / Rough Skin (92.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (32.8 %)  
+Earthquake
+Outrage
+Dragon Claw
+Stone Edge
+# 2 - 2.20 % (1838 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (7.9 %) / Rough Skin (92.1 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (23.8 %)  
+Earthquake
+Fire Blast
+Outrage
+Stone Edge
+# 3 - 1.67 % (1399 battles)
+
+Garchomp @ Choice Band Lv. 100 -- Sand Veil (99.2 %) / Rough Skin (0.8 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (99.8 %)  
+Earthquake
+Outrage
+Rock Tomb
+Aqua Tail
+# 4 - 1.56 % (1307 battles)
+
+Garchomp @ Leftovers Lv. 100 -- Sand Veil (40.3 %) / Rough Skin (59.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (61.4 %)  
+Swords Dance
+Earthquake
+Substitute
+Dragon Claw
+# 5 - 1.43 % (1197 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (13.6 %) / Rough Skin (86.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (44.4 %)  
+Earthquake
+Outrage
+Fire Fang
+Stone Edge
+# 6 - 1.36 % (1135 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (4.4 %) / Rough Skin (95.6 %)
+Nature: Jolly - EVs: 128 HP / 252 Atk / 128 Spd (25.7 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 7 - 1.21 % (1010 battles)
+
+Garchomp @ Garchompite Lv. 100 -- Sand Veil (48.9 %) / Rough Skin (51.1 %)
+Nature: Rash - EVs: 16 Atk / 252 SAtk / 240 Spd (20.2 %)  
+Earthquake
+Fire Blast
+Draco Meteor
+Stone Edge
+# 8 - 1.15 % (961 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (3.9 %) / Rough Skin (96.1 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (40.7 %)  
+Swords Dance
+Earthquake
+Outrage
+Stealth Rock
+# 9 - 1.06 % (888 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (10.7 %) / Rough Skin (89.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (44.4 %)  
+Earthquake
+Outrage
+Poison Jab
+Stone Edge
+# 10 - 1.04 % (868 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (1.0 %) / Rough Skin (99.0 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (41.5 %)  
+Earthquake
+Fire Blast
+Outrage
+Stealth Rock
+# 11 - 1.01 % (846 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (0.6 %) / Rough Skin (99.4 %)
+Nature: Jolly - EVs: 4 HP / 16 Atk / 236 Def / 252 Spd (20.9 %)  
+Earthquake
+Toxic
+Stealth Rock
+Dragon Tail
+# 12 - 0.86 % (716 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (6.3 %) / Rough Skin (93.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.1 %)  
+Earthquake
+Outrage
+Stone Edge
+Dual Chop
+# 13 - 0.84 % (706 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (24.5 %) / Rough Skin (75.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (38.5 %)  
+Earthquake
+Outrage
+Iron Head
+Stone Edge
+# 14 - 0.84 % (705 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (2.8 %) / Rough Skin (97.2 %)
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (52.3 %)  
+Swords Dance
+Earthquake
+Outrage
+Stone Edge
+# 15 - 0.78 % (655 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (23.1 %) / Rough Skin (76.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (24.4 %)  
+Earthquake
+Outrage
+Crunch
+Stone Edge
+# 16 - 0.73 % (614 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (0.2 %) / Rough Skin (99.8 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (17.3 %)  
+Earthquake
+Fire Blast
+Stealth Rock
+Dragon Tail
+# 17 - 0.70 % (589 battles)
+
+Garchomp @ Lum Berry Lv. 100 -- Sand Veil (8.5 %) / Rough Skin (91.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (83.9 %)  
+Swords Dance
+Earthquake
+Outrage
+Fire Fang
+# 18 - 0.64 % (534 battles)
+
+Garchomp @ Garchompite Lv. 100 -- Sand Veil (79.0 %) / Rough Skin (21.0 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (49.3 %)  
+Earthquake
+Dragon Claw
+Fire Fang
+Stone Edge
+# 19 - 0.63 % (525 battles)
+
+Garchomp @ Garchompite Lv. 100 -- Sand Veil (17.3 %) / Rough Skin (82.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (23.2 %)  
+Swords Dance
+Earthquake
+Outrage
+Stone Edge
+# 20 - 0.61 % (513 battles)
+
+Garchomp @ Bright Powder Lv. 100 -- Sand Veil (88.1 %) / Rough Skin (11.9 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (51.9 %)  
+Swords Dance
+Earthquake
+Dragon Claw
+Fire Fang
+# 21 - 0.59 % (492 battles)
+
+Garchomp @ Life Orb Lv. 100 -- Sand Veil (12.4 %) / Rough Skin (87.6 %)
+Nature: Rash - EVs: 12 Atk / 252 SAtk / 244 Spd (43.9 %)  
+Earthquake
+Fire Blast
+Draco Meteor
+Stealth Rock
+# 22 - 0.58 % (488 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (0.4 %) / Rough Skin (99.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (62.1 %)  
+Swords Dance
+Earthquake
+Outrage
+Stealth Rock
+# 23 - 0.55 % (463 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (1.7 %) / Rough Skin (98.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (81.9 %)  
+Swords Dance
+Earthquake
+Outrage
+Rock Tomb
+# 24 - 0.54 % (449 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (12.0 %) / Rough Skin (88.0 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (64.8 %)  
+Earthquake
+Fire Blast
+Outrage
+Dragon Claw
+# 25 - 0.52 % (437 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (0.7 %) / Rough Skin (99.3 %)
+Nature: Jolly - EVs: 252 Atk / 4 SAtk / 252 Spd (26.5 %)  
+Earthquake
+Fire Blast
+Outrage
+Stealth Rock
+# 1 - 8.12 % (1295 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (2.4 %) / Rough Skin (97.6 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (45.6 %)  
+Earthquake
+Fire Blast
+Outrage
+Stealth Rock
+# 2 - 7.35 % (1173 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (6.6 %) / Rough Skin (93.4 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (38.4 %)  
+Swords Dance
+Earthquake
+Outrage
+Stealth Rock
+# 3 - 3.80 % (606 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (0.3 %) / Rough Skin (99.7 %)
+Nature: Jolly - EVs: 4 HP / 16 Atk / 236 Def / 252 Spd (43.7 %)  
+Earthquake
+Toxic
+Stealth Rock
+Dragon Tail
+# 4 - 3.42 % (546 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (1.8 %) / Rough Skin (98.2 %)
+Nature: Naive - EVs: 248 HP / 96 Def / 164 Spd (32.6 %)  
+Earthquake
+Fire Blast
+Stealth Rock
+Dragon Tail
+# 5 - 2.00 % (319 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (2.8 %) / Rough Skin (97.2 %)
+Nature: Naive - EVs: 20 Atk / 236 SAtk / 252 Spd (46.4 %)  
+Earthquake
+Fire Blast
+Draco Meteor
+Stealth Rock
+# 6 - 1.95 % (311 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Rough Skin
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Roar
+Earthquake
+Outrage
+Stealth Rock
+# 7 - 1.93 % (308 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (25.6 %) / Rough Skin (74.4 %)
+Nature: Naive - EVs: 216 Atk / 4 Def / 36 SAtk / 252 Spd (53.2 %)  
+Flamethrower
+Earthquake
+Outrage
+Stealth Rock
+# 8 - 1.66 % (264 battles)
+
+Garchomp @ Choice Band Lv. 100 -- Sand Veil (4.9 %) / Rough Skin (95.1 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (91.7 %)  
+Earthquake
+Outrage
+Fire Fang
+Stone Edge
+# 9 - 1.47 % (234 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (7.3 %) / Rough Skin (92.7 %)
+Nature: Jolly - EVs: 128 HP / 252 Atk / 128 Spd (34.2 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 10 - 1.32 % (210 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (1.4 %) / Rough Skin (98.6 %)
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (19.5 %)  
+Earthquake
+Fire Blast
+Outrage
+Stealth Rock
+# 11 - 1.28 % (204 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Rough Skin
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (40.7 %)  
+Earthquake
+Fire Blast
+Dragon Claw
+Stealth Rock
+# 12 - 1.18 % (188 battles)
+
+Garchomp @ Leftovers Lv. 100 -- Sand Veil (16.0 %) / Rough Skin (84.0 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.5 %)  
+Swords Dance
+Earthquake
+Substitute
+Dragon Claw
+# 13 - 1.15 % (183 battles)
+
+Garchomp @ Life Orb Lv. 100 -- Sand Veil (3.8 %) / Rough Skin (96.2 %)
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (28.4 %)  
+Earthquake
+Fire Blast
+Draco Meteor
+Stealth Rock
+# 14 - 1.11 % (177 battles)
+
+Garchomp @ Leftovers Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 HP / 196 SDef / 60 Spd (93.8 %)  
+Earthquake
+Toxic
+Stealth Rock
+Dragon Tail
+# 15 - 1.08 % (173 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (44.5 %) / Rough Skin (55.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (37.6 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 16 - 1.07 % (170 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (14.7 %) / Rough Skin (85.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (29.4 %)  
+Earthquake
+Outrage
+Dragon Claw
+Stone Edge
+# 17 - 1.06 % (169 battles)
+
+Garchomp @ Rocky Helmet Lv. 100 -- Sand Veil (0.6 %) / Rough Skin (99.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (65.7 %)  
+Earthquake
+Dragon Claw
+Stone Edge
+Stealth Rock
+# 18 - 0.98 % (156 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (51.3 %)  
+Earthquake
+Dragon Claw
+Stone Edge
+Stealth Rock
+# 19 - 0.96 % (153 battles)
+
+Garchomp @ Life Orb Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (96.7 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 20 - 0.92 % (146 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (0.7 %) / Rough Skin (99.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (86.3 %)  
+Swords Dance
+Earthquake
+Outrage
+Rock Tomb
+# 21 - 0.90 % (144 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (4.9 %) / Rough Skin (95.1 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (15.3 %)  
+Earthquake
+Fire Blast
+Outrage
+Stone Edge
+# 22 - 0.88 % (141 battles)
+
+Garchomp @ Choice Band Lv. 100 -- Sand Veil (2.8 %) / Rough Skin (97.2 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (90.1 %)  
+Earthquake
+Outrage
+Dragon Claw
+Stone Edge
+# 23 - 0.85 % (136 battles)
+
+Garchomp @ Choice Scarf Lv. 100 -- Sand Veil (13.2 %) / Rough Skin (86.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (42.6 %)  
+Earthquake
+Outrage
+Fire Fang
+Stone Edge
+# 24 - 0.83 % (132 battles)
+
+Garchomp @ Lum Berry Lv. 100 -- Sand Veil (6.8 %) / Rough Skin (93.2 %)
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (49.2 %)  
+Swords Dance
+Earthquake
+Outrage
+Stealth Rock
+# 25 - 0.80 % (127 battles)
+
+Garchomp @ Focus Sash Lv. 100 -- Sand Veil (12.6 %) / Rough Skin (87.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (39.4 %)  
+Swords Dance
+Earthquake
+Dragon Claw
+Stealth Rock

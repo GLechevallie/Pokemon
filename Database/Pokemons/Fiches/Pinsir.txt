@@ -1,0 +1,405 @@
+Bug/-
+65/125/100/55/70/85
+55.0
+50/50
+
+# 1 - 42.24 % (22916 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (21.4 %) / Mold Breaker (36.8 %) / Moxie (41.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (27.8 %)  
+Swords Dance
+Earthquake
+Quick Attack
+Return
+# 2 - 15.09 % (8187 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (10.5 %) / Mold Breaker (55.6 %) / Moxie (33.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (31.2 %)  
+Swords Dance
+Earthquake
+Quick Attack
+Frustration
+# 3 - 7.75 % (4203 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (50.3 %) / Mold Breaker (10.5 %) / Moxie (39.2 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.7 %)  
+Swords Dance
+Quick Attack
+Return
+Close Combat
+# 4 - 5.25 % (2850 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (21.0 %) / Mold Breaker (52.7 %) / Moxie (26.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (26.7 %)  
+Swords Dance
+Earthquake
+Return
+Feint
+# 5 - 2.17 % (1176 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (16.2 %) / Mold Breaker (5.7 %) / Moxie (78.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (25.3 %)  
+Swords Dance
+Quick Attack
+Return
+X-Scissor
+# 6 - 1.85 % (1002 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (19.4 %) / Mold Breaker (9.6 %) / Moxie (71.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (27.4 %)  
+Quick Attack
+Return
+Close Combat
+X-Scissor
+# 7 - 1.75 % (950 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (25.1 %) / Mold Breaker (15.7 %) / Moxie (59.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (62.8 %)  
+Swords Dance
+Earthquake
+Frustration
+Feint
+# 8 - 1.73 % (939 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (28.3 %) / Mold Breaker (13.6 %) / Moxie (58.0 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (28.8 %)  
+Earthquake
+Quick Attack
+Return
+Close Combat
+# 9 - 1.35 % (730 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (46.7 %) / Mold Breaker (8.2 %) / Moxie (45.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.2 %)  
+Swords Dance
+Earthquake
+Quick Attack
+X-Scissor
+# 10 - 1.15 % (624 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (17.5 %) / Mold Breaker (24.4 %) / Moxie (58.2 %)
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (16.5 %)  
+Earthquake
+Quick Attack
+Return
+X-Scissor
+# 11 - 1.03 % (558 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (1.3 %) / Moxie (98.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (91.8 %)  
+Swords Dance
+Quick Attack
+Return
+Stone Edge
+# 12 - 0.86 % (467 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (19.7 %) / Mold Breaker (43.9 %) / Moxie (36.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (31.5 %)  
+Swords Dance
+Earthquake
+Quick Attack
+Close Combat
+# 13 - 0.81 % (437 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (21.7 %) / Mold Breaker (5.9 %) / Moxie (72.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (33.9 %)  
+Swords Dance
+Quick Attack
+Frustration
+Close Combat
+# 14 - 0.66 % (356 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (5.6 %) / Mold Breaker (38.5 %) / Moxie (55.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.3 %)  
+Swords Dance
+Return
+Feint
+Close Combat
+# 15 - 0.62 % (337 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (0.3 %) / Moxie (99.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (52.8 %)  
+Swords Dance
+Frustration
+Feint
+Storm Throw
+# 16 - 0.62 % (335 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (1.5 %) / Mold Breaker (7.8 %) / Moxie (90.7 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (85.7 %)  
+Earthquake
+Quick Attack
+Frustration
+Close Combat
+# 17 - 0.61 % (329 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (61.4 %) / Mold Breaker (31.3 %) / Moxie (7.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.0 %)  
+Earthquake
+Return
+Feint
+Close Combat
+# 18 - 0.48 % (261 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (51.3 %) / Mold Breaker (13.4 %) / Moxie (35.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.9 %)  
+Earthquake
+Quick Attack
+Close Combat
+X-Scissor
+# 19 - 0.47 % (254 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (98.0 %)  
+Swords Dance
+Quick Attack
+Substitute
+Close Combat
+# 20 - 0.44 % (237 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (7.6 %) / Mold Breaker (5.1 %) / Moxie (87.3 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (54.0 %)  
+Swords Dance
+Frustration
+Feint
+Close Combat
+# 21 - 0.34 % (183 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Facade
+Feint
+X-Scissor
+Giga Impact
+# 22 - 0.32 % (176 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (30.1 %) / Mold Breaker (43.8 %) / Moxie (26.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (34.7 %)  
+Swords Dance
+Quick Attack
+Return
+Knock Off
+# 23 - 0.31 % (169 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (4.1 %) / Mold Breaker (43.2 %) / Moxie (52.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (21.9 %)  
+Swords Dance
+Quick Attack
+Close Combat
+X-Scissor
+# 24 - 0.26 % (141 battles)
+
+Pinsir @ Choice Scarf Lv. 100 -- Hyper Cutter (0.7 %) / Mold Breaker (7.8 %) / Moxie (91.5 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (73.0 %)  
+Earthquake
+Close Combat
+X-Scissor
+Stone Edge
+# 25 - 0.26 % (141 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (0.7 %) / Moxie (99.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (93.6 %)  
+Thrash
+Quick Attack
+Close Combat
+X-Scissor
+# 1 - 37.41 % (1251 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (20.7 %) / Mold Breaker (39.6 %) / Moxie (39.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (24.8 %)  
+Swords Dance
+Earthquake
+Quick Attack
+Return
+# 2 - 11.69 % (391 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (9.5 %) / Mold Breaker (54.7 %) / Moxie (35.8 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (28.1 %)  
+Swords Dance
+Earthquake
+Quick Attack
+Frustration
+# 3 - 7.63 % (255 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (53.7 %) / Mold Breaker (36.1 %) / Moxie (10.2 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (44.7 %)  
+Swords Dance
+Earthquake
+Return
+Feint
+# 4 - 7.60 % (254 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (55.1 %) / Mold Breaker (13.0 %) / Moxie (31.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Swords Dance
+Quick Attack
+Return
+Close Combat
+# 5 - 2.75 % (92 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (8.7 %) / Mold Breaker (12.0 %) / Moxie (79.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (65.2 %)  
+Earthquake
+Quick Attack
+Return
+Close Combat
+# 6 - 2.30 % (77 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (71.4 %) / Mold Breaker (6.5 %) / Moxie (22.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.6 %)  
+Swords Dance
+Earthquake
+Quick Attack
+X-Scissor
+# 7 - 1.82 % (61 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (27.9 %) / Mold Breaker (29.5 %) / Moxie (42.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (62.3 %)  
+Swords Dance
+Earthquake
+Frustration
+Feint
+# 8 - 1.73 % (58 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (55.2 %) / Mold Breaker (44.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (44.8 %)  
+Earthquake
+Return
+Feint
+Close Combat
+# 9 - 1.64 % (55 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (1.8 %) / Mold Breaker (45.5 %) / Moxie (52.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (45.5 %)  
+Swords Dance
+Return
+Feint
+Close Combat
+# 10 - 1.44 % (48 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (16.7 %) / Mold Breaker (22.9 %) / Moxie (60.4 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (20.8 %)  
+Swords Dance
+Quick Attack
+Return
+X-Scissor
+# 11 - 1.32 % (44 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (22.7 %) / Moxie (77.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (56.8 %)  
+Swords Dance
+Quick Attack
+Return
+Storm Throw
+# 12 - 1.32 % (44 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (45.5 %) / Mold Breaker (15.9 %) / Moxie (38.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (38.6 %)  
+Quick Attack
+Return
+Close Combat
+X-Scissor
+# 13 - 1.17 % (39 battles)
+
+Pinsir @ Choice Scarf Lv. 100 -- Mold Breaker (89.7 %) / Moxie (10.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (84.6 %)  
+Earthquake
+Close Combat
+X-Scissor
+Stone Edge
+# 14 - 1.11 % (37 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (2.7 %) / Mold Breaker (94.6 %) / Moxie (2.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (94.6 %)  
+Earthquake
+Quick Attack
+Return
+Knock Off
+# 15 - 1.08 % (36 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (2.8 %) / Mold Breaker (11.1 %) / Moxie (86.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Swords Dance
+Quick Attack
+Frustration
+Close Combat
+# 16 - 0.84 % (28 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Mold Breaker
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Quick Attack
+Return
+X-Scissor
+Stealth Rock
+# 17 - 0.63 % (21 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (42.9 %)  
+Earthquake
+Quick Attack
+Frustration
+Close Combat
+# 18 - 0.60 % (20 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (45.0 %) / Mold Breaker (20.0 %) / Moxie (35.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.0 %)  
+Earthquake
+Quick Attack
+Return
+X-Scissor
+# 19 - 0.54 % (18 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (22.2 %) / Mold Breaker (22.2 %) / Moxie (55.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (27.8 %)  
+Swords Dance
+Earthquake
+Quick Attack
+Close Combat
+# 20 - 0.54 % (18 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Mold Breaker (11.1 %) / Moxie (88.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (88.9 %)  
+Swords Dance
+Earthquake
+Close Combat
+X-Scissor
+# 21 - 0.48 % (16 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (18.8 %) / Mold Breaker (6.2 %) / Moxie (75.0 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (37.5 %)  
+Swords Dance
+Frustration
+Feint
+Close Combat
+# 22 - 0.48 % (16 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (81.2 %)  
+Quick Attack
+Frustration
+Close Combat
+X-Scissor
+# 23 - 0.36 % (12 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter
+Nature: Adamant - EVs: 252 HP / 128 Def / 128 SDef (100.0 %)  
+Swords Dance
+Earthquake
+Quick Attack
+Brick Break
+# 24 - 0.33 % (11 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (45.5 %) / Moxie (54.5 %)
+Nature: Jolly - EVs: 252 Atk / 4 SAtk / 252 Spd (36.4 %)  
+Swords Dance
+Return
+Knock Off
+Close Combat
+# 25 - 0.30 % (10 battles)
+
+Pinsir @ Pinsirite Lv. 100 -- Hyper Cutter (50.0 %) / Mold Breaker (30.0 %) / Moxie (20.0 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (50.0 %)  
+Swords Dance
+Quick Attack
+Knock Off
+X-Scissor

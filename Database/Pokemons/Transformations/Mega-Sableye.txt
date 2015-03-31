@@ -1,0 +1,4 @@
+Dark/Ghost
+50/85/125/85/115/20
+Magic Bounce
+161.0

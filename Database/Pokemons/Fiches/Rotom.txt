@@ -1,0 +1,405 @@
+Electric/Ghost
+50/50/77/95/77/91
+0.3
+asexue
+
+# 1 - 23.77 % (116 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (59.5 %)  
+Thunderbolt
+Shadow Ball
+Trick
+Volt Switch
+# 2 - 17.42 % (85 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (56.5 %)  
+Shadow Ball
+Will-O-Wisp
+Trick
+Volt Switch
+# 3 - 12.70 % (62 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)[Grass] 
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 4 - 7.17 % (35 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 12 HP / 252 SAtk / 244 Spd (97.1 %)  
+Thunderbolt
+Substitute
+Pain Split
+Shadow Ball
+# 5 - 6.35 % (31 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (93.5 %)  
+Thunderbolt
+Shadow Ball
+Will-O-Wisp
+Trick
+# 6 - 4.92 % (24 battles)
+
+Rotom @ Light Clay Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 HP / 128 Def / 128 Spd (66.7 %)  
+Light Screen
+Reflect
+Will-O-Wisp
+Volt Switch
+# 7 - 4.30 % (21 battles)
+
+Rotom @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (61.9 %)  
+Thunderbolt
+Substitute
+Pain Split
+Shadow Ball
+# 8 - 4.10 % (20 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (65.0 %)[Grass]  
+Hidden Power
+Shadow Ball
+Trick
+Volt Switch
+# 9 - 3.89 % (19 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (31.6 %)  
+Thunderbolt
+Shadow Ball
+Trick
+Volt Switch
+# 10 - 3.69 % (18 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (55.6 %)  
+Shadow Ball
+Will-O-Wisp
+Trick
+Volt Switch
+# 11 - 3.07 % (15 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 180 HP / 252 Def / 76 Spd (40.0 %)  
+Thunderbolt
+Pain Split
+Shadow Ball
+Will-O-Wisp
+# 12 - 1.64 % (8 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Shadow Ball
+Will-O-Wisp
+Volt Switch
+# 13 - 1.23 % (6 battles)
+
+Rotom @ (No Item) Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunder Wave
+Pain Split
+Shadow Ball
+Volt Switch
+# 14 - 1.23 % (6 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunderbolt
+Trick
+Hex
+Volt Switch
+# 15 - 1.23 % (6 battles)
+
+Rotom @ Rocky Helmet Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Pain Split
+Shadow Ball
+Will-O-Wisp
+Volt Switch
+# 16 - 1.02 % (5 battles)
+
+Rotom @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunderbolt
+Pain Split
+Shadow Ball
+Volt Switch
+# 17 - 0.82 % (4 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Pain Split
+Trick
+Hex
+Volt Switch
+# 18 - 0.61 % (3 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 148 HP / 252 Def / 108 SDef (100.0 %)  
+Pain Split
+Shadow Ball
+Will-O-Wisp
+Volt Switch
+# 19 - 0.20 % (1 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Substitute
+Shadow Ball
+Will-O-Wisp
+# 20 - 0.20 % (1 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Hardy - EVs: 0 (100.0 %)  
+Confuse Ray
+Shadow Ball
+Dark Pulse
+Charge Beam
+# 21 - 0.20 % (1 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 240 HP / 16 SAtk / 252 Spd (100.0 %)  
+Substitute
+Pain Split
+Will-O-Wisp
+Hex
+# 22 - 0.20 % (1 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Shadow Ball
+Will-O-Wisp
+Discharge
+Volt Switch
+# 23 - 0 % (66 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (72.7 %)  
+Shadow Ball
+Will-O-Wisp
+Trick
+Volt Switch
+# 24 - 0 % (27 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (51.9 %)  
+Thunderbolt
+Shadow Ball
+Trick
+Volt Switch
+# 25 - 0 % (16 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)[Grass]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 1 - 35.87 % (66 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (72.7 %)  
+Shadow Ball
+Will-O-Wisp
+Trick
+Volt Switch
+# 2 - 14.67 % (27 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (51.9 %)  
+Thunderbolt
+Shadow Ball
+Trick
+Volt Switch
+# 3 - 8.70 % (16 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)[Grass]  
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 4 - 7.61 % (14 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (85.7 %)[Ice]  
+Hidden Power
+Shadow Ball
+Trick
+Volt Switch
+# 5 - 6.52 % (12 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (41.7 %)  
+Thunderbolt
+Shadow Ball
+Trick
+Volt Switch
+# 6 - 6.52 % (12 battles)
+
+Rotom @ Light Clay Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 HP / 128 Def / 128 Spd (50.0 %)  
+Light Screen
+Reflect
+Will-O-Wisp
+Volt Switch
+# 7 - 5.98 % (11 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (90.9 %)  
+Thunderbolt
+Shadow Ball
+Will-O-Wisp
+Trick
+# 8 - 5.43 % (10 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (50.0 %)  
+Shadow Ball
+Will-O-Wisp
+Trick
+Volt Switch
+# 9 - 2.17 % (4 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Toxic
+Shadow Ball
+Trick
+Volt Switch
+# 10 - 1.63 % (3 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Hardy - EVs: 88 HP / 84 Atk / 84 Def / 84 SAtk / 84 SDef / 84 Spd (100.0 %) 
+Confuse Ray
+Astonish
+Discharge
+Charge Beam
+# 11 - 1.09 % (2 battles)
+
+Rotom @ Rocky Helmet Lv. 100 -- Levitate
+Nature: Bold - EVs: 196 HP / 252 Def / 60 Spd (50.0 %)  
+Pain Split
+Shadow Ball
+Will-O-Wisp
+Volt Switch
+# 12 - 0.54 % (1 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Shadow Ball
+Will-O-Wisp
+Volt Switch
+# 13 - 0.54 % (1 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Substitute
+Pain Split
+Will-O-Wisp
+# 14 - 0.54 % (1 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 148 HP / 252 Def / 108 SDef (100.0 %)  
+Pain Split
+Shadow Ball
+Will-O-Wisp
+Volt Switch
+# 15 - 0.54 % (1 battles)
+
+Rotom @ Wise Glasses Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Thunder Wave
+Pain Split
+Electro Ball
+Hex
+# 16 - 0.54 % (1 battles)
+
+Rotom @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Substitute
+Pain Split
+Shadow Ball
+# 17 - 0.54 % (1 battles)
+
+Rotom @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Pain Split
+Shadow Ball
+Will-O-Wisp
+# 18 - 0.54 % (1 battles)
+
+Rotom @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunderbolt
+Pain Split
+Shadow Ball
+Volt Switch
+# 19 - 0 % (116 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (59.5 %)  
+Thunderbolt
+Shadow Ball
+Trick
+Volt Switch
+# 20 - 0 % (85 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (56.5 %)  
+Shadow Ball
+Will-O-Wisp
+Trick
+Volt Switch
+# 21 - 0 % (62 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)[Grass] 
+Thunderbolt
+Hidden Power
+Shadow Ball
+Volt Switch
+# 22 - 0 % (35 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 12 HP / 252 SAtk / 244 Spd (97.1 %)  
+Thunderbolt
+Substitute
+Pain Split
+Shadow Ball
+# 23 - 0 % (31 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (93.5 %)  
+Thunderbolt
+Shadow Ball
+Will-O-Wisp
+Trick
+# 24 - 0 % (24 battles)
+
+Rotom @ Light Clay Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 HP / 128 Def / 128 Spd (66.7 %)  
+Light Screen
+Reflect
+Will-O-Wisp
+Volt Switch
+# 25 - 0 % (21 battles)
+
+Rotom @ Life Orb Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (61.9 %)  
+Thunderbolt
+Substitute
+Pain Split
+Shadow Ball

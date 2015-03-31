@@ -1,0 +1,405 @@
+Grass/Flying
+99/68/83/72/87/51
+100.0
+50/50
+
+# 1 - 14.61 % (26 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Impish - EVs: 252 HP / 132 Def / 124 SDef (100.0 %)  
+Leech Seed
+Toxic
+Rest
+Protect
+# 2 - 11.80 % (21 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Steel Wing
+Synthesis
+Sunny Day
+Leaf Tornado
+# 3 - 8.99 % (16 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 84 HP / 176 Def / 8 SAtk / 240 SDef (100.0 %)  
+Leech Seed
+Protect
+Air Slash
+Energy Ball
+# 4 - 5.06 % (9 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (77.8 %)  
+Leech Seed
+Substitute
+Protect
+Air Slash
+# 5 - 4.49 % (8 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Careful - EVs: 4 Atk / 252 Def / 252 SDef (100.0 %)  
+Fly
+Earthquake
+Leaf Blade
+Roost
+# 6 - 4.49 % (8 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Leech Seed
+Substitute
+Air Slash
+Bulldoze
+# 7 - 3.93 % (7 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Leech Seed
+Protect
+Giga Drain
+Air Slash
+# 8 - 3.37 % (6 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 248 HP / 116 Def / 144 Spd (100.0 %)  
+Leech Seed
+Toxic
+Substitute
+Air Slash
+# 9 - 3.37 % (6 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 252 Def (100.0 %)  
+Leech Seed
+Toxic
+Roost
+Energy Ball
+# 10 - 3.37 % (6 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Growth
+Solar Beam
+Sunny Day
+Dragon Pulse
+# 11 - 2.81 % (5 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fly
+Earthquake
+Leaf Blade
+Dragon Dance
+# 12 - 2.81 % (5 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+(No Move)
+(No Move)
+Giga Drain
+Roost
+# 13 - 2.81 % (5 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Impish - EVs: 252 Def / 252 SDef (100.0 %)  
+Leech Seed
+Toxic
+Protect
+Roost
+# 14 - 2.25 % (4 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Leech Seed
+Substitute
+Air Slash
+Energy Ball
+# 15 - 2.25 % (4 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 176 Def / 80 SDef (75.0 %)  
+Leech Seed
+Protect
+Roost
+Air Slash
+# 16 - 2.25 % (4 battles)
+
+Tropius @ Starf Berry Lv. 100 -- Harvest
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Leech Seed
+Substitute
+Giga Drain
+Air Slash
+# 17 - 2.25 % (4 battles)
+
+Tropius @ Starf Berry Lv. 100 -- Harvest
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Solar Beam
+Sunny Day
+Roost
+Dragon Pulse
+# 18 - 1.69 % (3 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Whirlwind
+Leech Seed
+Giga Drain
+Air Slash
+# 19 - 1.69 % (3 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (66.7 %)  
+Leech Seed
+Toxic
+Protect
+Giga Drain
+# 20 - 1.69 % (3 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Leech Seed
+Toxic
+Roost
+Grass Knot
+# 21 - 1.69 % (3 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Steel Wing
+Aerial Ace
+Dragon Dance
+Seed Bomb
+# 22 - 1.12 % (2 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Relaxed - EVs: 252 HP / 120 Atk / 136 Def (100.0 %)  
+Rest
+Curse
+Outrage
+Seed Bomb
+# 23 - 1.12 % (2 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Body Slam
+Leaf Blade
+Dragon Dance
+Roost
+# 24 - 1.12 % (2 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Outrage
+Dragon Dance
+Seed Bomb
+# 25 - 1.12 % (2 battles)
+
+Tropius @ Starf Berry Lv. 100 -- Harvest
+Nature: Timid - EVs: 196 HP / 60 Def / 252 Spd (100.0 %)  
+Substitute
+Giga Drain
+Roost
+Air Slash
+# 1 - 57.14 % (12 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Leech Seed
+Protect
+Giga Drain
+Air Slash
+# 2 - 9.52 % (2 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Steel Wing
+Synthesis
+Sunny Day
+Leaf Tornado
+# 3 - 4.76 % (1 battles)
+
+Tropius @ Leftovers Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+(No Move)
+(No Move)
+Substitute
+Synthesis
+# 4 - 4.76 % (1 battles)
+
+Tropius @ Leftovers Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+(No Move)
+(No Move)
+Substitute
+Roost
+# 5 - 4.76 % (1 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Impish - EVs: 252 HP / 132 Def / 124 SDef (100.0 %)  
+Leech Seed
+Toxic
+Rest
+Protect
+# 6 - 4.76 % (1 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Modest - EVs: 4 HP / 112 Def / 152 SAtk / 112 SDef / 128 Spd (100.0 %)  
+Aerial Ace
+Leaf Blade
+Dragon Dance
+Roost
+# 7 - 4.76 % (1 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Adamant - EVs: 180 HP / 252 Atk / 36 Def / 40 SDef (100.0 %)  
+Swords Dance
+Earthquake
+Aerial Ace
+Seed Bomb
+# 8 - 4.76 % (1 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Leech Seed
+Substitute
+Air Slash
+Energy Ball
+# 9 - 4.76 % (1 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+Earthquake
+Leaf Blade
+Dragon Dance
+Roost
+# 10 - 0 % (26 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Impish - EVs: 252 HP / 132 Def / 124 SDef (100.0 %)  
+Leech Seed
+Toxic
+Rest
+Protect
+# 11 - 0 % (21 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Harvest
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Steel Wing
+Synthesis
+Sunny Day
+Leaf Tornado
+# 12 - 0 % (16 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 84 HP / 176 Def / 8 SAtk / 240 SDef (100.0 %)  
+Leech Seed
+Protect
+Air Slash
+Energy Ball
+# 13 - 0 % (9 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (77.8 %)  
+Leech Seed
+Substitute
+Protect
+Air Slash
+# 14 - 0 % (8 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Careful - EVs: 4 Atk / 252 Def / 252 SDef (100.0 %)  
+Fly
+Earthquake
+Leaf Blade
+Roost
+# 15 - 0 % (8 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Leech Seed
+Substitute
+Air Slash
+Bulldoze
+# 16 - 0 % (7 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Leech Seed
+Protect
+Giga Drain
+Air Slash
+# 17 - 0 % (6 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 248 HP / 116 Def / 144 Spd (100.0 %)  
+Leech Seed
+Toxic
+Substitute
+Air Slash
+# 18 - 0 % (6 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 252 Def (100.0 %)  
+Leech Seed
+Toxic
+Roost
+Energy Ball
+# 19 - 0 % (6 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Growth
+Solar Beam
+Sunny Day
+Dragon Pulse
+# 20 - 0 % (5 battles)
+
+Tropius @ Lum Berry Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fly
+Earthquake
+Leaf Blade
+Dragon Dance
+# 21 - 0 % (5 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+(No Move)
+(No Move)
+Giga Drain
+Roost
+# 22 - 0 % (5 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Impish - EVs: 252 Def / 252 SDef (100.0 %)  
+Leech Seed
+Toxic
+Protect
+Roost
+# 23 - 0 % (4 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Leech Seed
+Substitute
+Air Slash
+Energy Ball
+# 24 - 0 % (4 battles)
+
+Tropius @ Sitrus Berry Lv. 100 -- Harvest
+Nature: Calm - EVs: 252 HP / 176 Def / 80 SDef (75.0 %)  
+Leech Seed
+Protect
+Roost
+Air Slash
+# 25 - 0 % (4 battles)
+
+Tropius @ Starf Berry Lv. 100 -- Harvest
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Leech Seed
+Substitute
+Giga Drain
+Air Slash

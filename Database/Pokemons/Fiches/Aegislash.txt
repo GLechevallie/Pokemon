@@ -1,0 +1,405 @@
+Steel/Ghost
+60/50/150/50/150/60
+53.0
+50/50
+
+# 1 - 15.39 % (20245 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (20.5 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 2 - 7.79 % (10246 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (16.6 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 3 - 6.80 % (8942 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (16.6 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 4 - 4.37 % (5748 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Def / 252 SAtk (14.8 %)  
+Shadow Ball
+Shadow Sneak
+Flash Cannon
+King's Shield
+# 5 - 4.08 % (5365 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (16.3 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 6 - 3.59 % (4724 battles)
+
+Aegislash @ Spooky Plate Lv. 100 -- Stance Change
+Nature: Rash - EVs: 96 HP / 144 Atk / 252 SAtk / 16 Spd (40.2 %)  
+Shadow Ball
+Shadow Sneak
+Flash Cannon
+King's Shield
+# 7 - 3.18 % (4190 battles)
+
+Aegislash @ Spooky Plate Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 252 SAtk / 4 SDef (11.3 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 8 - 3.07 % (4036 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (11.2 %)  
+Toxic
+Substitute
+Shadow Ball
+King's Shield
+# 9 - 2.97 % (3903 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (7.8 %)  
+Swords Dance
+Shadow Sneak
+Iron Head
+King's Shield
+# 10 - 2.85 % (3756 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (19.2 %)  
+Shadow Ball
+Shadow Sneak
+Flash Cannon
+King's Shield
+# 11 - 2.79 % (3677 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 240 HP / 12 Atk / 252 SAtk / 4 SDef (14.8 %)  
+Substitute
+Shadow Ball
+Sacred Sword
+King's Shield
+# 12 - 2.04 % (2685 battles)
+
+Aegislash @ Air Balloon Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk (22.3 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 13 - 2.02 % (2661 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (18.2 %)  
+Swords Dance
+Shadow Sneak
+Iron Head
+King's Shield
+# 14 - 1.52 % (1998 battles)
+
+Aegislash @ Air Balloon Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (10.5 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 15 - 1.46 % (1926 battles)
+
+Aegislash @ Life Orb Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 Atk / 128 Def / 128 SDef (17.2 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 16 - 1.36 % (1796 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (17.8 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 17 - 1.33 % (1752 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (12.0 %)  
+Substitute
+Shadow Ball
+Flash Cannon
+King's Shield
+# 18 - 1.12 % (1469 battles)
+
+Aegislash @ Life Orb Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (15.6 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 19 - 1.09 % (1434 battles)
+
+Aegislash @ Spooky Plate Lv. 100 -- Stance Change
+Nature: Hasty - EVs: 180 HP / 24 Atk / 52 SAtk / 252 Spd (17.2 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 20 - 1.07 % (1407 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (9.9 %)  
+Shadow Sneak
+Iron Head
+Sacred Sword
+King's Shield
+# 21 - 1.02 % (1342 battles)
+
+Aegislash @ Air Balloon Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 Atk / 252 SAtk (45.2 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 22 - 1.00 % (1311 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (13.8 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 23 - 0.93 % (1225 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 SDef (10.7 %)  
+Shadow Sneak
+Iron Head
+Sacred Sword
+King's Shield
+# 24 - 0.70 % (915 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 244 HP / 12 Def / 252 SAtk (16.0 %)  
+Shadow Ball
+Flash Cannon
+Sacred Sword
+King's Shield
+# 25 - 0.66 % (872 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 240 HP / 16 Atk / 252 SAtk (61.6 %)  
+Pursuit
+Shadow Ball
+Iron Head
+King's Shield
+# 1 - 9.08 % (928 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (17.8 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 2 - 8.70 % (889 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 236 HP / 16 Atk / 252 SAtk / 4 SDef (13.8 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 3 - 6.74 % (689 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (19.3 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 4 - 4.39 % (449 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (13.6 %)  
+Toxic
+Substitute
+Shadow Ball
+King's Shield
+# 5 - 4.39 % (449 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (14.9 %)  
+Shadow Ball
+Shadow Sneak
+Flash Cannon
+King's Shield
+# 6 - 3.82 % (391 battles)
+
+Aegislash @ Spooky Plate Lv. 100 -- Stance Change
+Nature: Rash - EVs: 96 HP / 144 Atk / 252 SAtk / 16 Spd (26.6 %)  
+Shadow Ball
+Shadow Sneak
+Flash Cannon
+King's Shield
+# 7 - 3.80 % (388 battles)
+
+Aegislash @ Spooky Plate Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 252 SAtk / 4 Spd (13.1 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 8 - 3.60 % (368 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (9.5 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 9 - 3.54 % (362 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 240 HP / 12 Atk / 252 SAtk / 4 SDef (27.3 %)  
+Substitute
+Shadow Ball
+Sacred Sword
+King's Shield
+# 10 - 2.93 % (300 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 252 SAtk (13.3 %)  
+Shadow Ball
+Shadow Sneak
+Flash Cannon
+King's Shield
+# 11 - 2.40 % (245 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Brave - EVs: 252 Atk / 252 Def / 4 SDef (29.8 %)  
+Swords Dance
+Shadow Sneak
+Iron Head
+Sacred Sword
+# 12 - 2.10 % (215 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (15.8 %)  
+Swords Dance
+Shadow Sneak
+Iron Head
+King's Shield
+# 13 - 1.90 % (194 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (13.9 %)  
+Swords Dance
+Shadow Sneak
+Iron Head
+King's Shield
+# 14 - 1.76 % (180 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (17.8 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 15 - 1.70 % (174 battles)
+
+Aegislash @ Spooky Plate Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Atk / 252 SAtk (22.4 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 16 - 1.60 % (164 battles)
+
+Aegislash @ Air Balloon Lv. 100 -- Stance Change
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (27.4 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 17 - 1.54 % (157 battles)
+
+Aegislash @ Life Orb Lv. 100 -- Stance Change
+Nature: Adamant - EVs: 252 Atk / 128 Def / 128 SDef (37.6 %)  
+Swords Dance
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 18 - 1.32 % (135 battles)
+
+Aegislash @ Air Balloon Lv. 100 -- Stance Change
+Nature: Lonely - EVs: 252 Atk / 252 SAtk (13.3 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 19 - 1.30 % (133 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 SDef (91.7 %)  
+Swords Dance
+Shadow Claw
+Shadow Sneak
+King's Shield
+# 20 - 1.27 % (130 battles)
+
+Aegislash @ Weakness Policy Lv. 100 -- Stance Change
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (18.5 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 21 - 1.12 % (114 battles)
+
+Aegislash @ Air Balloon Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 240 HP / 16 Def / 252 SAtk (48.2 %)  
+Shadow Ball
+Shadow Sneak
+Iron Head
+King's Shield
+# 22 - 1.09 % (111 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (18.9 %)  
+Substitute
+Shadow Ball
+Flash Cannon
+King's Shield
+# 23 - 1.07 % (109 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 252 HP / 4 Def / 252 SAtk (52.3 %)[Ice]  
+Hidden Power
+Shadow Ball
+Flash Cannon
+King's Shield
+# 24 - 1.06 % (108 battles)
+
+Aegislash @ Life Orb Lv. 100 -- Stance Change
+Nature: Quiet - EVs: 220 Atk / 252 SAtk / 36 SDef (16.7 %)  
+Shadow Ball
+Shadow Sneak
+Sacred Sword
+King's Shield
+# 25 - 0.91 % (93 battles)
+
+Aegislash @ Leftovers Lv. 100 -- Stance Change
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 Def (17.2 %)  
+Shadow Sneak
+Iron Head
+Sacred Sword
+King's Shield

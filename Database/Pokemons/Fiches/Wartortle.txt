@@ -1,0 +1,405 @@
+Water/-
+59/63/80/65/80/58
+22.5
+87.5/12.5
+
+# 1 - 24.38 % (108 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent (9.3 %) / Rain Dish (90.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def (82.4 %)  
+Surf
+Toxic
+Protect
+Rapid Spin
+# 2 - 12.87 % (57 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent (94.7 %) / Rain Dish (5.3 %)
+Nature: Calm - EVs: 96 Def / 160 SAtk / 252 SDef (89.5 %)  
+Toxic
+Protect
+Rapid Spin
+Scald
+# 3 - 11.96 % (53 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent (64.2 %) / Rain Dish (35.8 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (34.0 %)  
+Toxic
+Haze
+Rapid Spin
+Scald
+# 4 - 6.77 % (30 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Surf
+Toxic
+Haze
+Rapid Spin
+# 5 - 6.55 % (29 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 248 HP / 172 Def / 88 SDef (82.8 %)  
+Toxic
+Foresight
+Rapid Spin
+Scald
+# 6 - 4.97 % (22 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Surf
+Counter
+Protect
+Rapid Spin
+# 7 - 4.97 % (22 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Surf
+Toxic
+Rapid Spin
+Yawn
+# 8 - 4.74 % (21 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Toxic
+Rapid Spin
+Mirror Coat
+Aqua Jet
+# 9 - 3.61 % (16 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (56.2 %)  
+Ice Beam
+Toxic
+Rapid Spin
+Scald
+# 10 - 2.71 % (12 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Calm - EVs: 248 HP / 8 SAtk / 252 SDef (100.0 %)  
+Toxic
+Rapid Spin
+Aqua Jet
+Scald
+# 11 - 2.71 % (12 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Rapid Spin
+Aqua Tail
+Aqua Jet
+Power-Up Punch
+# 12 - 2.03 % (9 battles)
+
+Wartortle @ Life Orb Lv. 100 -- Rain Dish
+Nature: Timid - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Ice Punch
+Waterfall
+Rapid Spin
+Aqua Ring
+# 13 - 1.81 % (8 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (50.0 %)  
+Haze
+Foresight
+Rapid Spin
+Scald
+# 14 - 1.35 % (6 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 236 HP / 252 SDef (100.0 %)  
+Haze
+Rapid Spin
+Rain Dance
+Scald
+# 15 - 1.13 % (5 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)[Poison]  
+Ice Beam
+Hidden Power
+Rain Dance
+Scald
+# 16 - 0.90 % (4 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)[Flying]  
+Toxic
+Rapid Spin
+Hidden Power
+Scald
+# 17 - 0.90 % (4 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Adamant - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Haze
+Rapid Spin
+Refresh
+Scald
+# 18 - 0.90 % (4 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Careful - EVs: 248 HP / 8 Def / 252 SDef (100.0 %)  
+Waterfall
+Rest
+Sleep Talk
+Rapid Spin
+# 19 - 0.68 % (3 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Impish - EVs: 252 Def / 252 SDef (100.0 %)  
+Toxic
+Protect
+Rapid Spin
+Aqua Ring
+# 20 - 0.45 % (2 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+(No Move)
+Toxic
+Rapid Spin
+Power-Up Punch
+# 21 - 0.45 % (2 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Rest
+Sleep Talk
+Rapid Spin
+Scald
+# 22 - 0.45 % (2 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 252 HP / 76 Def / 180 SDef (100.0 %)  
+Rapid Spin
+Mirror Coat
+Yawn
+Scald
+# 23 - 0.23 % (1 battles)
+
+Wartortle @ (No Item) Lv. 100 -- Torrent
+Nature: Hardy - EVs: 124 Atk / 124 Def / 252 Spd (100.0 %)  
+Surf
+Icy Wind
+Iron Tail
+Water Pulse
+# 24 - 0.23 % (1 battles)
+
+Wartortle @ (No Item) Lv. 100 -- Rain Dish
+Nature: Modest - EVs: 164 HP / 164 Def / 16 SAtk / 164 SDef (100.0 %)  
+Rain Dance
+Aura Sphere
+Aqua Jet
+Scald
+# 25 - 0.23 % (1 battles)
+
+Wartortle @ Leftovers Lv. 100 -- Torrent
+Nature: Hardy - EVs: 40 HP / 40 Atk / 40 Def / 24 SAtk / 40 SDef / 36 Spd (100.0 %)  
+(No Move)
+Mimic
+Dive
+Aqua Tail
+# 1 - 26.67 % (4 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Calm - EVs: 96 Def / 160 SAtk / 252 SDef (75.0 %)  
+Toxic
+Protect
+Rapid Spin
+Scald
+# 2 - 20.00 % (3 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Sleep Talk
+Rapid Spin
+Scald
+# 3 - 13.33 % (2 battles)
+
+Wartortle @ Leftovers Lv. 100 -- Torrent
+Nature: Hardy - EVs: 0 (100.0 %)  
+Tackle
+Bite
+Water Gun
+Withdraw
+# 4 - 6.67 % (1 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Bold - EVs: 248 HP / 172 Def / 88 SDef (100.0 %)  
+Toxic
+Haze
+Rapid Spin
+Scald
+# 5 - 6.67 % (1 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 248 HP / 88 Def / 172 SDef (100.0 %)  
+Toxic
+Foresight
+Rapid Spin
+Scald
+# 6 - 6.67 % (1 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Relaxed - EVs: 252 HP / 84 Def / 172 SDef (100.0 %)  
+Toxic
+Rapid Spin
+Yawn
+Aqua Ring
+# 7 - 6.67 % (1 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Relaxed - EVs: 248 HP / 164 Def / 96 SDef (100.0 %)  
+Toxic
+Rapid Spin
+Zen Headbutt
+Scald
+# 8 - 6.67 % (1 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 236 HP / 252 SDef (100.0 %)  
+Haze
+Rapid Spin
+Rain Dance
+Scald
+# 9 - 6.67 % (1 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Skull Bash
+Yawn
+Zen Headbutt
+Aqua Jet
+# 10 - 0 % (108 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent (9.3 %) / Rain Dish (90.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def (82.4 %)  
+Surf
+Toxic
+Protect
+Rapid Spin
+# 11 - 0 % (57 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent (94.7 %) / Rain Dish (5.3 %)
+Nature: Calm - EVs: 96 Def / 160 SAtk / 252 SDef (89.5 %)  
+Toxic
+Protect
+Rapid Spin
+Scald
+# 12 - 0 % (53 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent (64.2 %) / Rain Dish (35.8 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (34.0 %)  
+Toxic
+Haze
+Rapid Spin
+Scald
+# 13 - 0 % (30 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Surf
+Toxic
+Haze
+Rapid Spin
+# 14 - 0 % (29 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 248 HP / 172 Def / 88 SDef (82.8 %)  
+Toxic
+Foresight
+Rapid Spin
+Scald
+# 15 - 0 % (22 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Surf
+Counter
+Protect
+Rapid Spin
+# 16 - 0 % (22 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Surf
+Toxic
+Rapid Spin
+Yawn
+# 17 - 0 % (21 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Toxic
+Rapid Spin
+Mirror Coat
+Aqua Jet
+# 18 - 0 % (16 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (56.2 %)  
+Ice Beam
+Toxic
+Rapid Spin
+Scald
+# 19 - 0 % (12 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Calm - EVs: 248 HP / 8 SAtk / 252 SDef (100.0 %)  
+Toxic
+Rapid Spin
+Aqua Jet
+Scald
+# 20 - 0 % (12 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Rapid Spin
+Aqua Tail
+Aqua Jet
+Power-Up Punch
+# 21 - 0 % (9 battles)
+
+Wartortle @ Life Orb Lv. 100 -- Rain Dish
+Nature: Timid - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Ice Punch
+Waterfall
+Rapid Spin
+Aqua Ring
+# 22 - 0 % (8 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (50.0 %)  
+Haze
+Foresight
+Rapid Spin
+Scald
+# 23 - 0 % (6 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Calm - EVs: 236 HP / 252 SDef (100.0 %)  
+Haze
+Rapid Spin
+Rain Dance
+Scald
+# 24 - 0 % (5 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Rain Dish
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)[Poison]  
+Ice Beam
+Hidden Power
+Rain Dance
+Scald
+# 25 - 0 % (4 battles)
+
+Wartortle @ Eviolite Lv. 100 -- Torrent
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)[Flying]  
+Toxic
+Rapid Spin
+Hidden Power
+Scald

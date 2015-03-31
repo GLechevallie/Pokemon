@@ -1,0 +1,405 @@
+Dragon/Ground
+68/90/65/50/55/82
+56.0
+50/50
+
+# 1 - 29.79 % (14 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Earthquake
+Dragon Claw
+Stone Edge
+Stealth Rock
+# 2 - 14.89 % (7 battles)
+
+Gabite @ Leftovers Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Aerial Ace
+Dragon Claw
+Shadow Claw
+# 3 - 8.51 % (4 battles)
+
+Gabite @ Leftovers Lv. 100 -- Rough Skin
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Flamethrower
+Earthquake
+Toxic
+Dragon Claw
+# 4 - 6.38 % (3 battles)
+
+Gabite @ Choice Band Lv. 100 -- Sand Veil
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Outrage
+Iron Head
+# 5 - 6.38 % (3 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Earthquake
+Toxic
+Dragon Claw
+Stealth Rock
+# 6 - 6.38 % (3 battles)
+
+Gabite @ Rocky Helmet Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Fire Blast
+Iron Head
+Dual Chop
+# 7 - 4.26 % (2 battles)
+
+Gabite @ (No Item) Lv. 100 -- Rough Skin
+Nature: Hardy - EVs: 8 Def / 36 SAtk / 212 SDef / 252 Spd (100.0 %)  
+Earth Power
+Shadow Claw
+Iron Head
+Dual Chop
+# 8 - 4.26 % (2 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 64 HP / 252 Atk / 192 Spd (100.0 %)  
+Earthquake
+Toxic
+Outrage
+Stealth Rock
+# 9 - 4.26 % (2 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Iron Tail
+Dragon Rush
+Hone Claws
+# 10 - 4.26 % (2 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (100.0 %)  
+Earthquake
+Dragon Claw
+Iron Head
+Stealth Rock
+# 11 - 4.26 % (2 battles)
+
+Gabite @ Weakness Policy Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 92 HP / 252 Atk / 4 Def / 160 Spd (100.0 %)  
+Flamethrower
+Earthquake
+Dragon Claw
+Iron Head
+# 12 - 2.13 % (1 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roar
+Earthquake
+Outrage
+Stone Edge
+# 13 - 2.13 % (1 battles)
+
+Gabite @ Choice Scarf Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Earthquake
+Outrage
+Dragon Claw
+Stone Edge
+# 14 - 2.13 % (1 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Dragon Claw
+Stealth Rock
+# 15 - 0 % (17 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Earthquake
+Dragon Claw
+Stone Edge
+Stealth Rock
+# 16 - 0 % (5 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Earthquake
+Toxic
+Dragon Claw
+Stealth Rock
+# 17 - 0 % (4 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roar
+Earthquake
+Outrage
+Stone Edge
+# 18 - 0 % (3 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Iron Tail
+Dragon Rush
+Hone Claws
+# 19 - 0 % (2 battles)
+
+Gabite @ Leftovers Lv. 50 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 20 - 0 % (2 battles)
+
+Gabite @ Leftovers Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Aerial Ace
+Dragon Claw
+Shadow Claw
+# 21 - 0 % (2 battles)
+
+Gabite @ Rocky Helmet Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Fire Blast
+Iron Head
+Dual Chop
+# 22 - 0 % (1 battles)
+
+Gabite @ Choice Band Lv. 100 -- Sand Veil
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Outrage
+Iron Head
+# 23 - 0 % (1 battles)
+
+Gabite @ Focus Sash Lv. 50 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 24 - 0 % (1 battles)
+
+Gabite @ Focus Sash Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 212 Spd (100.0 %)  
+Earthquake
+Fire Blast
+Outrage
+Iron Head
+# 25 - 0 % (1 battles)
+
+Gabite @ Life Orb Lv. 100 -- Sand Veil
+Nature: Naive - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Flamethrower
+Earthquake
+Dragon Claw
+Stealth Rock
+# 1 - 42.50 % (17 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Earthquake
+Dragon Claw
+Stone Edge
+Stealth Rock
+# 2 - 12.50 % (5 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Earthquake
+Toxic
+Dragon Claw
+Stealth Rock
+# 3 - 10.00 % (4 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roar
+Earthquake
+Outrage
+Stone Edge
+# 4 - 7.50 % (3 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Iron Tail
+Dragon Rush
+Hone Claws
+# 5 - 5.00 % (2 battles)
+
+Gabite @ Leftovers Lv. 50 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 6 - 5.00 % (2 battles)
+
+Gabite @ Leftovers Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Aerial Ace
+Dragon Claw
+Shadow Claw
+# 7 - 5.00 % (2 battles)
+
+Gabite @ Rocky Helmet Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Fire Blast
+Iron Head
+Dual Chop
+# 8 - 2.50 % (1 battles)
+
+Gabite @ Choice Band Lv. 100 -- Sand Veil
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Outrage
+Iron Head
+# 9 - 2.50 % (1 battles)
+
+Gabite @ Focus Sash Lv. 50 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Outrage
+Stone Edge
+Stealth Rock
+# 10 - 2.50 % (1 battles)
+
+Gabite @ Focus Sash Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 212 Spd (100.0 %)  
+Earthquake
+Fire Blast
+Outrage
+Iron Head
+# 11 - 0 % (1 battles)
+
+Gabite @ Life Orb Lv. 100 -- Sand Veil
+Nature: Naive - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Flamethrower
+Earthquake
+Dragon Claw
+Stealth Rock
+# 12 - 0 % (1 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Dragon Claw
+Stealth Rock
+# 13 - 0 % (14 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Earthquake
+Dragon Claw
+Stone Edge
+Stealth Rock
+# 14 - 0 % (7 battles)
+
+Gabite @ Leftovers Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Aerial Ace
+Dragon Claw
+Shadow Claw
+# 15 - 0 % (4 battles)
+
+Gabite @ Leftovers Lv. 100 -- Rough Skin
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Flamethrower
+Earthquake
+Toxic
+Dragon Claw
+# 16 - 0 % (3 battles)
+
+Gabite @ Choice Band Lv. 100 -- Sand Veil
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Outrage
+Iron Head
+# 17 - 0 % (3 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Earthquake
+Toxic
+Dragon Claw
+Stealth Rock
+# 18 - 0 % (3 battles)
+
+Gabite @ Rocky Helmet Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Fire Blast
+Iron Head
+Dual Chop
+# 19 - 0 % (2 battles)
+
+Gabite @ (No Item) Lv. 100 -- Rough Skin
+Nature: Hardy - EVs: 8 Def / 36 SAtk / 212 SDef / 252 Spd (100.0 %)  
+Earth Power
+Shadow Claw
+Iron Head
+Dual Chop
+# 20 - 0 % (2 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 64 HP / 252 Atk / 192 Spd (100.0 %)  
+Earthquake
+Toxic
+Outrage
+Stealth Rock
+# 21 - 0 % (2 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Iron Tail
+Dragon Rush
+Hone Claws
+# 22 - 0 % (2 battles)
+
+Gabite @ Eviolite Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (100.0 %)  
+Earthquake
+Dragon Claw
+Iron Head
+Stealth Rock
+# 23 - 0 % (2 battles)
+
+Gabite @ Weakness Policy Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 92 HP / 252 Atk / 4 Def / 160 Spd (100.0 %)  
+Flamethrower
+Earthquake
+Dragon Claw
+Iron Head
+# 24 - 0 % (1 battles)
+
+Gabite @ Choice Band Lv. 100 -- Rough Skin
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roar
+Earthquake
+Outrage
+Stone Edge
+# 25 - 0 % (1 battles)
+
+Gabite @ Choice Scarf Lv. 100 -- Rough Skin
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Earthquake
+Outrage
+Dragon Claw
+Stone Edge

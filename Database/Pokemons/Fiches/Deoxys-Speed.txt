@@ -1,0 +1,405 @@
+Psychic/-
+50/95/90/95/90/180
+60.8
+asexue
+
+# 1 - 12.61 % (2112 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 112 Atk / 144 SAtk / 252 Spd (14.2 %)  
+Ice Beam
+Superpower
+Knock Off
+Psycho Boost
+# 2 - 8.98 % (1505 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 160 Atk / 112 SAtk / 236 Spd (49.2 %)  
+Ice Beam
+Extreme Speed
+Superpower
+Psycho Boost
+# 3 - 6.11 % (1024 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 48 Atk / 208 SAtk / 252 Spd (33.2 %)  
+Fire Punch
+Ice Beam
+Superpower
+Psycho Boost
+# 4 - 5.41 % (907 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (16.4 %)[Fire]  
+Ice Beam
+Hidden Power
+Superpower
+Psycho Boost
+# 5 - 4.17 % (699 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (49.5 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 6 - 3.33 % (558 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 20 Atk / 252 SAtk / 236 Spd (18.3 %)  
+Ice Beam
+Superpower
+Psycho Boost
+Stealth Rock
+# 7 - 2.81 % (471 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 SAtk / 252 Spd (51.2 %)  
+Spikes
+Taunt
+Psycho Boost
+Stealth Rock
+# 8 - 1.96 % (328 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 20 Atk / 252 SAtk / 236 Spd (79.9 %)  
+Extreme Speed
+Shadow Ball
+Superpower
+Psycho Boost
+# 9 - 1.56 % (262 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Thunder Wave
+Psychic
+Taunt
+Stealth Rock
+# 10 - 1.47 % (247 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naughty - EVs: 240 Atk / 252 SAtk / 16 Spd (33.2 %)  
+Extreme Speed
+Superpower
+Knock Off
+Psycho Boost
+# 11 - 1.31 % (219 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (47.0 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 12 - 1.31 % (219 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 112 Atk / 156 SAtk / 240 Spd (45.7 %)  
+Superpower
+Knock Off
+Psycho Boost
+Stealth Rock
+# 13 - 1.29 % (216 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (28.2 %)  
+Spikes
+Taunt
+Knock Off
+Stealth Rock
+# 14 - 1.17 % (196 battles)
+
+Deoxys @ Light Clay Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (39.3 %)  
+Light Screen
+Reflect
+Taunt
+Stealth Rock
+# 15 - 1.08 % (181 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Hasty - EVs: 4 HP / 252 SAtk / 252 Spd (34.8 %)  
+Ice Beam
+Taunt
+Superpower
+Psycho Boost
+# 16 - 1.02 % (171 battles)
+
+Deoxys @ Choice Specs Lv. 100 -- Pressure
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (61.4 %)[Ground]  
+Ice Beam
+Hidden Power
+Psycho Boost
+Energy Ball
+# 17 - 1.01 % (169 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naughty - EVs: 252 Atk / 4 Def / 252 SAtk (100.0 %)  
+Ice Beam
+Extreme Speed
+Superpower
+Energy Ball
+# 18 - 0.91 % (152 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 12 Atk / 244 SAtk / 252 Spd (91.4 %)  
+Ice Beam
+Low Kick
+Psycho Boost
+Stealth Rock
+# 19 - 0.88 % (147 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 12 Atk / 244 SAtk / 252 Spd (81.0 %)  
+Ice Beam
+Low Kick
+Knock Off
+Psycho Boost
+# 20 - 0.83 % (139 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Naughty - EVs: 252 Atk / 20 SAtk / 236 Spd (29.5 %)  
+Ice Beam
+Superpower
+Psycho Boost
+Stealth Rock
+# 21 - 0.82 % (137 battles)
+
+Deoxys @ Leftovers Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 220 SAtk / 36 Spd (73.0 %)  
+Spikes
+Taunt
+Psycho Boost
+Stealth Rock
+# 22 - 0.64 % (107 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 SAtk / 252 Spd (99.1 %)  
+Psychic
+Spikes
+Taunt
+Stealth Rock
+# 23 - 0.62 % (104 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 16 Atk / 252 SAtk / 240 Spd (69.2 %)[Fire]  
+Hidden Power
+Superpower
+Psycho Boost
+Stealth Rock
+# 24 - 0.61 % (102 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Naive - EVs: 116 Atk / 140 SAtk / 252 Spd (16.7 %)  
+Taunt
+Superpower
+Psycho Boost
+Stealth Rock
+# 25 - 0.59 % (99 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Modest - EVs: 128 Def / 252 SAtk / 128 SDef (100.0 %)  
+Thunder Wave
+Psychic
+Spikes
+Stealth Rock
+# 1 - 13.97 % (3269 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (42.5 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 2 - 7.04 % (1647 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Naive - EVs: 116 Atk / 140 SAtk / 252 Spd (20.5 %)  
+Taunt
+Superpower
+Psycho Boost
+Stealth Rock
+# 3 - 6.30 % (1474 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (28.2 %)  
+Spikes
+Taunt
+Psycho Boost
+Stealth Rock
+# 4 - 5.77 % (1351 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (36.0 %)  
+Spikes
+Taunt
+Knock Off
+Stealth Rock
+# 5 - 4.57 % (1070 battles)
+
+Deoxys @ Light Clay Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (46.8 %)  
+Light Screen
+Reflect
+Taunt
+Stealth Rock
+# 6 - 3.46 % (809 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (18.4 %)  
+Spikes
+Taunt
+Superpower
+Stealth Rock
+# 7 - 2.97 % (696 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 12 Atk / 244 SAtk / 252 Spd (23.7 %)  
+Ice Beam
+Superpower
+Knock Off
+Psycho Boost
+# 8 - 2.44 % (570 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 16 Atk / 252 SAtk / 240 Spd (15.8 %)  
+Ice Beam
+Superpower
+Psycho Boost
+Stealth Rock
+# 9 - 2.02 % (472 battles)
+
+Deoxys @ Rocky Helmet Lv. 100 -- Pressure
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (32.6 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 10 - 1.57 % (368 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (33.7 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 11 - 1.46 % (342 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (38.6 %)  
+Taunt
+Magic Coat
+Knock Off
+Stealth Rock
+# 12 - 1.36 % (319 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (37.0 %)  
+Spikes
+Magic Coat
+Psycho Boost
+Stealth Rock
+# 13 - 1.35 % (317 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 48 Atk / 208 SAtk / 252 Spd (34.4 %)  
+Fire Punch
+Ice Beam
+Superpower
+Psycho Boost
+# 14 - 1.17 % (274 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Naughty - EVs: 252 Atk / 20 SAtk / 236 Spd (28.1 %)  
+Ice Beam
+Superpower
+Psycho Boost
+Stealth Rock
+# 15 - 1.13 % (265 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (41.9 %)  
+Thunder Wave
+Spikes
+Taunt
+Stealth Rock
+# 16 - 1.10 % (258 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.8 %)  
+Fire Punch
+Spikes
+Taunt
+Stealth Rock
+# 17 - 1.03 % (241 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 4 Atk / 252 SAtk / 252 Spd (41.1 %)  
+Taunt
+Knock Off
+Psycho Boost
+Stealth Rock
+# 18 - 0.98 % (230 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (21.7 %)[Fire]  
+Ice Beam
+Hidden Power
+Superpower
+Psycho Boost
+# 19 - 0.95 % (223 battles)
+
+Deoxys @ Red Card Lv. 100 -- Pressure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (24.7 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 20 - 0.79 % (185 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Rash - EVs: 136 Atk / 120 SAtk / 252 Spd (75.7 %)  
+Superpower
+Magic Coat
+Psycho Boost
+Stealth Rock
+# 21 - 0.79 % (185 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Naive - EVs: 160 Atk / 112 SAtk / 236 Spd (25.9 %)  
+Ice Beam
+Extreme Speed
+Superpower
+Psycho Boost
+# 22 - 0.77 % (181 battles)
+
+Deoxys @ Colbur Berry Lv. 100 -- Pressure
+Nature: Bold - EVs: 252 HP / 252 Def (86.2 %)  
+Spikes
+Taunt
+Magic Coat
+Stealth Rock
+# 23 - 0.76 % (177 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Timid - EVs: 252 SAtk / 252 Spd (98.9 %)  
+Thunder Wave
+Taunt
+Magic Coat
+Stealth Rock
+# 24 - 0.75 % (176 battles)
+
+Deoxys @ Focus Sash Lv. 100 -- Pressure
+Nature: Modest - EVs: 252 SAtk / 252 Spd (57.4 %)  
+Thunder Wave
+Taunt
+Psycho Boost
+Stealth Rock
+# 25 - 0.73 % (170 battles)
+
+Deoxys @ Life Orb Lv. 100 -- Pressure
+Nature: Rash - EVs: 44 Atk / 252 SAtk / 212 Spd (22.4 %)  
+Taunt
+Superpower
+Psycho Boost
+Stealth Rock

@@ -1,0 +1,405 @@
+Electric/-
+35/55/40/50/50/90
+6.0
+50/50
+
+# 1 - 14.03 % (62 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Encore
+Knock Off
+Volt Tackle
+# 2 - 9.28 % (41 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (78.0 %) / Lightningrod (22.0 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (78.0 %)  
+Quick Attack
+Fake Out
+Knock Off
+Volt Tackle
+# 3 - 5.66 % (25 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (40.0 %) / Lightningrod (60.0 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (44.0 %)  
+Fake Out
+Brick Break
+Knock Off
+Volt Tackle
+# 4 - 4.98 % (22 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Adamant - EVs: 252 Atk / 252 Spd (63.6 %)  
+Iron Tail
+Fake Out
+Knock Off
+Volt Tackle
+# 5 - 3.62 % (16 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Naughty - EVs: 252 Atk / 252 Spd (100.0 %)  
+Thunder Punch
+Extreme Speed
+Knock Off
+Grass Knot
+# 6 - 3.39 % (15 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Body Slam
+Quick Attack
+Volt Tackle
+Volt Switch
+# 7 - 3.17 % (14 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)[Ice]  
+Thunderbolt
+Substitute
+Encore
+Hidden Power
+# 8 - 2.94 % (13 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fake Out
+Knock Off
+Volt Tackle
+Nuzzle
+# 9 - 2.49 % (11 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (54.5 %) / Lightningrod (45.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Thunderbolt
+Encore
+Hidden Power
+Nasty Plot
+# 10 - 2.49 % (11 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (72.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Grass Knot
+Volt Switch
+# 11 - 2.49 % (11 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Protect
+Uproar
+Signal Beam
+Volt Switch
+# 12 - 2.26 % (10 battles)
+
+Pikachu @ Focus Sash Lv. 100 -- Static
+Nature: Timid - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Thunderbolt
+Quick Attack
+Iron Tail
+Electro Ball
+# 13 - 2.04 % (9 battles)
+
+Pikachu @ Leftovers Lv. 100 -- Static
+Nature: Hardy - EVs: 52 HP / 84 Atk / 40 Def / 60 SAtk / 44 SDef / 112 Spd (100.0 %)  
+Slam
+Thunder Shock
+Thunder Wave
+Electro Ball
+# 14 - 1.81 % (8 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Iron Tail
+Fake Out
+Volt Tackle
+Grass Knot
+# 15 - 1.81 % (8 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Hardy - EVs: 164 Atk / 92 SAtk / 252 Spd (100.0 %)[Ice]  
+Hidden Power
+Brick Break
+Volt Tackle
+Grass Knot
+# 16 - 1.81 % (8 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (50.0 %) / Lightningrod (50.0 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (50.0 %)  
+Extreme Speed
+Knock Off
+Wild Charge
+Nuzzle
+# 17 - 1.58 % (7 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Thunderbolt
+Substitute
+Hidden Power
+Grass Knot
+# 18 - 1.58 % (7 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (42.9 %) / Lightningrod (57.1 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (57.1 %)  
+Extreme Speed
+Brick Break
+Knock Off
+Wild Charge
+# 19 - 1.58 % (7 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Naive - EVs: 252 Atk / 4 Def / 252 Spd (71.4 %)  
+Fake Out
+Brick Break
+Volt Tackle
+Volt Switch
+# 20 - 1.36 % (6 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Quick Attack
+Iron Tail
+Volt Tackle
+# 21 - 1.36 % (6 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Hidden Power
+Fake Out
+Grass Knot
+Electro Ball
+# 22 - 1.13 % (5 battles)
+
+Pikachu @ Leftovers Lv. 100 -- Static
+Nature: Hardy - EVs: 0 (60.0 %)  
+Thunder Shock
+Thunderbolt
+Iron Tail
+Electro Ball
+# 23 - 1.13 % (5 battles)
+
+Pikachu @ Leftovers Lv. 100 -- Static
+Nature: Hardy - EVs: 140 HP / 228 Atk / 140 Spd (80.0 %)  
+Thunderbolt
+Quick Attack
+Iron Tail
+Electro Ball
+# 24 - 1.13 % (5 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Toxic
+Fake Out
+Knock Off
+Volt Tackle
+# 25 - 1.13 % (5 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Brick Break
+Knock Off
+Volt Tackle
+Grass Knot
+# 1 - 14.53 % (17 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Naive - EVs: 252 Atk / 4 Def / 252 Spd (58.8 %)  
+Fake Out
+Brick Break
+Volt Tackle
+Volt Switch
+# 2 - 5.98 % (7 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Toxic
+Fake Out
+Knock Off
+Volt Tackle
+# 3 - 5.98 % (7 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (71.4 %) / Lightningrod (28.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (57.1 %)  
+Quick Attack
+Fake Out
+Knock Off
+Volt Tackle
+# 4 - 5.98 % (7 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (57.1 %) / Lightningrod (42.9 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (42.9 %)  
+Fake Out
+Brick Break
+Knock Off
+Volt Tackle
+# 5 - 5.98 % (7 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fake Out
+Knock Off
+Volt Tackle
+Nuzzle
+# 6 - 3.42 % (4 battles)
+
+Pikachu @ Leftovers Lv. 100 -- Static
+Nature: Hardy - EVs: 96 HP / 104 Atk / 96 Def / 84 SAtk / 76 SDef / 52 Spd (100.0 %)  
+Thunder Punch
+Thunderbolt
+Thunder
+Electro Ball
+# 7 - 3.42 % (4 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static (75.0 %) / Lightningrod (25.0 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (75.0 %)[Ice]  
+Thunderbolt
+Substitute
+Hidden Power
+Volt Switch
+# 8 - 3.42 % (4 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Jolly - EVs: 252 Atk / 252 Spd (75.0 %)  
+Iron Tail
+Fake Out
+Knock Off
+Volt Tackle
+# 9 - 3.42 % (4 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Hardy - EVs: 164 Atk / 92 SAtk / 252 Spd (100.0 %)[Ice]  
+Hidden Power
+Brick Break
+Volt Tackle
+Grass Knot
+# 10 - 2.56 % (3 battles)
+
+Pikachu @ Leftovers Lv. 100 -- Static
+Nature: Hardy - EVs: 252 HP / 60 Atk / 196 Def (66.7 %)  
+Thunderbolt
+Quick Attack
+Dynamic Punch
+Iron Tail
+# 11 - 2.56 % (3 battles)
+
+Pikachu @ Leftovers Lv. 100 -- Static
+Nature: Hardy - EVs: 140 HP / 228 Atk / 140 Spd (100.0 %)  
+Thunderbolt
+Quick Attack
+Iron Tail
+Electro Ball
+# 12 - 2.56 % (3 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Thunderbolt
+Agility
+Charge Beam
+# 13 - 1.71 % (2 battles)
+
+Pikachu @ (No Item) Lv. 10 -- Static
+Nature: Hardy - EVs: 72 HP / 84 Atk / 88 Def / 92 SAtk / 80 SDef / 92 Spd (50.0 %)  
+(No Move)
+(No Move)
+Thunder Shock
+Thunderbolt
+# 14 - 1.71 % (2 battles)
+
+Pikachu @ (No Item) Lv. 100 -- Static
+Nature: Hardy - EVs: 0 (100.0 %)  
+Thunderbolt
+Quick Attack
+Iron Tail
+Electro Ball
+# 15 - 1.71 % (2 battles)
+
+Pikachu @ Leftovers Lv. 100 -- Static
+Nature: Hardy - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Thunderbolt
+Volt Tackle
+Volt Switch
+Wild Charge
+# 16 - 1.71 % (2 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Quick Attack
+Iron Tail
+Volt Tackle
+# 17 - 1.71 % (2 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Adamant - EVs: 88 Atk / 80 SAtk / 88 SDef / 252 Spd (100.0 %)  
+Thunderbolt
+Quick Attack
+Iron Tail
+Electro Ball
+# 18 - 1.71 % (2 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)[Ice]  
+Thunderbolt
+Substitute
+Encore
+Hidden Power
+# 19 - 1.71 % (2 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Lightningrod
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Dig
+Quick Attack
+Iron Tail
+Volt Tackle
+# 20 - 1.71 % (2 battles)
+
+Pikachu @ Light Ball Lv. 100 -- Static
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Fake Out
+Focus Punch
+Volt Tackle
+Nuzzle
+# 21 - 0.85 % (1 battles)
+
+Pikachu @ (No Item) Lv. 15 -- Static
+Nature: Hardy - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Thunder Shock
+Thunderbolt
+Agility
+Quick Attack
+# 22 - 0.85 % (1 battles)
+
+Pikachu @ (No Item) Lv. 100 -- Static
+Nature: Hardy - EVs: 108 HP / 108 Atk / 44 Def / 128 SAtk / 60 SDef / 60 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Volt Tackle
+# 23 - 0.85 % (1 battles)
+
+Pikachu @ (No Item) Lv. 100 -- Static
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Celebrate
+# 24 - 0.85 % (1 battles)
+
+Pikachu @ (No Item) Lv. 100 -- Static
+Nature: Hardy - EVs: 20 HP / 8 Atk / 8 Def / 4 SAtk / 4 SDef / 8 Spd (100.0 %) 
+(No Move)
+(No Move)
+Growl
+Thunder Shock
+# 25 - 0.85 % (1 battles)
+
+Pikachu @ (No Item) Lv. 100 -- Static
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+Thunder Shock
+Focus Punch
+Electro Ball

@@ -1,0 +1,405 @@
+Water/Ground
+95/85/85/65/65/35
+75.0
+50/50
+
+# 1 - 22.18 % (5903 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (0.2 %) / Water Absorb (2.3 %) / Unaware (97.5 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (37.7 %)  
+Earthquake
+Toxic
+Recover
+Scald
+# 2 - 9.59 % (2552 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (0.5 %) / Water Absorb (1.9 %) / Unaware (97.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (30.0 %)  
+Toxic
+Recover
+Stockpile
+Scald
+# 3 - 6.92 % (1842 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (3.3 %) / Water Absorb (11.9 %) / Unaware (84.8 %)
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (21.1 %)  
+Earthquake
+Recover
+Waterfall
+Curse
+# 4 - 4.40 % (1171 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (1.6 %) / Water Absorb (3.1 %) / Unaware (95.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (20.8 %)  
+Toxic
+Recover
+Haze
+Scald
+# 5 - 3.71 % (987 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (0.1 %) / Water Absorb (3.5 %) / Unaware (96.4 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (22.9 %)  
+Earthquake
+Recover
+Haze
+Scald
+# 6 - 3.06 % (814 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (1.2 %) / Unaware (98.8 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (43.4 %)  
+Ice Punch
+Earthquake
+Recover
+Curse
+# 7 - 2.72 % (723 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (1.1 %) / Water Absorb (1.1 %) / Unaware (97.8 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (23.7 %)  
+Earthquake
+Recover
+Stockpile
+Scald
+# 8 - 2.59 % (690 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (0.3 %) / Unaware (99.7 %)
+Nature: Relaxed - EVs: 248 HP / 252 Def / 8 SDef (31.9 %)  
+Toxic
+Recover
+Protect
+Scald
+# 9 - 2.07 % (552 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (1.3 %) / Water Absorb (1.4 %) / Unaware (97.3 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def (79.2 %)  
+Counter
+Earthquake
+Recover
+Scald
+# 10 - 1.54 % (409 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (3.4 %) / Water Absorb (3.7 %) / Unaware (92.9 %)
+Nature: Impish - EVs: 252 HP / 252 Def (22.5 %)  
+Earthquake
+Toxic
+Recover
+Stockpile
+# 11 - 1.41 % (375 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (0.5 %) / Water Absorb (29.6 %) / Unaware (69.9 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (21.6 %)  
+Earthquake
+Toxic
+Recover
+Waterfall
+# 12 - 1.41 % (375 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Unaware
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (78.1 %)  
+Earthquake
+Recover
+Waterfall
+Curse
+# 13 - 1.22 % (325 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (4.3 %) / Water Absorb (34.2 %) / Unaware (61.5 %)
+Nature: Relaxed - EVs: 248 HP / 252 Def / 8 SDef (53.8 %)  
+Earthquake
+Recover
+Encore
+Scald
+# 14 - 1.13 % (302 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (21.2 %) / Unaware (78.8 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (24.8 %)  
+Toxic
+Recover
+Earth Power
+Scald
+# 15 - 1.01 % (269 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Water Absorb (5.6 %) / Unaware (94.4 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def (24.5 %)  
+Earthquake
+Toxic
+Recover
+Scald
+# 16 - 0.88 % (234 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (36.8 %) / Unaware (63.2 %)
+Nature: Modest - EVs: 132 HP / 136 Def / 136 SAtk / 104 SDef (34.6 %)  
+Ice Beam
+Toxic
+Recover
+Scald
+# 17 - 0.80 % (213 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (7.0 %) / Unaware (93.0 %)
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (31.9 %)  
+Earthquake
+Recover
+Curse
+Scald
+# 18 - 0.80 % (212 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (4.7 %) / Unaware (95.3 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (21.2 %)  
+Earthquake
+Toxic
+Recover
+Haze
+# 19 - 0.76 % (203 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Unaware
+Nature: Impish - EVs: 248 HP / 8 Atk / 252 Def (79.8 %)  
+Earthquake
+Recover
+Rock Slide
+Curse
+# 20 - 0.68 % (182 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (2.2 %) / Water Absorb (59.3 %) / Unaware (38.5 %)
+Nature: Hardy - EVs: 252 HP / 4 Atk / 20 Def / 232 SAtk (49.5 %)  
+Ice Beam
+Earthquake
+Recover
+Scald
+# 21 - 0.67 % (178 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (1.7 %) / Unaware (98.3 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (73.6 %)  
+Earthquake
+Recover
+Haze
+Waterfall
+# 22 - 0.63 % (168 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Unaware
+Nature: Impish - EVs: 0 (20.8 %)  
+Earthquake
+Recover
+Yawn
+Scald
+# 23 - 0.63 % (168 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Unaware
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (99.4 %)  
+Ice Punch
+Earthquake
+Recover
+Waterfall
+# 24 - 0.61 % (163 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (0.6 %) / Unaware (99.4 %)
+Nature: Impish - EVs: 252 Atk / 252 Def / 4 SDef (64.4 %)  
+Ice Punch
+Counter
+Earthquake
+Recover
+# 25 - 0.60 % (160 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (1.2 %) / Water Absorb (93.1 %) / Unaware (5.6 %)
+Nature: Careful - EVs: 248 HP / 8 Def / 252 SDef (93.1 %)  
+Recover
+Waterfall
+Substitute
+Curse
+# 1 - 18.05 % (388 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (4.6 %) / Unaware (95.4 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (34.5 %)  
+Earthquake
+Toxic
+Recover
+Scald
+# 2 - 10.05 % (216 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (13.4 %) / Unaware (86.6 %)
+Nature: Bold - EVs: 252 Def / 4 SAtk / 252 SDef (29.2 %)  
+Toxic
+Recover
+Stockpile
+Scald
+# 3 - 7.02 % (151 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 144 HP / 88 Atk / 160 Def / 116 SDef (100.0 %)  
+Earthquake
+Recover
+Yawn
+Infestation
+# 4 - 5.53 % (119 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (5.0 %) / Water Absorb (0.8 %) / Unaware (94.1 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def (82.4 %)  
+Counter
+Earthquake
+Recover
+Scald
+# 5 - 4.28 % (92 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (1.1 %) / Unaware (98.9 %)
+Nature: Relaxed - EVs: 248 HP / 252 Def / 8 SDef (28.3 %)  
+Earthquake
+Recover
+Haze
+Scald
+# 6 - 3.77 % (81 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (2.5 %) / Water Absorb (1.2 %) / Unaware (96.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (35.8 %)  
+Toxic
+Recover
+Haze
+Scald
+# 7 - 3.16 % (68 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (1.5 %) / Water Absorb (5.9 %) / Unaware (92.6 %)
+Nature: Impish - EVs: 248 HP / 8 Atk / 252 Def (22.1 %)  
+Earthquake
+Recover
+Waterfall
+Curse
+# 8 - 3.07 % (66 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (1.5 %) / Unaware (98.5 %)
+Nature: Bold - EVs: 252 HP / 252 Def (15.2 %)  
+Earthquake
+Recover
+Stockpile
+Scald
+# 9 - 2.74 % (59 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Unaware
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (98.3 %)  
+Earthquake
+Recover
+Waterfall
+Curse
+# 10 - 1.53 % (33 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp (6.1 %) / Water Absorb (6.1 %) / Unaware (87.9 %)
+Nature: Impish - EVs: 252 HP / 252 Def (24.2 %)  
+Earthquake
+Toxic
+Recover
+Stockpile
+# 11 - 1.16 % (25 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (68.0 %) / Unaware (32.0 %)
+Nature: Modest - EVs: 132 HP / 136 Def / 136 SAtk / 104 SDef (68.0 %)  
+Ice Beam
+Toxic
+Recover
+Scald
+# 12 - 1.12 % (24 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (4.2 %) / Unaware (95.8 %)
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (29.2 %)  
+Toxic
+Recover
+Protect
+Scald
+# 13 - 1.02 % (22 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (13.6 %) / Unaware (86.4 %)
+Nature: Impish - EVs: 252 HP / 252 SDef (36.4 %)  
+Earthquake
+Toxic
+Recover
+Waterfall
+# 14 - 0.98 % (21 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Unaware
+Nature: Impish - EVs: 80 HP / 252 Def / 176 SDef (76.2 %)  
+Earthquake
+Recover
+Waterfall
+Scald
+# 15 - 0.88 % (19 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Damp
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Waterfall
+Rest
+Curse
+Yawn
+# 16 - 0.79 % (17 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Unaware
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (58.8 %)  
+Toxic
+Recover
+Curse
+Scald
+# 17 - 0.74 % (16 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (25.0 %) / Unaware (75.0 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (75.0 %)  
+Ice Beam
+Earthquake
+Recover
+Scald
+# 18 - 0.74 % (16 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Water Absorb (18.8 %) / Unaware (81.2 %)
+Nature: Relaxed - EVs: 248 HP / 252 Def / 8 SDef (25.0 %)  
+Earthquake
+Recover
+Curse
+Scald
+# 19 - 0.70 % (15 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Unaware
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (46.7 %)  
+Ice Punch
+Earthquake
+Recover
+Curse
+# 20 - 0.70 % (15 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Damp
+Nature: Adamant - EVs: 252 HP / 88 Atk / 168 SDef (100.0 %)  
+Ice Punch
+Earthquake
+Aqua Tail
+Stone Edge
+# 21 - 0.70 % (15 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Unaware
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (40.0 %)  
+Earthquake
+Toxic
+Recover
+Curse
+# 22 - 0.70 % (15 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)[Grass]  
+Toxic
+Recover
+Hidden Power
+Scald
+# 23 - 0.65 % (14 battles)
+
+Quagsire @ Leftovers Lv. 100 -- Unaware
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (85.7 %)  
+Earthquake
+Recover
+Haze
+Waterfall
+# 24 - 0.60 % (13 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Unaware
+Nature: Relaxed - EVs: 248 HP / 8 Atk / 252 Def (100.0 %)  
+Counter
+Earthquake
+Recover
+Scald
+# 25 - 0.60 % (13 battles)
+
+Quagsire @ Rocky Helmet Lv. 100 -- Water Absorb (7.7 %) / Unaware (92.3 %)
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SDef (38.5 %)  
+Earthquake
+Toxic
+Recover
+Scald

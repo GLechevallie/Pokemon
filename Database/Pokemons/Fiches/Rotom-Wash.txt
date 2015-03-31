@@ -1,0 +1,405 @@
+Electric/Water
+50/65/107/105/107/86
+0.3
+asexue
+
+# 1 - 36.11 % (30327 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (5.4 %)  
+Hydro Pump
+Pain Split
+Will-O-Wisp
+Volt Switch
+# 2 - 8.81 % (7401 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (13.6 %)  
+Hydro Pump
+Will-O-Wisp
+Trick
+Volt Switch
+# 3 - 7.91 % (6641 battles)
+
+Rotom @ Chesto Berry Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (15.8 %)  
+Hydro Pump
+Rest
+Will-O-Wisp
+Volt Switch
+# 4 - 2.90 % (2439 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (28.4 %)  
+Hydro Pump
+Thunderbolt
+Pain Split
+Will-O-Wisp
+# 5 - 2.64 % (2219 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (10.3 %)  
+Hydro Pump
+Thunderbolt
+Will-O-Wisp
+Volt Switch
+# 6 - 2.49 % (2089 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.4 %)[Ice]  
+Hydro Pump
+Hidden Power
+Trick
+Volt Switch
+# 7 - 1.79 % (1503 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 252 SDef / 4 Spd (8.7 %)  
+Hydro Pump
+Pain Split
+Trick
+Volt Switch
+# 8 - 1.67 % (1405 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 232 HP / 56 SAtk / 220 Spd (45.6 %)[Ice]  
+Hydro Pump
+Hidden Power
+Will-O-Wisp
+Volt Switch
+# 9 - 1.66 % (1396 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (11.0 %)  
+Hydro Pump
+Will-O-Wisp
+Trick
+Volt Switch
+# 10 - 1.61 % (1354 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (18.4 %)  
+Hydro Pump
+Thunderbolt
+Trick
+Volt Switch
+# 11 - 1.41 % (1185 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (9.7 %)  
+Hydro Pump
+Thunder Wave
+Pain Split
+Volt Switch
+# 12 - 1.08 % (906 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 HP / 236 SAtk / 20 Spd (21.2 %)  
+Hydro Pump
+Protect
+Will-O-Wisp
+Volt Switch
+# 13 - 0.98 % (821 battles)
+
+Rotom @ Rocky Helmet Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (32.5 %)  
+Hydro Pump
+Pain Split
+Will-O-Wisp
+Volt Switch
+# 14 - 0.79 % (664 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 252 HP / 212 SDef / 44 Spd (11.0 %)  
+Hydro Pump
+Thunder Wave
+Will-O-Wisp
+Volt Switch
+# 15 - 0.77 % (649 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Hardy - EVs: 252 HP / 4 Def / 252 SDef (15.1 %)  
+Hydro Pump
+Confuse Ray
+Will-O-Wisp
+Volt Switch
+# 16 - 0.69 % (578 battles)
+
+Rotom @ Chesto Berry Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (24.0 %)  
+Hydro Pump
+Thunderbolt
+Rest
+Will-O-Wisp
+# 17 - 0.67 % (561 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (25.8 %)  
+Hydro Pump
+Pain Split
+Trick
+Volt Switch
+# 18 - 0.63 % (532 battles)
+
+Rotom @ Assault Vest Lv. 100 -- Levitate
+Nature: Modest - EVs: 232 HP / 56 SAtk / 220 Spd (33.3 %)[Ice]  
+Hydro Pump
+Hidden Power
+Discharge
+Volt Switch
+# 19 - 0.59 % (492 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (26.2 %)[Ice]  
+Hydro Pump
+Hidden Power
+Trick
+Volt Switch
+# 20 - 0.51 % (428 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 112 HP / 148 Def / 20 SAtk / 96 SDef / 132 Spd (44.6 %)  
+Hydro Pump
+Rest
+Will-O-Wisp
+Volt Switch
+# 21 - 0.45 % (379 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (59.4 %)  
+Hydro Pump
+Thunderbolt
+Thunder Wave
+Volt Switch
+# 22 - 0.40 % (333 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (19.2 %)  
+Hydro Pump
+Shadow Ball
+Will-O-Wisp
+Volt Switch
+# 23 - 0.39 % (324 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (49.7 %)[Ice]  
+Hydro Pump
+Hidden Power
+Will-O-Wisp
+Volt Switch
+# 24 - 0.39 % (324 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 Def / 4 SAtk / 252 SDef (31.5 %)  
+Hydro Pump
+Thunderbolt
+Trick
+Volt Switch
+# 25 - 0.38 % (321 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (85.0 %)  
+Hydro Pump
+Thunderbolt
+Confuse Ray
+Will-O-Wisp
+# 1 - 35.36 % (11675 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 232 HP / 56 SAtk / 220 Spd (6.0 %)  
+Hydro Pump
+Pain Split
+Will-O-Wisp
+Volt Switch
+# 2 - 16.20 % (5349 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (13.5 %)  
+Hydro Pump
+Will-O-Wisp
+Trick
+Volt Switch
+# 3 - 5.34 % (1763 battles)
+
+Rotom @ Chesto Berry Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (12.1 %)  
+Hydro Pump
+Rest
+Will-O-Wisp
+Volt Switch
+# 4 - 4.38 % (1445 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.0 %)[Ice]  
+Hydro Pump
+Hidden Power
+Trick
+Volt Switch
+# 5 - 3.30 % (1089 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 112 HP / 252 SAtk / 144 Spd (26.5 %)  
+Hydro Pump
+Pain Split
+Trick
+Volt Switch
+# 6 - 3.08 % (1016 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (19.1 %)  
+Hydro Pump
+Thunderbolt
+Trick
+Volt Switch
+# 7 - 2.08 % (688 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 128 HP / 252 SAtk / 128 Spd (47.1 %)  
+Hydro Pump
+Thunderbolt
+Pain Split
+Will-O-Wisp
+# 8 - 1.70 % (560 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (31.1 %)  
+Hydro Pump
+Thunder Wave
+Will-O-Wisp
+Volt Switch
+# 9 - 1.53 % (506 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 80 SAtk / 20 SDef / 156 Spd (12.8 %)  
+Hydro Pump
+Thunderbolt
+Will-O-Wisp
+Volt Switch
+# 10 - 1.52 % (501 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (17.8 %)  
+Hydro Pump
+Will-O-Wisp
+Trick
+Volt Switch
+# 11 - 1.43 % (473 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (24.9 %)[Ice]  
+Hydro Pump
+Hidden Power
+Trick
+Volt Switch
+# 12 - 1.28 % (421 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 232 HP / 56 SAtk / 220 Spd (35.2 %)[Ice]  
+Hydro Pump
+Hidden Power
+Will-O-Wisp
+Volt Switch
+# 13 - 0.88 % (292 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Calm - EVs: 248 HP / 28 SAtk / 232 SDef (20.2 %)  
+Hydro Pump
+Thunder Wave
+Pain Split
+Volt Switch
+# 14 - 0.85 % (279 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (58.4 %)  
+Hydro Pump
+Thunderbolt
+Trick
+Volt Switch
+# 15 - 0.71 % (236 battles)
+
+Rotom @ Assault Vest Lv. 100 -- Levitate
+Nature: Modest - EVs: 232 HP / 56 SAtk / 220 Spd (56.8 %)[Ice]  
+Hydro Pump
+Hidden Power
+Discharge
+Volt Switch
+# 16 - 0.70 % (230 battles)
+
+Rotom @ Choice Specs Lv. 100 -- Levitate
+Nature: Modest - EVs: 84 Def / 252 SAtk / 172 Spd (42.6 %)  
+Hydro Pump
+Pain Split
+Trick
+Volt Switch
+# 17 - 0.61 % (201 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 HP / 236 SAtk / 20 Spd (37.8 %)  
+Hydro Pump
+Protect
+Will-O-Wisp
+Volt Switch
+# 18 - 0.57 % (188 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 SDef / 4 Spd (22.3 %)  
+Hydro Pump
+Confuse Ray
+Will-O-Wisp
+Volt Switch
+# 19 - 0.50 % (164 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (68.9 %)  
+Hydro Pump
+Shadow Ball
+Trick
+Volt Switch
+# 20 - 0.47 % (156 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Hydro Pump
+Hidden Power
+Charge Beam
+Volt Switch
+# 21 - 0.47 % (155 battles)
+
+Rotom @ Rocky Helmet Lv. 100 -- Levitate
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (50.3 %)  
+Hydro Pump
+Pain Split
+Will-O-Wisp
+Volt Switch
+# 22 - 0.45 % (147 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (42.9 %)[Ice]  
+Hydro Pump
+Hidden Power
+Will-O-Wisp
+Volt Switch
+# 23 - 0.43 % (143 battles)
+
+Rotom @ Leftovers Lv. 100 -- Levitate
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (94.4 %)  
+Thunder Wave
+Confuse Ray
+Will-O-Wisp
+Volt Switch
+# 24 - 0.42 % (139 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (62.6 %)[Ice]  
+Hydro Pump
+Thunderbolt
+Hidden Power
+Trick
+# 25 - 0.41 % (136 battles)
+
+Rotom @ Choice Scarf Lv. 100 -- Levitate
+Nature: Timid - EVs: 4 HP / 252 SAtk / 212 Spd (41.2 %)[Poison]  
+Hydro Pump
+Thunderbolt
+Hidden Power
+Volt Switch

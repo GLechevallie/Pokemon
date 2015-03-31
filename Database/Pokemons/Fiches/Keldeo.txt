@@ -1,0 +1,405 @@
+Water/Fighting
+91/72/90/129/90/108
+48.5
+asexue
+
+# 1 - 19.13 % (6496 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.0 %)[Flying]  
+Hydro Pump
+Hidden Power
+Scald
+Secret Sword
+# 2 - 16.52 % (5611 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (20.6 %)  
+Hydro Pump
+Icy Wind
+Scald
+Secret Sword
+# 3 - 6.15 % (2089 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (49.6 %)  
+Substitute
+Calm Mind
+Scald
+Secret Sword
+# 4 - 5.57 % (1891 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (27.3 %)[Flying]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 5 - 3.04 % (1032 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (28.9 %)[Flying]  
+Hydro Pump
+Surf
+Hidden Power
+Secret Sword
+# 6 - 2.87 % (976 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (66.7 %)  
+Hydro Pump
+Surf
+Icy Wind
+Secret Sword
+# 7 - 2.60 % (883 battles)
+
+Keldeo @ Choice Scarf Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (57.8 %)  
+Hydro Pump
+Icy Wind
+Scald
+Secret Sword
+# 8 - 1.97 % (669 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (24.7 %)[Electric]  
+Surf
+Icy Wind
+Hidden Power
+Secret Sword
+# 9 - 1.87 % (636 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (34.7 %)[Flying]  
+Icy Wind
+Hidden Power
+Scald
+Secret Sword
+# 10 - 1.64 % (558 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (22.8 %)[Electric]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 11 - 1.47 % (498 battles)
+
+Keldeo @ Choice Scarf Lv. 100 -- Justified
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (25.5 %)[Dark]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 12 - 1.43 % (485 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (34.0 %)[Electric]  
+Hydro Pump
+Hidden Power
+Scald
+Secret Sword
+# 13 - 1.10 % (373 battles)
+
+Keldeo @ Choice Scarf Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (32.4 %)[Ice]  
+Hydro Pump
+Hidden Power
+Scald
+Secret Sword
+# 14 - 0.98 % (334 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (23.7 %)[Ice]  
+Hidden Power
+Calm Mind
+Scald
+Secret Sword
+# 15 - 0.88 % (299 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Scald
+Secret Sword
+# 16 - 0.85 % (289 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 112 HP / 144 SAtk / 252 Spd (28.4 %)  
+Surf
+Icy Wind
+Calm Mind
+Secret Sword
+# 17 - 0.79 % (267 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (36.0 %)[Flying]  
+Icy Wind
+Hidden Power
+Scald
+Secret Sword
+# 18 - 0.78 % (264 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (42.8 %)  
+Icy Wind
+Calm Mind
+Scald
+Secret Sword
+# 19 - 0.77 % (263 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (85.9 %)  
+Hydro Pump
+Icy Wind
+Calm Mind
+Secret Sword
+# 20 - 0.74 % (253 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Naive - EVs: 4 HP / 68 Atk / 184 SAtk / 252 Spd (74.3 %)[Ice]  
+Hydro Pump
+Hidden Power
+Aqua Jet
+Secret Sword
+# 21 - 0.72 % (245 battles)
+
+Keldeo @ Expert Belt Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (28.6 %)[Electric]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 22 - 0.72 % (244 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (59.4 %)[Ice]  
+Surf
+Hidden Power
+Calm Mind
+Secret Sword
+# 23 - 0.72 % (243 battles)
+
+Keldeo @ Lum Berry Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (79.4 %)[Ice]  
+Surf
+Hidden Power
+Calm Mind
+Secret Sword
+# 24 - 0.69 % (236 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (31.4 %)  
+Hydro Pump
+Icy Wind
+Scald
+Secret Sword
+# 25 - 0.69 % (235 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (51.5 %)[Ice]  
+Hidden Power
+Calm Mind
+Scald
+Secret Sword
+# 1 - 19.28 % (826 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.1 %)  
+Hydro Pump
+Icy Wind
+Scald
+Secret Sword
+# 2 - 18.60 % (797 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (29.2 %)[Flying]  
+Hydro Pump
+Hidden Power
+Scald
+Secret Sword
+# 3 - 7.40 % (317 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (28.7 %)  
+Substitute
+Calm Mind
+Scald
+Secret Sword
+# 4 - 5.00 % (214 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (23.8 %)[Flying]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 5 - 2.94 % (126 battles)
+
+Keldeo @ Choice Scarf Lv. 100 -- Justified
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (21.4 %)[Electric]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 6 - 2.85 % (122 battles)
+
+Keldeo @ Choice Scarf Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (54.1 %)  
+Hydro Pump
+Icy Wind
+Scald
+Secret Sword
+# 7 - 2.47 % (106 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (34.9 %)  
+Hydro Pump
+Surf
+Icy Wind
+Secret Sword
+# 8 - 2.31 % (99 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (27.3 %)[Psychic]  
+Hydro Pump
+Surf
+Hidden Power
+Secret Sword
+# 9 - 1.75 % (75 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (70.7 %)[Ice]  
+Hidden Power
+Calm Mind
+Scald
+Secret Sword
+# 10 - 1.42 % (61 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (57.4 %)  
+Icy Wind
+Taunt
+Scald
+Secret Sword
+# 11 - 1.31 % (56 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (33.9 %)[Flying]  
+Surf
+Icy Wind
+Hidden Power
+Secret Sword
+# 12 - 1.14 % (49 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (24.5 %)[Ghost]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 13 - 1.14 % (49 battles)
+
+Keldeo @ Life Orb Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (49.0 %)[Flying]  
+Hydro Pump
+Hidden Power
+Scald
+Secret Sword
+# 14 - 1.03 % (44 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Scald
+Secret Sword
+# 15 - 1.03 % (44 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (70.5 %)[Ice]  
+Surf
+Hidden Power
+Calm Mind
+Secret Sword
+# 16 - 1.00 % (43 battles)
+
+Keldeo @ Choice Scarf Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (79.1 %)  
+Hydro Pump
+Surf
+Icy Wind
+Secret Sword
+# 17 - 0.98 % (42 battles)
+
+Keldeo @ Choice Specs Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (23.8 %)[Flying]  
+Icy Wind
+Hidden Power
+Scald
+Secret Sword
+# 18 - 0.91 % (39 battles)
+
+Keldeo @ Choice Scarf Lv. 100 -- Justified
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (23.1 %)[Flying]  
+Hydro Pump
+Hidden Power
+Scald
+Secret Sword
+# 19 - 0.86 % (37 battles)
+
+Keldeo @ Expert Belt Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (56.8 %)[Electric]  
+Hydro Pump
+Icy Wind
+Hidden Power
+Secret Sword
+# 20 - 0.79 % (34 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Modest - EVs: 68 Def / 180 SAtk / 28 SDef / 232 Spd (52.9 %)  
+Surf
+Icy Wind
+Calm Mind
+Secret Sword
+# 21 - 0.77 % (33 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (84.8 %)  
+Substitute
+Icy Wind
+Scald
+Secret Sword
+# 22 - 0.72 % (31 battles)
+
+Keldeo @ Expert Belt Lv. 100 -- Justified
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Taunt
+Calm Mind
+Focus Blast
+Scald
+# 23 - 0.70 % (30 battles)
+
+Keldeo @ Expert Belt Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Hydro Pump
+Icy Wind
+Scald
+Secret Sword
+# 24 - 0.68 % (29 battles)
+
+Keldeo @ Leftovers Lv. 100 -- Justified
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (62.1 %)[Grass]  
+Surf
+Icy Wind
+Hidden Power
+Secret Sword
+# 25 - 0.65 % (28 battles)
+
+Keldeo @ Expert Belt Lv. 100 -- Justified
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (82.1 %)[Electric]  
+Surf
+Icy Wind
+Hidden Power
+Secret Sword

@@ -1,0 +1,405 @@
+Dark/-
+95/65/110/60/130/65
+27.0
+87.5/12.5
+
+# 1 - 36.31 % (12754 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (92.6 %) / Inner Focus (7.4 %)
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (10.1 %)  
+Protect
+Heal Bell
+Wish
+Foul Play
+# 2 - 8.71 % (3058 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (85.8 %) / Inner Focus (14.2 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (18.5 %)  
+Toxic
+Protect
+Wish
+Foul Play
+# 3 - 4.28 % (1505 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (40.6 %) / Inner Focus (59.4 %)
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (23.9 %)  
+Toxic
+Heal Bell
+Moonlight
+Foul Play
+# 4 - 3.59 % (1262 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (99.5 %) / Inner Focus (0.5 %)
+Nature: Hardy - EVs: 240 HP / 212 Def / 56 SDef (18.1 %)  
+Toxic
+Heal Bell
+Wish
+Foul Play
+# 5 - 3.06 % (1075 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (47.3 %)  
+Toxic
+Protect
+Heal Bell
+Wish
+# 6 - 2.21 % (775 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (82.6 %) / Inner Focus (17.4 %)
+Nature: Impish - EVs: 4 HP / 252 Def / 252 SDef (42.6 %)  
+Toxic
+Confuse Ray
+Moonlight
+Foul Play
+# 7 - 1.70 % (597 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (79.9 %)  
+Heal Bell
+Baton Pass
+Wish
+Yawn
+# 8 - 1.64 % (575 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Impish - EVs: 4 HP / 252 Def / 252 SDef (34.1 %)  
+Heal Bell
+Wish
+Yawn
+Foul Play
+# 9 - 1.27 % (447 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (92.4 %) / Inner Focus (7.6 %)
+Nature: Impish - EVs: 76 Atk / 252 Def / 180 SDef (21.7 %)  
+Toxic
+Curse
+Moonlight
+Payback
+# 10 - 1.19 % (419 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Impish - EVs: 4 Def / 252 SDef / 252 Spd (45.3 %)  
+Toxic
+Protect
+Wish
+Sucker Punch
+# 11 - 0.95 % (335 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (98.2 %) / Inner Focus (1.8 %)
+Nature: Sassy - EVs: 252 HP / 4 Def / 252 SDef (52.8 %)  
+Curse
+Protect
+Wish
+Payback
+# 12 - 0.90 % (316 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (94.9 %) / Inner Focus (5.1 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (41.1 %)  
+Protect
+Wish
+Yawn
+Foul Play
+# 13 - 0.88 % (308 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Impish - EVs: 248 HP / 252 Def / 8 SDef (47.1 %)  
+Heal Bell
+Taunt
+Wish
+Foul Play
+# 14 - 0.83 % (290 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (90.3 %) / Inner Focus (9.7 %)
+Nature: Sassy - EVs: 4 HP / 252 Def / 252 SDef (49.7 %)  
+Toxic
+Curse
+Wish
+Payback
+# 15 - 0.65 % (228 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (85.5 %) / Inner Focus (14.5 %)
+Nature: Lax - EVs: 4 HP / 252 Def / 252 SDef (22.8 %)  
+Toxic
+Protect
+Moonlight
+Foul Play
+# 16 - 0.64 % (224 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (99.6 %) / Inner Focus (0.4 %)
+Nature: Bold - EVs: 252 HP / 4 Def / 252 SDef (20.1 %)  
+Heal Bell
+Baton Pass
+Wish
+Foul Play
+# 17 - 0.55 % (192 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (87.5 %) / Inner Focus (12.5 %)
+Nature: Jolly - EVs: 44 HP / 252 Def / 92 SDef / 120 Spd (53.1 %)  
+Confuse Ray
+Protect
+Wish
+Foul Play
+# 18 - 0.50 % (175 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Hardy - EVs: 20 HP / 4 Atk / 252 Def / 232 SDef (98.9 %)  
+Moonlight
+Wish
+Yawn
+Sucker Punch
+# 19 - 0.49 % (172 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Bold - EVs: 252 HP / 4 Def / 252 SDef (31.4 %)  
+Confuse Ray
+Heal Bell
+Wish
+Foul Play
+# 20 - 0.48 % (168 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (94.0 %) / Inner Focus (6.0 %)
+Nature: Calm - EVs: 252 HP / 252 Def (60.1 %)  
+Protect
+Heal Bell
+Baton Pass
+Wish
+# 21 - 0.48 % (167 battles)
+
+Umbreon @ Rocky Helmet Lv. 100 -- Synchronize (85.0 %) / Inner Focus (15.0 %)
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (58.1 %)  
+Protect
+Heal Bell
+Wish
+Foul Play
+# 22 - 0.45 % (159 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Toxic
+Moonlight
+Sucker Punch
+Foul Play
+# 23 - 0.43 % (151 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (96.7 %) / Inner Focus (3.3 %)
+Nature: Impish - EVs: 4 Atk / 252 Def / 252 SDef (67.5 %)  
+Toxic
+Curse
+Moonlight
+Foul Play
+# 24 - 0.42 % (146 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Hardy - EVs: 20 HP / 4 Atk / 252 Def / 232 SDef (99.3 %)  
+Heal Bell
+Moonlight
+Yawn
+Sucker Punch
+# 25 - 0.40 % (142 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Adamant - EVs: 124 HP / 252 Atk / 132 SDef (62.0 %)  
+Curse
+Wish
+Payback
+Sucker Punch
+# 1 - 19.57 % (457 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (88.0 %) / Inner Focus (12.0 %)
+Nature: Careful - EVs: 176 HP / 196 Def / 136 SDef (16.2 %)  
+Protect
+Heal Bell
+Wish
+Foul Play
+# 2 - 8.52 % (199 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (74.4 %) / Inner Focus (25.6 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (30.7 %)  
+Toxic
+Protect
+Wish
+Foul Play
+# 3 - 5.01 % (117 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (23.9 %) / Inner Focus (76.1 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (36.8 %)  
+Toxic
+Heal Bell
+Moonlight
+Foul Play
+# 4 - 4.93 % (115 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (45.2 %)  
+Toxic
+Protect
+Heal Bell
+Wish
+# 5 - 3.04 % (71 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Adamant - EVs: 124 HP / 252 Atk / 132 SDef (97.2 %)  
+Curse
+Wish
+Payback
+Sucker Punch
+# 6 - 2.48 % (58 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (94.8 %) / Inner Focus (5.2 %)
+Nature: Impish - EVs: 76 Atk / 252 Def / 180 SDef (34.5 %)  
+Toxic
+Curse
+Moonlight
+Payback
+# 7 - 2.14 % (50 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (90.0 %) / Inner Focus (10.0 %)
+Nature: Careful - EVs: 4 Atk / 252 Def / 252 SDef (36.0 %)  
+Toxic
+Protect
+Moonlight
+Foul Play
+# 8 - 2.10 % (49 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (91.8 %) / Inner Focus (8.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (59.2 %)  
+Toxic
+Curse
+Wish
+Payback
+# 9 - 1.80 % (42 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (97.6 %) / Inner Focus (2.4 %)
+Nature: Adamant - EVs: 252 HP / 136 Def / 120 SDef (35.7 %)  
+Toxic
+Heal Bell
+Wish
+Foul Play
+# 10 - 1.58 % (37 battles)
+
+Umbreon @ Focus Sash Lv. 100 -- Synchronize
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Protect
+Heal Bell
+Wish
+Foul Play
+# 11 - 1.41 % (33 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize (90.9 %) / Inner Focus (9.1 %)
+Nature: Impish - EVs: 96 HP / 212 Def / 200 SDef (30.3 %)  
+Toxic
+Confuse Ray
+Moonlight
+Foul Play
+# 12 - 1.28 % (30 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Hardy - EVs: 236 HP / 20 Def / 252 SDef (46.7 %)  
+Heal Bell
+Taunt
+Wish
+Foul Play
+# 13 - 1.03 % (24 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Impish - EVs: 4 Def / 252 SDef / 252 Spd (79.2 %)  
+Toxic
+Protect
+Wish
+Sucker Punch
+# 14 - 1.03 % (24 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Bold - EVs: 252 HP / 4 Def / 252 SDef (50.0 %)  
+Confuse Ray
+Heal Bell
+Wish
+Foul Play
+# 15 - 0.99 % (23 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Careful - EVs: 252 HP / 252 SDef / 4 Spd (56.5 %)  
+Toxic
+Confuse Ray
+Protect
+Moonlight
+# 16 - 0.99 % (23 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Sassy - EVs: 252 HP / 4 Def / 252 SDef (82.6 %)  
+Curse
+Protect
+Wish
+Payback
+# 17 - 0.90 % (21 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Calm - EVs: 252 HP / 164 Def / 92 SDef (38.1 %)  
+Heal Bell
+Wish
+Yawn
+Foul Play
+# 18 - 0.81 % (19 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Adamant - EVs: 4 Atk / 252 Def / 252 SDef (94.7 %)  
+Toxic
+Substitute
+Wish
+Foul Play
+# 19 - 0.81 % (19 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Impish - EVs: 192 HP / 88 Atk / 88 Def / 140 SDef (100.0 %)  
+Curse
+Baton Pass
+Moonlight
+Sucker Punch
+# 20 - 0.81 % (19 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (89.5 %)  
+Curse
+Baton Pass
+Taunt
+Payback
+# 21 - 0.73 % (17 battles)
+
+Umbreon @ Rocky Helmet Lv. 100 -- Synchronize
+Nature: Relaxed - EVs: 4 HP / 252 Def / 252 SDef (47.1 %)  
+Toxic
+Confuse Ray
+Moonlight
+Foul Play
+# 22 - 0.69 % (16 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Adamant - EVs: 252 Atk / 252 Def (75.0 %)  
+Curse
+Baton Pass
+Wish
+Payback
+# 23 - 0.64 % (15 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (53.3 %)  
+Protect
+Wish
+Yawn
+Foul Play
+# 24 - 0.60 % (14 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Inner Focus
+Nature: Relaxed - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Protect
+Moonlight
+Shadow Ball
+# 25 - 0.60 % (14 battles)
+
+Umbreon @ Leftovers Lv. 100 -- Synchronize
+Nature: Hardy - EVs: 20 HP / 4 Atk / 252 Def / 232 SDef (100.0 %)  
+Moonlight
+Wish
+Yawn
+Sucker Punch

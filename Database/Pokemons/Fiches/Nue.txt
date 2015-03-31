@@ -1,0 +1,125 @@
+Dark/Flying
+150/95/90/120/90/135
+70.0
+0/100
+
+# 1 - 4 % (0 battle)
+
+Nue Houjuu @ Choice Scarf Lv.100 -- Imposter
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd
+Roost
+UFO Invasion
+Oblivion Wing
+Defog
+# 2 - 4 % (0 battle)
+
+Nue Houjuu @ Life Orb Lv.100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SpA / 252 Spd
+UFO Invasion
+Oblivion Wing
+Nasty plot
+Substitute
+# 3 - 4 % (0 battle)
+
+Nue Houjuu @ Life Orb Lv.100 -- Protean
+Nature: Timide - EVs: 4 HP / 252 SpA / 252 Spd
+UFO Invasion
+Oblivion Wing
+Nasty plot
+Roost
+# 4 - 4 % (0 battle)
+
+Nue Houjuu @ Life Orb Lv.100 -- Protean
+Nature: Timide - EVs: 4 HP / 252 SpA / 252 Spd [Fighting]
+UFO Invasion
+Oblivion Wing
+Nasty plot
+Hidden Power
+# 5 - 4 % (0 battle)
+
+Nue Houjuu @ Leftovers Lv.100 -- Protean
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef
+Oblivion Wing
+Roost
+Nasty plot
+Substitute
+# 6 - 4 % (0 battle)
+
+Nue Houjuu @ Choice Specs Lv.100 -- Protean
+Nature: Timide - EVs: 4 HP / 252 SpA / 252 Spd [Fighting]
+UFO Invasion
+Oblivion Wing
+Shadow Ball
+Hidden Power
+# 7 - 4 % (0 battle)
+
+Nue Houjuu @ Choice Scarf Lv.100 -- Protean
+Nature: Timide - EVs: 4 HP / 252 SpA / 252 Spd [Fighting]
+UFO Invasion
+Oblivion Wing
+Shadow Ball
+Hidden Power
+# 8 - 4 % (0 battle)
+
+Nue Houjuu @ Leftovers Lv.100 -- Protean
+Nature: Timide - EVs: 4 HP / 252 SpA / 252 Spd
+UFO Invasion
+Oblivion Wing
+Nasty plot
+Substitute
+# 9 - 4 % (0 battle)
+
+Nue Houjuu @ Leftovers Lv.100 -- Protean
+Nature: Bold - EVs: 252 HP / 4 Def / 252 Spd
+Spike
+Oblivion Wing
+Defog
+Taunt
+# 10 - 4 % (0 battle)
+
+Nue Houjuu @ Leftovers Lv.100 -- Imposter
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd
+Roost
+UFO Invasion
+Oblivion Wing
+Defog
+# 11 - 4 % (0 battle)
+
+Nue Houjuu @ Choice Scarf Lv.100 -- Imposter
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd
+Roost
+Spikes
+Oblivion Wing
+Defog
+# 12 - 4 % (0 battle)
+
+Nue Houjuu @ Weakness Policy Lv.100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SpA / 252 Spd [Fighting]
+UFO Invasion
+Oblivion Wing
+Hidden Power
+Substitute
+# 13 - 4 % (0 battle)
+
+Nue Houjuu @ Life Orb Lv.100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SpA / 252 Spd [Fighting]
+Shadow Ball
+Oblivion Wing
+Nasty plot
+Hidden Power
+# 14 - 4 % (0 battle)
+
+Nue Houjuu @ Life Orb Lv.100 -- Protean
+Nature: Timid - EVs: 4 HP / 252 SpA / 252 Spd
+UFO Invasion
+Oblivion Wing
+Nasty plot
+Moon Blast
+# 15 - 4 % (0 battle)
+
+Nue Houjuu @ Weakness Policy Lv.100 -- Protean
+Nature: Naive - EVs: 4 HP / 252 SpA / 252 Spd
+Knock Off
+Oblivion Wing
+Nasty plot
+Moon Blast

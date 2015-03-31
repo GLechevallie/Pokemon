@@ -1,0 +1,4 @@
+Rock/Flying
+80/135/85/70/95/150
+Tough Claws
+79.0

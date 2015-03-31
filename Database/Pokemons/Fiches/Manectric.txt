@@ -1,0 +1,405 @@
+Electric/-
+70/75/60/105/60/105
+40.2
+50/50
+
+# 1 - 55.66 % (14054 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (14.8 %) / Lightningrod (85.1 %) / Minus (0.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (37.4 %)[Ice]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Volt Switch
+# 2 - 9.98 % (2519 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (14.4 %) / Lightningrod (85.4 %) / Minus (0.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.4 %)[Ice]  
+Thunderbolt
+Hidden Power
+Overheat
+Volt Switch
+# 3 - 2.65 % (669 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (21.4 %) / Lightningrod (78.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (42.2 %)[Ice]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Signal Beam
+# 4 - 2.31 % (583 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (7.7 %) / Lightningrod (92.3 %)
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (35.0 %)[Ice]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Charge Beam
+# 5 - 2.00 % (505 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (14.3 %) / Lightningrod (85.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (27.3 %)[Ice]  
+Flamethrower
+Thunder
+Hidden Power
+Volt Switch
+# 6 - 1.84 % (464 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (36.2 %) / Lightningrod (63.6 %) / Minus (0.2 %)
+Nature: Hardy - EVs: 252 SAtk / 252 Spd (19.8 %)[Ice]  
+Flamethrower
+Hidden Power
+Signal Beam
+Volt Switch
+# 7 - 1.72 % (435 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (10.1 %) / Lightningrod (89.9 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (40.0 %)[Ice]  
+Thunder
+Hidden Power
+Overheat
+Volt Switch
+# 8 - 1.20 % (302 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (37.4 %) / Lightningrod (62.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (33.8 %)  
+Flamethrower
+Thunderbolt
+Signal Beam
+Volt Switch
+# 9 - 1.00 % (253 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (11.9 %) / Lightningrod (88.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.9 %)[Ice]  
+Flamethrower
+Protect
+Hidden Power
+Volt Switch
+# 10 - 0.86 % (217 battles)
+
+Manectric @ Leftovers Lv. 100 -- Static
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Ice Fang
+Volt Switch
+# 11 - 0.52 % (132 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (1.5 %) / Lightningrod (98.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (92.4 %)[Ice]  
+Flamethrower
+Thunderbolt
+Protect
+Hidden Power
+# 12 - 0.50 % (127 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (7.9 %) / Lightningrod (92.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (70.9 %)  
+Thunderbolt
+Overheat
+Signal Beam
+Volt Switch
+# 13 - 0.45 % (113 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (32.7 %) / Lightningrod (67.3 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (25.7 %)[Ice]  
+Flamethrower
+Hidden Power
+Discharge
+Volt Switch
+# 14 - 0.39 % (99 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Protect
+Snarl
+# 15 - 0.39 % (99 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (34.3 %) / Lightningrod (65.7 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (50.5 %)[Ice]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Electric Terrain
+# 16 - 0.39 % (98 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (15.3 %) / Lightningrod (84.7 %)
+Nature: Modest - EVs: 136 HP / 252 SAtk / 120 Spd (45.9 %)[Ice]  
+Flamethrower
+Thunderbolt
+Substitute
+Hidden Power
+# 17 - 0.38 % (97 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Light Screen
+Hidden Power
+Overheat
+Volt Switch
+# 18 - 0.38 % (95 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (36.8 %) / Lightningrod (63.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (51.6 %)[Ice]  
+Flamethrower
+Thunderbolt
+Thunder Wave
+Hidden Power
+# 19 - 0.37 % (94 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (21.3 %) / Lightningrod (78.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (34.0 %)  
+Flamethrower
+Thunderbolt
+Light Screen
+Volt Switch
+# 20 - 0.37 % (94 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (92.6 %) / Lightningrod (7.4 %)
+Nature: Modest - EVs: 84 HP / 200 SAtk / 224 Spd (90.4 %)  
+Flamethrower
+Thunderbolt
+Magnet Rise
+Volt Switch
+# 21 - 0.37 % (93 battles)
+
+Manectric @ Choice Scarf Lv. 100 -- Static (3.2 %) / Lightningrod (96.8 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (60.2 %)[Ice]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Volt Switch
+# 22 - 0.37 % (93 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (10.8 %) / Lightningrod (89.2 %)
+Nature: Jolly - EVs: 4 Def / 252 SAtk / 252 Spd (75.3 %)[Ice]  
+Thunder
+Protect
+Hidden Power
+Volt Switch
+# 23 - 0.36 % (91 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (22.0 %) / Lightningrod (75.8 %) / Minus (2.2 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (33.0 %)[Ice]  
+Roar
+Flamethrower
+Hidden Power
+Volt Switch
+# 24 - 0.35 % (88 battles)
+
+Manectric @ Wise Glasses Lv. 100 -- Static
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Thunder Wave
+Signal Beam
+Discharge
+# 25 - 0.34 % (86 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (40.7 %) / Lightningrod (59.3 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (36.0 %)[Ice]  
+Flamethrower
+Thunder Wave
+Hidden Power
+Volt Switch
+# 1 - 55.67 % (4284 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (12.5 %) / Lightningrod (87.4 %) / Minus (0.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (26.8 %)[Ice]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Volt Switch
+# 2 - 18.31 % (1409 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (8.6 %) / Lightningrod (91.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.6 %)[Ice]  
+Thunderbolt
+Hidden Power
+Overheat
+Volt Switch
+# 3 - 2.24 % (172 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (22.1 %) / Lightningrod (77.9 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (50.6 %)[Ice]  
+Thunder
+Hidden Power
+Overheat
+Volt Switch
+# 4 - 1.44 % (111 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (2.7 %) / Lightningrod (97.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (36.9 %)[Ice]  
+Flamethrower
+Protect
+Hidden Power
+Volt Switch
+# 5 - 1.27 % (98 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (18.4 %) / Lightningrod (80.6 %) / Minus (1.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.4 %)[Psychic]  
+Flamethrower
+Hidden Power
+Signal Beam
+Volt Switch
+# 6 - 0.96 % (74 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 36 Def / 216 SAtk / 56 SDef / 200 Spd (59.5 %)[Ice]  
+Flamethrower
+Hidden Power
+Volt Switch
+Snarl
+# 7 - 0.92 % (71 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (38.0 %)[Ice]  
+Flamethrower
+Thunder
+Hidden Power
+Volt Switch
+# 8 - 0.88 % (68 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (22.1 %) / Lightningrod (76.5 %) / Minus (1.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (55.9 %)[Ice]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Signal Beam
+# 9 - 0.87 % (67 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (49.3 %) / Lightningrod (50.7 %)
+Nature: Modest - EVs: 80 HP / 176 SAtk / 252 Spd (31.3 %)  
+Flamethrower
+Thunderbolt
+Signal Beam
+Volt Switch
+# 10 - 0.79 % (61 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (3.3 %) / Lightningrod (96.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (65.6 %)[Grass]  
+Flamethrower
+Thunderbolt
+Hidden Power
+Charge Beam
+# 11 - 0.66 % (51 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (21.6 %) / Lightningrod (78.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (64.7 %)[Ice]  
+Flamethrower
+Substitute
+Hidden Power
+Volt Switch
+# 12 - 0.56 % (43 battles)
+
+Manectric @ Choice Scarf Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 252 SAtk / 252 Spd (53.5 %)[Ice]  
+Hidden Power
+Overheat
+Switcheroo
+Volt Switch
+# 13 - 0.56 % (43 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Protect
+Snarl
+# 14 - 0.43 % (33 battles)
+
+Manectric @ Choice Specs Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Hidden Power
+Overheat
+Switcheroo
+Volt Switch
+# 15 - 0.43 % (33 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (18.2 %) / Lightningrod (81.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (97.0 %)  
+Flamethrower
+Thunderbolt
+Ice Fang
+Volt Switch
+# 16 - 0.42 % (32 battles)
+
+Manectric @ Manectite Lv. 100 -- Static
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (96.9 %)[Dragon]  
+Thunderbolt
+Hidden Power
+Overheat
+Signal Beam
+# 17 - 0.42 % (32 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (6.2 %) / Lightningrod (93.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Thunderbolt
+Overheat
+Signal Beam
+Volt Switch
+# 18 - 0.39 % (30 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (93.3 %)  
+Thunderbolt
+Quick Attack
+Overheat
+Volt Switch
+# 19 - 0.36 % (28 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (7.1 %) / Lightningrod (92.9 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (92.9 %)[Ice]  
+Flamethrower
+Hidden Power
+Overheat
+Volt Switch
+# 20 - 0.34 % (26 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Hidden Power
+Overheat
+Charge Beam
+Volt Switch
+# 21 - 0.32 % (25 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (84.0 %)  
+Flamethrower
+Thunderbolt
+Light Screen
+Volt Switch
+# 22 - 0.31 % (24 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (66.7 %) / Lightningrod (33.3 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (54.2 %)[Ice]  
+Flamethrower
+Hidden Power
+Discharge
+Volt Switch
+# 23 - 0.29 % (22 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (54.5 %) / Lightningrod (45.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)[Ice]  
+Flamethrower
+Thunderbolt
+Thunder Wave
+Hidden Power
+# 24 - 0.29 % (22 battles)
+
+Manectric @ Manectite Lv. 100 -- Static (18.2 %) / Lightningrod (81.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (59.1 %)[Ice]  
+Flamethrower
+Thunder Wave
+Hidden Power
+Volt Switch
+# 25 - 0.29 % (22 battles)
+
+Manectric @ Manectite Lv. 100 -- Lightningrod
+Nature: Timid - EVs: 4 Atk / 252 SAtk / 252 Spd (50.0 %)  
+Thunderbolt
+Overheat
+Volt Switch
+Snarl

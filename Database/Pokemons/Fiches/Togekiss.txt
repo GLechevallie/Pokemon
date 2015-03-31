@@ -1,0 +1,405 @@
+Fairy/Flying
+85/50/95/120/115/80
+38.0
+87.5/12.5
+
+# 1 - 4.29 % (2158 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Hustle (0.3 %) / Serene Grace (98.9 %) / Super Luck (0.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.5 %)  
+Flamethrower
+Aura Sphere
+Air Slash
+Dazzling Gleam
+# 2 - 4.19 % (2107 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (6.6 %) / Serene Grace (91.2 %) / Super Luck (2.2 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (11.5 %)  
+Thunder Wave
+Roost
+Air Slash
+Dazzling Gleam
+# 3 - 4.17 % (2094 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (5.8 %) / Serene Grace (90.1 %) / Super Luck (4.1 %)
+Nature: Modest - EVs: 116 Def / 252 SAtk / 88 SDef / 52 Spd (38.4 %)  
+Thunder Wave
+Roost
+Aura Sphere
+Air Slash
+# 4 - 3.43 % (1723 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (0.3 %) / Serene Grace (99.7 %)
+Nature: Calm - EVs: 232 HP / 216 SDef / 60 Spd (20.0 %)  
+Thunder Wave
+Roost
+Air Slash
+Nasty Plot
+# 5 - 2.84 % (1427 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (1.8 %) / Serene Grace (98.2 %)
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (11.8 %)  
+Thunder Wave
+Roost
+Air Slash
+Defog
+# 6 - 2.45 % (1232 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (1.5 %) / Serene Grace (97.2 %) / Super Luck (1.4 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (11.8 %)  
+Thunder Wave
+Heal Bell
+Roost
+Air Slash
+# 7 - 2.05 % (1029 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (6.2 %) / Serene Grace (84.4 %) / Super Luck (9.4 %)
+Nature: Modest - EVs: 252 HP / 164 Def / 92 SAtk (17.3 %)  
+Flamethrower
+Thunder Wave
+Roost
+Air Slash
+# 8 - 1.91 % (961 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Bold - EVs: 252 HP / 252 Def (34.2 %)  
+Thunder Wave
+Heal Bell
+Air Slash
+Defog
+# 9 - 1.60 % (806 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (76.6 %)[Ice]  
+Flamethrower
+Hidden Power
+Air Slash
+Dazzling Gleam
+# 10 - 1.60 % (805 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (5.0 %) / Serene Grace (92.2 %) / Super Luck (2.9 %)
+Nature: Timid - EVs: 160 Def / 96 SAtk / 252 Spd (27.1 %)  
+Flamethrower
+Thunder Wave
+Air Slash
+Dazzling Gleam
+# 11 - 1.25 % (627 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (0.6 %) / Serene Grace (99.4 %)
+Nature: Bold - EVs: 128 Def / 252 SAtk / 128 SDef (47.8 %)  
+Thunder Wave
+Air Slash
+Defog
+Dazzling Gleam
+# 12 - 1.15 % (579 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace (72.9 %) / Super Luck (27.1 %)
+Nature: Calm - EVs: 252 Def / 252 SDef (54.2 %)  
+Thunder Wave
+Protect
+Wish
+Air Slash
+# 13 - 1.11 % (558 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Hustle (0.4 %) / Serene Grace (97.1 %) / Super Luck (2.5 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (23.8 %)  
+Flamethrower
+Trick
+Air Slash
+Dazzling Gleam
+# 14 - 0.88 % (442 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (1.4 %) / Serene Grace (83.7 %) / Super Luck (14.9 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (26.0 %)  
+Roost
+Air Slash
+Nasty Plot
+Dazzling Gleam
+# 15 - 0.87 % (439 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 172 HP / 252 SAtk / 4 SDef / 80 Spd (98.2 %)  
+Thunder Wave
+Substitute
+Air Slash
+Defog
+# 16 - 0.86 % (431 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (3.9 %) / Serene Grace (77.0 %) / Super Luck (19.0 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (30.2 %)  
+Flamethrower
+Thunder Wave
+Aura Sphere
+Air Slash
+# 17 - 0.80 % (403 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace (99.5 %) / Super Luck (0.5 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (21.8 %)  
+Thunder Wave
+Fire Blast
+Roost
+Air Slash
+# 18 - 0.79 % (399 battles)
+
+Togekiss @ King's Rock Lv. 100 -- Hustle (1.5 %) / Serene Grace (95.0 %) / Super Luck (3.5 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (14.8 %)  
+Thunder Wave
+Roost
+Air Slash
+Dazzling Gleam
+# 19 - 0.76 % (384 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 252 HP / 136 Def / 104 SDef / 16 Spd (33.3 %)  
+Heal Bell
+Roost
+Air Slash
+Defog
+# 20 - 0.76 % (382 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Sassy - EVs: 164 Def / 136 SAtk / 208 SDef (100.0 %)  
+Psycho Shift
+Air Slash
+Nasty Plot
+Dazzling Gleam
+# 21 - 0.72 % (364 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (7.7 %) / Serene Grace (87.6 %) / Super Luck (4.7 %)
+Nature: Modest - EVs: 116 HP / 4 Def / 172 SAtk / 216 Spd (50.5 %)  
+Thunder Wave
+Aura Sphere
+Air Slash
+Dazzling Gleam
+# 22 - 0.66 % (330 battles)
+
+Togekiss @ King's Rock Lv. 100 -- Hustle (31.5 %) / Serene Grace (64.8 %) / Super Luck (3.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (58.8 %)  
+Thunder Wave
+Aura Sphere
+Air Slash
+Dazzling Gleam
+# 23 - 0.63 % (315 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Hustle (0.3 %) / Serene Grace (99.7 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (16.8 %)  
+Fire Blast
+Aura Sphere
+Air Slash
+Dazzling Gleam
+# 24 - 0.61 % (309 battles)
+
+Togekiss @ King's Rock Lv. 100 -- Hustle (1.0 %) / Serene Grace (99.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.7 %)  
+Thunder Wave
+Roost
+Aura Sphere
+Air Slash
+# 25 - 0.59 % (299 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Bold - EVs: 252 Def / 4 SAtk / 252 SDef (75.9 %)  
+Thunder Wave
+Substitute
+Baton Pass
+Air Slash
+# 1 - 5.04 % (275 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (36.4 %)  
+Flamethrower
+Aura Sphere
+Air Slash
+Dazzling Gleam
+# 2 - 3.76 % (205 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (20.0 %) / Serene Grace (69.3 %) / Super Luck (10.7 %)
+Nature: Lonely - EVs: 84 HP / 48 Atk / 92 Def / 120 SAtk / 112 SDef / 52 Spd (18.5 %)  
+Flamethrower
+Thunder Wave
+Roost
+Air Slash
+# 3 - 2.99 % (163 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (1.8 %) / Serene Grace (88.3 %) / Super Luck (9.8 %)
+Nature: Modest - EVs: 116 Def / 252 SAtk / 88 SDef / 52 Spd (44.2 %)  
+Thunder Wave
+Roost
+Aura Sphere
+Air Slash
+# 4 - 2.68 % (146 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (5.5 %) / Serene Grace (93.8 %) / Super Luck (0.7 %)
+Nature: Modest - EVs: 252 HP / 252 Spd (17.8 %)  
+Thunder Wave
+Roost
+Air Slash
+Dazzling Gleam
+# 5 - 2.60 % (142 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace (97.9 %) / Super Luck (2.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (97.9 %)  
+Flamethrower
+Ancient Power
+Air Slash
+Dazzling Gleam
+# 6 - 2.33 % (127 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Hustle (0.8 %) / Serene Grace (69.3 %) / Super Luck (29.9 %)
+Nature: Timid - EVs: 244 HP / 72 SAtk / 192 Spd (40.9 %)  
+Flamethrower
+Trick
+Air Slash
+Dazzling Gleam
+# 7 - 2.05 % (112 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (93.8 %)  
+Flamethrower
+Heal Bell
+Air Slash
+Defog
+# 8 - 1.94 % (106 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunder Wave
+Baton Pass
+Ancient Power
+Air Slash
+# 9 - 1.92 % (105 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (1.0 %) / Serene Grace (99.0 %)
+Nature: Bold - EVs: 248 HP / 216 Def / 44 Spd (24.8 %)  
+Thunder Wave
+Roost
+Air Slash
+Nasty Plot
+# 10 - 1.78 % (97 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (1.0 %) / Serene Grace (97.9 %) / Super Luck (1.0 %)
+Nature: Modest - EVs: 252 HP / 252 Spd (34.0 %)  
+Thunder Wave
+Heal Bell
+Roost
+Air Slash
+# 11 - 1.72 % (94 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (4.3 %) / Serene Grace (95.7 %)
+Nature: Calm - EVs: 248 HP / 216 SDef / 44 Spd (13.8 %)  
+Thunder Wave
+Roost
+Air Slash
+Defog
+# 12 - 1.45 % (79 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Hustle (1.3 %) / Serene Grace (91.1 %) / Super Luck (7.6 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (36.7 %)  
+Flamethrower
+Thunder Wave
+Air Slash
+Dazzling Gleam
+# 13 - 1.41 % (77 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (39.0 %)  
+Thunder Wave
+Fire Blast
+Roost
+Air Slash
+# 14 - 1.39 % (76 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (42.1 %)  
+Flamethrower
+Trick
+Air Slash
+Defog
+# 15 - 1.30 % (71 battles)
+
+Togekiss @ Yache Berry Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 252 SAtk / 252 SDef (100.0 %)  
+Fire Blast
+Roost
+Aura Sphere
+Air Slash
+# 16 - 1.26 % (69 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (79.7 %)  
+Flamethrower
+Trick
+Water Pulse
+Air Slash
+# 17 - 1.03 % (56 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (62.5 %)  
+Baton Pass
+Aura Sphere
+Nasty Plot
+Dazzling Gleam
+# 18 - 0.95 % (52 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Modest - EVs: 252 SAtk / 252 Spd (53.8 %)  
+Thunder Wave
+Trick
+Roost
+Air Slash
+# 19 - 0.92 % (50 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace (96.0 %) / Super Luck (4.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (56.0 %)  
+Thunder Wave
+Air Slash
+Nasty Plot
+Dazzling Gleam
+# 20 - 0.92 % (50 battles)
+
+Togekiss @ Assault Vest Lv. 100 -- Hustle (2.0 %) / Serene Grace (98.0 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (92.0 %)  
+Flamethrower
+Ancient Power
+Air Slash
+Dazzling Gleam
+# 21 - 0.82 % (45 battles)
+
+Togekiss @ Leftovers Lv. 100 -- Serene Grace
+Nature: Calm - EVs: 64 Def / 136 SAtk / 252 SDef / 56 Spd (40.0 %)  
+Thunder Wave
+Heal Bell
+Air Slash
+Defog
+# 22 - 0.79 % (43 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.2 %)  
+Fire Blast
+Aura Sphere
+Air Slash
+Dazzling Gleam
+# 23 - 0.75 % (41 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Hustle (22.0 %) / Serene Grace (78.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (58.5 %)  
+Fire Blast
+Trick
+Air Slash
+Dazzling Gleam
+# 24 - 0.73 % (40 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Timid - EVs: 252 SAtk / 252 Spd (27.5 %)  
+Flamethrower
+Aura Sphere
+Air Slash
+Defog
+# 25 - 0.71 % (39 battles)
+
+Togekiss @ Choice Scarf Lv. 100 -- Serene Grace
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Thunder Wave
+Aura Sphere
+Air Slash
+Nasty Plot

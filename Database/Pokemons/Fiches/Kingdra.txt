@@ -1,0 +1,405 @@
+Water/Dragon
+75/95/95/95/95/85
+152.0
+50/50
+
+# 1 - 4.53 % (172 battles)
+
+Kingdra @ Chesto Berry Lv. 100 -- Swift Swim (43.0 %) / Sniper (57.0 %)
+Nature: Adamant - EVs: 168 HP / 160 Atk / 180 Spd (42.4 %)  
+Waterfall
+Rest
+Outrage
+Dragon Dance
+# 2 - 4.01 % (152 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Surf
+Signal Beam
+Draco Meteor
+Iron Head
+# 3 - 3.22 % (122 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Swift Swim (1.6 %) / Sniper (98.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (62.3 %)  
+Surf
+Ice Beam
+Focus Energy
+Draco Meteor
+# 4 - 3.08 % (117 battles)
+
+Kingdra @ Lum Berry Lv. 100 -- Swift Swim (86.3 %) / Sniper (13.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.8 %)  
+Waterfall
+Outrage
+Dragon Dance
+Iron Head
+# 5 - 2.79 % (106 battles)
+
+Kingdra @ Leftovers Lv. 100 -- Swift Swim (99.1 %) / Sniper (0.9 %)
+Nature: Adamant - EVs: 36 HP / 252 Atk / 220 Spd (85.8 %)  
+Waterfall
+Substitute
+Outrage
+Dragon Dance
+# 6 - 2.72 % (103 battles)
+
+Kingdra @ Leftovers Lv. 100 -- Swift Swim (22.3 %) / Sniper (77.7 %)
+Nature: Timid - EVs: 228 HP / 252 Atk / 28 Spd (53.4 %)  
+Waterfall
+Outrage
+Dragon Dance
+Iron Head
+# 7 - 2.64 % (100 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (59.0 %)  
+Hydro Pump
+Agility
+Focus Energy
+Draco Meteor
+# 8 - 2.29 % (87 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Swift Swim (2.3 %) / Sniper (97.7 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (85.1 %)  
+Ice Beam
+Focus Energy
+Draco Meteor
+Scald
+# 9 - 1.74 % (66 battles)
+
+Kingdra @ Razor Claw Lv. 100 -- Sniper
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (53.0 %)  
+Surf
+Focus Energy
+Flash Cannon
+Draco Meteor
+# 10 - 1.69 % (64 battles)
+
+Kingdra @ Choice Specs Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (60.9 %)  
+Surf
+Ice Beam
+Flash Cannon
+Draco Meteor
+# 11 - 1.61 % (61 battles)
+
+Kingdra @ Choice Specs Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (49.2 %)  
+Hydro Pump
+Surf
+Ice Beam
+Dragon Pulse
+# 12 - 1.61 % (61 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Timid - EVs: 64 Def / 124 SAtk / 68 SDef / 252 Spd (29.5 %)[Poison]  
+Hydro Pump
+Focus Energy
+Hidden Power
+Draco Meteor
+# 13 - 1.56 % (59 battles)
+
+Kingdra @ Leftovers Lv. 100 -- Sniper
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Agility
+Dragon Pulse
+# 14 - 1.53 % (58 battles)
+
+Kingdra @ Choice Specs Lv. 100 -- Swift Swim (98.3 %) / Sniper (1.7 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (51.7 %)  
+Hydro Pump
+Surf
+Dragon Pulse
+Draco Meteor
+# 15 - 1.45 % (55 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Naive - EVs: 252 Atk / 252 Spd (76.4 %)  
+Body Slam
+Toxic
+Waterfall
+Iron Head
+# 16 - 1.42 % (54 battles)
+
+Kingdra @ Life Orb Lv. 100 -- Swift Swim (61.1 %) / Sniper (38.9 %)
+Nature: Jolly - EVs: 40 HP / 216 Atk / 252 Spd (25.9 %)  
+Waterfall
+Outrage
+Dragon Dance
+Iron Head
+# 17 - 1.42 % (54 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Draco Meteor
+Iron Head
+# 18 - 1.11 % (42 battles)
+
+Kingdra @ Metronome Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 88 HP / 252 SAtk / 168 Spd (76.2 %)  
+Surf
+Ice Beam
+Rain Dance
+Draco Meteor
+# 19 - 1.08 % (41 battles)
+
+Kingdra @ Choice Specs Lv. 100 -- Swift Swim
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (92.7 %)[Electric]  
+Surf
+Ice Beam
+Hidden Power
+Draco Meteor
+# 20 - 1.08 % (41 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Surf
+Signal Beam
+Flash Cannon
+Draco Meteor
+# 21 - 1.00 % (38 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Surf
+Ice Beam
+Signal Beam
+Draco Meteor
+# 22 - 1.00 % (38 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Swift Swim (73.7 %) / Sniper (26.3 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (68.4 %)  
+Waterfall
+Outrage
+Dragon Dance
+Iron Head
+# 23 - 1.00 % (38 battles)
+
+Kingdra @ Razor Claw Lv. 100 -- Sniper
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Focus Energy
+Draco Meteor
+Scald
+# 24 - 0.98 % (37 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Hasty - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Outrage
+Dragon Dance
+Clear Smog
+# 25 - 0.98 % (37 battles)
+
+Kingdra @ Razor Claw Lv. 100 -- Sniper
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Focus Energy
+Icy Wind
+Draco Meteor
+Scald
+# 1 - 6.31 % (21 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (90.5 %)  
+Surf
+Ice Beam
+Focus Energy
+Draco Meteor
+# 2 - 5.71 % (19 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Naive - EVs: 252 Atk / 252 Spd (78.9 %)  
+Body Slam
+Toxic
+Waterfall
+Iron Head
+# 3 - 5.71 % (19 battles)
+
+Kingdra @ Chesto Berry Lv. 100 -- Swift Swim (21.1 %) / Sniper (78.9 %)
+Nature: Adamant - EVs: 168 HP / 160 Atk / 180 Spd (78.9 %)  
+Waterfall
+Rest
+Outrage
+Dragon Dance
+# 4 - 5.11 % (17 battles)
+
+Kingdra @ Damp Rock Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 252 Def / 4 SAtk / 252 SDef (76.5 %)  
+Hydro Pump
+Ice Beam
+Rain Dance
+Dragon Pulse
+# 5 - 3.90 % (13 battles)
+
+Kingdra @ Leftovers Lv. 100 -- Sniper
+Nature: Adamant - EVs: 80 HP / 252 Atk / 176 Spd (100.0 %)  
+Focus Energy
+Waterfall
+Outrage
+Dragon Dance
+# 6 - 3.60 % (12 battles)
+
+Kingdra @ Damp Rock Lv. 100 -- Swift Swim
+Nature: Timid - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Hydro Pump
+Blizzard
+Rain Dance
+Draco Meteor
+# 7 - 3.60 % (12 battles)
+
+Kingdra @ Damp Rock Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 0 (100.0 %)  
+Waterfall
+Outrage
+Rain Dance
+Clear Smog
+# 8 - 3.60 % (12 battles)
+
+Kingdra @ Razor Claw Lv. 100 -- Sniper
+Nature: Jolly - EVs: 104 HP / 216 Atk / 188 Spd (100.0 %)  
+Focus Energy
+Outrage
+Dragon Dance
+Iron Head
+# 9 - 3.30 % (11 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (63.6 %)  
+Surf
+Focus Energy
+Flash Cannon
+Draco Meteor
+# 10 - 2.70 % (9 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Hasty - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Outrage
+Dragon Dance
+Clear Smog
+# 11 - 2.70 % (9 battles)
+
+Kingdra @ Lum Berry Lv. 100 -- Swift Swim
+Nature: Modest - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Hydro Pump
+Ice Beam
+Rain Dance
+Dragon Pulse
+# 12 - 2.40 % (8 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Surf
+Signal Beam
+Draco Meteor
+Iron Head
+# 13 - 2.40 % (8 battles)
+
+Kingdra @ Eject Button Lv. 100 -- Sniper
+Nature: Jolly - EVs: 124 Def / 124 SDef / 252 Spd (75.0 %)  
+Waterfall
+Outrage
+Yawn
+Dragon Dance
+# 14 - 2.10 % (7 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 12 HP / 252 SAtk / 244 Spd (100.0 %)[Fire]  
+Surf
+Focus Energy
+Hidden Power
+Draco Meteor
+# 15 - 2.10 % (7 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Swift Swim (14.3 %) / Sniper (85.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (57.1 %)  
+Ice Beam
+Focus Energy
+Draco Meteor
+Scald
+# 16 - 2.10 % (7 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Jolly - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Focus Energy
+Signal Beam
+Dragon Pulse
+Scald
+# 17 - 2.10 % (7 battles)
+
+Kingdra @ Lum Berry Lv. 100 -- Swift Swim (71.4 %) / Sniper (28.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.6 %)  
+Waterfall
+Outrage
+Dragon Dance
+Iron Head
+# 18 - 1.80 % (6 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (83.3 %)  
+Hydro Pump
+Agility
+Focus Energy
+Draco Meteor
+# 19 - 1.50 % (5 battles)
+
+Kingdra @ Focus Sash Lv. 100 -- Swift Swim
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Outrage
+Yawn
+Dragon Dance
+# 20 - 1.50 % (5 battles)
+
+Kingdra @ Lum Berry Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 48 HP / 252 Atk / 208 Spd (100.0 %)  
+Waterfall
+Substitute
+Outrage
+Dragon Dance
+# 21 - 1.20 % (4 battles)
+
+Kingdra @ Leftovers Lv. 100 -- Sniper
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Hydro Pump
+Ice Beam
+Signal Beam
+Draco Meteor
+# 22 - 1.20 % (4 battles)
+
+Kingdra @ Leftovers Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 36 HP / 252 Atk / 220 Spd (100.0 %)  
+Waterfall
+Substitute
+Outrage
+Dragon Dance
+# 23 - 1.20 % (4 battles)
+
+Kingdra @ Life Orb Lv. 100 -- Swift Swim (75.0 %) / Sniper (25.0 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Waterfall
+Outrage
+Dragon Dance
+Iron Head
+# 24 - 1.20 % (4 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 172 HP / 252 SAtk / 84 Spd (75.0 %)  
+Surf
+Agility
+Focus Energy
+Dragon Pulse
+# 25 - 1.20 % (4 battles)
+
+Kingdra @ Scope Lens Lv. 100 -- Sniper
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Agility
+Focus Energy
+Draco Meteor

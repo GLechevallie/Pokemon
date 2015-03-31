@@ -1,0 +1,405 @@
+Dark/Psychic
+86/92/88/68/75/73
+47.0
+50/50
+
+# 1 - 16.89 % (116 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (44.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Topsy-Turvy
+# 2 - 14.41 % (99 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Jolly - EVs: 100 HP / 156 Atk / 252 Spd (97.0 %)  
+Taunt
+Superpower
+Night Slash
+Psycho Cut
+# 3 - 11.64 % (80 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (40.0 %)  
+Superpower
+Night Slash
+Switcheroo
+Psycho Cut
+# 4 - 9.17 % (63 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 Atk / 252 Spd (84.1 %)  
+Rock Slide
+Superpower
+Night Slash
+Psycho Cut
+# 5 - 6.84 % (47 battles)
+
+Malamar @ Assault Vest Lv. 100 -- Contrary
+Nature: Adamant - EVs: 160 HP / 252 Atk / 96 SDef (66.0 %)  
+Rock Slide
+Superpower
+Night Slash
+Psycho Cut
+# 6 - 6.55 % (45 battles)
+
+Malamar @ Chesto Berry Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Rest
+Superpower
+Night Slash
+Psycho Cut
+# 7 - 4.08 % (28 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (67.9 %)  
+Substitute
+Superpower
+Night Slash
+Psycho Cut
+# 8 - 2.33 % (16 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Rock Slide
+Superpower
+Night Slash
+Psycho Cut
+# 9 - 2.33 % (16 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Brave - EVs: 252 Atk / 4 Def / 252 SDef (62.5 %)  
+Superpower
+Night Slash
+Psycho Cut
+Trick Room
+# 10 - 1.89 % (13 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Brave - EVs: 252 HP / 252 Atk (100.0 %)  
+Superpower
+Psycho Cut
+Trick Room
+Foul Play
+# 11 - 1.89 % (13 battles)
+
+Malamar @ Life Orb Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Protect
+Superpower
+Night Slash
+Psycho Cut
+# 12 - 1.89 % (13 battles)
+
+Malamar @ Lum Berry Lv. 100 -- Contrary
+Nature: Brave - EVs: 252 Atk / 4 Def / 252 SDef (100.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Trick Room
+# 13 - 1.31 % (9 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Topsy-Turvy
+# 14 - 1.16 % (8 battles)
+
+Malamar @ Leftovers Lv. 100 -- Infiltrator
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Hypnosis
+Taunt
+Foul Play
+Topsy-Turvy
+# 15 - 0.87 % (6 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Infiltrator
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Rock Slide
+Night Slash
+Switcheroo
+Psycho Cut
+# 16 - 0.87 % (6 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Destiny Bond
+Superpower
+Night Slash
+Psycho Cut
+# 17 - 0.87 % (6 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Superpower
+Night Slash
+Switcheroo
+Foul Play
+# 18 - 0.87 % (6 battles)
+
+Malamar @ Iron Ball Lv. 100 -- Contrary
+Nature: Impish - EVs: 252 Atk / 252 Def (100.0 %)  
+Destiny Bond
+Superpower
+Fling
+Psycho Cut
+# 19 - 0.87 % (6 battles)
+
+Malamar @ Lum Berry Lv. 100 -- Contrary
+Nature: Adamant - EVs: 252 Atk / 252 Def (100.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Topsy-Turvy
+# 20 - 0.87 % (6 battles)
+
+Malamar @ Roseli Berry Lv. 100 -- Contrary
+Nature: Mild - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Toxic
+Psychic
+Superpower
+Dark Pulse
+# 21 - 0.73 % (5 battles)
+
+Malamar @ Choice Band Lv. 100 -- Contrary
+Nature: Adamant - EVs: 168 HP / 168 Atk / 172 Spd (100.0 %)  
+Superpower
+Night Slash
+Switcheroo
+Psycho Cut
+# 22 - 0.73 % (5 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Infiltrator
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Night Slash
+Switcheroo
+Psycho Cut
+Topsy-Turvy
+# 23 - 0.73 % (5 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Hardy - EVs: 40 HP / 188 Atk / 160 Def / 40 SAtk / 40 SDef / 40 Spd (100.0 %)  
+Night Slash
+Psycho Cut
+Foul Play
+Topsy-Turvy
+# 24 - 0.73 % (5 battles)
+
+Malamar @ Life Orb Lv. 100 -- Contrary
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Destiny Bond
+Superpower
+Night Slash
+Psycho Cut
+# 25 - 0.58 % (4 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Taunt
+Superpower
+Night Slash
+Psycho Cut
+# 1 - 23.85 % (26 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (38.5 %)  
+Superpower
+Night Slash
+Switcheroo
+Psycho Cut
+# 2 - 10.09 % (11 battles)
+
+Malamar @ Ring Target Lv. 100 -- Contrary
+Nature: Adamant - EVs: 168 HP / 168 Atk / 172 Spd (100.0 %)  
+Superpower
+Night Slash
+Switcheroo
+Psycho Cut
+# 3 - 9.17 % (10 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Adamant - EVs: 252 HP / 212 Atk / 44 Def (50.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Topsy-Turvy
+# 4 - 8.26 % (9 battles)
+
+Malamar @ Chesto Berry Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Rest
+Superpower
+Night Slash
+Psycho Cut
+# 5 - 7.34 % (8 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Rock Slide
+Superpower
+Night Slash
+Psycho Cut
+# 6 - 4.59 % (5 battles)
+
+Malamar @ Assault Vest Lv. 100 -- Contrary
+Nature: Adamant - EVs: 252 Atk / 252 Spd (60.0 %)  
+Rock Slide
+Superpower
+Night Slash
+Psycho Cut
+# 7 - 2.75 % (3 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Superpower
+Night Slash
+Switcheroo
+Foul Play
+# 8 - 2.75 % (3 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Superpower
+Night Slash
+Psycho Cut
+# 9 - 2.75 % (3 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Jolly - EVs: 100 HP / 156 Atk / 252 Spd (100.0 %)  
+Taunt
+Superpower
+Night Slash
+Psycho Cut
+# 10 - 1.83 % (2 battles)
+
+Malamar @ Choice Band Lv. 100 -- Contrary
+Nature: Adamant - EVs: 168 HP / 168 Atk / 172 Spd (100.0 %)  
+Superpower
+Night Slash
+Switcheroo
+Psycho Cut
+# 11 - 1.83 % (2 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Topsy-Turvy
+# 12 - 1.83 % (2 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary (50.0 %) / Infiltrator (50.0 %)
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+Topsy-Turvy
+Happy Hour
+# 13 - 1.83 % (2 battles)
+
+Malamar @ Leftovers Lv. 100 -- Infiltrator
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Hypnosis
+Taunt
+Foul Play
+Topsy-Turvy
+# 14 - 1.83 % (2 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Sassy - EVs: 252 Def / 252 SDef (50.0 %)  
+Protect
+Superpower
+Night Slash
+Trick Room
+# 15 - 1.83 % (2 battles)
+
+Malamar @ Wise Glasses Lv. 100 -- Contrary
+Nature: Lonely - EVs: 252 Atk / 252 Spd (100.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Topsy-Turvy
+# 16 - 1.83 % (2 battles)
+
+Malamar @ Scope Lens Lv. 100 -- Contrary
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Superpower
+Night Slash
+Psycho Cut
+Trick Room
+# 17 - 0.92 % (1 battles)
+
+Malamar @ (No Item) Lv. 100 -- Suction Cups
+Nature: Hardy - EVs: 84 HP / 80 Atk / 68 Def / 84 SAtk / 60 SDef / 132 Spd (100.0 %)  
+Thunderbolt
+Hypnosis
+Reflect
+Simple Beam
+# 18 - 0.92 % (1 battles)
+
+Malamar @ (No Item) Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Return
+Superpower
+Psycho Cut
+# 19 - 0.92 % (1 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Destiny Bond
+Superpower
+Night Slash
+Psycho Cut
+# 20 - 0.92 % (1 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 HP / 68 SDef / 188 Spd (100.0 %)  
+Destiny Bond
+Superpower
+Switcheroo
+Topsy-Turvy
+# 21 - 0.92 % (1 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Taunt
+Superpower
+Night Slash
+Psycho Cut
+# 22 - 0.92 % (1 battles)
+
+Malamar @ Choice Scarf Lv. 100 -- Infiltrator
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Night Slash
+Switcheroo
+Psycho Cut
+Topsy-Turvy
+# 23 - 0.92 % (1 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Hardy - EVs: 252 Atk / 252 Def (100.0 %)  
+Flamethrower
+Hypnosis
+Aerial Ace
+Dark Pulse
+# 24 - 0.92 % (1 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Jolly - EVs: 252 HP / 4 SDef / 252 Spd (100.0 %)  
+Toxic
+Substitute
+Taunt
+Superpower
+# 25 - 0.92 % (1 battles)
+
+Malamar @ Leftovers Lv. 100 -- Contrary
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Hypnosis
+Superpower
+Night Slash
+Psycho Cut

@@ -1,0 +1,405 @@
+Psychic/-
+60/45/70/75/85/55
+18.0
+25/75
+
+# 1 - 34.59 % (138 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (57.2 %)  
+Psychic
+Rest
+Sleep Talk
+Calm Mind
+# 2 - 15.79 % (63 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 Def / 252 SAtk (100.0 %)  
+Thunderbolt
+Psychic
+Substitute
+Calm Mind
+# 3 - 9.77 % (39 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunderbolt
+Psychic
+Trick
+Grass Knot
+# 4 - 8.02 % (32 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Frisk (6.2 %) / Shadow Tag (93.8 %)
+Nature: Bold - EVs: 248 HP / 176 Def / 84 Spd (50.0 %)  
+Thunderbolt
+Rest
+Calm Mind
+Psyshock
+# 5 - 6.52 % (26 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 8 HP / 108 Def / 252 SAtk / 8 SDef / 132 Spd (100.0 %) 
+Thunderbolt
+Psychic
+Trick
+Energy Ball
+# 6 - 5.01 % (20 battles)
+
+Gothorita @ Starf Berry Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 36 HP / 252 SAtk / 220 Spd (55.0 %)[Fighting]  
+Psychic
+Substitute
+Hidden Power
+Recycle
+# 7 - 3.76 % (15 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Trick
+Dark Pulse
+Energy Ball
+# 8 - 3.26 % (13 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Thunderbolt
+Psychic
+Calm Mind
+Trick Room
+# 9 - 1.75 % (7 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 Def / 252 SAtk (100.0 %)  
+Thunderbolt
+Psychic
+Heal Bell
+Calm Mind
+# 10 - 1.50 % (6 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)[Ground]  
+Psychic
+Hidden Power
+Energy Ball
+Psyshock
+# 11 - 1.25 % (5 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Rest
+Charm
+Taunt
+# 12 - 1.25 % (5 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Calm Mind
+Dark Pulse
+Psyshock
+# 13 - 1.00 % (4 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Hardy - EVs: 252 HP / 4 SAtk / 252 SDef (75.0 %)  
+Psychic
+Rest
+Heal Bell
+Calm Mind
+# 14 - 1.00 % (4 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Sleep Talk
+Calm Mind
+Psyshock
+# 15 - 1.00 % (4 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 248 HP / 76 Def / 56 SAtk / 128 Spd (100.0 %)  
+Rest
+Signal Beam
+Calm Mind
+Psyshock
+# 16 - 0.75 % (3 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)[Ground]  
+Psychic
+Hidden Power
+Shadow Ball
+Energy Ball
+# 17 - 0.75 % (3 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Shadow Ball
+Energy Ball
+Psyshock
+# 18 - 0.75 % (3 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Calm - EVs: 252 HP / 96 Def / 160 SAtk (100.0 %)  
+Psychic
+Rest
+Substitute
+Calm Mind
+# 19 - 0.50 % (2 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 120 HP / 252 SAtk / 136 Spd (100.0 %)  
+Thunderbolt
+Trick
+Psyshock
+Foul Play
+# 20 - 0.25 % (1 battles)
+
+Gothorita @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Thunderbolt
+Psychic
+Hidden Power
+Signal Beam
+# 21 - 0.25 % (1 battles)
+
+Gothorita @ Leftovers Lv. 50 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Rest
+Taunt
+Calm Mind
+Psyshock
+# 22 - 0.25 % (1 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+(No Move)
+Psychic
+Rest
+Calm Mind
+# 23 - 0.25 % (1 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Calm - EVs: 248 HP / 8 Def / 252 SDef (100.0 %)  
+Toxic
+Rest
+Shadow Ball
+Calm Mind
+# 24 - 0.25 % (1 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Light Screen
+Reflect
+Shadow Ball
+# 25 - 0.25 % (1 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Psychic
+Rest
+Sleep Talk
+Fake Tears
+# 1 - 18.75 % (3 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 Def / 252 SAtk (100.0 %)  
+Thunderbolt
+Psychic
+Substitute
+Calm Mind
+# 2 - 12.50 % (2 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 8 HP / 108 Def / 252 SAtk / 8 SDef / 132 Spd (100.0 %) 
+Thunderbolt
+Psychic
+Trick
+Energy Ball
+# 3 - 12.50 % (2 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Psychic
+Light Screen
+Reflect
+Shadow Ball
+# 4 - 12.50 % (2 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 128 HP / 252 Def / 128 SDef (50.0 %)  
+Psychic
+Rest
+Sleep Talk
+Calm Mind
+# 5 - 12.50 % (2 battles)
+
+Gothorita @ Starf Berry Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 40 HP / 252 SAtk / 216 Spd (50.0 %)[Fighting]  
+Psychic
+Substitute
+Hidden Power
+Recycle
+# 6 - 6.25 % (1 battles)
+
+Gothorita @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Thunderbolt
+Psychic
+Hidden Power
+Signal Beam
+# 7 - 6.25 % (1 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunderbolt
+Psychic
+Trick
+Grass Knot
+# 8 - 6.25 % (1 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Trick
+Dark Pulse
+Energy Ball
+# 9 - 6.25 % (1 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Thunderbolt
+Rest
+Calm Mind
+Energy Ball
+# 10 - 6.25 % (1 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Rest
+Charm
+Taunt
+# 11 - 0 % (138 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (57.2 %)  
+Psychic
+Rest
+Sleep Talk
+Calm Mind
+# 12 - 0 % (63 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 Def / 252 SAtk (100.0 %)  
+Thunderbolt
+Psychic
+Substitute
+Calm Mind
+# 13 - 0 % (39 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Thunderbolt
+Psychic
+Trick
+Grass Knot
+# 14 - 0 % (32 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Frisk (6.2 %) / Shadow Tag (93.8 %)
+Nature: Bold - EVs: 248 HP / 176 Def / 84 Spd (50.0 %)  
+Thunderbolt
+Rest
+Calm Mind
+Psyshock
+# 15 - 0 % (26 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 8 HP / 108 Def / 252 SAtk / 8 SDef / 132 Spd (100.0 %) 
+Thunderbolt
+Psychic
+Trick
+Energy Ball
+# 16 - 0 % (20 battles)
+
+Gothorita @ Starf Berry Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 36 HP / 252 SAtk / 220 Spd (55.0 %)[Fighting]  
+Psychic
+Substitute
+Hidden Power
+Recycle
+# 17 - 0 % (15 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Trick
+Dark Pulse
+Energy Ball
+# 18 - 0 % (13 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Thunderbolt
+Psychic
+Calm Mind
+Trick Room
+# 19 - 0 % (7 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 Def / 252 SAtk (100.0 %)  
+Thunderbolt
+Psychic
+Heal Bell
+Calm Mind
+# 20 - 0 % (6 battles)
+
+Gothorita @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)[Ground]  
+Psychic
+Hidden Power
+Energy Ball
+Psyshock
+# 21 - 0 % (5 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Rest
+Charm
+Taunt
+# 22 - 0 % (5 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Calm Mind
+Dark Pulse
+Psyshock
+# 23 - 0 % (4 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Hardy - EVs: 252 HP / 4 SAtk / 252 SDef (75.0 %)  
+Psychic
+Rest
+Heal Bell
+Calm Mind
+# 24 - 0 % (4 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Sleep Talk
+Calm Mind
+Psyshock
+# 25 - 0 % (4 battles)
+
+Gothorita @ Eviolite Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 248 HP / 76 Def / 56 SAtk / 128 Spd (100.0 %)  
+Rest
+Signal Beam
+Calm Mind
+Psyshock

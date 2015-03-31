@@ -1,0 +1,4 @@
+Fire/Ground
+70/120/100/145/105/20
+Sheer Force
+320.5

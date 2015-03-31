@@ -1,0 +1,405 @@
+Bug/Fighting
+80/125/75/40/95/85
+54.0
+50/50
+
+# 1 - 18.17 % (4851 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (16.4 %) / Guts (23.4 %) / Moxie (60.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (13.0 %)  
+Pin Missile
+Bullet Seed
+Rock Blast
+Close Combat
+# 2 - 14.59 % (3896 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (25.7 %) / Guts (12.0 %) / Moxie (62.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (19.9 %)  
+Pin Missile
+Arm Thrust
+Bullet Seed
+Rock Blast
+# 3 - 7.66 % (2046 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Swarm (0.4 %) / Guts (14.2 %) / Moxie (85.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.3 %)  
+Earthquake
+Megahorn
+Close Combat
+Stone Edge
+# 4 - 5.46 % (1457 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (7.1 %) / Guts (34.5 %) / Moxie (58.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (16.0 %)  
+Pin Missile
+Earthquake
+Rock Blast
+Close Combat
+# 5 - 3.60 % (962 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (39.1 %) / Guts (12.5 %) / Moxie (48.4 %)
+Nature: Jolly - EVs: 8 HP / 252 Atk / 4 Def / 244 Spd (28.5 %)  
+Swords Dance
+Pin Missile
+Earthquake
+Rock Blast
+# 6 - 1.75 % (468 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (23.3 %) / Guts (47.4 %) / Moxie (29.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (17.3 %)  
+Swords Dance
+Pin Missile
+Bullet Seed
+Rock Blast
+# 7 - 1.56 % (416 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Swarm (0.2 %) / Guts (18.5 %) / Moxie (81.2 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (61.3 %)  
+Earthquake
+Rock Slide
+Megahorn
+Close Combat
+# 8 - 1.35 % (361 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (6.9 %) / Guts (5.3 %) / Moxie (87.8 %)
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (20.8 %)  
+Swords Dance
+Pin Missile
+Rock Blast
+Close Combat
+# 9 - 1.35 % (360 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (4.2 %) / Guts (47.8 %) / Moxie (48.1 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (34.2 %)  
+Pin Missile
+Earthquake
+Arm Thrust
+Rock Blast
+# 10 - 1.34 % (358 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (18.7 %) / Guts (37.7 %) / Moxie (43.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (58.9 %)  
+Pin Missile
+Substitute
+Rock Blast
+Close Combat
+# 11 - 1.25 % (334 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (34.1 %) / Guts (33.8 %) / Moxie (32.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.4 %)  
+Swords Dance
+Pin Missile
+Arm Thrust
+Rock Blast
+# 12 - 1.17 % (313 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (13.4 %) / Guts (18.5 %) / Moxie (68.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (31.3 %)  
+Pin Missile
+Earthquake
+Bullet Seed
+Rock Blast
+# 13 - 1.01 % (269 battles)
+
+Heracross @ Focus Sash Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Megahorn
+Bullet Seed
+Close Combat
+# 14 - 1.01 % (269 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (78.8 %) / Guts (1.5 %) / Moxie (19.7 %)
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (76.2 %)  
+Swords Dance
+Pin Missile
+Arm Thrust
+Bullet Seed
+# 15 - 1.01 % (269 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (12.3 %) / Guts (37.2 %) / Moxie (50.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (43.5 %)  
+Pin Missile
+Earthquake
+Bullet Seed
+Close Combat
+# 16 - 0.95 % (254 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Guts (53.9 %) / Moxie (46.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (23.2 %)  
+Megahorn
+Knock Off
+Close Combat
+Stone Edge
+# 17 - 0.92 % (245 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (8.6 %) / Guts (8.2 %) / Moxie (83.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (63.3 %)  
+Earthquake
+Bullet Seed
+Rock Blast
+Close Combat
+# 18 - 0.87 % (232 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Guts (15.1 %) / Moxie (84.9 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (31.9 %)  
+Earthquake
+Megahorn
+Knock Off
+Close Combat
+# 19 - 0.82 % (218 battles)
+
+Heracross @ Life Orb Lv. 100 -- Moxie
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Megahorn
+Close Combat
+Shadow Claw
+# 20 - 0.74 % (197 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (26.9 %) / Guts (1.5 %) / Moxie (71.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (68.5 %)  
+Pin Missile
+Brick Break
+Bullet Seed
+Rock Blast
+# 21 - 0.68 % (181 battles)
+
+Heracross @ Heracronite Lv. 100 -- Guts (69.6 %) / Moxie (30.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (90.1 %)  
+Pin Missile
+Pursuit
+Rock Blast
+Close Combat
+# 22 - 0.68 % (181 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (96.7 %) / Moxie (3.3 %)
+Nature: Careful - EVs: 200 Atk / 56 Def / 252 SDef (96.7 %)  
+Pin Missile
+Rock Blast
+Close Combat
+Night Slash
+# 23 - 0.58 % (155 battles)
+
+Heracross @ Heracronite Lv. 100 -- Guts (9.7 %) / Moxie (90.3 %)
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 Def (88.4 %)  
+Pin Missile
+Earthquake
+Knock Off
+Close Combat
+# 24 - 0.56 % (150 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Swarm (29.3 %) / Guts (30.7 %) / Moxie (40.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (45.3 %)  
+Megahorn
+Close Combat
+Night Slash
+Stone Edge
+# 25 - 0.54 % (144 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (2.1 %) / Moxie (97.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (41.7 %)  
+Earthquake
+Megahorn
+Knock Off
+Close Combat
+# 1 - 19.63 % (664 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (18.8 %) / Guts (24.7 %) / Moxie (56.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (19.1 %)  
+Pin Missile
+Bullet Seed
+Rock Blast
+Close Combat
+# 2 - 13.09 % (443 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (21.4 %) / Guts (5.2 %) / Moxie (73.4 %)
+Nature: Lonely - EVs: 4 HP / 252 Atk / 252 Spd (20.3 %)  
+Pin Missile
+Arm Thrust
+Bullet Seed
+Rock Blast
+# 3 - 7.57 % (256 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (8.2 %) / Guts (47.7 %) / Moxie (44.1 %)
+Nature: Adamant - EVs: 160 HP / 252 Atk / 96 Spd (18.8 %)  
+Pin Missile
+Earthquake
+Rock Blast
+Close Combat
+# 4 - 6.24 % (211 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Swarm (0.9 %) / Guts (14.2 %) / Moxie (84.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (26.1 %)  
+Earthquake
+Megahorn
+Close Combat
+Stone Edge
+# 5 - 5.17 % (175 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Guts (4.6 %) / Moxie (95.4 %)
+Nature: Adamant - EVs: 32 HP / 252 Atk / 224 Spd (83.4 %)  
+Earthquake
+Rock Slide
+Megahorn
+Close Combat
+# 6 - 3.16 % (107 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (4.7 %) / Guts (4.7 %) / Moxie (90.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (72.9 %)  
+Earthquake
+Bullet Seed
+Rock Blast
+Close Combat
+# 7 - 2.28 % (77 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (19.5 %) / Guts (57.1 %) / Moxie (23.4 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (35.1 %)  
+Swords Dance
+Pin Missile
+Bullet Seed
+Rock Blast
+# 8 - 1.77 % (60 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (8.3 %) / Guts (6.7 %) / Moxie (85.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (66.7 %)  
+Swords Dance
+Pin Missile
+Earthquake
+Rock Blast
+# 9 - 1.74 % (59 battles)
+
+Heracross @ Heracronite Lv. 100 -- Moxie
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 Def (91.5 %)  
+Pin Missile
+Earthquake
+Knock Off
+Close Combat
+# 10 - 1.54 % (52 battles)
+
+Heracross @ Heracronite Lv. 100 -- Moxie
+Nature: Adamant - EVs: 8 HP / 252 Atk / 4 Def / 4 SDef / 240 Spd (100.0 %)  
+Pin Missile
+Earthquake
+Rock Blast
+Feint
+# 11 - 1.51 % (51 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (60.8 %)  
+Megahorn
+Bullet Seed
+Close Combat
+Stone Edge
+# 12 - 1.48 % (50 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (72.0 %) / Guts (4.0 %) / Moxie (24.0 %)
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (72.0 %)  
+Swords Dance
+Bullet Seed
+Rock Blast
+Close Combat
+# 13 - 1.21 % (41 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (2.4 %) / Guts (7.3 %) / Moxie (90.2 %)
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (48.8 %)  
+Swords Dance
+Pin Missile
+Rock Blast
+Close Combat
+# 14 - 1.15 % (39 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (2.6 %) / Guts (76.9 %) / Moxie (20.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (64.1 %)  
+Swords Dance
+Pin Missile
+Arm Thrust
+Rock Blast
+# 15 - 1.09 % (37 battles)
+
+Heracross @ Heracronite Lv. 100 -- Guts (2.7 %) / Moxie (97.3 %)
+Nature: Adamant - EVs: 136 HP / 132 Atk / 88 Def / 56 SDef / 96 Spd (97.3 %) 
+Earthquake
+Megahorn
+Brick Break
+Rock Blast
+# 16 - 0.98 % (33 battles)
+
+Heracross @ Salac Berry Lv. 100 -- Swarm
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (81.8 %)  
+Swords Dance
+Rock Slide
+Substitute
+Megahorn
+# 17 - 0.95 % (32 battles)
+
+Heracross @ Heracronite Lv. 100 -- Moxie
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (62.5 %)  
+Swords Dance
+Arm Thrust
+Bullet Seed
+Rock Blast
+# 18 - 0.92 % (31 battles)
+
+Heracross @ Heracronite Lv. 100 -- Moxie
+Nature: Jolly - EVs: 252 Atk / 252 Spd (71.0 %)  
+Earthquake
+Arm Thrust
+Rock Blast
+Close Combat
+# 19 - 0.89 % (30 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (10.0 %) / Guts (33.3 %) / Moxie (56.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (60.0 %)  
+Pin Missile
+Earthquake
+Bullet Seed
+Close Combat
+# 20 - 0.86 % (29 battles)
+
+Heracross @ Toxic Orb Lv. 100 -- Swarm
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Protect
+Megahorn
+Facade
+Close Combat
+# 21 - 0.77 % (26 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm
+Nature: Careful - EVs: 200 Atk / 56 Def / 252 SDef (100.0 %)  
+Pin Missile
+Rock Blast
+Close Combat
+Night Slash
+# 22 - 0.71 % (24 battles)
+
+Heracross @ Choice Scarf Lv. 100 -- Guts (45.8 %) / Moxie (54.2 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (33.3 %)  
+Megahorn
+Knock Off
+Close Combat
+Stone Edge
+# 23 - 0.65 % (22 battles)
+
+Heracross @ Heracronite Lv. 100 -- Swarm (4.5 %) / Guts (36.4 %) / Moxie (59.1 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (36.4 %)  
+Pin Missile
+Substitute
+Rock Blast
+Close Combat
+# 24 - 0.56 % (19 battles)
+
+Heracross @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 120 HP / 252 Atk / 136 Def (89.5 %)  
+Megahorn
+Aerial Ace
+Close Combat
+Stone Edge
+# 25 - 0.53 % (18 battles)
+
+Heracross @ Heracronite Lv. 100 -- Moxie
+Nature: Adamant - EVs: 136 HP / 252 Atk / 120 Def (88.9 %)  
+Pin Missile
+Earthquake
+Arm Thrust
+Bullet Seed

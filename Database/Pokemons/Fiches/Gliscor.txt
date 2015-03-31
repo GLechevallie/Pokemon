@@ -1,0 +1,405 @@
+Ground/Flying
+75/95/125/45/75/95
+42.5
+50/50
+
+# 1 - 25.85 % (16878 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (0.3 %) / Sand Veil (0.0 %) / Poison Heal (99.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (10.8 %)  
+Earthquake
+Toxic
+Substitute
+Protect
+# 2 - 4.31 % (2816 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (0.2 %) / Poison Heal (99.8 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (15.3 %)  
+Earthquake
+Toxic
+Protect
+Knock Off
+# 3 - 2.76 % (1803 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (1.2 %) / Poison Heal (98.8 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (29.4 %)  
+Earthquake
+Toxic
+Protect
+Roost
+# 4 - 2.03 % (1328 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (18.7 %)  
+Earthquake
+Protect
+Fling
+Acrobatics
+# 5 - 1.71 % (1117 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (1.6 %) / Poison Heal (98.4 %)
+Nature: Impish - EVs: 244 HP / 40 Def / 224 Spd (36.4 %)  
+Earthquake
+Toxic
+Substitute
+Roost
+# 6 - 1.63 % (1061 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 252 Atk / 252 Spd (16.1 %)  
+Swords Dance
+Earthquake
+Protect
+Ice Fang
+# 7 - 1.57 % (1025 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (0.7 %) / Poison Heal (99.3 %)
+Nature: Impish - EVs: 244 HP / 252 Def / 12 Spd (18.0 %)  
+Earthquake
+Toxic
+Protect
+Ice Fang
+# 8 - 1.54 % (1008 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 252 Def (17.3 %)  
+Earthquake
+Toxic
+Protect
+Stealth Rock
+# 9 - 1.53 % (1000 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (20.9 %)  
+Earthquake
+Toxic
+Protect
+Taunt
+# 10 - 1.24 % (812 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 80 HP / 176 Atk / 252 Spd (30.3 %)  
+Swords Dance
+Earthquake
+Substitute
+Ice Fang
+# 11 - 1.19 % (778 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 208 HP / 48 Atk / 248 Def / 4 SDef (28.7 %)  
+Earthquake
+Substitute
+Protect
+Ice Fang
+# 12 - 1.18 % (772 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (0.3 %) / Poison Heal (99.7 %)
+Nature: Impish - EVs: 248 HP / 252 Def / 8 SDef (12.6 %)  
+Toxic
+Substitute
+Protect
+Knock Off
+# 13 - 1.12 % (732 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 252 HP / 4 SDef / 252 Spd (24.6 %)  
+Toxic
+Substitute
+Protect
+Ice Fang
+# 14 - 1.02 % (669 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (35.3 %)  
+Swords Dance
+Earthquake
+Protect
+Facade
+# 15 - 0.90 % (585 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (1.0 %) / Poison Heal (99.0 %)
+Nature: Impish - EVs: 252 HP / 40 Def / 216 Spd (23.2 %)  
+Earthquake
+Toxic
+Taunt
+Roost
+# 16 - 0.86 % (563 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Careful - EVs: 252 HP / 64 Def / 192 SDef (42.5 %)  
+Earthquake
+Toxic
+Roost
+Stealth Rock
+# 17 - 0.83 % (539 battles)
+
+Gliscor @ Yache Berry Lv. 100 -- Hyper Cutter (90.9 %) / Poison Heal (9.1 %)
+Nature: Careful - EVs: 240 HP / 252 SDef / 16 Spd (30.6 %)  
+Swords Dance
+Agility
+Baton Pass
+Taunt
+# 18 - 0.72 % (471 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 244 HP / 252 Def / 12 Spd (20.6 %)  
+Earthquake
+Substitute
+Protect
+Knock Off
+# 19 - 0.71 % (462 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 112 Atk / 144 Def (21.9 %)  
+Earthquake
+Protect
+Knock Off
+Stealth Rock
+# 20 - 0.69 % (452 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (59.7 %)  
+Earthquake
+Protect
+Knock Off
+Roost
+# 21 - 0.68 % (444 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 252 HP / 252 Atk / 4 Spd (27.0 %)  
+Swords Dance
+Earthquake
+Protect
+Aerial Ace
+# 22 - 0.67 % (436 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (29.4 %)  
+Swords Dance
+Earthquake
+Roost
+Ice Fang
+# 23 - 0.65 % (427 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 244 HP / 40 Def / 224 Spd (53.4 %)  
+Earthquake
+Substitute
+Baton Pass
+Taunt
+# 24 - 0.62 % (404 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 Atk / 252 Def (99.5 %)  
+Swords Dance
+Earthquake
+Knock Off
+Acrobatics
+# 25 - 0.58 % (380 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (0.3 %) / Poison Heal (99.7 %)
+Nature: Impish - EVs: 252 HP / 104 Def / 152 Spd (24.5 %)  
+Swords Dance
+Earthquake
+Protect
+Knock Off
+# 1 - 17.99 % (1922 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (0.5 %) / Poison Heal (99.5 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (11.4 %)  
+Earthquake
+Toxic
+Substitute
+Protect
+# 2 - 6.43 % (687 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (0.1 %) / Poison Heal (99.9 %)
+Nature: Impish - EVs: 244 HP / 252 Def / 12 Spd (36.8 %)  
+Earthquake
+Toxic
+Protect
+Knock Off
+# 3 - 4.18 % (447 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (13.6 %)  
+Earthquake
+Toxic
+Protect
+Stealth Rock
+# 4 - 2.58 % (276 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 244 HP / 252 Def / 12 Spd (90.9 %)  
+Protect
+Knock Off
+Fling
+Acrobatics
+# 5 - 2.26 % (241 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 56 HP / 200 Atk / 252 Spd (48.5 %)  
+Earthquake
+Toxic
+Protect
+Taunt
+# 6 - 2.13 % (228 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (69.3 %)  
+Earthquake
+Toxic
+Ice Fang
+Stealth Rock
+# 7 - 1.98 % (212 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 112 Atk / 144 Def (32.1 %)  
+Earthquake
+Protect
+Knock Off
+Stealth Rock
+# 8 - 1.75 % (187 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 248 HP / 112 Def / 148 Spd (26.7 %)  
+Earthquake
+Protect
+Fling
+Acrobatics
+# 9 - 1.38 % (147 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 156 HP / 184 Atk / 168 Def (42.9 %)  
+Earthquake
+Substitute
+Protect
+Knock Off
+# 10 - 1.31 % (140 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Earthquake
+Knock Off
+Stealth Rock
+# 11 - 1.11 % (119 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 252 Def (23.5 %)  
+Earthquake
+Toxic
+Protect
+Roost
+# 12 - 1.04 % (111 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 244 HP / 12 Atk / 252 Def (64.9 %)  
+Swords Dance
+Earthquake
+Protect
+Facade
+# 13 - 0.99 % (106 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 184 Def / 72 Spd (28.3 %)  
+Earthquake
+Protect
+Taunt
+Stealth Rock
+# 14 - 0.98 % (105 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 244 HP / 248 Def / 16 Spd (27.6 %)  
+Earthquake
+Toxic
+Protect
+Ice Fang
+# 15 - 0.86 % (92 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 Atk / 252 Def (32.6 %)  
+Swords Dance
+Earthquake
+Protect
+Ice Fang
+# 16 - 0.85 % (91 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Careful - EVs: 68 HP / 180 Atk / 152 Def / 96 SDef / 12 Spd (46.2 %) 
+Toxic
+Substitute
+Protect
+Ice Fang
+# 17 - 0.81 % (86 battles)
+
+Gliscor @ (No Item) Lv. 100 -- Hyper Cutter
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (97.7 %)  
+Earthquake
+Defog
+Stealth Rock
+Acrobatics
+# 18 - 0.79 % (84 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (34.5 %)  
+Toxic
+Protect
+Knock Off
+Stealth Rock
+# 19 - 0.78 % (83 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 252 Def (32.5 %)  
+Earthquake
+Toxic
+Substitute
+Roost
+# 20 - 0.78 % (83 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 4 HP / 252 Def / 252 Spd (100.0 %)  
+Toxic
+Substitute
+Protect
+U-turn
+# 21 - 0.75 % (80 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (91.2 %)  
+Swords Dance
+Earthquake
+Agility
+Baton Pass
+# 22 - 0.73 % (78 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Hyper Cutter (1.3 %) / Poison Heal (98.7 %)
+Nature: Impish - EVs: 252 HP / 68 Atk / 168 Def / 20 Spd (44.9 %)  
+Earthquake
+Protect
+Taunt
+Knock Off
+# 23 - 0.68 % (73 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Jolly - EVs: 244 HP / 48 Def / 216 Spd (71.2 %)  
+Earthquake
+Taunt
+Knock Off
+U-turn
+# 24 - 0.66 % (71 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Careful - EVs: 212 HP / 236 SDef / 60 Spd (14.1 %)  
+Earthquake
+Toxic
+Taunt
+Roost
+# 25 - 0.66 % (70 battles)
+
+Gliscor @ Toxic Orb Lv. 100 -- Poison Heal
+Nature: Impish - EVs: 252 Atk / 252 Def (30.0 %)  
+Swords Dance
+Earthquake
+Substitute
+Ice Fang

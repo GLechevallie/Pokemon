@@ -1,0 +1,405 @@
+Grass/-
+65/110/130/60/65/95
+25.5
+87.5/12.5
+
+# 1 - 6.62 % (205 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard (33.2 %) / Chlorophyll (66.8 %)
+Nature: Careful - EVs: 252 HP / 160 SDef / 96 Spd (42.0 %)  
+Swords Dance
+Substitute
+Baton Pass
+Leaf Blade
+# 2 - 5.26 % (163 battles)
+
+Leafeon @ Weakness Policy Lv. 100 -- Leaf Guard
+Nature: Jolly - EVs: 240 Atk / 16 Def / 252 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Aerial Ace
+Leaf Blade
+# 3 - 4.84 % (150 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 180 HP / 252 Atk / 76 Def (100.0 %)  
+Swords Dance
+Knock Off
+Leaf Blade
+Last Resort
+# 4 - 3.36 % (104 battles)
+
+Leafeon @ Miracle Seed Lv. 100 -- Leaf Guard
+Nature: Careful - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Grass Whistle
+Leaf Blade
+X-Scissor
+# 5 - 3.33 % (103 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (82.5 %)  
+Swords Dance
+Synthesis
+Knock Off
+Leaf Blade
+# 6 - 3.17 % (98 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard (20.4 %) / Chlorophyll (79.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (80.6 %)  
+Swords Dance
+Knock Off
+Leaf Blade
+X-Scissor
+# 7 - 3.17 % (98 battles)
+
+Leafeon @ Rocky Helmet Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 252 Atk / 252 Def / 4 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Leaf Blade
+X-Scissor
+# 8 - 2.52 % (78 battles)
+
+Leafeon @ Power Herb Lv. 100 -- Chlorophyll
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (73.1 %)  
+Swords Dance
+Dig
+Baton Pass
+Leaf Blade
+# 9 - 1.97 % (61 battles)
+
+Leafeon @ Assault Vest Lv. 100 -- Leaf Guard (26.2 %) / Chlorophyll (73.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (73.8 %)  
+Knock Off
+Aerial Ace
+Leaf Blade
+X-Scissor
+# 10 - 1.52 % (47 battles)
+
+Leafeon @ Salac Berry Lv. 100 -- Leaf Guard
+Nature: Hardy - EVs: 180 Atk / 252 Def / 76 Spd (100.0 %)  
+Swords Dance
+Toxic
+Synthesis
+Bullet Seed
+# 11 - 1.45 % (45 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Leaf Guard (13.3 %) / Chlorophyll (86.7 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (64.4 %)  
+Swords Dance
+Knock Off
+Leaf Blade
+X-Scissor
+# 12 - 1.42 % (44 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard (54.5 %) / Chlorophyll (45.5 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (52.3 %)  
+Swords Dance
+Synthesis
+Leaf Blade
+X-Scissor
+# 13 - 1.29 % (40 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard (50.0 %) / Chlorophyll (50.0 %)
+Nature: Adamant - EVs: 252 Atk / 252 Def (75.0 %)  
+Swords Dance
+Double-Edge
+Leaf Blade
+X-Scissor
+# 14 - 1.23 % (38 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 252 Atk / 252 SDef (55.3 %)  
+Swords Dance
+Substitute
+Synthesis
+Last Resort
+# 15 - 1.23 % (38 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard (18.4 %) / Chlorophyll (81.6 %)
+Nature: Careful - EVs: 252 HP / 160 SDef / 96 Spd (81.6 %)  
+Swords Dance
+Substitute
+Knock Off
+Leaf Blade
+# 16 - 1.16 % (36 battles)
+
+Leafeon @ Miracle Seed Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Synthesis
+Knock Off
+Aerial Ace
+Leaf Blade
+# 17 - 1.13 % (35 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (77.1 %)  
+Swords Dance
+Synthesis
+Leaf Blade
+X-Scissor
+# 18 - 1.13 % (35 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 252 Atk / 252 SDef / 4 Spd (100.0 %)  
+Quick Attack
+Synthesis
+Leaf Blade
+X-Scissor
+# 19 - 1.00 % (31 battles)
+
+Leafeon @ Expert Belt Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Knock Off
+Aerial Ace
+Leaf Blade
+X-Scissor
+# 20 - 1.00 % (31 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard
+Nature: Careful - EVs: 252 Atk / 96 Def / 160 SDef (29.0 %)  
+Swords Dance
+Baton Pass
+Synthesis
+Leaf Blade
+# 21 - 0.97 % (30 battles)
+
+Leafeon @ Eviolite Lv. 100 -- Leaf Guard
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Substitute
+Baton Pass
+Leaf Blade
+# 22 - 0.90 % (28 battles)
+
+Leafeon @ Focus Sash Lv. 100 -- Leaf Guard
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Aerial Ace
+Leaf Blade
+# 23 - 0.87 % (27 battles)
+
+Leafeon @ Rose Incense Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 108 HP / 252 Atk / 136 Spd (74.1 %)  
+Synthesis
+Sunny Day
+Knock Off
+Leaf Blade
+# 24 - 0.84 % (26 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 252 Atk / 252 Def (92.3 %)  
+Swords Dance
+Sunny Day
+Leaf Blade
+X-Scissor
+# 25 - 0.81 % (25 battles)
+
+Leafeon @ Quick Claw Lv. 100 -- Leaf Guard
+Nature: Adamant - EVs: 252 HP / 4 Atk / 252 Def (92.0 %)  
+Toxic
+Baton Pass
+Synthesis
+Leaf Blade
+# 1 - 11.19 % (33 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Leaf Guard
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Quick Attack
+Baton Pass
+Leaf Blade
+# 2 - 6.44 % (19 battles)
+
+Leafeon @ Focus Sash Lv. 100 -- Leaf Guard
+Nature: Hardy - EVs: 252 Atk / 252 Spd (100.0 %)  
+Roar
+Detect
+Grass Whistle
+Energy Ball
+# 3 - 4.41 % (13 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Chlorophyll
+Nature: Careful - EVs: 252 HP / 160 SDef / 96 Spd (46.2 %)  
+Swords Dance
+Substitute
+Baton Pass
+Leaf Blade
+# 4 - 3.73 % (11 battles)
+
+Leafeon @ Power Herb Lv. 100 -- Chlorophyll
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (72.7 %)  
+Swords Dance
+Dig
+Baton Pass
+Leaf Blade
+# 5 - 3.39 % (10 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Leaf Guard
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Body Slam
+Baton Pass
+Leaf Blade
+# 6 - 3.05 % (9 battles)
+
+Leafeon @ Choice Band Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Knock Off
+Leaf Blade
+X-Scissor
+# 7 - 3.05 % (9 battles)
+
+Leafeon @ Rose Incense Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 108 HP / 104 Atk / 160 Def / 136 Spd (100.0 %)  
+Synthesis
+Sunny Day
+Leaf Blade
+Seed Bomb
+# 8 - 3.05 % (9 battles)
+
+Leafeon @ Rose Incense Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 108 HP / 252 Atk / 136 Spd (100.0 %)  
+Synthesis
+Knock Off
+Leaf Blade
+Grass Knot
+# 9 - 3.05 % (9 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Leaf Guard
+Nature: Adamant - EVs: 76 HP / 196 Atk / 4 Def / 232 Spd (100.0 %)  
+Swords Dance
+Heal Bell
+Baton Pass
+Leaf Blade
+# 10 - 2.71 % (8 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard
+Nature: Adamant - EVs: 96 HP / 104 Atk / 56 Def / 116 SDef / 136 Spd (100.0 %)  
+Swords Dance
+Wish
+Knock Off
+Leaf Blade
+# 11 - 2.37 % (7 battles)
+
+Leafeon @ Rose Incense Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 108 HP / 252 Atk / 136 Spd (57.1 %)  
+Synthesis
+Sunny Day
+Knock Off
+Leaf Blade
+# 12 - 2.03 % (6 battles)
+
+Leafeon @ Life Orb Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 252 Atk / 252 SDef / 4 Spd (100.0 %)  
+Quick Attack
+Synthesis
+Leaf Blade
+X-Scissor
+# 13 - 2.03 % (6 battles)
+
+Leafeon @ Miracle Seed Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Synthesis
+Knock Off
+Aerial Ace
+Leaf Blade
+# 14 - 2.03 % (6 battles)
+
+Leafeon @ Salac Berry Lv. 100 -- Leaf Guard
+Nature: Hardy - EVs: 180 Atk / 252 Def / 76 Spd (100.0 %)  
+Swords Dance
+Toxic
+Synthesis
+Bullet Seed
+# 15 - 1.69 % (5 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard
+Nature: Adamant - EVs: 252 HP / 252 Def (100.0 %)  
+Swords Dance
+Knock Off
+Grass Whistle
+Leaf Blade
+# 16 - 1.69 % (5 battles)
+
+Leafeon @ Assault Vest Lv. 100 -- Leaf Guard
+Nature: Adamant - EVs: 196 HP / 80 Atk / 16 Def / 216 SDef (100.0 %)  
+Quick Attack
+Knock Off
+Seed Bomb
+X-Scissor
+# 17 - 1.69 % (5 battles)
+
+Leafeon @ Assault Vest Lv. 100 -- Leaf Guard
+Nature: Impish - EVs: 116 HP / 180 Atk / 212 SDef (80.0 %)  
+Knock Off
+Aerial Ace
+Leaf Blade
+X-Scissor
+# 18 - 1.36 % (4 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Chlorophyll
+Nature: Impish - EVs: 112 Atk / 180 Def / 216 Spd (100.0 %)  
+Swords Dance
+Baton Pass
+Knock Off
+Leaf Blade
+# 19 - 1.36 % (4 battles)
+
+Leafeon @ Wide Lens Lv. 100 -- Leaf Guard
+Nature: Adamant - EVs: 252 HP / 252 Def (100.0 %)  
+Swords Dance
+Knock Off
+Grass Whistle
+Leaf Blade
+# 20 - 1.36 % (4 battles)
+
+Leafeon @ Rocky Helmet Lv. 100 -- Chlorophyll
+Nature: Adamant - EVs: 252 Atk / 252 Def / 4 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Leaf Blade
+X-Scissor
+# 21 - 1.36 % (4 battles)
+
+Leafeon @ Salac Berry Lv. 100 -- Leaf Guard
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Swords Dance
+Substitute
+Flail
+Leaf Blade
+# 22 - 1.02 % (3 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard (66.7 %) / Chlorophyll (33.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (66.7 %)  
+Swords Dance
+Substitute
+Return
+Leaf Blade
+# 23 - 1.02 % (3 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (66.7 %)  
+Swords Dance
+Baton Pass
+Synthesis
+Leaf Blade
+# 24 - 1.02 % (3 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Chlorophyll
+Nature: Jolly - EVs: 252 Def / 252 Spd (66.7 %)  
+Swords Dance
+Sunny Day
+Leaf Blade
+X-Scissor
+# 25 - 1.02 % (3 battles)
+
+Leafeon @ Leftovers Lv. 100 -- Leaf Guard
+Nature: Hardy - EVs: 128 Atk / 108 Def / 124 SAtk / 108 SDef / 40 Spd (100.0 %) 
+Razor Leaf
+Substitute
+Grass Whistle
+Energy Ball

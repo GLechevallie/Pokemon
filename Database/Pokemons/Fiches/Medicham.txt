@@ -1,0 +1,405 @@
+Fighting/Psychic
+60/60/75/60/75/80
+31.5
+50/50
+
+# 1 - 7.26 % (1574 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (38.1 %)  
+High Jump Kick
+Fake Out
+Bullet Punch
+Psycho Cut
+# 2 - 4.24 % (919 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (95.9 %) / Telepathy (4.1 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (30.5 %)  
+Fake Out
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 3 - 4.19 % (909 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (69.4 %)  
+Ice Punch
+High Jump Kick
+Bullet Punch
+Psycho Cut
+# 4 - 4.19 % (907 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (42.6 %)  
+Ice Punch
+High Jump Kick
+Fake Out
+Zen Headbutt
+# 5 - 3.56 % (772 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (19.2 %)  
+High Jump Kick
+Fake Out
+Bullet Punch
+Zen Headbutt
+# 6 - 3.42 % (740 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (97.7 %) / Telepathy (2.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (26.5 %)  
+Ice Punch
+High Jump Kick
+Fake Out
+Psycho Cut
+# 7 - 3.34 % (724 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (34.9 %)  
+Ice Punch
+Fake Out
+Drain Punch
+Psycho Cut
+# 8 - 3.05 % (661 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (34.2 %)  
+Ice Punch
+Fake Out
+Drain Punch
+Bullet Punch
+# 9 - 2.64 % (573 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (28.3 %)  
+Ice Punch
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 10 - 2.49 % (540 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (96.1 %)  
+Fire Punch
+High Jump Kick
+Bullet Punch
+Psycho Cut
+# 11 - 2.30 % (498 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 252 Atk / 252 Spd (42.4 %)  
+Ice Punch
+High Jump Kick
+Fake Out
+Bullet Punch
+# 12 - 2.25 % (487 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.1 %)  
+Fake Out
+Drain Punch
+Bullet Punch
+Zen Headbutt
+# 13 - 2.06 % (447 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 252 Spd (64.4 %)  
+Fire Punch
+Ice Punch
+High Jump Kick
+Psycho Cut
+# 14 - 1.76 % (381 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (64.8 %)  
+Ice Punch
+Thunder Punch
+Drain Punch
+Psycho Cut
+# 15 - 1.44 % (312 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (70.5 %)  
+Thunder Punch
+Fake Out
+Drain Punch
+Bullet Punch
+# 16 - 1.41 % (306 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 252 Spd (58.5 %)  
+Bulk Up
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 17 - 1.38 % (300 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 252 Atk / 252 Spd (78.3 %)  
+Poison Jab
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 18 - 1.35 % (293 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (86.3 %)  
+Fire Punch
+Substitute
+Drain Punch
+Zen Headbutt
+# 19 - 1.21 % (262 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Naughty - EVs: 252 Atk / 252 Spd (89.7 %)  
+Ice Punch
+Poison Jab
+Drain Punch
+Psycho Cut
+# 20 - 1.19 % (258 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (58.5 %)  
+Fire Punch
+High Jump Kick
+Fake Out
+Psycho Cut
+# 21 - 1.19 % (258 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (36.0 %)  
+Thunder Punch
+High Jump Kick
+Bullet Punch
+Psycho Cut
+# 22 - 1.17 % (253 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (62.5 %)  
+Thunder Punch
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 23 - 1.09 % (236 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (44.1 %)  
+Fire Punch
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 24 - 1.06 % (229 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (35.4 %)  
+Fire Punch
+High Jump Kick
+Fake Out
+Zen Headbutt
+# 25 - 1.03 % (223 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (35.9 %)  
+Ice Punch
+High Jump Kick
+Substitute
+Psycho Cut
+# 1 - 7.86 % (405 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 252 Atk / 252 Spd (32.3 %)  
+Ice Punch
+High Jump Kick
+Fake Out
+Bullet Punch
+# 2 - 7.30 % (376 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (97.6 %) / Telepathy (2.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (33.8 %)  
+Ice Punch
+High Jump Kick
+Fake Out
+Psycho Cut
+# 3 - 7.22 % (372 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (36.8 %)  
+High Jump Kick
+Fake Out
+Bullet Punch
+Psycho Cut
+# 4 - 5.22 % (269 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (83.3 %)  
+Fire Punch
+Fake Out
+Drain Punch
+Bullet Punch
+# 5 - 5.16 % (266 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (43.2 %)  
+Ice Punch
+High Jump Kick
+Fake Out
+Zen Headbutt
+# 6 - 4.66 % (240 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (99.2 %) / Telepathy (0.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (55.8 %)  
+Ice Punch
+Fake Out
+Drain Punch
+Psycho Cut
+# 7 - 3.55 % (183 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (76.0 %)  
+Ice Punch
+High Jump Kick
+Bullet Punch
+Psycho Cut
+# 8 - 3.51 % (181 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (33.7 %)  
+High Jump Kick
+Fake Out
+Bullet Punch
+Zen Headbutt
+# 9 - 3.38 % (174 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (97.7 %) / Telepathy (2.3 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (28.7 %)  
+Fake Out
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 10 - 3.05 % (157 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.4 %)  
+Fake Out
+Drain Punch
+Bullet Punch
+Zen Headbutt
+# 11 - 2.77 % (143 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.1 %)  
+Ice Punch
+Fake Out
+Drain Punch
+Bullet Punch
+# 12 - 2.72 % (140 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (91.4 %) / Telepathy (8.6 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (53.6 %)  
+Fire Punch
+Ice Punch
+High Jump Kick
+Fake Out
+# 13 - 2.39 % (123 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (23.6 %)  
+Fire Punch
+High Jump Kick
+Fake Out
+Zen Headbutt
+# 14 - 2.27 % (117 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (25.6 %)  
+Fire Punch
+High Jump Kick
+Fake Out
+Psycho Cut
+# 15 - 2.06 % (106 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (46.2 %)  
+Ice Punch
+Drain Punch
+Bullet Punch
+Psycho Cut
+# 16 - 1.90 % (98 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 252 Atk / 252 Spd (99.0 %)  
+Fire Punch
+Ice Punch
+High Jump Kick
+Bullet Punch
+# 17 - 1.32 % (68 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fire Punch
+Ice Punch
+Thunder Punch
+High Jump Kick
+# 18 - 1.28 % (66 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 252 Spd (75.8 %)  
+Ice Punch
+Fake Out
+Drain Punch
+Zen Headbutt
+# 19 - 1.22 % (63 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (98.4 %) / Telepathy (1.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (77.8 %)  
+Thunder Punch
+High Jump Kick
+Fake Out
+Psycho Cut
+# 20 - 1.18 % (61 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (96.7 %)  
+Fake Out
+Poison Jab
+Drain Punch
+Psycho Cut
+# 21 - 1.14 % (59 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (93.2 %)  
+Fire Punch
+High Jump Kick
+Fake Out
+Bullet Punch
+# 22 - 1.13 % (58 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power (98.3 %) / Telepathy (1.7 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (34.5 %)  
+High Jump Kick
+Fake Out
+Drain Punch
+Psycho Cut
+# 23 - 1.09 % (56 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 252 Atk / 252 Spd (94.6 %)  
+Fire Punch
+Ice Punch
+High Jump Kick
+Psycho Cut
+# 24 - 0.99 % (51 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fake Out
+Drain Punch
+Bullet Punch
+Power-Up Punch
+# 25 - 0.85 % (44 battles)
+
+Medicham @ Medichamite Lv. 100 -- Pure Power
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (70.5 %)  
+Ice Punch
+Thunder Punch
+Fake Out
+Drain Punch

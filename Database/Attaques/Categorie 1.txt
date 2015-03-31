@@ -1,0 +1,49 @@
+Type	Prec	Prio	PP	Effet	Cibles	Sonore
+
+Confuse Ray
+Ghost	100	0	16	Conf	adv	yes
+
+Dark Void
+Dark	80	0	16	Somm	allAdv	no
+
+Glare
+Normal	100	0	48	Para	adv	no
+
+Grass Whistle
+Grass	55	0	24	Somm	adv	yes
+
+Hypnosis
+Psychic	60	0	32	Somm	adv	no
+
+Lovely Kiss
+Normal	75	0	16	Somm	adv	no
+
+Sing
+Normal	55	0	24	Somm	adv	yes
+
+Sleep Powder
+Grass	75	0	24	Somm	adv	no
+
+Spore
+Grass	100	0	24	Somm	adv	no
+
+Stun Spore
+Grass	75	0	48	Para	adv	no
+
+Supersonic
+Normal	55	0	32	Conf	adv	yes
+
+Sweet Kiss
+Normal	75	0	16	Conf	adv	no
+
+Teeter Dance
+Normal	100	0	32	Conf	allAdv	no
+
+Thunder Wave
+Electric	100	0	32	Para	adv	no
+
+Toxic
+Poison	90	0	16	GPsn	adv	no
+
+Will-O-Wisp
+Fire	85	0	24	Brul	adv	no

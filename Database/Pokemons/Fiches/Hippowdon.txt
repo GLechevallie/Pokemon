@@ -1,0 +1,405 @@
+Ground/-
+108/112/118/68/72/47
+300.0
+50/50
+
+# 1 - 13.63 % (1430 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (95.9 %) / Sand Force (4.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (16.6 %)  
+Whirlwind
+Earthquake
+Slack Off
+Stealth Rock
+# 2 - 11.63 % (1220 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (89.6 %) / Sand Force (10.4 %)
+Nature: Impish - EVs: 240 HP / 192 Def / 76 SDef (35.1 %)  
+Earthquake
+Toxic
+Slack Off
+Stealth Rock
+# 3 - 5.46 % (573 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (97.2 %) / Sand Force (2.8 %)
+Nature: Impish - EVs: 252 HP / 180 Def / 76 SDef (21.1 %)  
+Roar
+Earthquake
+Slack Off
+Stealth Rock
+# 4 - 3.96 % (415 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (96.4 %) / Sand Force (3.6 %)
+Nature: Impish - EVs: 248 HP / 64 Def / 196 SDef (33.0 %)  
+Earthquake
+Slack Off
+Stone Edge
+Stealth Rock
+# 5 - 3.64 % (382 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (91.9 %) / Sand Force (8.1 %)
+Nature: Careful - EVs: 252 HP / 120 Def / 136 SDef (34.8 %)  
+Earthquake
+Rock Slide
+Slack Off
+Stealth Rock
+# 6 - 3.14 % (329 battles)
+
+Hippowdon @ Rocky Helmet Lv. 100 -- Sand Stream (71.1 %) / Sand Force (28.9 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 112 Def / 140 SDef (33.4 %)  
+Whirlwind
+Earthquake
+Slack Off
+Stealth Rock
+# 7 - 2.35 % (246 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (53.3 %) / Sand Force (46.7 %)
+Nature: Impish - EVs: 252 HP / 32 Def / 224 SDef (40.2 %)  
+Earthquake
+Slack Off
+Ice Fang
+Stealth Rock
+# 8 - 2.15 % (226 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (26.1 %)  
+Whirlwind
+Earthquake
+Slack Off
+Stealth Rock
+# 9 - 2.08 % (218 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 248 HP / 252 Def / 8 SDef (85.8 %)  
+Whirlwind
+Earthquake
+Rock Slide
+Slack Off
+# 10 - 2.01 % (211 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Crunch
+Slack Off
+# 11 - 1.98 % (208 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (45.7 %)  
+Roar
+Earthquake
+Slack Off
+Stealth Rock
+# 12 - 1.94 % (204 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Roar
+Slack Off
+Stealth Rock
+Bulldoze
+# 13 - 1.74 % (183 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (97.8 %) / Sand Force (2.2 %)
+Nature: Impish - EVs: 252 HP / 116 Def / 140 SDef (73.2 %)  
+Earthquake
+Toxic
+Protect
+Slack Off
+# 14 - 1.72 % (180 battles)
+
+Hippowdon @ Choice Band Lv. 100 -- Sand Stream (76.7 %) / Sand Force (23.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Earthquake
+Ice Fang
+Fire Fang
+Stone Edge
+# 15 - 1.66 % (174 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Earthquake
+Rock Slide
+Protect
+Yawn
+# 16 - 1.37 % (144 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 188 HP / 16 Atk / 192 Def / 112 SDef (38.9 %)  
+Whirlwind
+Earthquake
+Slack Off
+Ice Fang
+# 17 - 1.26 % (132 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 252 HP / 252 Def (25.0 %)  
+Whirlwind
+Earthquake
+Toxic
+Slack Off
+# 18 - 1.12 % (118 battles)
+
+Hippowdon @ Rocky Helmet Lv. 100 -- Sand Stream (86.4 %) / Sand Force (13.6 %)
+Nature: Impish - EVs: 204 HP / 224 Def / 80 SDef (38.1 %)  
+Roar
+Earthquake
+Slack Off
+Stealth Rock
+# 19 - 0.92 % (97 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (82.5 %)  
+Earthquake
+Slack Off
+Stone Edge
+Stealth Rock
+# 20 - 0.86 % (90 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 188 HP / 72 Def / 248 SDef (27.8 %)  
+Roar
+Earthquake
+Stockpile
+Slack Off
+# 21 - 0.82 % (86 battles)
+
+Hippowdon @ Rocky Helmet Lv. 100 -- Sand Stream (97.7 %) / Sand Force (2.3 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (76.7 %)  
+Earthquake
+Toxic
+Slack Off
+Stealth Rock
+# 22 - 0.75 % (79 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Hardy - EVs: 72 HP / 156 Atk / 88 Def / 104 SAtk / 88 SDef (51.9 %) 
+Body Slam
+Earthquake
+Crunch
+Stealth Rock
+# 23 - 0.75 % (79 battles)
+
+Hippowdon @ Sitrus Berry Lv. 100 -- Sand Stream
+Nature: Relaxed - EVs: 252 HP / 252 Def (98.7 %)  
+Whirlwind
+Earthquake
+Yawn
+Stealth Rock
+# 24 - 0.74 % (78 battles)
+
+Hippowdon @ Rocky Helmet Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 172 HP / 252 Def / 84 SDef (42.3 %)  
+Whirlwind
+Earthquake
+Slack Off
+Stone Edge
+# 25 - 0.71 % (74 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Sassy - EVs: 232 HP / 20 Atk / 200 Def / 56 SDef (100.0 %)  
+Earthquake
+Protect
+Stone Edge
+Stealth Rock
+# 1 - 11.88 % (704 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (97.6 %) / Sand Force (2.4 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (21.9 %)  
+Whirlwind
+Earthquake
+Slack Off
+Stealth Rock
+# 2 - 11.57 % (686 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (99.0 %) / Sand Force (1.0 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (16.6 %)  
+Roar
+Earthquake
+Slack Off
+Stealth Rock
+# 3 - 10.65 % (631 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (81.6 %) / Sand Force (18.4 %)
+Nature: Impish - EVs: 240 HP / 192 Def / 76 SDef (19.0 %)  
+Earthquake
+Toxic
+Slack Off
+Stealth Rock
+# 4 - 6.41 % (380 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (57.1 %) / Sand Force (42.9 %)
+Nature: Impish - EVs: 252 HP / 32 Def / 224 SDef (40.8 %)  
+Earthquake
+Slack Off
+Ice Fang
+Stealth Rock
+# 5 - 6.24 % (370 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Relaxed - EVs: 148 HP / 160 Atk / 200 SDef (65.4 %)  
+Earthquake
+Yawn
+Slack Off
+Stealth Rock
+# 6 - 5.52 % (327 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 252 HP / 252 Def (57.5 %)  
+Whirlwind
+Earthquake
+Slack Off
+Stealth Rock
+# 7 - 3.91 % (232 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (97.4 %) / Sand Force (2.6 %)
+Nature: Impish - EVs: 252 HP / 60 Def / 196 SDef (16.4 %)  
+Earthquake
+Rock Slide
+Slack Off
+Stealth Rock
+# 8 - 2.87 % (170 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (38.8 %)  
+Roar
+Earthquake
+Slack Off
+Stealth Rock
+# 9 - 2.09 % (124 battles)
+
+Hippowdon @ Rocky Helmet Lv. 100 -- Sand Stream (96.0 %) / Sand Force (4.0 %)
+Nature: Impish - EVs: 252 HP / 176 Def / 80 SDef (57.3 %)  
+Roar
+Earthquake
+Slack Off
+Stealth Rock
+# 10 - 1.84 % (109 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (91.7 %) / Sand Force (8.3 %)
+Nature: Adamant - EVs: 252 HP / 120 Def / 136 SDef (19.3 %)  
+Earthquake
+Slack Off
+Stone Edge
+Stealth Rock
+# 11 - 1.57 % (93 battles)
+
+Hippowdon @ Rocky Helmet Lv. 100 -- Sand Stream (79.6 %) / Sand Force (20.4 %)
+Nature: Impish - EVs: 252 HP / 252 Def (29.0 %)  
+Whirlwind
+Earthquake
+Slack Off
+Stealth Rock
+# 12 - 1.55 % (92 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (34.8 %) / Sand Force (65.2 %)
+Nature: Impish - EVs: 252 HP / 32 Def / 224 SDef (65.2 %)  
+Roar
+Earthquake
+Ice Fang
+Stealth Rock
+# 13 - 1.52 % (90 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 252 HP / 84 Atk / 172 Def (38.9 %)  
+Earthquake
+Toxic
+Slack Off
+Stealth Rock
+# 14 - 1.21 % (72 battles)
+
+Hippowdon @ Sitrus Berry Lv. 100 -- Sand Stream
+Nature: Sassy - EVs: 252 HP / 252 SDef (100.0 %)  
+Roar
+Earthquake
+Toxic
+Stealth Rock
+# 15 - 0.79 % (47 battles)
+
+Hippowdon @ Choice Band Lv. 100 -- Sand Stream (36.2 %) / Sand Force (63.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Earthquake
+Ice Fang
+Fire Fang
+Stone Edge
+# 16 - 0.74 % (44 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (27.3 %)  
+Earthquake
+Slack Off
+Stone Edge
+Stealth Rock
+# 17 - 0.69 % (41 battles)
+
+Hippowdon @ Lum Berry Lv. 100 -- Sand Stream
+Nature: Relaxed - EVs: 252 HP / 252 Def (70.7 %)  
+Roar
+Earthquake
+Slack Off
+Stealth Rock
+# 18 - 0.66 % (39 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 4 SAtk / 252 SDef (43.6 %)  
+Whirlwind
+Earthquake
+Slack Off
+Ice Fang
+# 19 - 0.54 % (32 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 248 HP / 8 Def / 252 SDef (100.0 %)  
+Whirlwind
+Earthquake
+Rock Slide
+Slack Off
+# 20 - 0.52 % (31 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 4 HP / 252 Def / 252 SDef (51.6 %)  
+Whirlwind
+Toxic
+Slack Off
+Stealth Rock
+# 21 - 0.51 % (30 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (66.7 %)  
+Earthquake
+Crunch
+Slack Off
+Stealth Rock
+# 22 - 0.46 % (27 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream (96.3 %) / Sand Force (3.7 %)
+Nature: Impish - EVs: 252 HP / 116 Def / 140 SDef (29.6 %)  
+Earthquake
+Toxic
+Protect
+Slack Off
+# 23 - 0.46 % (27 battles)
+
+Hippowdon @ Yache Berry Lv. 100 -- Sand Stream
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Whirlwind
+Toxic
+Attract
+Stealth Rock
+# 24 - 0.42 % (25 battles)
+
+Hippowdon @ Leftovers Lv. 100 -- Sand Stream
+Nature: Relaxed - EVs: 244 HP / 84 Def / 180 SDef (32.0 %)  
+Whirlwind
+Earthquake
+Toxic
+Slack Off
+# 25 - 0.42 % (25 battles)
+
+Hippowdon @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 128 Def / 128 SDef (100.0 %)  
+Earthquake
+Slack Off
+Thunder Fang
+Stealth Rock

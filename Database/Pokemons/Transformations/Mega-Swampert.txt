@@ -1,0 +1,4 @@
+Water/Ground
+100/150/110/95/110/70
+Swift Swim
+102.0

@@ -1,0 +1,405 @@
+Water/Psychic
+95/75/110/100/80/30
+78.5
+50/50
+
+# 1 - 8.80 % (1909 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Own Tempo (0.2 %) / Regenerator (99.8 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (59.3 %)  
+Thunder Wave
+Slack Off
+Psyshock
+Scald
+# 2 - 4.10 % (889 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (9.0 %) / Regenerator (91.0 %)
+Nature: Bold - EVs: 248 HP / 244 Def / 16 SAtk (17.2 %)  
+Slack Off
+Calm Mind
+Psyshock
+Scald
+# 3 - 3.23 % (700 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (8.6 %) / Regenerator (91.4 %)
+Nature: Bold - EVs: 216 HP / 252 Def / 40 SDef (38.6 %)  
+Ice Beam
+Thunder Wave
+Slack Off
+Scald
+# 4 - 2.59 % (562 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Oblivious (0.5 %) / Regenerator (99.5 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SAtk (27.8 %)  
+Flamethrower
+Ice Beam
+Psyshock
+Scald
+# 5 - 2.41 % (523 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Oblivious (1.0 %) / Regenerator (99.0 %)
+Nature: Bold - EVs: 252 HP / 216 Def / 40 SDef (16.3 %)  
+Ice Beam
+Fire Blast
+Psyshock
+Scald
+# 6 - 1.96 % (425 battles)
+
+Slowbro @ Expert Belt Lv. 100 -- Regenerator
+Nature: Quiet - EVs: 252 HP / 252 SAtk (100.0 %)  
+Ice Beam
+Fire Blast
+Trick Room
+Scald
+# 7 - 1.71 % (371 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Oblivious (10.2 %) / Regenerator (89.8 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (32.3 %)  
+Flamethrower
+Ice Beam
+Psychic
+Scald
+# 8 - 1.71 % (370 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (15.7 %) / Own Tempo (0.5 %) / Regenerator (83.8 %)
+Nature: Modest - EVs: 252 HP / 252 Def / 4 SAtk (19.5 %)  
+Ice Beam
+Toxic
+Slack Off
+Scald
+# 9 - 1.54 % (335 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (1.8 %) / Regenerator (98.2 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SAtk (34.0 %)  
+Psychic
+Slack Off
+Calm Mind
+Scald
+# 10 - 1.48 % (320 battles)
+
+Slowbro @ Choice Specs Lv. 100 -- Regenerator
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (77.8 %)  
+Flamethrower
+Ice Beam
+Psyshock
+Scald
+# 11 - 1.46 % (317 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 240 HP / 252 Def / 16 SAtk (62.1 %)  
+Thunder Wave
+Slack Off
+Psyshock
+Scald
+# 12 - 1.18 % (255 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Quiet - EVs: 252 HP / 4 Def / 252 SAtk (81.2 %)  
+Flamethrower
+Trick Room
+Psyshock
+Scald
+# 13 - 1.14 % (248 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (4.8 %) / Regenerator (95.2 %)
+Nature: Bold - EVs: 252 Def / 252 SAtk / 4 SDef (38.7 %)  
+Toxic
+Slack Off
+Psyshock
+Scald
+# 14 - 1.09 % (236 battles)
+
+Slowbro @ Choice Specs Lv. 100 -- Regenerator
+Nature: Modest - EVs: 248 HP / 108 Def / 152 SAtk (30.5 %)  
+Ice Beam
+Shadow Ball
+Psyshock
+Scald
+# 15 - 1.00 % (218 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Relaxed - EVs: 216 HP / 252 Def / 40 SDef (99.5 %)  
+Surf
+Psychic
+Slack Off
+Trick Room
+# 16 - 0.94 % (203 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (45.3 %)  
+Flamethrower
+Psychic
+Slack Off
+Scald
+# 17 - 0.89 % (192 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (13.0 %) / Own Tempo (1.0 %) / Regenerator (85.9 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (79.7 %)  
+Ice Beam
+Psychic
+Slack Off
+Scald
+# 18 - 0.85 % (185 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (47.6 %)  
+Toxic
+Psychic
+Slack Off
+Scald
+# 19 - 0.82 % (177 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Oblivious (1.7 %) / Regenerator (98.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (98.3 %)  
+Flamethrower
+Ice Beam
+Slack Off
+Iron Defense
+# 20 - 0.79 % (172 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 248 HP / 216 Def / 44 SAtk (46.5 %)  
+Flamethrower
+Slack Off
+Trick Room
+Scald
+# 21 - 0.79 % (172 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (44.8 %)  
+Ice Beam
+Psychic
+Fire Blast
+Scald
+# 22 - 0.77 % (167 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Sassy - EVs: 252 HP / 252 Def / 4 SDef (68.3 %)  
+Surf
+Thunder Wave
+Slack Off
+Psyshock
+# 23 - 0.74 % (161 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (45.3 %)  
+Ice Beam
+Slack Off
+Psyshock
+Scald
+# 24 - 0.73 % (158 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Modest - EVs: 252 HP / 252 SAtk (89.2 %)  
+Psychic
+Fire Blast
+Trick Room
+Scald
+# 25 - 0.71 % (154 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Quiet - EVs: 140 HP / 116 Def / 252 SAtk (51.3 %)  
+Calm Mind
+Trick Room
+Psyshock
+Scald
+# 1 - 11.10 % (254 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (0.8 %) / Regenerator (99.2 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (77.2 %)  
+Thunder Wave
+Slack Off
+Psyshock
+Scald
+# 2 - 3.89 % (89 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 216 Def / 20 SAtk / 20 Spd (83.1 %)  
+Toxic
+Slack Off
+Psyshock
+Scald
+# 3 - 2.88 % (66 battles)
+
+Slowbro @ Choice Specs Lv. 100 -- Regenerator
+Nature: Modest - EVs: 248 HP / 108 Def / 152 SAtk (28.8 %)  
+Ice Beam
+Shadow Ball
+Psyshock
+Scald
+# 4 - 2.88 % (66 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (6.1 %) / Regenerator (93.9 %)
+Nature: Bold - EVs: 248 HP / 244 Def / 16 SAtk (27.3 %)  
+Slack Off
+Calm Mind
+Psyshock
+Scald
+# 5 - 2.40 % (55 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (27.3 %)  
+Flamethrower
+Ice Beam
+Psyshock
+Scald
+# 6 - 2.05 % (47 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 64 Def / 184 SAtk / 8 SDef (100.0 %)  
+Ice Beam
+Shadow Ball
+Psyshock
+Scald
+# 7 - 1.97 % (45 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Regenerator
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (13.3 %)  
+Ice Beam
+Fire Blast
+Psyshock
+Scald
+# 8 - 1.70 % (39 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SAtk (74.4 %)  
+Psychic
+Slack Off
+Trick Room
+Scald
+# 9 - 1.62 % (37 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (91.9 %)  
+Ice Beam
+Slack Off
+Psyshock
+Scald
+# 10 - 1.53 % (35 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Modest - EVs: 252 Def / 252 SAtk (97.1 %)  
+Surf
+Ice Beam
+Psychic
+Trick Room
+# 11 - 1.27 % (29 battles)
+
+Slowbro @ Expert Belt Lv. 100 -- Regenerator
+Nature: Quiet - EVs: 252 HP / 252 SAtk (100.0 %)  
+Ice Beam
+Fire Blast
+Trick Room
+Scald
+# 12 - 1.27 % (29 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (96.6 %)  
+Thunder Wave
+Psychic
+Slack Off
+Scald
+# 13 - 1.22 % (28 battles)
+
+Slowbro @ Choice Specs Lv. 100 -- Regenerator
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (96.4 %)  
+Psychic
+Trick
+Focus Blast
+Scald
+# 14 - 1.22 % (28 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (35.7 %)  
+Flamethrower
+Ice Beam
+Slack Off
+Scald
+# 15 - 1.14 % (26 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Hardy - EVs: 68 HP / 152 Def / 60 SAtk / 228 SDef (100.0 %) 
+Ice Beam
+Thunder Wave
+Psychic
+Slack Off
+# 16 - 1.09 % (25 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 Def / 252 SAtk (72.0 %)  
+Flamethrower
+Psychic
+Trick Room
+Scald
+# 17 - 1.05 % (24 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (33.3 %)  
+Ice Beam
+Thunder Wave
+Slack Off
+Scald
+# 18 - 1.05 % (24 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Oblivious (8.3 %) / Regenerator (91.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (25.0 %)  
+Flamethrower
+Ice Beam
+Psychic
+Scald
+# 19 - 1.00 % (23 battles)
+
+Slowbro @ Choice Specs Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (82.6 %)  
+Ice Beam
+Fire Blast
+Psyshock
+Scald
+# 20 - 0.87 % (20 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Quiet - EVs: 252 HP / 4 Def / 252 SAtk (75.0 %)  
+Flamethrower
+Slack Off
+Trick Room
+Scald
+# 21 - 0.87 % (20 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Regenerator
+Nature: Relaxed - EVs: 252 HP / 252 Def / 4 SAtk (40.0 %)  
+Flamethrower
+Trick Room
+Psyshock
+Scald
+# 22 - 0.87 % (20 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious
+Nature: Relaxed - EVs: 212 HP / 252 Def / 44 SAtk (60.0 %)[Electric] 
+Surf
+Hidden Power
+Slack Off
+Trick Room
+# 23 - 0.87 % (20 battles)
+
+Slowbro @ Assault Vest Lv. 100 -- Regenerator
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (20.0 %)  
+Ice Beam
+Psychic
+Fire Blast
+Scald
+# 24 - 0.83 % (19 battles)
+
+Slowbro @ Leftovers Lv. 100 -- Oblivious (47.4 %) / Regenerator (52.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def (47.4 %)  
+Ice Beam
+Trick Room
+Psyshock
+Scald
+# 25 - 0.83 % (19 battles)
+
+Slowbro @ Rocky Helmet Lv. 100 -- Regenerator
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (94.7 %)  
+Toxic
+Psychic
+Slack Off
+Scald

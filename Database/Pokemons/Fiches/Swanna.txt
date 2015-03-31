@@ -1,0 +1,405 @@
+Water/Flying
+75/87/63/87/63/98
+24.2
+50/50
+
+# 1 - 28.08 % (41 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.9 %)  
+Surf
+Rest
+Rain Dance
+Hurricane
+# 2 - 13.01 % (19 battles)
+
+Swanna @ Mystic Water Lv. 100 -- Big Pecks
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Roost
+Air Slash
+Defog
+Scald
+# 3 - 10.27 % (15 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Air Slash
+Defog
+Scald
+# 4 - 9.59 % (14 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Tailwind
+Defog
+Scald
+Hurricane
+# 5 - 4.11 % (6 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Tailwind
+Defog
+Scald
+Hurricane
+# 6 - 3.42 % (5 battles)
+
+Swanna @ Life Orb Lv. 100 -- Big Pecks
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Roost
+Air Slash
+Scald
+# 7 - 3.42 % (5 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Roost
+Air Slash
+Defog
+Scald
+# 8 - 3.42 % (5 battles)
+
+Swanna @ Life Orb Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Roost
+Defog
+Scald
+Hurricane
+# 9 - 2.74 % (4 battles)
+
+Swanna @ Leftovers Lv. 100 -- Big Pecks (75.0 %) / Hydration (25.0 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (75.0 %)  
+Roost
+Air Slash
+Defog
+Scald
+# 10 - 2.05 % (3 battles)
+
+Swanna @ Focus Sash Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Tailwind
+Defog
+Scald
+Hurricane
+# 11 - 2.05 % (3 battles)
+
+Swanna @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Rain Dance
+Tailwind
+Scald
+Hurricane
+# 12 - 2.05 % (3 battles)
+
+Swanna @ Sharp Beak Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Rain Dance
+Tailwind
+Scald
+Hurricane
+# 13 - 2.05 % (3 battles)
+
+Swanna @ Icicle Plate Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 20 HP / 236 SAtk / 252 Spd (100.0 %)  
+Icy Wind
+Feather Dance
+Defog
+Scald
+# 14 - 1.37 % (2 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Ice Beam
+Sleep Talk
+Air Slash
+Scald
+# 15 - 1.37 % (2 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 92 Def / 252 SAtk / 112 SDef / 52 Spd (100.0 %)  
+Ice Beam
+Me First
+Scald
+Hurricane
+# 16 - 1.37 % (2 battles)
+
+Swanna @ Choice Specs Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Surf
+Ice Beam
+Hidden Power
+Hurricane
+# 17 - 1.37 % (2 battles)
+
+Swanna @ Expert Belt Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Surf
+Ice Beam
+Hidden Power
+Hurricane
+# 18 - 1.37 % (2 battles)
+
+Swanna @ Power Herb Lv. 100 -- Keen Eye
+Nature: Hardy - EVs: 24 HP / 148 Atk / 20 Def / 148 SAtk / 20 SDef / 148 Spd (100.0 %)  
+Ice Beam
+Bubble Beam
+Roost
+Brave Bird
+# 19 - 1.37 % (2 battles)
+
+Swanna @ Life Orb Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Air Slash
+Defog
+# 20 - 1.37 % (2 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Toxic
+Roost
+Air Slash
+Scald
+# 21 - 0.68 % (1 battles)
+
+Swanna @ (No Item) Lv. 100 -- Hydration
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Ice Beam
+Rain Dance
+Hurricane
+# 22 - 0.68 % (1 battles)
+
+Swanna @ (No Item) Lv. 100 -- Hydration
+Nature: Naive - EVs: 168 Atk / 168 SAtk / 172 Spd (100.0 %)  
+Ice Beam
+Roost
+Brine
+Brave Bird
+# 23 - 0.68 % (1 battles)
+
+Swanna @ (No Item) Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 HP / 252 Spd (100.0 %)  
+Rest
+Feather Dance
+Air Slash
+Scald
+# 24 - 0.68 % (1 battles)
+
+Swanna @ (No Item) Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Rain Dance
+Brine
+Me First
+Hurricane
+# 25 - 0.68 % (1 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Roost
+Air Slash
+Defog
+Scald
+# 1 - 56.52 % (13 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Modest - EVs: 252 SAtk / 252 Spd (46.2 %)  
+Surf
+Rest
+Rain Dance
+Hurricane
+# 2 - 13.04 % (3 battles)
+
+Swanna @ Icicle Plate Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 20 HP / 236 SAtk / 252 Spd (100.0 %)  
+Icy Wind
+Feather Dance
+Defog
+Scald
+# 3 - 8.70 % (2 battles)
+
+Swanna @ Sharp Beak Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Rain Dance
+Tailwind
+Scald
+Hurricane
+# 4 - 4.35 % (1 battles)
+
+Swanna @ (No Item) Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Surf
+Rain Dance
+Defog
+Hurricane
+# 5 - 4.35 % (1 battles)
+
+Swanna @ (No Item) Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 HP / 252 Spd (100.0 %)  
+Rest
+Icy Wind
+Scald
+Hurricane
+# 6 - 4.35 % (1 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Air Slash
+Defog
+Scald
+# 7 - 4.35 % (1 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 HP / 136 SAtk / 120 Spd (100.0 %)  
+Substitute
+Rain Dance
+Roost
+Scald
+# 8 - 4.35 % (1 battles)
+
+Swanna @ Life Orb Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Roost
+Defog
+Scald
+Hurricane
+# 9 - 0 % (41 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.9 %)  
+Surf
+Rest
+Rain Dance
+Hurricane
+# 10 - 0 % (19 battles)
+
+Swanna @ Mystic Water Lv. 100 -- Big Pecks
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Roost
+Air Slash
+Defog
+Scald
+# 11 - 0 % (15 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Air Slash
+Defog
+Scald
+# 12 - 0 % (14 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Tailwind
+Defog
+Scald
+Hurricane
+# 13 - 0 % (6 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Tailwind
+Defog
+Scald
+Hurricane
+# 14 - 0 % (5 battles)
+
+Swanna @ Life Orb Lv. 100 -- Big Pecks
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Roost
+Air Slash
+Scald
+# 15 - 0 % (5 battles)
+
+Swanna @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Roost
+Air Slash
+Defog
+Scald
+# 16 - 0 % (5 battles)
+
+Swanna @ Life Orb Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Roost
+Defog
+Scald
+Hurricane
+# 17 - 0 % (4 battles)
+
+Swanna @ Leftovers Lv. 100 -- Big Pecks (75.0 %) / Hydration (25.0 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (75.0 %)  
+Roost
+Air Slash
+Defog
+Scald
+# 18 - 0 % (3 battles)
+
+Swanna @ Focus Sash Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Tailwind
+Defog
+Scald
+Hurricane
+# 19 - 0 % (3 battles)
+
+Swanna @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Rain Dance
+Tailwind
+Scald
+Hurricane
+# 20 - 0 % (3 battles)
+
+Swanna @ Sharp Beak Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Rain Dance
+Tailwind
+Scald
+Hurricane
+# 21 - 0 % (3 battles)
+
+Swanna @ Icicle Plate Lv. 100 -- Big Pecks
+Nature: Modest - EVs: 20 HP / 236 SAtk / 252 Spd (100.0 %)  
+Icy Wind
+Feather Dance
+Defog
+Scald
+# 22 - 0 % (2 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Ice Beam
+Sleep Talk
+Air Slash
+Scald
+# 23 - 0 % (2 battles)
+
+Swanna @ Choice Scarf Lv. 100 -- Keen Eye
+Nature: Modest - EVs: 92 Def / 252 SAtk / 112 SDef / 52 Spd (100.0 %)  
+Ice Beam
+Me First
+Scald
+Hurricane
+# 24 - 0 % (2 battles)
+
+Swanna @ Choice Specs Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Surf
+Ice Beam
+Hidden Power
+Hurricane
+# 25 - 0 % (2 battles)
+
+Swanna @ Expert Belt Lv. 100 -- Keen Eye
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Surf
+Ice Beam
+Hidden Power
+Hurricane

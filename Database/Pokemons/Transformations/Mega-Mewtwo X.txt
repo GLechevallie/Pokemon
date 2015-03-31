@@ -1,0 +1,4 @@
+Psychic/Fighting
+106/190/100/154/100/130
+Steadfast
+127.0

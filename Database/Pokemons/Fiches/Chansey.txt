@@ -1,0 +1,405 @@
+Normal/-
+250/5/5/35/105/50
+34.6
+0/100
+
+# 1 - 8.80 % (4634 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (99.9 %) / Serene Grace (0.0 %) / Healer (0.0 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (32.9 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Aromatherapy
+# 2 - 8.61 % (4538 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (98.8 %) / Serene Grace (1.2 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (22.4 %)  
+Seismic Toss
+Protect
+Heal Bell
+Wish
+# 3 - 8.27 % (4356 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (98.8 %) / Serene Grace (0.3 %) / Healer (1.0 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (24.2 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Heal Bell
+# 4 - 7.74 % (4077 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (93.4 %) / Serene Grace (1.4 %) / Healer (5.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (31.6 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Aromatherapy
+# 5 - 6.29 % (3315 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (98.8 %) / Serene Grace (0.0 %) / Healer (1.1 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (26.1 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Heal Bell
+# 6 - 5.80 % (3053 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (26.9 %)  
+Seismic Toss
+Soft-Boiled
+Heal Bell
+Wish
+# 7 - 4.31 % (2273 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (20.8 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Stealth Rock
+# 8 - 4.31 % (2272 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (98.7 %) / Serene Grace (1.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (17.0 %)  
+Seismic Toss
+Toxic
+Protect
+Wish
+# 9 - 3.83 % (2019 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (99.9 %) / Serene Grace (0.1 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (23.4 %)  
+Seismic Toss
+Thunder Wave
+Heal Bell
+Wish
+# 10 - 3.35 % (1767 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (25.6 %)  
+Toxic
+Protect
+Heal Bell
+Wish
+# 11 - 3.23 % (1701 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (98.6 %) / Serene Grace (1.4 %)
+Nature: Careful - EVs: 252 HP / 252 SDef (24.9 %)  
+Seismic Toss
+Toxic
+Heal Bell
+Wish
+# 12 - 2.59 % (1362 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (22.3 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Stealth Rock
+# 13 - 1.99 % (1050 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (90.5 %) / Serene Grace (9.5 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (56.1 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Wish
+# 14 - 1.64 % (864 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (97.1 %) / Serene Grace (0.3 %) / Healer (2.5 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (62.6 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Protect
+# 15 - 1.62 % (851 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def (20.1 %)  
+Seismic Toss
+Soft-Boiled
+Heal Bell
+Stealth Rock
+# 16 - 1.48 % (782 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 116 HP / 252 Def / 136 SDef / 4 Spd (18.7 %)  
+Seismic Toss
+Thunder Wave
+Protect
+Wish
+# 17 - 1.41 % (744 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (19.8 %)  
+Toxic
+Soft-Boiled
+Heal Bell
+Wish
+# 18 - 1.22 % (643 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (99.8 %) / Serene Grace (0.2 %)
+Nature: Bold - EVs: 116 HP / 252 Def / 140 SDef (83.0 %)  
+Toxic
+Soft-Boiled
+Aromatherapy
+Healing Wish
+# 19 - 0.96 % (506 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (99.2 %) / Serene Grace (0.8 %)
+Nature: Bold - EVs: 252 HP / 252 Def (37.0 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Wish
+# 20 - 0.95 % (498 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (35.7 %)  
+Seismic Toss
+Soft-Boiled
+Aromatherapy
+Stealth Rock
+# 21 - 0.77 % (405 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Impish - EVs: 252 Def / 252 SDef / 4 Spd (41.0 %)  
+Thunder Wave
+Soft-Boiled
+Heal Bell
+Wish
+# 22 - 0.69 % (363 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (98.6 %) / Serene Grace (1.4 %)
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (31.4 %)  
+Counter
+Seismic Toss
+Toxic
+Soft-Boiled
+# 23 - 0.67 % (352 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (99.7 %) / Healer (0.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (41.8 %)  
+Counter
+Seismic Toss
+Soft-Boiled
+Heal Bell
+# 24 - 0.65 % (341 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (93.3 %)  
+Thunder Wave
+Heal Bell
+Wish
+Stealth Rock
+# 25 - 0.62 % (325 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 80 HP / 252 Def / 176 SDef (37.2 %)  
+Counter
+Seismic Toss
+Protect
+Wish
+# 1 - 14.20 % (372 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (22.8 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Stealth Rock
+# 2 - 11.03 % (289 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Impish - EVs: 4 HP / 252 Def / 252 SDef (33.6 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Stealth Rock
+# 3 - 6.07 % (159 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (97.5 %) / Serene Grace (0.6 %) / Healer (1.9 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (37.1 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Aromatherapy
+# 4 - 5.95 % (156 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (27.6 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Aromatherapy
+# 5 - 4.54 % (119 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (99.2 %) / Serene Grace (0.8 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (18.5 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Heal Bell
+# 6 - 4.43 % (116 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def (34.5 %)  
+Seismic Toss
+Soft-Boiled
+Heal Bell
+Stealth Rock
+# 7 - 4.01 % (105 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 SDef (15.2 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Heal Bell
+# 8 - 3.36 % (88 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Impish - EVs: 128 HP / 128 Def / 252 SDef (39.8 %)  
+Toxic
+Protect
+Heal Bell
+Wish
+# 9 - 3.32 % (87 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (94.3 %) / Serene Grace (5.7 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (28.7 %)  
+Seismic Toss
+Toxic
+Protect
+Wish
+# 10 - 3.02 % (79 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (96.2 %) / Serene Grace (3.8 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (29.1 %)  
+Seismic Toss
+Protect
+Heal Bell
+Wish
+# 11 - 2.40 % (63 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (93.7 %) / Serene Grace (6.3 %)
+Nature: Careful - EVs: 252 HP / 252 SDef (22.2 %)  
+Seismic Toss
+Toxic
+Heal Bell
+Wish
+# 12 - 2.37 % (62 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def (58.1 %)  
+Seismic Toss
+Soft-Boiled
+Wish
+Stealth Rock
+# 13 - 2.25 % (59 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Seismic Toss
+Thunder Wave
+Heal Bell
+Stealth Rock
+# 14 - 2.18 % (57 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (19.3 %)  
+Seismic Toss
+Soft-Boiled
+Heal Bell
+Wish
+# 15 - 1.91 % (50 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (98.0 %) / Serene Grace (2.0 %)
+Nature: Bold - EVs: 252 Def / 252 SDef (32.0 %)  
+Seismic Toss
+Heal Bell
+Wish
+Stealth Rock
+# 16 - 1.87 % (49 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Seismic Toss
+Thunder Wave
+Protect
+Stealth Rock
+# 17 - 1.83 % (48 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (97.9 %) / Serene Grace (2.1 %)
+Nature: Careful - EVs: 252 HP / 252 Def / 4 SDef (14.6 %)  
+Seismic Toss
+Thunder Wave
+Heal Bell
+Wish
+# 18 - 1.49 % (39 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (46.2 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Protect
+# 19 - 1.49 % (39 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (30.8 %)  
+Toxic
+Soft-Boiled
+Heal Bell
+Stealth Rock
+# 20 - 1.11 % (29 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (27.6 %)  
+Seismic Toss
+Thunder Wave
+Protect
+Wish
+# 21 - 1.03 % (27 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def (63.0 %)  
+Seismic Toss
+Thunder Wave
+Soft-Boiled
+Wish
+# 22 - 0.95 % (25 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (56.0 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Wish
+# 23 - 0.92 % (24 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (25.0 %)  
+Seismic Toss
+Soft-Boiled
+Aromatherapy
+Stealth Rock
+# 24 - 0.84 % (22 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure
+Nature: Bold - EVs: 252 Def / 252 SDef / 4 Spd (100.0 %)  
+Toxic
+Metronome
+Wish
+Stealth Rock
+# 25 - 0.61 % (16 battles)
+
+Chansey @ Eviolite Lv. 100 -- Natural Cure (87.5 %) / Healer (12.5 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (81.2 %)  
+Thunder Wave
+Soft-Boiled
+Aromatherapy
+Stealth Rock

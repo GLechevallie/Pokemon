@@ -1,0 +1,405 @@
+Dark/Steel
+45/85/70/40/40/60
+10.2
+50/50
+
+# 1 - 27.70 % (187 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Adamant - EVs: 76 HP / 236 Atk / 196 Spd (49.2 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 2 - 12.30 % (83 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Jolly - EVs: 76 HP / 236 Atk / 196 Spd (19.3 %)  
+Pursuit
+Brick Break
+Knock Off
+Iron Head
+# 3 - 10.22 % (69 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 76 HP / 236 Atk / 196 Spd (23.2 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 4 - 9.78 % (66 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant (81.8 %) / Inner Focus (18.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (60.6 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 5 - 7.26 % (49 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Adamant - EVs: 252 Atk / 252 Spd (28.6 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 6 - 5.33 % (36 battles)
+
+Pawniard @ Lum Berry Lv. 5 -- Defiant
+Nature: Adamant - EVs: 240 Atk / 72 Def / 196 Spd (52.8 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 7 - 3.70 % (25 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 156 Atk / 36 Def / 116 SDef / 196 Spd (24.0 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Stealth Rock
+# 8 - 3.11 % (21 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Brick Break
+Sucker Punch
+Iron Head
+# 9 - 2.07 % (14 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Adamant - EVs: 108 HP / 200 Atk / 200 Spd (57.1 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 10 - 1.48 % (10 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant (30.0 %) / Inner Focus (70.0 %)
+Nature: Adamant - EVs: 236 Atk / 36 Def / 36 SDef / 196 Spd (70.0 %)  
+Knock Off
+X-Scissor
+Iron Head
+Low Sweep
+# 11 - 1.48 % (10 battles)
+
+Pawniard @ Berry Juice Lv. 5 -- Defiant
+Nature: Jolly - EVs: 76 HP / 236 Atk / 196 Spd (30.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 12 - 1.33 % (9 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Jolly - EVs: 236 Atk / 76 Def / 196 Spd (66.7 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 13 - 1.33 % (9 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Inner Focus
+Nature: Jolly - EVs: 240 Atk / 36 Def / 36 SDef / 196 Spd (100.0 %)  
+Swords Dance
+Brick Break
+Knock Off
+Iron Head
+# 14 - 1.19 % (8 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 156 Atk / 36 Def / 116 SDef / 196 Spd (87.5 %)  
+Swords Dance
+Brick Break
+Sucker Punch
+Iron Head
+# 15 - 1.04 % (7 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Careful - EVs: 252 Atk / 136 Def / 84 SDef / 36 Spd (100.0 %)  
+Swords Dance
+Low Kick
+Sucker Punch
+Iron Head
+# 16 - 0.89 % (6 battles)
+
+Pawniard @ Leftovers Lv. 5 -- Defiant
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 17 - 0.89 % (6 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Brick Break
+Knock Off
+Iron Head
+# 18 - 0.89 % (6 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Adamant - EVs: 236 Atk / 36 Def / 120 SDef / 116 Spd (50.0 %)  
+Brick Break
+Sucker Punch
+Night Slash
+Iron Head
+# 19 - 0.74 % (5 battles)
+
+Pawniard @ Expert Belt Lv. 5 -- Defiant
+Nature: Adamant - EVs: 140 HP / 252 Atk / 116 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 20 - 0.44 % (3 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Adamant - EVs: 136 HP / 252 Atk / 120 Spd (100.0 %)  
+Brick Break
+Knock Off
+Aerial Ace
+Iron Head
+# 21 - 0.44 % (3 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Jolly - EVs: 240 Atk / 240 Spd (100.0 %)  
+Brick Break
+Knock Off
+Iron Head
+Stealth Rock
+# 22 - 0.44 % (3 battles)
+
+Pawniard @ Focus Sash Lv. 5 -- Defiant
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Shadow Claw
+# 23 - 0.44 % (3 battles)
+
+Pawniard @ Leftovers Lv. 5 -- Defiant
+Nature: Jolly - EVs: 236 Atk / 76 SDef / 196 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 24 - 0.44 % (3 battles)
+
+Pawniard @ Black Glasses Lv. 5 -- Inner Focus
+Nature: Impish - EVs: 252 Atk / 4 Def / 252 SDef (100.0 %)  
+Night Slash
+Iron Head
+Stealth Rock
+Power-Up Punch
+# 25 - 0.44 % (3 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Adamant - EVs: 200 Atk / 36 Def / 72 SDef / 200 Spd (66.7 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Low Sweep
+# 1 - 35.48 % (22 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (81.8 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 2 - 12.90 % (8 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Adamant - EVs: 236 Atk / 36 Def / 36 SDef / 196 Spd (25.0 %)  
+Pursuit
+Brick Break
+Knock Off
+Iron Head
+# 3 - 12.90 % (8 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 208 Atk / 28 Def / 76 SDef / 196 Spd (37.5 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 4 - 9.68 % (6 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (33.3 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 5 - 8.06 % (5 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Adamant - EVs: 236 Atk / 36 Def / 36 SDef / 196 Spd (40.0 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Stealth Rock
+# 6 - 4.84 % (3 battles)
+
+Pawniard @ Berry Juice Lv. 5 -- Defiant
+Nature: Impish - EVs: 160 Atk / 96 Def / 252 SDef (100.0 %)  
+Swords Dance
+Knock Off
+Psycho Cut
+Iron Head
+# 7 - 3.23 % (2 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Adamant - EVs: 136 HP / 252 Atk / 120 Spd (100.0 %)  
+Brick Break
+Knock Off
+Aerial Ace
+Iron Head
+# 8 - 3.23 % (2 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 236 Atk / 76 SDef / 196 Spd (100.0 %)  
+Thunder Wave
+Sucker Punch
+Iron Head
+Power-Up Punch
+# 9 - 3.23 % (2 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 76 HP / 236 Atk / 196 Spd (100.0 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 10 - 1.61 % (1 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Jolly - EVs: 236 Atk / 76 Def / 196 Spd (100.0 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 11 - 1.61 % (1 battles)
+
+Pawniard @ Black Glasses Lv. 5 -- Inner Focus
+Nature: Impish - EVs: 252 Atk / 4 Def / 252 SDef (100.0 %)  
+Night Slash
+Iron Head
+Stealth Rock
+Power-Up Punch
+# 12 - 1.61 % (1 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Brick Break
+Sucker Punch
+Iron Head
+# 13 - 1.61 % (1 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Hasty - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 14 - 0 % (187 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Adamant - EVs: 76 HP / 236 Atk / 196 Spd (49.2 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 15 - 0 % (83 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Jolly - EVs: 76 HP / 236 Atk / 196 Spd (19.3 %)  
+Pursuit
+Brick Break
+Knock Off
+Iron Head
+# 16 - 0 % (69 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 76 HP / 236 Atk / 196 Spd (23.2 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 17 - 0 % (66 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant (81.8 %) / Inner Focus (18.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (60.6 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 18 - 0 % (49 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Adamant - EVs: 252 Atk / 252 Spd (28.6 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 19 - 0 % (36 battles)
+
+Pawniard @ Lum Berry Lv. 5 -- Defiant
+Nature: Adamant - EVs: 240 Atk / 72 Def / 196 Spd (52.8 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 20 - 0 % (25 battles)
+
+Pawniard @ Eviolite Lv. 5 -- Defiant
+Nature: Jolly - EVs: 156 Atk / 36 Def / 116 SDef / 196 Spd (24.0 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Stealth Rock
+# 21 - 0 % (21 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Brick Break
+Sucker Punch
+Iron Head
+# 22 - 0 % (14 battles)
+
+Pawniard @ Life Orb Lv. 5 -- Defiant
+Nature: Adamant - EVs: 108 HP / 200 Atk / 200 Spd (57.1 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 23 - 0 % (10 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant (30.0 %) / Inner Focus (70.0 %)
+Nature: Adamant - EVs: 236 Atk / 36 Def / 36 SDef / 196 Spd (70.0 %)  
+Knock Off
+X-Scissor
+Iron Head
+Low Sweep
+# 24 - 0 % (10 battles)
+
+Pawniard @ Berry Juice Lv. 5 -- Defiant
+Nature: Jolly - EVs: 76 HP / 236 Atk / 196 Spd (30.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 25 - 0 % (9 battles)
+
+Pawniard @ Choice Scarf Lv. 5 -- Defiant
+Nature: Jolly - EVs: 236 Atk / 76 Def / 196 Spd (66.7 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head

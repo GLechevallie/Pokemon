@@ -1,0 +1,405 @@
+Bug/Flying
+80/52/50/90/50/89
+17.0
+50/50
+
+# 1 - 49.61 % (440 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Shield Dust (1.8 %) / Compoundeyes (98.2 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (29.1 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 2 - 10.15 % (90 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Shield Dust (1.1 %) / Compoundeyes (98.9 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (40.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 3 - 5.30 % (47 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 252 SAtk / 252 Spd (38.3 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 4 - 4.74 % (42 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (33.3 %)  
+Sleep Powder
+Substitute
+Quiver Dance
+Hurricane
+# 5 - 4.40 % (39 battles)
+
+Vivillon @ Lum Berry Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 6 - 3.38 % (30 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Shield Dust
+Nature: Modest - EVs: 4 Atk / 252 SAtk / 252 Spd (100.0 %)  
+Roost
+Bug Buzz
+Quiver Dance
+Hurricane
+# 7 - 3.27 % (29 battles)
+
+Vivillon @ Choice Specs Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 252 Spd (75.9 %)  
+Psychic
+Bug Buzz
+Energy Ball
+Hurricane
+# 8 - 2.25 % (20 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Shield Dust
+Nature: Timid - EVs: 252 SAtk / 252 Spd (85.0 %)  
+Bug Buzz
+Quiver Dance
+Hurricane
+Powder
+# 9 - 1.92 % (17 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Shield Dust (11.8 %) / Compoundeyes (88.2 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (88.2 %)[Rock]  
+Hidden Power
+Bug Buzz
+Quiver Dance
+Hurricane
+# 10 - 1.80 % (16 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Psychic
+Quiver Dance
+Hurricane
+# 11 - 1.24 % (11 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Stun Spore
+Bug Buzz
+Quiver Dance
+Hurricane
+# 12 - 1.13 % (10 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Shield Dust (60.0 %) / Compoundeyes (40.0 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Quiver Dance
+Hurricane
+# 13 - 1.01 % (9 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Psychic
+Quiver Dance
+Hurricane
+# 14 - 1.01 % (9 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Bug Buzz
+Quiver Dance
+Hurricane
+Draining Kiss
+# 15 - 0.90 % (8 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Shield Dust
+Nature: Impish - EVs: 96 HP / 184 Def / 28 SAtk / 56 SDef / 144 Spd (100.0 %) 
+Aromatherapy
+Roost
+Bug Buzz
+Quiver Dance
+# 16 - 0.90 % (8 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Shield Dust (37.5 %) / Compoundeyes (62.5 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (62.5 %)  
+Roost
+Bug Buzz
+Quiver Dance
+Hurricane
+# 17 - 0.68 % (6 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Sleep Powder
+Dream Eater
+Quiver Dance
+Hurricane
+# 18 - 0.56 % (5 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 252 SAtk / 252 Spd (60.0 %)  
+Bug Buzz
+Energy Ball
+Quiver Dance
+Hurricane
+# 19 - 0.56 % (5 battles)
+
+Vivillon @ Scope Lens Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 20 - 0.45 % (4 battles)
+
+Vivillon @ Zoom Lens Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)[Ice]  
+Sleep Powder
+Hidden Power
+Bug Buzz
+Hurricane
+# 21 - 0.45 % (4 battles)
+
+Vivillon @ Shell Bell Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 22 - 0.34 % (3 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Sleep Powder
+Hidden Power
+Quiver Dance
+Hurricane
+# 23 - 0.34 % (3 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+U-turn
+Bug Buzz
+Hurricane
+# 24 - 0.34 % (3 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Quiver Dance
+Hurricane
+Powder
+# 25 - 0.34 % (3 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Roost
+Bug Buzz
+Quiver Dance
+Hurricane
+# 1 - 59.88 % (200 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Shield Dust (5.5 %) / Compoundeyes (94.5 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (26.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 2 - 11.98 % (40 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Shield Dust (7.5 %) / Compoundeyes (92.5 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (75.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 3 - 4.19 % (14 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (85.7 %)  
+Sleep Powder
+Substitute
+Quiver Dance
+Hurricane
+# 4 - 2.99 % (10 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (40.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 5 - 2.69 % (9 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Psychic
+Quiver Dance
+Hurricane
+# 6 - 2.10 % (7 battles)
+
+Vivillon @ Choice Specs Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (57.1 %)  
+Psychic
+Bug Buzz
+Energy Ball
+Hurricane
+# 7 - 2.10 % (7 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Psychic
+Quiver Dance
+Hurricane
+# 8 - 1.80 % (6 battles)
+
+Vivillon @ Safety Goggles Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 9 - 1.50 % (5 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Aromatherapy
+Bug Buzz
+Hurricane
+# 10 - 1.20 % (4 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Shield Dust (75.0 %) / Compoundeyes (25.0 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Quiver Dance
+Hurricane
+# 11 - 1.20 % (4 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Sleep Powder
+Energy Ball
+Quiver Dance
+Hurricane
+# 12 - 1.20 % (4 battles)
+
+Vivillon @ Petaya Berry Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Quiver Dance
+Hurricane
+Powder
+# 13 - 0.90 % (3 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 8 HP / 252 SAtk / 248 Spd (100.0 %)  
+Sleep Powder
+Psychic
+Quiver Dance
+Hurricane
+# 14 - 0.90 % (3 battles)
+
+Vivillon @ Scope Lens Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 15 - 0.90 % (3 battles)
+
+Vivillon @ Shell Bell Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 16 - 0.60 % (2 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Quiver Dance
+Hurricane
+Draining Kiss
+# 17 - 0.60 % (2 battles)
+
+Vivillon @ Scope Lens Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Calm Mind
+Bug Buzz
+Hurricane
+# 18 - 0.60 % (2 battles)
+
+Vivillon @ Lum Berry Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Bug Buzz
+Quiver Dance
+Hurricane
+# 19 - 0.30 % (1 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Protect
+Bug Buzz
+Hurricane
+# 20 - 0.30 % (1 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Quiver Dance
+Hurricane
+Powder
+# 21 - 0.30 % (1 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Bug Buzz
+Quiver Dance
+Hurricane
+Draining Kiss
+# 22 - 0.30 % (1 battles)
+
+Vivillon @ Focus Sash Lv. 100 -- Shield Dust
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Bug Buzz
+Quiver Dance
+Hurricane
+Powder
+# 23 - 0.30 % (1 battles)
+
+Vivillon @ Leftovers Lv. 100 -- Shield Dust
+Nature: Hardy - EVs: 248 HP / 136 SAtk / 124 Spd (100.0 %)  
+Quiver Dance
+Hurricane
+Draining Kiss
+Powder
+# 24 - 0.30 % (1 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Compoundeyes
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Sleep Powder
+Hidden Power
+Bug Buzz
+Quiver Dance
+# 25 - 0.30 % (1 battles)
+
+Vivillon @ Life Orb Lv. 100 -- Compoundeyes
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Bug Buzz
+Energy Ball
+Quiver Dance
+Hurricane

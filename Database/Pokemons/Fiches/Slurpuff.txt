@@ -1,0 +1,405 @@
+Fairy/-
+82/80/86/85/75/72
+5.0
+50/50
+
+# 1 - 18.45 % (178 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (84.8 %)  
+Thief
+Belly Drum
+Return
+Play Rough
+# 2 - 14.61 % (141 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 252 SAtk / 252 Spd (78.0 %)  
+Flamethrower
+Surf
+Calm Mind
+Dazzling Gleam
+# 3 - 6.53 % (63 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Belly Drum
+Return
+Facade
+Play Rough
+# 4 - 6.32 % (61 battles)
+
+Slurpuff @ Chesto Berry Lv. 100 -- Sweet Veil (1.6 %) / Unburden (98.4 %)
+Nature: Bold - EVs: 252 HP / 120 Def / 136 Spd (62.3 %)  
+Flamethrower
+Rest
+Calm Mind
+Dazzling Gleam
+# 5 - 6.22 % (60 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (36.7 %)  
+Substitute
+Belly Drum
+Return
+Play Rough
+# 6 - 4.56 % (44 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 44 HP / 212 Atk / 252 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Belly Drum
+Play Rough
+# 7 - 4.04 % (39 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (56.4 %)  
+Flamethrower
+Psychic
+Calm Mind
+Dazzling Gleam
+# 8 - 2.80 % (27 battles)
+
+Slurpuff @ Chesto Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 248 HP / 252 SAtk / 8 Spd (37.0 %)  
+Flamethrower
+Rest
+Calm Mind
+Draining Kiss
+# 9 - 2.80 % (27 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (40.7 %)  
+Flamethrower
+Belly Drum
+Return
+Play Rough
+# 10 - 2.80 % (27 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 252 HP / 84 Atk / 172 SDef (100.0 %)  
+Belly Drum
+Wish
+Cotton Guard
+Play Rough
+# 11 - 2.49 % (24 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (41.7 %)  
+Flamethrower
+Calm Mind
+Cotton Guard
+Draining Kiss
+# 12 - 2.07 % (20 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Sweet Veil (15.0 %) / Unburden (85.0 %)
+Nature: Calm - EVs: 4 HP / 172 Def / 252 SDef / 80 Spd (75.0 %)  
+Flamethrower
+Surf
+Calm Mind
+Draining Kiss
+# 13 - 2.07 % (20 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (70.0 %)  
+Thief
+Belly Drum
+Frustration
+Play Rough
+# 14 - 1.97 % (19 battles)
+
+Slurpuff @ Leftovers Lv. 100 -- Sweet Veil
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Toxic
+Wish
+Cotton Guard
+Play Rough
+# 15 - 1.97 % (19 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Belly Drum
+Return
+Play Rough
+# 16 - 1.76 % (17 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Naive - EVs: 4 HP / 252 Atk / 252 Spd (58.8 %)  
+Flamethrower
+Belly Drum
+Frustration
+Play Rough
+# 17 - 1.55 % (15 battles)
+
+Slurpuff @ Leftovers Lv. 100 -- Sweet Veil
+Nature: Bold - EVs: 252 HP / 252 Def (80.0 %)  
+Protect
+Wish
+Aromatherapy
+Dazzling Gleam
+# 18 - 1.35 % (13 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (69.2 %)  
+Protect
+Belly Drum
+Wish
+Play Rough
+# 19 - 1.24 % (12 battles)
+
+Slurpuff @ Leftovers Lv. 100 -- Sweet Veil
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SAtk (100.0 %)  
+Flamethrower
+Wish
+Aromatherapy
+Dazzling Gleam
+# 20 - 1.24 % (12 battles)
+
+Slurpuff @ Leftovers Lv. 100 -- Sweet Veil (83.3 %) / Unburden (16.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (58.3 %)  
+Protect
+Wish
+Aromatherapy
+Play Rough
+# 21 - 1.04 % (10 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (40.0 %)  
+Belly Drum
+Return
+Wish
+Play Rough
+# 22 - 0.93 % (9 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Belly Drum
+Return
+Giga Impact
+Play Rough
+# 23 - 0.93 % (9 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Belly Drum
+Return
+Cotton Guard
+Play Rough
+# 24 - 0.83 % (8 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Sweet Veil (12.5 %) / Unburden (87.5 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (87.5 %)  
+Flamethrower
+Psychic
+Calm Mind
+Draining Kiss
+# 25 - 0.73 % (7 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+(No Move)
+Belly Drum
+Return
+Play Rough
+# 1 - 23.17 % (19 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+(No Move)
+Belly Drum
+Return
+Play Rough
+# 2 - 14.63 % (12 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Sweet Veil (16.7 %) / Unburden (83.3 %)
+Nature: Calm - EVs: 4 HP / 172 Def / 252 SDef / 80 Spd (83.3 %)  
+Flamethrower
+Surf
+Calm Mind
+Draining Kiss
+# 3 - 6.10 % (5 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 252 SAtk / 252 Spd (80.0 %)  
+Flamethrower
+Surf
+Calm Mind
+Dazzling Gleam
+# 4 - 6.10 % (5 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Naughty - EVs: 4 HP / 252 Atk / 252 Spd (80.0 %)  
+Flamethrower
+Belly Drum
+Return
+Play Rough
+# 5 - 6.10 % (5 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (60.0 %)  
+Substitute
+Belly Drum
+Return
+Play Rough
+# 6 - 4.88 % (4 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (75.0 %)  
+Thief
+Belly Drum
+Return
+Play Rough
+# 7 - 4.88 % (4 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Protect
+Belly Drum
+Wish
+Play Rough
+# 8 - 2.44 % (2 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 44 HP / 212 Atk / 252 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Belly Drum
+Play Rough
+# 9 - 2.44 % (2 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Psychic
+Calm Mind
+Dazzling Gleam
+# 10 - 2.44 % (2 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Psychic
+Calm Mind
+Draining Kiss
+# 11 - 2.44 % (2 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Flamethrower
+Calm Mind
+Cotton Guard
+Draining Kiss
+# 12 - 2.44 % (2 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Sweet Veil
+Nature: Brave - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Toxic
+Psychic
+Belly Drum
+Play Rough
+# 13 - 2.44 % (2 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Sleep Talk
+Calm Mind
+Dazzling Gleam
+# 14 - 2.44 % (2 battles)
+
+Slurpuff @ Salac Berry Lv. 100 -- Unburden
+Nature: Modest - EVs: 252 SAtk / 52 SDef / 204 Spd (100.0 %)[Ground]  
+Hidden Power
+Calm Mind
+Cotton Guard
+Draining Kiss
+# 15 - 1.22 % (1 battles)
+
+Slurpuff @ (No Item) Lv. 100 -- Sweet Veil
+Nature: Modest - EVs: 252 HP / 252 SAtk (100.0 %)  
+Flamethrower
+Surf
+Calm Mind
+Dazzling Gleam
+# 16 - 1.22 % (1 battles)
+
+Slurpuff @ (No Item) Lv. 100 -- Sweet Veil
+Nature: Hardy - EVs: 28 HP / 252 SAtk / 228 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Yawn
+Dazzling Gleam
+# 17 - 1.22 % (1 battles)
+
+Slurpuff @ (No Item) Lv. 100 -- Sweet Veil
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (100.0 %)  
+Protect
+Wish
+Calm Mind
+Draining Kiss
+# 18 - 1.22 % (1 battles)
+
+Slurpuff @ Focus Band Lv. 100 -- Sweet Veil
+Nature: Adamant - EVs: 108 HP / 252 Atk / 12 Def / 40 SDef / 96 Spd (100.0 %)  
+Belly Drum
+Return
+Facade
+Play Rough
+# 19 - 1.22 % (1 battles)
+
+Slurpuff @ Life Orb Lv. 100 -- Sweet Veil
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Energy Ball
+Dazzling Gleam
+# 20 - 1.22 % (1 battles)
+
+Slurpuff @ Red Card Lv. 100 -- Sweet Veil
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Wish
+Yawn
+Aromatherapy
+Draining Kiss
+# 21 - 1.22 % (1 battles)
+
+Slurpuff @ Chesto Berry Lv. 100 -- Unburden
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (100.0 %)  
+Flamethrower
+Rest
+Calm Mind
+Dazzling Gleam
+# 22 - 1.22 % (1 battles)
+
+Slurpuff @ Chesto Berry Lv. 100 -- Unburden
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Rest
+Sleep Talk
+Calm Mind
+Dazzling Gleam
+# 23 - 1.22 % (1 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+Belly Drum
+Play Rough
+# 24 - 1.22 % (1 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Sweet Veil
+Nature: Hardy - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Toxic
+Protect
+Wish
+Play Rough
+# 25 - 1.22 % (1 battles)
+
+Slurpuff @ Sitrus Berry Lv. 100 -- Unburden
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (100.0 %)  
+Light Screen
+Belly Drum
+Cotton Guard
+Play Rough

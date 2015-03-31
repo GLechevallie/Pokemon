@@ -1,0 +1,4 @@
+Bug/Poison
+65/150/40/15/80/145
+Adaptability
+29.5

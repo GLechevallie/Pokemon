@@ -1,0 +1,405 @@
+Fire/Flying
+78/81/71/74/69/126
+24.5
+50/50
+
+# 1 - 9.31 % (11928 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (1.8 %) / Gale Wings (98.2 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (28.9 %)  
+Tailwind
+U-turn
+Flare Blitz
+Brave Bird
+# 2 - 6.54 % (8378 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (4.1 %) / Gale Wings (95.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (39.4 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 3 - 6.01 % (7700 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (2.7 %) / Gale Wings (97.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.5 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 4 - 5.39 % (6905 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (1.7 %) / Gale Wings (98.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (38.0 %)  
+Steel Wing
+U-turn
+Flare Blitz
+Brave Bird
+# 5 - 4.98 % (6383 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (3.2 %) / Gale Wings (96.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (23.8 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 6 - 4.95 % (6337 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (1.4 %) / Gale Wings (98.6 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (32.7 %)  
+Will-O-Wisp
+U-turn
+Flare Blitz
+Brave Bird
+# 7 - 3.85 % (4933 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (0.8 %) / Gale Wings (99.2 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (28.3 %)  
+Sleep Talk
+U-turn
+Flare Blitz
+Brave Bird
+# 8 - 3.70 % (4737 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (2.7 %) / Gale Wings (97.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (25.7 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 9 - 2.52 % (3224 battles)
+
+Talonflame @ Sharp Beak Lv. 100 -- Flame Body (0.7 %) / Gale Wings (99.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.4 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 10 - 2.18 % (2793 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (9.9 %) / Gale Wings (90.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.0 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 11 - 1.80 % (2309 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (6.0 %) / Gale Wings (94.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (38.7 %)  
+Swords Dance
+U-turn
+Flare Blitz
+Brave Bird
+# 12 - 1.67 % (2138 battles)
+
+Talonflame @ Sky Plate Lv. 100 -- Flame Body (0.7 %) / Gale Wings (99.3 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (17.0 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 13 - 1.51 % (1928 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (1.3 %) / Gale Wings (98.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (19.8 %)  
+Bulk Up
+Roost
+Flare Blitz
+Brave Bird
+# 14 - 1.47 % (1886 battles)
+
+Talonflame @ (No Item) Lv. 100 -- Flame Body (0.7 %) / Gale Wings (99.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (27.0 %)  
+Swords Dance
+Roost
+Flare Blitz
+Acrobatics
+# 15 - 1.37 % (1758 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (6.3 %) / Gale Wings (93.7 %)
+Nature: Adamant - EVs: 252 Atk / 36 Def / 52 SDef / 168 Spd (22.0 %)  
+Bulk Up
+Roost
+Flare Blitz
+Brave Bird
+# 16 - 1.11 % (1423 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (1.3 %) / Gale Wings (98.7 %)
+Nature: Careful - EVs: 248 HP / 8 Atk / 252 SDef (20.0 %)  
+Will-O-Wisp
+Bulk Up
+Roost
+Brave Bird
+# 17 - 1.05 % (1349 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (5.4 %) / Gale Wings (94.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (26.1 %)  
+Swords Dance
+U-turn
+Flare Blitz
+Brave Bird
+# 18 - 1.01 % (1289 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (5.2 %) / Gale Wings (94.8 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (34.4 %)  
+Will-O-Wisp
+Roost
+Flare Blitz
+Brave Bird
+# 19 - 0.89 % (1136 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (1.9 %) / Gale Wings (98.1 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (26.1 %)  
+Aerial Ace
+U-turn
+Flare Blitz
+Brave Bird
+# 20 - 0.87 % (1117 battles)
+
+Talonflame @ Sharp Beak Lv. 100 -- Flame Body (1.0 %) / Gale Wings (99.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.8 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 21 - 0.87 % (1115 battles)
+
+Talonflame @ Sky Plate Lv. 100 -- Flame Body (0.9 %) / Gale Wings (99.1 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (22.1 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 22 - 0.83 % (1062 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (4.0 %) / Gale Wings (96.0 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (17.5 %)  
+Will-O-Wisp
+Roost
+Flare Blitz
+Brave Bird
+# 23 - 0.81 % (1044 battles)
+
+Talonflame @ Sky Plate Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (19.8 %)  
+Swords Dance
+U-turn
+Flare Blitz
+Brave Bird
+# 24 - 0.72 % (923 battles)
+
+Talonflame @ (No Item) Lv. 100 -- Flame Body (1.8 %) / Gale Wings (98.2 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (80.4 %)  
+Swords Dance
+U-turn
+Flare Blitz
+Acrobatics
+# 25 - 0.68 % (873 battles)
+
+Talonflame @ Sky Plate Lv. 100 -- Flame Body (0.8 %) / Gale Wings (99.2 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (41.9 %)  
+Will-O-Wisp
+Roost
+Flare Blitz
+Brave Bird
+# 1 - 9.67 % (1820 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (1.5 %) / Gale Wings (98.5 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (30.6 %)  
+Tailwind
+U-turn
+Flare Blitz
+Brave Bird
+# 2 - 6.26 % (1178 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (1.1 %) / Gale Wings (98.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.4 %)  
+Steel Wing
+U-turn
+Flare Blitz
+Brave Bird
+# 3 - 5.45 % (1027 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (1.4 %) / Gale Wings (98.6 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (37.7 %)  
+Will-O-Wisp
+U-turn
+Flare Blitz
+Brave Bird
+# 4 - 5.10 % (960 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (2.7 %) / Gale Wings (97.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (45.6 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 5 - 4.92 % (927 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (0.2 %) / Gale Wings (99.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.4 %)  
+Sleep Talk
+U-turn
+Flare Blitz
+Brave Bird
+# 6 - 4.32 % (814 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (2.5 %) / Gale Wings (97.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (34.6 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 7 - 3.91 % (736 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (12.2 %) / Gale Wings (87.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (53.3 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 8 - 3.55 % (668 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (1.8 %) / Gale Wings (98.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.1 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 9 - 3.05 % (574 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (6.4 %) / Gale Wings (93.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (29.1 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 10 - 2.38 % (449 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (3.3 %) / Gale Wings (96.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (61.7 %)  
+Swords Dance
+U-turn
+Flare Blitz
+Brave Bird
+# 11 - 1.61 % (303 battles)
+
+Talonflame @ (No Item) Lv. 100 -- Flame Body (1.7 %) / Gale Wings (98.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (25.7 %)  
+Swords Dance
+Roost
+Flare Blitz
+Acrobatics
+# 12 - 1.52 % (286 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (2.1 %) / Gale Wings (97.9 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (31.5 %)  
+Aerial Ace
+U-turn
+Flare Blitz
+Brave Bird
+# 13 - 1.49 % (281 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (0.7 %) / Gale Wings (99.3 %)
+Nature: Calm - EVs: 248 HP / 252 SDef / 8 Spd (38.4 %)  
+Will-O-Wisp
+Bulk Up
+Roost
+Brave Bird
+# 14 - 1.44 % (271 battles)
+
+Talonflame @ Sharp Beak Lv. 100 -- Flame Body (0.7 %) / Gale Wings (99.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (42.1 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 15 - 1.39 % (261 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (1.5 %) / Gale Wings (98.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (55.6 %)  
+Swords Dance
+U-turn
+Flare Blitz
+Brave Bird
+# 16 - 1.38 % (259 battles)
+
+Talonflame @ Sharp Beak Lv. 100 -- Flame Body (1.2 %) / Gale Wings (98.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (20.1 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 17 - 1.23 % (231 battles)
+
+Talonflame @ Sky Plate Lv. 100 -- Flame Body (1.3 %) / Gale Wings (98.7 %)
+Nature: Adamant - EVs: 188 HP / 252 Atk / 68 Spd (22.9 %)  
+Swords Dance
+Roost
+Flare Blitz
+Brave Bird
+# 18 - 1.12 % (211 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Gale Wings
+Nature: Naughty - EVs: 252 Atk / 252 Spd (34.1 %)  
+Taunt
+U-turn
+Flare Blitz
+Brave Bird
+# 19 - 1.09 % (205 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (2.4 %) / Gale Wings (97.6 %)
+Nature: Adamant - EVs: 252 Atk / 36 Def / 52 SDef / 168 Spd (34.1 %)  
+Bulk Up
+Roost
+Flare Blitz
+Brave Bird
+# 20 - 1.04 % (195 battles)
+
+Talonflame @ Sharp Beak Lv. 100 -- Gale Wings
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (89.2 %)  
+Will-O-Wisp
+Roost
+Flare Blitz
+Brave Bird
+# 21 - 0.92 % (174 battles)
+
+Talonflame @ Life Orb Lv. 100 -- Flame Body (13.8 %) / Gale Wings (86.2 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (46.6 %)  
+Will-O-Wisp
+Roost
+Flare Blitz
+Brave Bird
+# 22 - 0.87 % (163 battles)
+
+Talonflame @ Sky Plate Lv. 100 -- Flame Body (1.8 %) / Gale Wings (98.2 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (36.2 %)  
+Roost
+U-turn
+Flare Blitz
+Brave Bird
+# 23 - 0.84 % (158 battles)
+
+Talonflame @ Leftovers Lv. 100 -- Flame Body (0.6 %) / Gale Wings (99.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (18.4 %)  
+Bulk Up
+Roost
+Flare Blitz
+Brave Bird
+# 24 - 0.83 % (157 battles)
+
+Talonflame @ Choice Band Lv. 100 -- Flame Body (8.9 %) / Gale Wings (91.1 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (60.5 %)  
+(No Move)
+U-turn
+Flare Blitz
+Brave Bird
+# 25 - 0.83 % (157 battles)
+
+Talonflame @ Sitrus Berry Lv. 100 -- Gale Wings
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (89.8 %)  
+Swords Dance
+U-turn
+Flare Blitz
+Brave Bird

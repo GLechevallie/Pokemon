@@ -1,0 +1,405 @@
+Water/Fairy
+100/50/80/60/80/50
+28.5
+50/50
+
+# 1 - 20.62 % (13891 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Thick Fat (1.0 %) / Huge Power (98.6 %) / Sap Sipper (0.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (17.2 %)  
+Waterfall
+Belly Drum
+Aqua Jet
+Play Rough
+# 2 - 13.64 % (9187 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Thick Fat (1.1 %) / Huge Power (98.7 %) / Sap Sipper (0.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (25.3 %)  
+Belly Drum
+Superpower
+Aqua Jet
+Play Rough
+# 3 - 12.37 % (8333 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Thick Fat (1.6 %) / Huge Power (98.1 %) / Sap Sipper (0.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (19.9 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 4 - 7.26 % (4893 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Thick Fat (1.7 %) / Huge Power (98.1 %) / Sap Sipper (0.2 %)
+Nature: Adamant - EVs: 16 HP / 252 Atk / 240 SDef (17.3 %)  
+Waterfall
+Knock Off
+Aqua Jet
+Play Rough
+# 5 - 3.56 % (2401 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Thick Fat (1.2 %) / Huge Power (98.8 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (10.8 %)  
+Waterfall
+Knock Off
+Aqua Jet
+Play Rough
+# 6 - 2.43 % (1634 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Thick Fat (1.2 %) / Huge Power (98.7 %) / Sap Sipper (0.1 %)
+Nature: Adamant - EVs: 116 HP / 252 Atk / 140 Spd (26.9 %)  
+Belly Drum
+Brick Break
+Aqua Jet
+Play Rough
+# 7 - 2.24 % (1507 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Thick Fat (1.1 %) / Huge Power (98.9 %)
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (75.2 %)  
+Superpower
+Knock Off
+Aqua Jet
+Play Rough
+# 8 - 1.52 % (1024 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Thick Fat (6.2 %) / Huge Power (91.1 %) / Sap Sipper (2.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.8 %)  
+Belly Drum
+Superpower
+Aqua Jet
+Play Rough
+# 9 - 1.40 % (942 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power (99.8 %) / Sap Sipper (0.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (36.6 %)  
+Waterfall
+Knock Off
+Aqua Jet
+Play Rough
+# 10 - 1.33 % (899 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Thick Fat (1.9 %) / Huge Power (98.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (24.7 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 11 - 1.31 % (880 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Thick Fat (0.3 %) / Huge Power (97.2 %) / Sap Sipper (2.5 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (20.8 %)  
+Ice Punch
+Superpower
+Aqua Jet
+Play Rough
+# 12 - 1.24 % (838 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Thick Fat (1.9 %) / Huge Power (98.0 %) / Sap Sipper (0.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (33.7 %)  
+Ice Punch
+Waterfall
+Aqua Jet
+Play Rough
+# 13 - 1.15 % (776 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Huge Power (99.9 %) / Sap Sipper (0.1 %)
+Nature: Hardy - EVs: 252 HP / 252 Atk (11.5 %)  
+Superpower
+Knock Off
+Aqua Jet
+Play Rough
+# 14 - 0.93 % (629 battles)
+
+Azumarill @ Life Orb Lv. 100 -- Thick Fat (0.2 %) / Huge Power (99.5 %) / Sap Sipper (0.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (75.8 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 15 - 0.85 % (570 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Thick Fat (1.4 %) / Huge Power (96.0 %) / Sap Sipper (2.6 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (20.4 %)  
+Waterfall
+Belly Drum
+Aqua Jet
+Play Rough
+# 16 - 0.80 % (541 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Thick Fat (0.4 %) / Huge Power (87.8 %) / Sap Sipper (11.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (42.3 %)  
+Belly Drum
+Aqua Jet
+Bulldoze
+Play Rough
+# 17 - 0.79 % (535 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Thick Fat (0.7 %) / Huge Power (99.1 %) / Sap Sipper (0.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (34.2 %)  
+Ice Punch
+Waterfall
+Aqua Jet
+Play Rough
+# 18 - 0.64 % (434 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Thick Fat (0.5 %) / Huge Power (99.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (26.3 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 19 - 0.58 % (389 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Huge Power (97.2 %) / Sap Sipper (2.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (24.2 %)  
+Belly Drum
+Return
+Aqua Jet
+Play Rough
+# 20 - 0.48 % (325 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Thick Fat (1.2 %) / Huge Power (98.8 %)
+Nature: Adamant - EVs: 80 HP / 252 Atk / 168 Def / 8 Spd (37.8 %)  
+Ice Punch
+Knock Off
+Aqua Jet
+Play Rough
+# 21 - 0.42 % (285 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power (91.2 %) / Sap Sipper (8.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (32.3 %)  
+Ice Punch
+Superpower
+Aqua Jet
+Play Rough
+# 22 - 0.38 % (255 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power
+Nature: Naughty - EVs: 4 HP / 252 Atk / 252 Spd (24.7 %)  
+Protect
+Belly Drum
+Aqua Jet
+Play Rough
+# 23 - 0.36 % (244 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (38.1 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 24 - 0.36 % (242 battles)
+
+Azumarill @ Focus Sash Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 Atk / 252 Spd (96.7 %)  
+Knock Off
+Bounce
+Aqua Jet
+Play Rough
+# 25 - 0.35 % (233 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 236 HP / 252 Atk / 20 Spd (31.3 %)  
+Belly Drum
+Aqua Tail
+Aqua Jet
+Play Rough
+# 1 - 16.67 % (1228 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Thick Fat (1.3 %) / Huge Power (98.5 %) / Sap Sipper (0.2 %)
+Nature: Adamant - EVs: 16 HP / 252 Atk / 240 SDef (15.9 %)  
+Waterfall
+Knock Off
+Aqua Jet
+Play Rough
+# 2 - 15.60 % (1149 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Thick Fat (0.5 %) / Huge Power (99.0 %) / Sap Sipper (0.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (12.8 %)  
+Waterfall
+Belly Drum
+Aqua Jet
+Play Rough
+# 3 - 10.84 % (798 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Thick Fat (0.3 %) / Huge Power (99.1 %) / Sap Sipper (0.6 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (37.7 %)  
+Belly Drum
+Superpower
+Aqua Jet
+Play Rough
+# 4 - 8.77 % (646 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Thick Fat (0.6 %) / Huge Power (99.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (19.2 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 5 - 5.49 % (404 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Thick Fat (0.2 %) / Huge Power (99.8 %)
+Nature: Adamant - EVs: 212 HP / 252 Atk / 44 Spd (15.8 %)  
+Waterfall
+Knock Off
+Aqua Jet
+Play Rough
+# 6 - 1.49 % (110 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power (99.1 %) / Sap Sipper (0.9 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (40.0 %)  
+Waterfall
+Knock Off
+Aqua Jet
+Play Rough
+# 7 - 1.48 % (109 battles)
+
+Azumarill @ Sitrus Berry Lv. 100 -- Thick Fat (3.7 %) / Huge Power (95.4 %) / Sap Sipper (0.9 %)
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (28.4 %)  
+Belly Drum
+Brick Break
+Aqua Jet
+Play Rough
+# 8 - 1.47 % (108 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Huge Power (98.1 %) / Sap Sipper (1.9 %)
+Nature: Adamant - EVs: 252 Atk / 128 Def / 128 SDef (32.4 %)  
+Superpower
+Knock Off
+Aqua Jet
+Play Rough
+# 9 - 1.29 % (95 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Thick Fat (1.1 %) / Huge Power (98.9 %)
+Nature: Adamant - EVs: 252 Atk / 252 Def / 4 SDef (24.2 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 10 - 1.26 % (93 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (55.9 %)  
+Superpower
+Knock Off
+Aqua Jet
+Play Rough
+# 11 - 1.25 % (92 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (34.8 %)  
+Waterfall
+Belly Drum
+Aqua Jet
+Play Rough
+# 12 - 1.24 % (91 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (84.6 %)  
+Knock Off
+Aqua Jet
+Play Rough
+Power-Up Punch
+# 13 - 1.14 % (84 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Thick Fat (1.2 %) / Huge Power (97.6 %) / Sap Sipper (1.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (20.2 %)  
+Ice Punch
+Superpower
+Aqua Jet
+Play Rough
+# 14 - 1.06 % (78 battles)
+
+Azumarill @ Life Orb Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (41.0 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 15 - 1.03 % (76 battles)
+
+Azumarill @ Focus Sash Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Knock Off
+Bounce
+Aqua Jet
+Play Rough
+# 16 - 0.98 % (72 battles)
+
+Azumarill @ Choice Band Lv. 100 -- Huge Power (98.6 %) / Sap Sipper (1.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (36.1 %)  
+Ice Punch
+Waterfall
+Aqua Jet
+Play Rough
+# 17 - 0.91 % (67 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Thick Fat (6.0 %) / Huge Power (94.0 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (23.9 %)  
+Belly Drum
+Superpower
+Aqua Jet
+Play Rough
+# 18 - 0.84 % (62 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (35.5 %)  
+Ice Punch
+Knock Off
+Aqua Jet
+Play Rough
+# 19 - 0.75 % (55 battles)
+
+Azumarill @ Splash Plate Lv. 100 -- Thick Fat (34.5 %) / Huge Power (65.5 %)
+Nature: Adamant - EVs: 168 HP / 252 Atk / 4 Def / 84 Spd (56.4 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 20 - 0.68 % (50 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (88.0 %)  
+Substitute
+Focus Punch
+Aqua Jet
+Play Rough
+# 21 - 0.60 % (44 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power (97.7 %) / Sap Sipper (2.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (43.2 %)  
+Ice Punch
+Waterfall
+Aqua Jet
+Play Rough
+# 22 - 0.58 % (43 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (41.9 %)  
+Waterfall
+Superpower
+Aqua Jet
+Play Rough
+# 23 - 0.58 % (43 battles)
+
+Azumarill @ Assault Vest Lv. 100 -- Huge Power
+Nature: Adamant - EVs: 76 HP / 252 Atk / 180 SDef (65.1 %)  
+Knock Off
+Aqua Tail
+Aqua Jet
+Play Rough
+# 24 - 0.49 % (36 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Sap Sipper
+Nature: Impish - EVs: 252 HP / 128 Def / 120 SDef / 8 Spd (100.0 %)  
+Rest
+Protect
+Perish Song
+Knock Off
+# 25 - 0.45 % (33 battles)
+
+Azumarill @ Leftovers Lv. 100 -- Huge Power (90.9 %) / Sap Sipper (9.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (48.5 %)  
+Ice Punch
+Superpower
+Aqua Jet
+Play Rough

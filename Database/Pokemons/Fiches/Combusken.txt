@@ -1,0 +1,405 @@
+Fire/Fighting
+60/85/60/85/60/55
+19.5
+87.5/12.5
+
+# 1 - 15.97 % (69 battles)
+
+Combusken @ Leftovers Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Rock Slide
+Sky Uppercut
+Flare Blitz
+# 2 - 13.66 % (59 battles)
+
+Combusken @ Eviolite Lv. 100 -- Blaze (1.7 %) / Speed Boost (98.3 %)
+Nature: Jolly - EVs: 252 HP / 152 Def / 104 Spd (47.5 %)  
+Fire Punch
+Protect
+Baton Pass
+Bulk Up
+# 3 - 7.18 % (31 battles)
+
+Combusken @ Eviolite Lv. 100 -- Blaze (12.9 %) / Speed Boost (87.1 %)
+Nature: Jolly - EVs: 0 (61.3 %)  
+Swords Dance
+Protect
+Sky Uppercut
+Flare Blitz
+# 4 - 5.32 % (23 battles)
+
+Combusken @ Weakness Policy Lv. 100 -- Blaze (4.3 %) / Speed Boost (95.7 %)
+Nature: Mild - EVs: 4 Atk / 252 SAtk / 252 Spd (47.8 %)[Grass]  
+Fire Blast
+Reversal
+Endure
+Hidden Power
+# 5 - 4.86 % (21 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Protect
+Baton Pass
+Power-Up Punch
+# 6 - 4.86 % (21 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (90.5 %)  
+Toxic
+Protect
+Overheat
+Focus Blast
+# 7 - 3.47 % (15 battles)
+
+Combusken @ Eviolite Lv. 100 -- Blaze (6.7 %) / Speed Boost (93.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (33.3 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 8 - 3.47 % (15 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 252 Spd (93.3 %)  
+Low Kick
+Baton Pass
+Bulk Up
+Flare Blitz
+# 9 - 3.47 % (15 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Substitute
+Protect
+Baton Pass
+Bulk Up
+# 10 - 2.78 % (12 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 56 HP / 252 Atk / 200 Spd (100.0 %)  
+Fire Punch
+Protect
+Sky Uppercut
+Hone Claws
+# 11 - 2.78 % (12 battles)
+
+Combusken @ Eviolite Lv. 100 -- Blaze (16.7 %) / Speed Boost (83.3 %)
+Nature: Jolly - EVs: 252 HP / 252 Spd (75.0 %)  
+Protect
+Baton Pass
+Bulk Up
+Flare Blitz
+# 12 - 2.55 % (11 battles)
+
+Combusken @ Leftovers Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Protect
+Baton Pass
+Flare Blitz
+# 13 - 2.31 % (10 battles)
+
+Combusken @ Life Orb Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Swords Dance
+Substitute
+Sky Uppercut
+Flare Blitz
+# 14 - 2.08 % (9 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Reversal
+Baton Pass
+Shadow Claw
+# 15 - 2.08 % (9 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Grass]  
+Flamethrower
+Hidden Power
+Focus Blast
+Work Up
+# 16 - 1.85 % (8 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Modest - EVs: 96 HP / 80 Def / 252 SAtk / 80 SDef (100.0 %)[Grass]  
+Toxic
+Fire Blast
+Hidden Power
+Focus Blast
+# 17 - 1.62 % (7 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Protect
+Focus Blast
+Work Up
+# 18 - 1.39 % (6 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Baton Pass
+Bulk Up
+Flare Blitz
+# 19 - 1.39 % (6 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 200 HP / 120 Def / 188 Spd (100.0 %)  
+Fire Punch
+Swords Dance
+Protect
+Baton Pass
+# 20 - 1.16 % (5 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Reversal
+Endure
+Shadow Claw
+# 21 - 1.16 % (5 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Protect
+Sky Uppercut
+Flare Blitz
+# 22 - 1.16 % (5 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Impish - EVs: 252 Def / 252 SDef (100.0 %)  
+Protect
+Baton Pass
+Will-O-Wisp
+Power-Up Punch
+# 23 - 0.93 % (4 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Blaze
+Nature: Hardy - EVs: 252 Atk (100.0 %)  
+Seismic Toss
+Endure
+Focus Punch
+Fling
+# 24 - 0.93 % (4 battles)
+
+Combusken @ Fist Plate Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 212 Spd (100.0 %)  
+Fire Punch
+Reversal
+Endure
+Sky Uppercut
+# 25 - 0.69 % (3 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 160 HP / 196 Atk / 152 Spd (100.0 %)  
+Fire Punch
+Swords Dance
+Reversal
+Protect
+# 1 - 28.79 % (38 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Fire Punch
+Swords Dance
+Reversal
+Endure
+# 2 - 11.36 % (15 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Protect
+Focus Blast
+Work Up
+# 3 - 7.58 % (10 battles)
+
+Combusken @ Leftovers Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Rock Slide
+Sky Uppercut
+Flare Blitz
+# 4 - 6.82 % (9 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (77.8 %)  
+Toxic
+Protect
+Overheat
+Focus Blast
+# 5 - 6.06 % (8 battles)
+
+Combusken @ Eviolite Lv. 100 -- Blaze (12.5 %) / Speed Boost (87.5 %)
+Nature: Jolly - EVs: 96 HP / 160 Def / 16 SDef / 236 Spd (50.0 %)  
+Fire Punch
+Protect
+Baton Pass
+Bulk Up
+# 6 - 4.55 % (6 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Agility
+Substitute
+Protect
+Baton Pass
+# 7 - 4.55 % (6 battles)
+
+Combusken @ Sitrus Berry Lv. 100 -- Speed Boost
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Substitute
+Protect
+Baton Pass
+Flare Blitz
+# 8 - 3.03 % (4 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Protect
+Baton Pass
+Bulk Up
+Flare Blitz
+# 9 - 2.27 % (3 battles)
+
+Combusken @ Leftovers Lv. 100 -- Speed Boost
+Nature: Lonely - EVs: 108 HP / 76 Atk / 112 Def / 112 SAtk / 20 SDef / 80 Spd (100.0 %)  
+Thunder Punch
+Baton Pass
+Overheat
+Power-Up Punch
+# 10 - 2.27 % (3 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Careful - EVs: 124 Def / 132 SDef / 252 Spd (100.0 %)  
+Fire Punch
+Agility
+Protect
+Baton Pass
+# 11 - 1.52 % (2 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Reversal
+Protect
+Baton Pass
+# 12 - 1.52 % (2 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Reversal
+Baton Pass
+Shadow Claw
+# 13 - 1.52 % (2 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Blaze
+Nature: Hardy - EVs: 252 Atk (100.0 %)  
+Seismic Toss
+Endure
+Focus Punch
+Fling
+# 14 - 1.52 % (2 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Focus Energy
+Baton Pass
+Night Slash
+Flame Charge
+# 15 - 1.52 % (2 battles)
+
+Combusken @ Mental Herb Lv. 100 -- Speed Boost
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Agility
+Substitute
+Curse
+Baton Pass
+# 16 - 1.52 % (2 battles)
+
+Combusken @ Mental Herb Lv. 100 -- Speed Boost
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Substitute
+Curse
+Protect
+Baton Pass
+# 17 - 1.52 % (2 battles)
+
+Combusken @ Life Orb Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Rock Slide
+Sky Uppercut
+Flare Blitz
+# 18 - 1.52 % (2 battles)
+
+Combusken @ Life Orb Lv. 100 -- Blaze
+Nature: Rash - EVs: 4 HP / 252 Atk / 252 SAtk (100.0 %)  
+Overheat
+Flare Blitz
+Vacuum Wave
+Work Up
+# 19 - 1.52 % (2 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Protect
+Baton Pass
+Power-Up Punch
+# 20 - 1.52 % (2 battles)
+
+Combusken @ Eviolite Lv. 100 -- Speed Boost
+Nature: Relaxed - EVs: 4 Atk / 252 Def / 252 SDef (100.0 %)  
+Swords Dance
+Protect
+Sky Uppercut
+Flare Blitz
+# 21 - 1.52 % (2 battles)
+
+Combusken @ Weakness Policy Lv. 100 -- Blaze
+Nature: Hardy - EVs: 252 HP / 252 Spd (100.0 %)  
+Swords Dance
+Focus Energy
+Endure
+Baton Pass
+# 22 - 0.76 % (1 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Blaze
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+Endure
+Baton Pass
+# 23 - 0.76 % (1 battles)
+
+Combusken @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Grass]  
+Flamethrower
+Hidden Power
+Focus Blast
+Work Up
+# 24 - 0.76 % (1 battles)
+
+Combusken @ Leftovers Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Protect
+Baton Pass
+Flare Blitz
+# 25 - 0.76 % (1 battles)
+
+Combusken @ Life Orb Lv. 100 -- Blaze
+Nature: Hasty - EVs: 56 HP / 100 Atk / 100 SAtk / 4 SDef / 248 Spd (100.0 %)[Fire] 
+Flamethrower
+Rock Slide
+Hidden Power
+Sky Uppercut

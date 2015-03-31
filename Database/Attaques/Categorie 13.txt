@@ -1,0 +1,274 @@
+Type	Prec	Prio	PP	Cible	Sonore
+
+-
+-	0	0	0	autre	no
+
+(No Move)
+-	0	0	0	autre	no
+
+Nothing
+-	0	0	0	autre	no
+
+Ally Switch
+Psychic	101	1	24	user	no
+
+Aqua Ring
+Water	101	0	32	user	no
+
+Aromatherapy
+Grass	101	0	8	userField	yes
+
+Assist
+Normal	101	0	32	user	no
+
+Attract
+Normal	100	0	24	adv	no
+
+Baton Pass
+Normal	101	0	64	user	no
+
+Belly Drum
+Normal	101	0	16	user	no
+
+Block
+Normal	100	0	8	adv	no
+
+Captivate
+Normal	100	0	0	allAdv	no
+
+Celebrate
+Normal	101	0	64	autre	no
+
+Charge
+Electric	101	0	32	user	no
+
+Copycat
+Normal	101	0	32	user	no
+
+Defog
+Flying	101	0	24	Field	no
+
+Destiny Bond
+Ghost	101	0	8	user	no
+
+Detect
+Fighting	101	4	8	user	no
+
+Disable
+Normal	100	0	32	adv	no
+
+Embargo
+Dark	100	0	24	adv	no
+
+Encore
+Normal	100	0	8	adv	no
+
+Endure
+Normal	101	4	16	user	no
+
+Entrainment
+Normal	100	0	24	adv	no
+
+Fairy Lock
+Fairy	101	0	16	all	no
+
+Flatter
+Normal	100	0	24	adv	no
+
+Follow Me
+Normal	101	2	32	user	no
+
+Foresight
+Normal	101	0	64	adv	no
+
+Future Sight
+Psychic	101	0	16	adv	no
+
+Gastro Acid
+Poison	100	0	16	adv	no
+
+Happy Hour
+Normal	0	0	0	autre	no
+
+Haze
+Ice	101	0	48	all	no
+
+Heal Bell
+Normal	101	0	8	userTeam	yes
+
+Heal Block
+Psychic	100	0	24	allAdv	no
+
+Heal Pulse
+Psychic	101	0	16	Allié	no
+
+Healing Wish
+Psychic	101	0	16	user	no
+
+Heart Swap
+Psychic	101	0	16	adv	no
+
+Helping Hand
+Normal	101	0	0	Allié	no
+
+Imprison
+Psychic	101	0	16	user	no
+
+Ingrain
+Grass	101	0	32	user	no
+
+King's Shield
+Steel	101	4	16	user	no
+
+Leech Seed
+Grass	90	0	16	adv	no
+
+Lock-On
+Normal	101	0	8	adv	no
+
+Lunar Dance
+Psychic	101	0	16	user	no
+
+Magic Coat
+Psychic	101	4	24	user	no
+
+Magnet Rise
+Electric	101	0	16	user	no
+
+Mat Block
+Fighting	101	0	16	userTeam	no
+
+Mean Look
+Normal	100	0	8	adv	no
+
+Memento
+Dark	100	0	16	adv	no
+
+Metronome
+Normal	101	0	0	user	no
+
+Mimic
+Normal	101	0	0	user	no
+
+Miracle Eye
+Psychic	101	0	64	adv	no
+
+Mirror Move
+Flying	101	0	32	user	no
+
+Mist
+Ice	101	0	48	user	no
+
+Nightmare
+Dark	100	0	24	adv	no
+
+Pain Split
+Normal	101	0	32	adv	no
+
+Perish Song
+Normal	101	0	8	all	yes
+
+Powder
+Bug	100	1	32	adv	no
+
+Power Split
+Psychic	101	0	16	adv	no
+
+Protect
+Normal	101	4	16	user	no
+
+Psych Up
+Normal	101	0	16	user	no
+
+Psycho Shift
+Psychic	100	0	16	all	no
+
+Quick Guard
+Fighting	101	3	24	userTeam	no
+
+Rage Powder
+Bug	101	2	32	user	no
+
+Recycle
+Normal	101	0	16	user	no
+
+Reflect Type
+Normal	101	0	24	user	no
+
+Refresh
+Normal	101	0	32	user	no
+
+Rest
+Psychic	101	0	16	user	no
+
+Roar
+Normal	101	-6	32	adv	yes
+
+Role Play
+Psychic	101	0	16	user	no
+
+Skill Swap
+Psychic	101	0	16	adv	no
+
+Simple Beam
+Normal	100	0	24	adv	no
+
+Sleep Talk
+Normal	101	0	16	user	no
+
+Snatch
+Dark	101	4	16	user	no
+
+Soak
+Water	100	0	32	adv	no
+
+Spider Web
+Bug	101	0	16	adv	no
+
+Spiky Shield
+Grass	101	4	16	user	no
+
+Stockpile
+Normal	101	0	32	user	no
+
+Substitute
+Normal	101	0	16	user	no
+
+Swagger
+Normal	90	0	24	adv	no
+
+Switcheroo
+Dark	100	0	16	adv	no
+
+Taunt
+Dark	100	0	32	adv	no
+
+Telekinesis
+Psychic	101	0	24	adv	no
+
+Topsy-Turvy
+Dark	100	0	32	adv	no
+
+Torment
+Dark	100	0	24	adv	no
+
+Transform
+Normal	101	0	16	user	no
+
+Trick
+Psychic	100	0	16	adv	no
+
+Whirlwind
+Normal	101	-6	32	adv	no
+
+Wide Guard
+Rock	101	3	16	userTeam	no
+
+Wish
+Normal	101	0	16	user	no
+
+Worry Seed
+Grass	100	0	16	adv	no
+
+Yawn
+Normal	101	0	16	adv	yes

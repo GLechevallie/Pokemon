@@ -1,0 +1,405 @@
+Rock/Water
+60/115/105/65/70/80
+40.5
+87.5/12.5
+
+# 1 - 11.54 % (358 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim (98.6 %) / Weak Armor (1.4 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (40.5 %)  
+Swords Dance
+Waterfall
+Stone Edge
+Aqua Jet
+# 2 - 6.48 % (201 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Swift Swim (94.5 %) / Weak Armor (5.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (40.8 %)  
+Swords Dance
+Waterfall
+Stone Edge
+Aqua Jet
+# 3 - 6.19 % (192 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim (95.3 %) / Battle Armor (1.6 %) / Weak Armor (3.1 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (34.9 %)  
+Waterfall
+Knock Off
+Stone Edge
+Aqua Jet
+# 4 - 3.90 % (121 battles)
+
+Kabutops @ Choice Band Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (73.6 %)  
+Waterfall
+Superpower
+Stone Edge
+Aqua Jet
+# 5 - 3.90 % (121 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (98.3 %)  
+Waterfall
+Rapid Spin
+Stone Edge
+Stealth Rock
+# 6 - 3.68 % (114 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim (98.2 %) / Weak Armor (1.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (49.1 %)  
+Waterfall
+Rapid Spin
+Stone Edge
+Aqua Jet
+# 7 - 3.03 % (94 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (89.4 %)  
+Low Kick
+Waterfall
+Stone Edge
+Aqua Jet
+# 8 - 3.00 % (93 battles)
+
+Kabutops @ Rocky Helmet Lv. 100 -- Battle Armor
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Low Kick
+Waterfall
+Knock Off
+Stone Edge
+# 9 - 2.80 % (87 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Battle Armor
+Nature: Lonely - EVs: 92 HP / 124 Atk / 68 Def / 36 SAtk / 72 SDef / 116 Spd (100.0 %)  
+Giga Drain
+X-Scissor
+Stone Edge
+Scald
+# 10 - 2.68 % (83 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (57.8 %)  
+Swords Dance
+Low Kick
+Waterfall
+Stone Edge
+# 11 - 2.35 % (73 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim (2.7 %) / Weak Armor (97.3 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (97.3 %)  
+Swords Dance
+Waterfall
+Rock Slide
+Aqua Jet
+# 12 - 2.22 % (69 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Superpower
+Aqua Tail
+Stone Edge
+# 13 - 2.16 % (67 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (59.7 %)  
+Waterfall
+Superpower
+Stone Edge
+Aqua Jet
+# 14 - 1.68 % (52 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (71.2 %)  
+Low Kick
+Waterfall
+Rapid Spin
+Stone Edge
+# 15 - 1.42 % (44 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Waterfall
+Brick Break
+Stone Edge
+# 16 - 1.29 % (40 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (65.0 %)  
+Swords Dance
+Waterfall
+Superpower
+Stone Edge
+# 17 - 1.13 % (35 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 128 HP / 252 Atk / 128 Spd (100.0 %)  
+Knock Off
+Aqua Tail
+Stone Edge
+Stealth Rock
+# 18 - 1.06 % (33 battles)
+
+Kabutops @ Lum Berry Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Waterfall
+Rapid Spin
+Stone Edge
+# 19 - 1.00 % (31 battles)
+
+Kabutops @ Mystic Water Lv. 100 -- Weak Armor
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Waterfall
+Stone Edge
+Aqua Jet
+# 20 - 0.97 % (30 battles)
+
+Kabutops @ Choice Band Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Low Kick
+Waterfall
+Stone Edge
+Aqua Jet
+# 21 - 0.87 % (27 battles)
+
+Kabutops @ Choice Band Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Waterfall
+Rock Slide
+Sleep Talk
+Aerial Ace
+# 22 - 0.77 % (24 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (66.7 %)  
+Swords Dance
+Waterfall
+Rapid Spin
+Stone Edge
+# 23 - 0.71 % (22 battles)
+
+Kabutops @ Choice Band Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 224 HP / 252 Atk / 32 Spd (95.5 %)  
+Waterfall
+Rapid Spin
+Stone Edge
+Aqua Jet
+# 24 - 0.68 % (21 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Swift Swim
+Nature: Lonely - EVs: 80 HP / 212 Atk / 216 Spd (100.0 %)  
+Swords Dance
+Waterfall
+Rapid Spin
+Knock Off
+# 25 - 0.68 % (21 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Swift Swim
+Nature: Lonely - EVs: 252 Atk / 252 SDef (100.0 %)  
+Waterfall
+Rock Slide
+X-Scissor
+Stealth Rock
+# 1 - 6.02 % (8 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Adamant - EVs: 252 Atk / 40 Def / 216 Spd (75.0 %)  
+Swords Dance
+Waterfall
+Rock Slide
+Aqua Jet
+# 2 - 6.02 % (8 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Waterfall
+Knock Off
+Stone Edge
+# 3 - 6.02 % (8 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Rock Slide
+Rapid Spin
+Stealth Rock
+Aqua Jet
+# 4 - 5.26 % (7 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Rock Slide
+X-Scissor
+Aqua Jet
+# 5 - 4.51 % (6 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Battle Armor
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Waterfall
+Knock Off
+X-Scissor
+Stealth Rock
+# 6 - 3.76 % (5 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 0 (100.0 %)  
+Ice Beam
+Seismic Toss
+Aerial Ace
+Night Slash
+# 7 - 3.76 % (5 battles)
+
+Kabutops @ Eject Button Lv. 100 -- Weak Armor
+Nature: Jolly - EVs: 128 Def / 128 SDef / 252 Spd (100.0 %)  
+Rapid Spin
+Stone Edge
+Stealth Rock
+Aqua Jet
+# 8 - 3.01 % (4 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Swift Swim (75.0 %) / Weak Armor (25.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (75.0 %)  
+Swords Dance
+Waterfall
+Stone Edge
+Aqua Jet
+# 9 - 3.01 % (4 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 80 HP / 76 Atk / 24 Def / 132 SDef / 196 Spd (100.0 %) 
+Dig
+Slash
+Giga Drain
+Dive
+# 10 - 3.01 % (4 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Battle Armor
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)  
+Toxic
+Rapid Spin
+Knock Off
+Stealth Rock
+# 11 - 2.26 % (3 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Brick Break
+Rock Tomb
+Aqua Jet
+# 12 - 2.26 % (3 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Rapid Spin
+Stealth Rock
+Aqua Jet
+# 13 - 2.26 % (3 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Weak Armor
+Nature: Adamant - EVs: 252 Atk / 252 Def (100.0 %)  
+Swords Dance
+Iron Defense
+Stone Edge
+Aqua Jet
+# 14 - 2.26 % (3 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (33.3 %)  
+Swords Dance
+Waterfall
+Stone Edge
+Aqua Jet
+# 15 - 2.26 % (3 battles)
+
+Kabutops @ Rocky Helmet Lv. 100 -- Battle Armor
+Nature: Adamant - EVs: 252 HP / 252 Atk (100.0 %)  
+Low Kick
+Waterfall
+Knock Off
+Stone Edge
+# 16 - 1.50 % (2 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Waterfall
+X-Scissor
+Stone Edge
+# 17 - 1.50 % (2 battles)
+
+Kabutops @ Focus Sash Lv. 100 -- Weak Armor
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Aqua Tail
+X-Scissor
+Stone Edge
+Hone Claws
+# 18 - 1.50 % (2 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 0 (100.0 %)  
+Blizzard
+Seismic Toss
+Mega Drain
+Night Slash
+# 19 - 1.50 % (2 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 80 HP / 76 Atk / 24 Def / 132 SDef / 196 Spd (100.0 %) 
+Dig
+Slash
+Giga Drain
+Stealth Rock
+# 20 - 1.50 % (2 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Battle Armor
+Nature: Adamant - EVs: 180 HP / 176 Atk / 152 Def (100.0 %)  
+Waterfall
+Superpower
+X-Scissor
+Stone Edge
+# 21 - 1.50 % (2 battles)
+
+Kabutops @ Leftovers Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 140 HP / 96 Atk / 60 Def / 120 SAtk / 52 SDef / 40 Spd (100.0 %)  
+Rest
+Brick Break
+Night Slash
+Scald
+# 22 - 1.50 % (2 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Weak Armor
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Waterfall
+Rock Slide
+Aqua Jet
+# 23 - 1.50 % (2 battles)
+
+Kabutops @ Life Orb Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Low Kick
+Waterfall
+Rapid Spin
+Stone Edge
+# 24 - 1.50 % (2 battles)
+
+Kabutops @ Float Stone Lv. 100 -- Battle Armor
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Brick Break
+Aqua Tail
+X-Scissor
+# 25 - 1.50 % (2 battles)
+
+Kabutops @ Binding Band Lv. 100 -- Swift Swim
+Nature: Hardy - EVs: 0 (100.0 %)  
+Dig
+Rock Slide
+Whirlpool
+Aqua Jet

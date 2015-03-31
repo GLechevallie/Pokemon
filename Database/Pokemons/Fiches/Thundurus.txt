@@ -1,0 +1,405 @@
+Electric/Flying
+79/115/70/125/80/111
+61.0
+100/0
+
+# 1 - 12.61 % (7350 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (99.9 %) / Defiant (0.1 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (31.0 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Focus Blast
+# 2 - 6.44 % (3756 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster (99.8 %) / Defiant (0.2 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (17.3 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Taunt
+# 3 - 5.99 % (3489 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (98.5 %) / Defiant (1.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (56.4 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Taunt
+# 4 - 5.29 % (3083 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster (99.4 %) / Defiant (0.6 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (19.1 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Nasty Plot
+# 5 - 4.54 % (2648 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (29.8 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Psychic
+Hidden Power
+# 6 - 3.92 % (2286 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster (99.8 %) / Defiant (0.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (28.4 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Focus Blast
+# 7 - 3.57 % (2079 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (98.4 %) / Defiant (1.6 %)
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (17.7 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Superpower
+# 8 - 3.16 % (1844 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (99.9 %) / Defiant (0.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (24.1 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Nasty Plot
+# 9 - 1.61 % (941 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.8 %)[Ice]  
+Thunderbolt
+Hidden Power
+Taunt
+Focus Blast
+# 10 - 1.47 % (855 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (91.1 %) / Defiant (8.9 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (26.9 %)[Ice]  
+Thunderbolt
+Hidden Power
+Focus Blast
+Nasty Plot
+# 11 - 1.34 % (783 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster (99.4 %) / Defiant (0.6 %)
+Nature: Timid - EVs: 8 HP / 248 SAtk / 252 Spd (31.5 %)[Ice]  
+Thunderbolt
+Hidden Power
+Taunt
+Nasty Plot
+# 12 - 1.28 % (747 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (8.0 %) / Defiant (92.0 %)
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (87.8 %)  
+Thunderbolt
+Superpower
+Knock Off
+Grass Knot
+# 13 - 1.27 % (743 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (9.7 %) / Defiant (90.3 %)
+Nature: Naive - EVs: 80 Atk / 176 SAtk / 252 Spd (17.8 %)[Flying]  
+Thunderbolt
+Hidden Power
+Superpower
+Knock Off
+# 14 - 1.22 % (712 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (65.3 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Superpower
+# 15 - 1.18 % (689 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.5 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Grass Knot
+# 16 - 0.88 % (513 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Timid - EVs: 12 HP / 244 SAtk / 252 Spd (36.1 %)[Ice]  
+Thunderbolt
+Hidden Power
+Focus Blast
+Nasty Plot
+# 17 - 0.78 % (452 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (19.9 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Taunt
+# 18 - 0.76 % (445 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster (98.7 %) / Defiant (1.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (49.7 %)[Ice]  
+Thunderbolt
+Hidden Power
+Focus Blast
+Nasty Plot
+# 19 - 0.60 % (351 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Naive - EVs: 44 Atk / 212 SAtk / 252 Spd (21.4 %)  
+Thunderbolt
+Thunder Wave
+Psychic
+Superpower
+# 20 - 0.58 % (338 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.8 %)  
+Thunderbolt
+Thunder Wave
+Taunt
+Focus Blast
+# 21 - 0.58 % (337 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (37.1 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Volt Switch
+# 22 - 0.57 % (332 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Timid - EVs: 252 SAtk / 252 Spd (34.9 %)[Ice]  
+Thunderbolt
+Substitute
+Hidden Power
+Nasty Plot
+# 23 - 0.57 % (332 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (38.3 %)[Ice]  
+Thunderbolt
+Hidden Power
+Taunt
+Nasty Plot
+# 24 - 0.57 % (331 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (3.9 %) / Defiant (96.1 %)
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (42.3 %)[Ice]  
+Hidden Power
+Superpower
+Knock Off
+Wild Charge
+# 25 - 0.53 % (310 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (40.3 %)  
+Thunderbolt
+Thunder Wave
+Psychic
+Focus Blast
+# 1 - 11.89 % (1636 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (99.4 %) / Defiant (0.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (54.3 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Taunt
+# 2 - 6.83 % (939 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.6 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Taunt
+# 3 - 6.51 % (896 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (99.9 %) / Defiant (0.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (37.5 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Focus Blast
+# 4 - 3.06 % (421 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (23.5 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Taunt
+# 5 - 2.63 % (362 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster (98.1 %) / Defiant (1.9 %)
+Nature: Timid - EVs: 28 HP / 228 SAtk / 252 Spd (31.2 %)[Flying]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Nasty Plot
+# 6 - 2.60 % (358 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Timid - EVs: 252 HP / 252 Spd (65.6 %)  
+Toxic
+Torment
+Taunt
+Knock Off
+# 7 - 1.93 % (266 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Thunder Wave
+Protect
+Taunt
+Hammer Arm
+# 8 - 1.83 % (252 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (99.6 %) / Defiant (0.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (26.6 %)[Ice]  
+Thunder Wave
+Hidden Power
+Taunt
+Volt Switch
+# 9 - 1.74 % (240 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (98.3 %) / Defiant (1.7 %)
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (15.8 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Superpower
+# 10 - 1.66 % (229 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (42.4 %)[Ice]  
+Thunder Wave
+Hidden Power
+Taunt
+Volt Switch
+# 11 - 1.60 % (220 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (36.4 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Focus Blast
+# 12 - 1.54 % (212 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (29.2 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Psychic
+Hidden Power
+# 13 - 1.52 % (209 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Mild - EVs: 252 SAtk / 252 Spd (99.0 %)[Ice]  
+Thunderbolt
+Hidden Power
+Taunt
+Nasty Plot
+# 14 - 1.48 % (203 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (31.5 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Hidden Power
+Nasty Plot
+# 15 - 1.00 % (138 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Timid - EVs: 8 HP / 248 SAtk / 252 Spd (42.0 %)[Fire]  
+Thunder Wave
+Hidden Power
+Taunt
+Volt Switch
+# 16 - 0.99 % (136 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (93.4 %)  
+Thunderbolt
+Taunt
+Superpower
+Knock Off
+# 17 - 0.98 % (135 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (94.1 %)[Ice]  
+Thunderbolt
+Thunder Wave
+Substitute
+Hidden Power
+# 18 - 0.97 % (133 battles)
+
+Thundurus @ Focus Sash Lv. 100 -- Prankster
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Thunder Wave
+Taunt
+Hammer Arm
+U-turn
+# 19 - 0.89 % (122 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 252 SAtk / 252 Spd (40.2 %)  
+Thunderbolt
+Thunder Wave
+Taunt
+Focus Blast
+# 20 - 0.86 % (118 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (60.2 %)[Flying]  
+Thunderbolt
+Hidden Power
+Taunt
+Focus Blast
+# 21 - 0.80 % (110 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Taunt
+Superpower
+Knock Off
+Volt Switch
+# 22 - 0.76 % (105 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster (39.0 %) / Defiant (61.0 %)
+Nature: Naive - EVs: 168 Atk / 88 SAtk / 252 Spd (74.3 %)  
+Thunderbolt
+Thunder Wave
+Superpower
+Knock Off
+# 23 - 0.76 % (104 battles)
+
+Thundurus @ Leftovers Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (18.3 %)[Ice]  
+Thunderbolt
+Hidden Power
+Taunt
+Nasty Plot
+# 24 - 0.76 % (104 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Naive - EVs: 252 SAtk / 252 Spd (94.2 %)  
+Thunderbolt
+Thunder Wave
+Focus Blast
+Nasty Plot
+# 25 - 0.73 % (101 battles)
+
+Thundurus @ Life Orb Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Psychic
+Nasty Plot
+Sludge Wave

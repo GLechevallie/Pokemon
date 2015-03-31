@@ -1,0 +1,405 @@
+Poison/Ground
+90/92/87/75/85/76
+60.0
+0/100
+
+# 1 - 12.63 % (109 battles)
+
+Nidoqueen @ Leftovers Lv. 100 -- Poison Point
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Earthquake
+Toxic Spikes
+Poison Jab
+Dragon Tail
+# 2 - 12.63 % (109 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Hardy - EVs: 24 HP / 252 SAtk / 232 Spd (27.5 %)  
+Ice Beam
+Earth Power
+Stealth Rock
+Sludge Wave
+# 3 - 6.95 % (60 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 248 HP / 240 Def / 20 Spd (80.0 %)  
+Ice Beam
+Earth Power
+Stealth Rock
+Dragon Tail
+# 4 - 3.94 % (34 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 240 HP / 248 Def / 20 Spd (82.4 %)  
+Ice Beam
+Earth Power
+Stealth Rock
+Sludge Wave
+# 5 - 3.24 % (28 battles)
+
+Nidoqueen @ Choice Scarf Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Flamethrower
+Ice Beam
+Sludge Bomb
+Earth Power
+# 6 - 3.24 % (28 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 252 HP / 232 Def / 24 Spd (96.4 %)  
+Roar
+Ice Beam
+Earth Power
+Stealth Rock
+# 7 - 3.13 % (27 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Ice Beam
+Sludge Bomb
+Toxic Spikes
+Earth Power
+# 8 - 3.13 % (27 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (100.0 %)  
+Toxic Spikes
+Focus Blast
+Earth Power
+Sludge Wave
+# 9 - 2.67 % (23 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Roar
+Toxic Spikes
+Earth Power
+Stealth Rock
+# 10 - 2.55 % (22 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Punch
+Earthquake
+Toxic Spikes
+Poison Jab
+# 11 - 2.55 % (22 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 168 HP / 252 SAtk / 88 Spd (100.0 %)  
+Ice Beam
+Thunderbolt
+Earth Power
+Sludge Wave
+# 12 - 2.20 % (19 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Rivalry
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Earthquake
+Dynamic Punch
+Poison Jab
+Hone Claws
+# 13 - 1.85 % (16 battles)
+
+Nidoqueen @ Leftovers Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 248 HP / 240 Def / 20 Spd (100.0 %)  
+Ice Beam
+Toxic Spikes
+Earth Power
+Dragon Tail
+# 14 - 1.74 % (15 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 252 SAtk / 252 Spd (40.0 %)  
+Ice Beam
+Thunderbolt
+Earth Power
+Sludge Wave
+# 15 - 1.51 % (13 battles)
+
+Nidoqueen @ Earth Plate Lv. 100 -- Poison Point
+Nature: Hardy - EVs: 108 Atk / 124 Def / 128 SAtk / 104 SDef / 44 Spd (61.5 %) 
+Flamethrower
+Ice Beam
+Earth Power
+Sludge Wave
+# 16 - 1.39 % (12 battles)
+
+Nidoqueen @ Choice Scarf Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (83.3 %)  
+Ice Beam
+Fire Blast
+Earth Power
+Sludge Wave
+# 17 - 1.39 % (12 battles)
+
+Nidoqueen @ Focus Sash Lv. 100 -- Sheer Force
+Nature: Hardy - EVs: 252 Atk / 252 SDef (75.0 %)  
+Earthquake
+Crunch
+Sucker Punch
+Poison Jab
+# 18 - 1.39 % (12 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Flamethrower
+Ice Beam
+Earth Power
+Sludge Wave
+# 19 - 1.39 % (12 battles)
+
+Nidoqueen @ Assault Vest Lv. 100 -- Sheer Force
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (100.0 %)  
+Fire Punch
+Super Fang
+Poison Jab
+Dragon Tail
+# 20 - 1.27 % (11 battles)
+
+Nidoqueen @ Assault Vest Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 SAtk (81.8 %)  
+Blizzard
+Thunder
+Earth Power
+Sludge Wave
+# 21 - 1.16 % (10 battles)
+
+Nidoqueen @ Leftovers Lv. 100 -- Poison Point
+Nature: Bold - EVs: 196 HP / 252 Def / 60 SDef (100.0 %)  
+Roar
+Ice Beam
+Stealth Rock
+Sludge Wave
+# 22 - 1.16 % (10 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Roar
+Toxic Spikes
+Earth Power
+Sludge Wave
+# 23 - 1.16 % (10 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (70.0 %)  
+Ice Beam
+Focus Blast
+Earth Power
+Sludge Wave
+# 24 - 1.16 % (10 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Toxic Spikes
+Focus Blast
+Earth Power
+Sludge Wave
+# 25 - 0.93 % (8 battles)
+
+Nidoqueen @ Choice Scarf Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Flamethrower
+Ice Beam
+Earth Power
+Sludge Wave
+# 1 - 17.72 % (56 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Hardy - EVs: 24 HP / 252 SAtk / 232 Spd (32.1 %)  
+Ice Beam
+Earth Power
+Stealth Rock
+Sludge Wave
+# 2 - 4.75 % (15 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (100.0 %)  
+Toxic Spikes
+Focus Blast
+Earth Power
+Sludge Wave
+# 3 - 4.75 % (15 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Poison Point
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Thunder Punch
+Earthquake
+Poison Jab
+Stone Edge
+# 4 - 4.43 % (14 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Poison Point
+Nature: Jolly - EVs: 252 HP / 80 Def / 80 SDef / 96 Spd (100.0 %)  
+Pursuit
+Toxic Spikes
+Stealth Rock
+Dragon Tail
+# 5 - 3.48 % (11 battles)
+
+Nidoqueen @ Expert Belt Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Earth Power
+Stealth Rock
+Sludge Wave
+# 6 - 3.48 % (11 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (100.0 %)  
+Ice Beam
+Sludge Bomb
+Toxic Spikes
+Earth Power
+# 7 - 3.48 % (11 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 248 HP / 200 Def / 60 SAtk (90.9 %)  
+Ice Beam
+Earth Power
+Stealth Rock
+Dragon Tail
+# 8 - 3.16 % (10 battles)
+
+Nidoqueen @ Leftovers Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 248 HP / 240 Def / 20 Spd (100.0 %)  
+Ice Beam
+Toxic Spikes
+Earth Power
+Dragon Tail
+# 9 - 3.16 % (10 battles)
+
+Nidoqueen @ Leftovers Lv. 100 -- Poison Point (90.0 %) / Sheer Force (10.0 %)
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (100.0 %)  
+Earthquake
+Sucker Punch
+Toxic Spikes
+Venoshock
+# 10 - 3.16 % (10 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Roar
+Fire Blast
+Earth Power
+Stealth Rock
+# 11 - 3.16 % (10 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 192 HP / 176 SAtk / 140 Spd (100.0 %)  
+Fire Blast
+Earth Power
+Stealth Rock
+Sludge Wave
+# 12 - 2.53 % (8 battles)
+
+Nidoqueen @ Rocky Helmet Lv. 100 -- Poison Point
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Super Fang
+Taunt
+Toxic Spikes
+Stealth Rock
+# 13 - 2.22 % (7 battles)
+
+Nidoqueen @ Leftovers Lv. 100 -- Poison Point
+Nature: Bold - EVs: 196 HP / 252 Def / 60 SDef (100.0 %)  
+Roar
+Ice Beam
+Stealth Rock
+Sludge Wave
+# 14 - 1.90 % (6 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Roar
+Toxic Spikes
+Earth Power
+Stealth Rock
+# 15 - 1.90 % (6 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (83.3 %)  
+Fire Blast
+Earth Power
+Stealth Rock
+Dragon Tail
+# 16 - 1.90 % (6 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Adamant - EVs: 228 Atk / 140 Def / 140 SDef (100.0 %)  
+Ice Punch
+Earthquake
+Poison Jab
+Stealth Rock
+# 17 - 1.90 % (6 battles)
+
+Nidoqueen @ Rocky Helmet Lv. 100 -- Poison Point
+Nature: Adamant - EVs: 148 Atk / 172 Def / 188 SDef (100.0 %)  
+Fire Punch
+Earthquake
+Toxic Spikes
+Dragon Tail
+# 18 - 1.58 % (5 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Poison Point
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Earthquake
+Taunt
+Toxic Spikes
+Stealth Rock
+# 19 - 1.58 % (5 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Poison Point
+Nature: Jolly - EVs: 252 HP / 80 Def / 80 SDef / 96 Spd (100.0 %)  
+Super Fang
+Toxic Spikes
+Stealth Rock
+Dragon Tail
+# 20 - 1.58 % (5 battles)
+
+Nidoqueen @ Rocky Helmet Lv. 100 -- Poison Point
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Roar
+Counter
+Protect
+Dragon Tail
+# 21 - 1.27 % (4 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Poison Point
+Nature: Impish - EVs: 252 HP / 72 Def / 184 SDef (100.0 %)  
+Roar
+Earthquake
+Toxic Spikes
+Stealth Rock
+# 22 - 1.27 % (4 battles)
+
+Nidoqueen @ Black Sludge Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (100.0 %)  
+Thunderbolt
+Earth Power
+Stealth Rock
+Sludge Wave
+# 23 - 1.27 % (4 battles)
+
+Nidoqueen @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)  
+Toxic Spikes
+Focus Blast
+Earth Power
+Sludge Wave
+# 24 - 1.27 % (4 battles)
+
+Nidoqueen @ Rocky Helmet Lv. 100 -- Poison Point
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Ice Beam
+Toxic Spikes
+Earth Power
+Stealth Rock
+# 25 - 1.27 % (4 battles)
+
+Nidoqueen @ Assault Vest Lv. 100 -- Poison Point
+Nature: Modest - EVs: 252 Def / 252 SAtk (100.0 %)  
+Flamethrower
+Ice Beam
+Earth Power
+Sludge Wave

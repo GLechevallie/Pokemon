@@ -1,0 +1,580 @@
+Classe	Type	Puis	Prec	Prio	PP	Cibles	NCoups	Crit	Peur	Recul	Contact Sonore
+
+Acrobatics
+phys	Flying	55	100	0	24	adv	1	0	0	0	yes	no
+
+Aerial Ace
+phys	Flying	60	101	0	32	adv	1	0	0	0	yes	no
+
+Aeroblast
+spec	Flying	100	95	0	8	adv	1	1	0	0	no	no
+
+Air Cutter
+spec	Flying	60	95	0	25	allAdv	1	1	0	0	no	no
+
+Air Slash
+spec	Flying	75	95	0	32	adv	1	0	30	0	no	no
+
+Aqua Jet
+phys	Water	40	100	1	48	adv	1	0	0	0	yes	no
+
+Aqua Tail
+phys	Water	90	90	0	16	adv	1	0	0	0	yes	no
+
+Arm Thrust
+phys	Fighting	15	100	0	32	adv	2-5	0	0	0	yes	no
+
+Astonish
+phys	Ghost	30	100	0	24	adv	1	0	30	0	yes	no
+
+Aura Sphere
+spec	Fighting	80	101	0	32	adv	1	0	0	0	no	no
+
+Avalanche
+phys	Ice	60	100	-4	16	adv	1	0	0	0	yes	no
+
+Beat Up
+phys	Dark	1	100	0	16	adv	6	0	0	0	no	no
+
+Bite
+phys	Dark	60	100	0	40	adv	1	0	30	0	yes	no
+
+Blast Burn
+spec	Fire	150	90	0	8	adv	1	0	0	0	no	no
+
+Bone Rush
+phys	Ground	25	90	0	16	adv	2-5	0	0	0	no	no
+
+Boomburst
+spec	Normal	140	100	0	16	allAdj	1	0	0	0	no	yes
+
+Brave Bird
+phys	Flying	120	100	0	24	adv	1	0	0	-33	yes	no
+
+Brick Break
+phys	Fighting	75	100	0	24	adv	1	0	0	0	yes	no
+
+Brine
+spec	Water	65	100	0	16	adv	1	0	0	0	no	no
+
+Bug Bite
+phys	Bug	60	100	0	32	adv	1	0	0	0	yes	no
+
+Bullet Punch
+phys	Steel	40	100	1	48	adv	1	0	0	0	yes	no
+
+Bullet Seed
+phys	Grass	25	100	0	48	adv	2-5	0	0	0	no	no
+
+Circle Throw
+phys	Fighting	60	90	-6	16	adv	1	0	0	0	yes	no
+
+Clear Smog
+spec	Poison	50	101	0	24	adv	1	0	0	0	no	no
+
+Counter
+phys	Fighting	1	100	-5	32	adv	1	0	0	0	yes	no
+
+Crabhammer
+phys	Water	100	90	0	16	adv	1	1	0	0	yes	no
+
+Cross Chop
+phys	Fighting	100	80	0	8	adv	1	1	0	0	yes	no
+
+Cut
+phys	Normal	50	95	0	48	adv	1	0	0	0	yes	no
+
+Dark Pulse
+spec	Dark	80	100	0	24	adv	1	0	20	0	no	no
+
+Dazzling Gleam
+spec	Fairy	80	100	0	16	allAdv	1	0	0	0	no	no
+
+Dig
+phys	Ground	80	100	0	16	adv	1	0	0	0	yes	no
+
+Disarming Voice
+spec	Fairy	40	101	0	24	allAdv	1	0	0	0	yes	no
+
+Dive
+phys	Water	80	100	0	16	adv	1	0	0	0	yes	no
+
+Double-Edge
+phys	Normal	120	100	0	24	adv	1	0	0	-33	yes	no
+
+Double Hit
+phys	Normal	35	90	0	16	adv	2	0	0	0	yes	no
+
+Double Kick
+phys	Fighting	30	100	0	48	adv	2	0	0	0	yes	no
+
+Double Slap
+phys	Normal	15	85	0	24	adv	2-5	0	0	0	yes	no
+
+Dragon Claw
+phys	Dragon	80	100	0	24	adv	1	0	0	0	yes	no
+
+Dragon Pulse
+spec	Dragon	85	100	0	16	adv	1	0	0	0	no	no
+
+Dragon Rush
+phys	Dragon	100	75	0	16	adv	1	0	20	0	yes	no
+
+Dragon Tail
+phys	Dragon	60	90	-6	16	adv	1	0	0	0	yes	no
+
+Drill Peck
+phys	Flying	80	100	0	32	adv	1	0	0	0	yes	no
+
+Drill Run
+phys	Ground	80	95	0	16	adv	1	1	0	0	yes	no
+
+Dual Chop
+phys	Dragon	40	90	0	24	adv	2	0	0	0	yes	no
+
+Earthquake
+phys	Ground	100	100	0	16	allAdj	1	0	0	0	no	no
+
+Echoed Voice
+spec	Normal	40	100	0	24	adv	1	0	0	0	no	yes
+
+Egg Bomb
+phys	Normal	100	75	0	16	adv	1	0	0	0	no	no
+
+Electro Ball
+spec	Electric	1	100	0	16	adv	1	0	0	0	no	no
+
+Endeavor
+phys	Normal	1	100	0	8	adv	1	0	0	0	yes	no
+
+Eruption
+spec	Fire	150	100	0	8	allAdv	1	0	0	0	no	no
+
+Explosion
+phys	Normal	250	100	0	8	allAdj	1	0	0	0	no	no
+
+Extrasensory
+spec	Psychic	80	100	0	24	adv	1	0	20	0	no	no
+
+Extreme Speed
+phys	Normal	80	100	2	8	adv	1	0	0	0	yes	no
+
+Facade
+phys	Normal	70	100	0	32	adv	1	0	0	0	yes	no
+
+Fairy Wind
+spec	Fairy	40	100	0	48	adv	1	0	0	0	no	no
+
+Fake Out
+phys	Normal	40	100	3	16	adv	1	0	100	0	yes	no
+
+Feint
+phys	Normal	30	100	2	16	adv	1	0	0	0	no	no
+
+Feint Attack
+phys	Dark	60	101	0	32	adv	1	0	0	0	yes	no
+
+Fell Stinger
+phys	Bug	30	100	0	40	adv	1	0	0	0	yes	no
+
+Final Gambit
+spec	Fighting	1	100	0	8	adv	1	0	0	0	no	no
+
+Fire Pledge
+spec	Fire	80	100	0	16	adv	1	0	0	0	no	no
+
+Flail
+phys	Normal	1	100	0	24	adv	1	0	0	0	yes	no
+
+Flame Burst
+spec	Fire	70	100	0	24	adv	1	0	0	0	no	no
+
+Fling
+phys	Dark	1	100	0	16	adv	1	0	0	0	no	no
+
+Fly
+phys	Flying	90	95	0	24	adv	1	0	0	0	yes	no
+
+Focus Punch
+phys	Fighting	150	100	-3	32	adv	1	0	0	0	yes	no
+
+Foul Play
+phys	Dark	95	100	0	24	adv	1	0	0	0	yes	no
+
+Frenzy Plant
+spec	Grass	150	90	0	8	adv	1	0	0	0	no	no
+
+Frost Breath
+spec	Ice	60	90	0	16	adv	1	3	0	0	no	no
+
+Frustration
+phys	Normal	102	100	0	32	adv	1	0	0	0	yes	no
+
+Fury Cutter
+phys	Bug	40	95	0	32	adv	1	0	0	0	yes	no
+
+Fusion Bolt
+phys	Electric	100	100	0	8	adv	1	0	0	0	no	no
+
+Gear Grind
+phys	Steel	50	85	0	24	adv	2	0	0	0	yes	no
+
+Giga Impact
+phys	Normal	150	90	0	8	adv	1	0	0	0	no	no
+
+Grass Knot
+spec	Grass	1	100	0	32	adv	1	0	0	0	yes	no
+
+Gyro Ball
+phys	Steel	1	100	0	8	adv	1	0	0	0	yes	no
+
+Head Smash
+phys	Rock	150	80	0	8	adv	1	0	0	-50	yes	no
+
+Headbutt
+phys	Normal	70	100	0	24	adv	1	0	30	0	yes	no	
+
+Heavy Slam
+phys	Steel	1	100	0	16	adv	1	0	0	0	yes	no
+
+Hex
+spec	Ghost	65	100	0	16	adv	1	0	0	0	no	no
+
+Hidden Power
+spec	?	60	100	0	24	adv	1	0	0	0	no	no
+
+High Jump Kick
+phys	Fighting	130	90	0	16	adv	1	0	0	0	yes	no
+
+Hydro Cannon
+spec	Water	150	90	0	8	adv	1	0	0	0	no	no
+
+Hydro Pump
+spec	Water	110	80	0	8	adv	1	0	0	0	no	no
+
+Hyper Beam
+spec	Normal	150	90	0	8	adv	1	0	0	0	no	no
+
+Hyper Fang
+phys	Normal	80	90	0	24	adv	1	0	10	0	yes	no
+
+Hyper Voice
+spec	Normal	90	100	0	16	allAdv	1	0	0	0	no	yes
+
+Ice Shard
+phys	Ice	40	100	1	48	adv	1	0	0	0	no	no
+
+Icicle Crash
+phys	Ice	85	90	0	16	adv	1	0	30	0	no	no
+
+Icicle Spear
+phys	Ice	25	100	0	48	adv	2-5	0	0	0	no	no
+
+Incinerate
+spec	Fire	60	100	0	24	allAdv	1	0	0	0	no	no
+
+Iron Head
+phys	Steel	80	100	0	24	adv	1	0	30	0	yes	no
+
+Judgment
+spec	Normal	100	100	0	16	adv	1	0	0	0	no	no
+
+Jump Kick
+phys	Fighting	100	95	0	16	adv	1	0	0	0	yes	no
+
+Knock Off
+phys	Dark	65	100	0	40	adv	1	0	0	0	yes	no
+
+Last Resort
+phys	Normal	140	100	0	8	adv	1	0	0	0	yes	no
+
+Leaf Blade
+phys	Grass	90	100	0	24	adv	1	1	0	0	yes	no
+
+Low Kick
+phys	Fighting	1	100	0	32	adv	1	0	0	0	yes	no
+
+Mach Punch
+phys	Fighting	40	100	1	48	adv	1	0	0	0	yes	no
+
+Me First
+autre	?	1	101	0	32	adv	1	0	0	0	no	no
+
+Mega Kick
+phys	Normal	120	75	0	8	adv	1	0	0	0	yes	no
+
+Megahorn
+phys	Bug	120	85	0	16	adv	1	0	0	0	yes	no
+
+Metal Burst
+phys	Steel	1	100	0	16	adv	1	0	0	0	no	no
+
+Mirror Coat
+spec	Psychic	1	100	-5	32	adv	1	0	0	0	no	no
+
+Natural Gift
+phys	?	1	100	0	24	adv	1	0	0	0	no	no
+
+Night Shade
+spec	Ghost	1	100	0	24	adv	1	0	0	0	no	no
+
+Night Slash
+phys	Dark	70	100	0	24	adv	1	1	0	0	yes	no
+
+Origin Pulse
+spec	Water	110	85	0	16	allAdv	1	0	0	0	no	no
+
+Outrage
+phys	Dragon	120	100	0	16	adv	1	0	0	0	yes	no
+
+Payback
+phys	Dark	50	100	0	16	adv	1	0	0	0	yes	no
+
+Peck
+phys	Flying	35	100	0	56	adv	1	0	0	0	yes	no
+
+Petal Blizzard
+phys	Grass	90	100	0	24	allAdj	1	0	0	0	no	no
+
+Petal Dance
+phys	Grass	120	100	0	16	adv	1	0	0	0	yes	no
+
+Pin Missile
+phys	Bug	25	95	0	32	adv	2-5	0	0	0	no	no
+
+Phantom Force
+phys	Ghost	90	100	0	16	adv	1	0	0	0	yes	no
+
+Pluck
+phys	Flying	60	100	0	32	adv	1	0	0	0	yes	no
+
+Power Gem
+spec	Rock	80	100	0	20	adv	1	0	0	0	no	no
+
+Power Whip
+phys	Grass	120	85	0	16	adv	1	0	0	0	yes	no
+
+Precipice Blades
+phys	Ground	120	85	0	16	allAdv	1	0	0	0	no	no
+
+Prescience
+spec	Psychic	120	100	0	16	adv	1	0	0	0	no	no
+
+Psycho Cut
+phys	Psychic	70	100	0	24	adv	1	1	0	0	no	no
+
+Psyshock
+spec	Psychic	80	100	0	16	adv	1	0	0	0	no	no
+
+Psystrike
+spec	Psychic	100	100	0	16	adv	1	0	0	0	no	no
+
+Psywave
+spec	Psychic	1	100	0	24	adv	1	0	0	0	no	no
+
+Pursuit
+phys	Dark	40	100	0	32	adv	1	0	0	0	yes	no
+
+Quick Attack
+phys	Normal	40	100	1	48	adv	1	0	0	0	yes	no
+
+Rapid Spin
+phys	Normal	20	100	0	64	adv	1	0	0	0	yes	no
+
+Razor Leaf
+phys	Grass	55	95	0	40	allAdv	1	1	0	0	no	no
+
+Retaliate
+phys	Normal	70	100	0	8	adv	1	0	0	0	yes	no
+
+Return
+phys	Normal	102	100	0	32	adv	1	0	0	0	yes	no
+
+Revenge
+phys	Fighting	60	100	-4	16	adv	1	0	0	0	yes	no
+
+Reversal
+phys	Fighting	1	100	0	24	adv	1	0	0	0	yes	no
+
+Rock Blast
+phys	Rock	25	90	0	16	adv	2-5	0	0	0	no	no
+
+Rock Slide
+phys	Rock	75	90	0	16	allAdv	1	0	30	0	no	no
+
+Rock Throw
+phys	Rock	50	90	0	24	adv	1	0	0	0	no	no
+
+Round
+spec	Normal	60	100	0	24	adv	1	0	0	0	no	yes
+
+Sacred Sword
+phys	Fighting	90	100	0	32	adv	1	0	0	0	yes	no
+
+Secret Sword
+spec	Fighting	85	100	0	16	adv	1	0	0	0	no	no
+
+Seed Bomb
+phys	Grass	80	100	0	24	adv	1	0	0	0	no	no
+
+Seismic Toss
+phys	Fighting	1	100	0	32	adv	1	0	0	0	yes	no
+
+Self-Destruct
+phys	Normal	200	100	0	8	allAdj	1	0	0	0	no	no
+
+Shadow Claw
+phys	Ghost	70	100	0	24	adv	1	1	0	0	yes	no
+
+Shadow Force
+phys	Ghost	120	100	0	8	adv	1	0	0	0	yes	no
+
+Shadow Punch
+phys	Ghost	60	101	0	32	adv	1	0	0	0	yes	no
+
+Shadow Sneak
+phys	Ghost	40	100	1	48	adv	1	0	0	0	yes	no
+
+Shock Wave
+spec	Electric	60	101	0	32	adv	1	0	0	0	no	no
+
+Skull Bash
+phys	Normal	130	100	0	16	adv	1	0	0	0	yes	no
+
+Sky Attack
+phys	Flying	140	90	0	8	adv	1	1	30	0	no	no
+
+Sky Drop
+phys	Flying	60	100	0	16	adv	1	0	0	0	yes	no
+
+Sky Uppercut
+phys	Fighting	85	90	0	24	adv	1	0	0	0	yes	no
+
+Slam
+phys	Normal	80	75	0	32	adv	1	0	0	0	yes	no
+
+Slash
+phys	Normal	70	100	0	32	adv	1	1	0	0	yes	no
+
+Smack Down
+phys	Rock	50	100	0	24	adv	1	0	0	0	no	no
+
+Solar Beam
+spec	Grass	120	100	0	16	adv	1	0	0	0	no	no
+
+SolarBeam
+spec	Grass	120	100	0	16	adv	1	0	0	0	no	no
+
+Spacial Rend
+spec	Dragon	100	95	0	8	adv	1	1	0	0	no	no
+
+Steamroller
+phys	Bug	65	100	0	32	adv	1	0	30	0	yes	no
+
+Stone Edge
+phys	Rock	100	80	0	8	adv	1	1	0	0	no	no
+
+Stored Power
+spec	Psychic	20	100	0	16	adv	1	0	0	0	no	no
+
+Storm Throw
+phys	Fighting	60	100	0	16	adv	1	3	0	0	yes	no
+
+Strength
+phys	Normal	80	100	0	24	adv	1	0	0	0	yes	no
+
+Struggle
+phys	Normal	50	101	0	1	adv	1	0	0	0	yes	no
+
+Sucker Punch
+phys	Dark	80	100	1	8	adv	1	0	0	0	yes	no
+
+Super Fang
+phys	Normal	1	90	0	16	adv	1	0	0	0	yes	no
+
+Surf
+spec	Water	90	100	0	24	allAdj	1	0	0	0	no	no
+
+Swift
+spec	Normal	60	101	0	32	allAdv	1	0	0	0	no	no
+
+Synchronoise
+spec	Psychic	120	100	0	24	adv	1	0	0	0	no	no
+
+Tackle
+phys	Normal	50	100	0	56	adv	1	0	0	0	yes	no
+
+Tail Slap
+phys	Normal	25	85	0	16	adv	2-5	0	0	0	yes	no
+
+Take Down
+phys	Normal	90	85	0	32	adv	1	0	0	-25	yes	no
+
+Thief
+phys	Dark	60	100	0	40	adv	1	0	0	0	yes	no
+
+Thrash
+phys	Normal	120	100	0	16	adv	1	0	0	0	yes	no
+
+Trump Card
+spec	Normal	40	100	0	5	adv	1	0	0	0	no	no
+
+Twister
+spec	Dragon	40	100	0	32	allAdv	1	0	20	0	no	no
+
+U-turn
+phys	Bug	70	100	0	32	adv	1	0	0	0	yes	no
+
+Uproar
+spec	Normal	90	100	0	16	adv	1	0	0	0	no	yes
+
+Vacuum Wave
+spec	Fighting	40	100	1	48	adv	1	0	0	0	no	no
+
+Venoshock
+spec	Poison	65	100	0	16	adv	1	0	0	0	no	no
+
+Volt Switch
+spec	Electric	70	100	0	32	adv	1	0	0	0	no	no
+
+Volt Tackle
+phys	Electric	120	100	0	24	adv	1	0	0	-33	yes	no
+
+Wake-Up Slap
+phys	Fighting	70	100	0	16	adv	1	0	0	0	yes	no
+
+Water Gun
+spec	Water	40	100	0	40	adv	1	0	0	0	no	no
+
+Water Pledge
+spec	Water	80	100	0	16	adv	1	0	0	0	no	no
+
+Water Shuriken
+phys	Water	15	100	1	32	adv	2-5	0	0	0	no	no
+
+Water Spout
+spec	Water	150	100	0	8	allAdv	1	0	0	0	no	no
+
+Waterfall
+phys	Water	80	100	0	24	adv	1	0	20	0	yes	no
+
+Weather Ball
+spec	Normal	50	100	0	16	adv	1	0	0	0	no	no
+
+Wild Charge
+phys	Electric	90	100	0	24	adv	1	0	0	-25	yes	no
+
+Wing Attack
+phys	Flying	60	100	0	56	adv	1	0	0	0	yes	no
+
+Wood Hammer
+phys	Grass	120	100	0	24	adv	1	0	0	-33	yes	no
+
+Yakumo Gap
+spec	Dark	30	90	-6	16	adv	2	0	0	0	no	no
+
+X-Scissor
+phys	Bug	80	100	0	24	adv	1	0	0	0	yes	no
+
+Zen Headbutt
+phys	Psychic	80	90	0	24	adv	1	0	20	0	yes	no

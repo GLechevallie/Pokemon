@@ -1,0 +1,405 @@
+Steel/Flying
+65/80/140/40/70/70
+50.5
+50/50
+
+# 1 - 7.17 % (4901 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (4.7 %) / Sturdy (95.3 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (14.0 %)  
+Whirlwind
+Roost
+Brave Bird
+Defog
+# 2 - 6.66 % (4555 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (12.4 %) / Sturdy (87.6 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (20.2 %)  
+Whirlwind
+Roost
+Brave Bird
+Defog
+# 3 - 6.00 % (4107 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (8.7 %) / Sturdy (90.9 %) / Weak Armor (0.5 %)
+Nature: Impish - EVs: 224 HP / 252 Def / 32 SDef (14.8 %)  
+Whirlwind
+Spikes
+Roost
+Brave Bird
+# 4 - 5.36 % (3668 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (1.5 %) / Sturdy (98.5 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (19.8 %)  
+Whirlwind
+Roost
+Defog
+Stealth Rock
+# 5 - 4.64 % (3171 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (4.5 %) / Sturdy (95.1 %) / Weak Armor (0.4 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (29.2 %)  
+Whirlwind
+Roost
+Brave Bird
+Stealth Rock
+# 6 - 4.21 % (2877 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (17.4 %) / Sturdy (79.9 %) / Weak Armor (2.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (17.9 %)  
+Whirlwind
+Roost
+Brave Bird
+Stealth Rock
+# 7 - 4.00 % (2735 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (4.2 %) / Sturdy (95.2 %) / Weak Armor (0.6 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (34.4 %)  
+Whirlwind
+Spikes
+Roost
+Brave Bird
+# 8 - 3.93 % (2685 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (3.0 %) / Sturdy (97.0 %)
+Nature: Impish - EVs: 248 HP / 252 Def / 8 SDef (28.4 %)  
+Whirlwind
+Roost
+Defog
+Stealth Rock
+# 9 - 3.88 % (2652 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (6.1 %) / Sturdy (93.9 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (39.0 %)  
+Roost
+Brave Bird
+Defog
+Stealth Rock
+# 10 - 3.78 % (2586 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (3.3 %) / Sturdy (96.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (18.7 %)  
+Roost
+Brave Bird
+Defog
+Stealth Rock
+# 11 - 2.12 % (1451 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (1.0 %) / Sturdy (99.0 %)
+Nature: Impish - EVs: 252 HP / 220 Def / 36 SDef (62.2 %)  
+Whirlwind
+Spikes
+Roost
+Defog
+# 12 - 1.77 % (1212 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (1.6 %) / Sturdy (98.4 %)
+Nature: Impish - EVs: 252 HP / 252 Def (57.8 %)  
+Whirlwind
+Spikes
+Roost
+Stealth Rock
+# 13 - 1.47 % (1003 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (0.2 %) / Sturdy (99.8 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (21.0 %)  
+Whirlwind
+Spikes
+Roost
+Defog
+# 14 - 1.45 % (990 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (16.9 %) / Sturdy (82.1 %) / Weak Armor (1.0 %)
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (16.1 %)  
+Whirlwind
+Spikes
+Roost
+Stealth Rock
+# 15 - 1.14 % (779 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (8.0 %) / Sturdy (92.0 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (14.6 %)  
+Whirlwind
+Drill Peck
+Roost
+Defog
+# 16 - 1.05 % (717 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (4.3 %) / Sturdy (95.7 %)
+Nature: Adamant - EVs: 252 HP / 120 Atk / 136 SDef (13.5 %)  
+Whirlwind
+Brave Bird
+Defog
+Stealth Rock
+# 17 - 1.01 % (694 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Sturdy
+Nature: Impish - EVs: 252 HP / 252 Def (59.4 %)  
+Toxic
+Curse
+Roost
+Brave Bird
+# 18 - 0.99 % (674 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Sturdy
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (61.7 %)  
+Drill Peck
+Counter
+Roost
+Defog
+# 19 - 0.98 % (671 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (0.7 %) / Sturdy (99.3 %)
+Nature: Impish - EVs: 252 HP / 252 Def (47.7 %)  
+Whirlwind
+Counter
+Roost
+Defog
+# 20 - 0.97 % (666 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (4.4 %) / Sturdy (95.6 %)
+Nature: Impish - EVs: 224 HP / 252 Def / 32 SDef (31.2 %)  
+Toxic
+Roost
+Brave Bird
+Defog
+# 21 - 0.82 % (561 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Sturdy
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (96.6 %)  
+Counter
+Taunt
+Roost
+Defog
+# 22 - 0.74 % (507 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (6.9 %) / Sturdy (93.1 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (19.7 %)  
+Spikes
+Roost
+Brave Bird
+Defog
+# 23 - 0.70 % (482 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Sturdy
+Nature: Impish - EVs: 4 HP / 252 Def / 252 Spd (32.8 %)  
+Whirlwind
+Drill Peck
+Roost
+Stealth Rock
+# 24 - 0.70 % (477 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (15.5 %) / Sturdy (84.5 %)
+Nature: Impish - EVs: 252 HP / 28 Atk / 228 Def (28.3 %)  
+Spikes
+Roost
+Brave Bird
+Defog
+# 25 - 0.69 % (469 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (1.1 %) / Sturdy (98.9 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (20.9 %)  
+Counter
+Roost
+Defog
+Stealth Rock
+# 1 - 8.68 % (1172 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (6.6 %) / Sturdy (92.5 %) / Weak Armor (0.9 %)
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (28.0 %)  
+Whirlwind
+Spikes
+Roost
+Stealth Rock
+# 2 - 8.25 % (1113 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (3.2 %) / Sturdy (96.8 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (27.3 %)  
+Whirlwind
+Roost
+Brave Bird
+Stealth Rock
+# 3 - 7.82 % (1056 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (5.7 %) / Sturdy (93.7 %) / Weak Armor (0.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (22.9 %)  
+Whirlwind
+Roost
+Brave Bird
+Stealth Rock
+# 4 - 3.79 % (512 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (1.4 %) / Sturdy (98.6 %)
+Nature: Bold - EVs: 248 HP / 192 Def / 68 SDef (13.7 %)  
+Whirlwind
+Roost
+Defog
+Stealth Rock
+# 5 - 3.67 % (495 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (12.9 %) / Sturdy (87.1 %)
+Nature: Impish - EVs: 224 HP / 252 Def / 32 SDef (9.7 %)  
+Whirlwind
+Spikes
+Roost
+Brave Bird
+# 6 - 3.39 % (458 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (3.7 %) / Sturdy (96.3 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (15.3 %)  
+Roost
+Brave Bird
+Defog
+Stealth Rock
+# 7 - 3.38 % (456 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (2.2 %) / Sturdy (97.8 %)
+Nature: Impish - EVs: 252 HP / 252 Def (68.9 %)  
+Whirlwind
+Roost
+Brave Bird
+Defog
+# 8 - 2.96 % (400 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (0.8 %) / Sturdy (99.2 %)
+Nature: Impish - EVs: 252 HP / 16 Def / 240 SDef (11.5 %)  
+Whirlwind
+Roost
+Defog
+Stealth Rock
+# 9 - 2.40 % (324 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (2.8 %) / Sturdy (97.2 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (20.4 %)  
+Whirlwind
+Spikes
+Roost
+Stealth Rock
+# 10 - 2.22 % (299 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (6.0 %) / Sturdy (94.0 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (15.7 %)  
+Roost
+Brave Bird
+Defog
+Stealth Rock
+# 11 - 1.88 % (254 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (10.2 %) / Sturdy (89.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Def (14.2 %)  
+Spikes
+Roost
+Brave Bird
+Stealth Rock
+# 12 - 1.69 % (228 battles)
+
+Skarmory @ Shed Shell Lv. 100 -- Sturdy
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (51.8 %)  
+Whirlwind
+Spikes
+Roost
+Stealth Rock
+# 13 - 1.52 % (205 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (4.4 %) / Sturdy (95.6 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (33.7 %)  
+Whirlwind
+Brave Bird
+Defog
+Stealth Rock
+# 14 - 1.15 % (155 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (2.6 %) / Sturdy (95.5 %) / Weak Armor (1.9 %)
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (23.9 %)  
+Whirlwind
+Spikes
+Roost
+Brave Bird
+# 15 - 0.98 % (132 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (4.5 %) / Sturdy (95.5 %)
+Nature: Impish - EVs: 144 HP / 112 Atk / 252 Def (20.5 %)  
+Whirlwind
+Roost
+Brave Bird
+Defog
+# 16 - 0.93 % (125 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (12.8 %) / Sturdy (84.8 %) / Weak Armor (2.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (24.8 %)  
+Whirlwind
+Spikes
+Brave Bird
+Stealth Rock
+# 17 - 0.88 % (119 battles)
+
+Skarmory @ (No Item) Lv. 100 -- Keen Eye (3.4 %) / Sturdy (96.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (89.1 %)  
+Whirlwind
+Spikes
+Roost
+Stealth Rock
+# 18 - 0.79 % (106 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (0.9 %) / Sturdy (99.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (43.4 %)  
+Toxic
+Roost
+Brave Bird
+Stealth Rock
+# 19 - 0.71 % (96 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Sturdy
+Nature: Careful - EVs: 120 HP / 252 SDef / 136 Spd (20.8 %)  
+Whirlwind
+Taunt
+Roost
+Stealth Rock
+# 20 - 0.70 % (95 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (22.1 %) / Sturdy (77.9 %)
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (33.7 %)  
+Toxic
+Spikes
+Roost
+Stealth Rock
+# 21 - 0.70 % (95 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Sturdy
+Nature: Jolly - EVs: 4 HP / 252 Def / 252 Spd (43.2 %)  
+Whirlwind
+Drill Peck
+Roost
+Stealth Rock
+# 22 - 0.70 % (94 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Sturdy
+Nature: Impish - EVs: 224 HP / 252 Def / 4 SDef / 28 Spd (70.2 %)  
+Whirlwind
+Taunt
+Brave Bird
+Stealth Rock
+# 23 - 0.68 % (92 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Sturdy
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (77.2 %)  
+Roar
+Roost
+Defog
+Stealth Rock
+# 24 - 0.67 % (90 battles)
+
+Skarmory @ Leftovers Lv. 100 -- Keen Eye (2.2 %) / Sturdy (97.8 %)
+Nature: Impish - EVs: 224 HP / 252 Def / 32 SDef (80.0 %)  
+Spikes
+Taunt
+Roost
+Stealth Rock
+# 25 - 0.66 % (89 battles)
+
+Skarmory @ Rocky Helmet Lv. 100 -- Keen Eye (3.4 %) / Sturdy (96.6 %)
+Nature: Careful - EVs: 252 HP / 252 SDef / 4 Spd (32.6 %)  
+Spikes
+Roost
+Brave Bird
+Stealth Rock

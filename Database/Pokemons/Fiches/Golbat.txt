@@ -1,0 +1,405 @@
+Poison/Flying
+75/80/70/65/75/90
+55.0
+50/50
+
+# 1 - 31.31 % (67 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus (31.3 %) / Infiltrator (68.7 %)
+Nature: Hardy - EVs: 248 HP / 252 Def / 8 SDef (28.4 %)  
+Toxic
+Roost
+Brave Bird
+Defog
+# 2 - 11.21 % (24 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (62.5 %)  
+Toxic
+Super Fang
+Roost
+Defog
+# 3 - 7.94 % (17 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Careful - EVs: 252 HP / 120 Def / 132 SDef / 4 Spd (70.6 %)  
+Taunt
+Poison Fang
+Roost
+Defog
+# 4 - 6.07 % (13 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Whirlwind
+Roost
+Brave Bird
+Defog
+# 5 - 5.61 % (12 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Whirlwind
+Haze
+Taunt
+U-turn
+# 6 - 5.14 % (11 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (72.7 %)  
+Taunt
+Roost
+Brave Bird
+Defog
+# 7 - 4.67 % (10 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (70.0 %)  
+Toxic
+Confuse Ray
+Roost
+Defog
+# 8 - 4.21 % (9 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 240 HP / 252 Def / 16 SDef (100.0 %)  
+Haze
+Super Fang
+Roost
+Brave Bird
+# 9 - 2.80 % (6 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Jolly - EVs: 252 Def / 252 SDef / 4 Spd (100.0 %)  
+Super Fang
+Roost
+U-turn
+Brave Bird
+# 10 - 2.34 % (5 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus (80.0 %) / Infiltrator (20.0 %)
+Nature: Impish - EVs: 252 HP / 252 Def (80.0 %)  
+Haze
+Roost
+Brave Bird
+Defog
+# 11 - 2.34 % (5 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 176 Def / 80 SDef (60.0 %)  
+Super Fang
+Taunt
+Roost
+Brave Bird
+# 12 - 1.40 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Whirlwind
+Roost
+U-turn
+Venom Drench
+# 13 - 1.40 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (100.0 %)  
+Toxic
+Confuse Ray
+Roost
+Brave Bird
+# 14 - 1.40 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Super Fang
+Taunt
+Roost
+# 15 - 1.40 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Toxic
+Roost
+Defog
+Venom Drench
+# 16 - 1.40 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Confuse Ray
+Taunt
+Roost
+Brave Bird
+# 17 - 1.40 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 240 HP / 132 Def / 136 SDef (100.0 %)  
+Super Fang
+Taunt
+Tailwind
+Defog
+# 18 - 1.40 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 128 HP / 140 Def / 240 Spd (100.0 %)  
+Roost
+U-turn
+Brave Bird
+Defog
+# 19 - 0.93 % (2 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Careful - EVs: 252 HP / 252 SDef / 4 Spd (50.0 %)  
+Toxic
+Super Fang
+Roost
+Brave Bird
+# 20 - 0.93 % (2 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 136 Def / 120 SDef (100.0 %)  
+Toxic
+Taunt
+Roost
+Defog
+# 21 - 0.93 % (2 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Impish - EVs: 252 HP / 228 Def / 28 Spd (100.0 %)  
+Rain Dance
+Taunt
+Roost
+Brave Bird
+# 22 - 0.47 % (1 battles)
+
+Golbat @ Leftovers Lv. 100 -- Inner Focus
+Nature: Hardy - EVs: 0 (100.0 %)  
+Air Slash
+Brave Bird
+Giga Impact
+Ominous Wind
+# 23 - 0.47 % (1 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 248 HP / 112 Def / 148 SDef (100.0 %)  
+Whirlwind
+Super Fang
+Roost
+Defog
+# 24 - 0.47 % (1 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Toxic
+Confuse Ray
+Super Fang
+Roost
+# 25 - 0.47 % (1 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Toxic
+Roost
+U-turn
+Defog
+# 1 - 20.00 % (4 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus (50.0 %) / Infiltrator (50.0 %)
+Nature: Impish - EVs: 248 HP / 200 Def / 60 Spd (50.0 %)  
+Toxic
+Roost
+Brave Bird
+Defog
+# 2 - 20.00 % (4 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Jolly - EVs: 252 Def / 252 SDef / 4 Spd (100.0 %)  
+Super Fang
+Roost
+U-turn
+Brave Bird
+# 3 - 10.00 % (2 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Whirlwind
+Roost
+Brave Bird
+Defog
+# 4 - 10.00 % (2 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 244 HP / 136 Def / 128 SDef (100.0 %)  
+Toxic
+Super Fang
+Rain Dance
+Roost
+# 5 - 10.00 % (2 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 240 HP / 252 Def / 16 SDef (100.0 %)  
+Haze
+Super Fang
+Roost
+Brave Bird
+# 6 - 10.00 % (2 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Impish - EVs: 252 HP / 228 Def / 28 Spd (100.0 %)  
+Rain Dance
+Taunt
+Roost
+Brave Bird
+# 7 - 5.00 % (1 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Adamant - EVs: 128 HP / 128 Def / 252 SDef (100.0 %)  
+Whirlwind
+Curse
+Roost
+Brave Bird
+# 8 - 5.00 % (1 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Toxic
+Confuse Ray
+Roost
+Defog
+# 9 - 5.00 % (1 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Careful - EVs: 252 HP / 252 SDef (100.0 %)  
+Haze
+Roost
+Brave Bird
+Defog
+# 10 - 5.00 % (1 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 240 HP / 132 Def / 136 SDef (100.0 %)  
+Super Fang
+Taunt
+Tailwind
+Defog
+# 11 - 0 % (67 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus (31.3 %) / Infiltrator (68.7 %)
+Nature: Hardy - EVs: 248 HP / 252 Def / 8 SDef (28.4 %)  
+Toxic
+Roost
+Brave Bird
+Defog
+# 12 - 0 % (24 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (62.5 %)  
+Toxic
+Super Fang
+Roost
+Defog
+# 13 - 0 % (17 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Careful - EVs: 252 HP / 120 Def / 132 SDef / 4 Spd (70.6 %)  
+Taunt
+Poison Fang
+Roost
+Defog
+# 14 - 0 % (13 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Whirlwind
+Roost
+Brave Bird
+Defog
+# 15 - 0 % (12 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Whirlwind
+Haze
+Taunt
+U-turn
+# 16 - 0 % (11 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Jolly - EVs: 252 HP / 4 Atk / 252 Spd (72.7 %)  
+Taunt
+Roost
+Brave Bird
+Defog
+# 17 - 0 % (10 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (70.0 %)  
+Toxic
+Confuse Ray
+Roost
+Defog
+# 18 - 0 % (9 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 240 HP / 252 Def / 16 SDef (100.0 %)  
+Haze
+Super Fang
+Roost
+Brave Bird
+# 19 - 0 % (6 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Jolly - EVs: 252 Def / 252 SDef / 4 Spd (100.0 %)  
+Super Fang
+Roost
+U-turn
+Brave Bird
+# 20 - 0 % (5 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus (80.0 %) / Infiltrator (20.0 %)
+Nature: Impish - EVs: 252 HP / 252 Def (80.0 %)  
+Haze
+Roost
+Brave Bird
+Defog
+# 21 - 0 % (5 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 176 Def / 80 SDef (60.0 %)  
+Super Fang
+Taunt
+Roost
+Brave Bird
+# 22 - 0 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Whirlwind
+Roost
+U-turn
+Venom Drench
+# 23 - 0 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (100.0 %)  
+Toxic
+Confuse Ray
+Roost
+Brave Bird
+# 24 - 0 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Infiltrator
+Nature: Impish - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Super Fang
+Taunt
+Roost
+# 25 - 0 % (3 battles)
+
+Golbat @ Eviolite Lv. 100 -- Inner Focus
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Toxic
+Roost
+Defog
+Venom Drench

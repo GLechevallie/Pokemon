@@ -1,0 +1,405 @@
+Rock/Fighting
+91/129/90/72/90/108
+260.0
+asexue
+
+# 1 - 11.74 % (2373 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (61.9 %)  
+Earthquake
+Close Combat
+X-Scissor
+Stone Edge
+# 2 - 7.35 % (1485 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (53.7 %)  
+Earthquake
+Quick Attack
+Close Combat
+Stone Edge
+# 3 - 5.44 % (1100 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (39.5 %)  
+Swords Dance
+Earthquake
+Close Combat
+Stone Edge
+# 4 - 4.93 % (997 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (47.6 %)  
+Earthquake
+Close Combat
+Iron Head
+Stone Edge
+# 5 - 4.76 % (963 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (23.4 %)  
+Earthquake
+Close Combat
+Poison Jab
+Stone Edge
+# 6 - 3.00 % (606 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (40.6 %)  
+Taunt
+Close Combat
+Stone Edge
+Stealth Rock
+# 7 - 2.82 % (569 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (55.7 %)  
+Earthquake
+Close Combat
+X-Scissor
+Stone Edge
+# 8 - 2.59 % (524 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (23.5 %)  
+Earthquake
+Close Combat
+Iron Head
+Stone Edge
+# 9 - 2.44 % (493 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (39.6 %)  
+Earthquake
+Close Combat
+Stone Edge
+Stealth Rock
+# 10 - 2.24 % (452 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (30.1 %)  
+Earthquake
+Quick Attack
+Close Combat
+Stone Edge
+# 11 - 2.12 % (429 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (85.1 %)  
+Earthquake
+Quick Attack
+Close Combat
+Stone Edge
+# 12 - 1.77 % (358 battles)
+
+Terrakion @ Salac Berry Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (33.0 %)  
+Swords Dance
+Substitute
+Close Combat
+Stone Edge
+# 13 - 1.71 % (345 battles)
+
+Terrakion @ Lum Berry Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Earthquake
+Stone Edge
+Sacred Sword
+# 14 - 1.68 % (339 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (43.1 %)  
+Earthquake
+Close Combat
+Zen Headbutt
+Stone Edge
+# 15 - 1.59 % (322 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (34.2 %)  
+Earthquake
+Rock Slide
+Close Combat
+Stone Edge
+# 16 - 1.30 % (263 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (81.4 %)[Ice]  
+Earthquake
+Hidden Power
+Close Combat
+Stone Edge
+# 17 - 1.06 % (215 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (90.7 %)  
+Taunt
+Close Combat
+Stone Edge
+Stealth Rock
+# 18 - 1.02 % (206 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+X-Scissor
+Iron Head
+Sacred Sword
+# 19 - 1.01 % (204 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Taunt
+Close Combat
+# 20 - 1.00 % (202 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (30.2 %)  
+Earthquake
+Close Combat
+Stone Edge
+Stealth Rock
+# 21 - 0.97 % (197 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 252 Spd (36.0 %)  
+Earthquake
+Close Combat
+Stone Edge
+Stealth Rock
+# 22 - 0.94 % (191 battles)
+
+Terrakion @ Leftovers Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (34.6 %)  
+Swords Dance
+Substitute
+Close Combat
+Stone Edge
+# 23 - 0.92 % (186 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (42.5 %)  
+Earthquake
+Close Combat
+Poison Jab
+Stone Edge
+# 24 - 0.78 % (157 battles)
+
+Terrakion @ Air Balloon Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Close Combat
+Zen Headbutt
+Stone Edge
+# 25 - 0.71 % (143 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (86.7 %)  
+Swords Dance
+Close Combat
+Rock Polish
+Stone Edge
+# 1 - 23.53 % (891 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (32.7 %)  
+Taunt
+Close Combat
+Stone Edge
+Stealth Rock
+# 2 - 6.34 % (240 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (49.2 %)  
+Earthquake
+Close Combat
+X-Scissor
+Stone Edge
+# 3 - 6.31 % (239 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.4 %)  
+Earthquake
+Close Combat
+Stone Edge
+Stealth Rock
+# 4 - 4.33 % (164 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (52.4 %)  
+Earthquake
+Close Combat
+Poison Jab
+Stone Edge
+# 5 - 3.88 % (147 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.3 %)  
+Earthquake
+Close Combat
+Stone Edge
+Stealth Rock
+# 6 - 3.86 % (146 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (56.2 %)  
+Swords Dance
+Close Combat
+Stone Edge
+Stealth Rock
+# 7 - 3.09 % (117 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (44.4 %)  
+Earthquake
+Close Combat
+Iron Head
+Stone Edge
+# 8 - 2.24 % (85 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (92.9 %)  
+Swords Dance
+Earthquake
+Close Combat
+Stone Edge
+# 9 - 2.11 % (80 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.0 %)  
+Earthquake
+Quick Attack
+Close Combat
+Stone Edge
+# 10 - 2.11 % (80 battles)
+
+Terrakion @ Lum Berry Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Earthquake
+Stone Edge
+Sacred Sword
+# 11 - 1.61 % (61 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (73.8 %)  
+Earthquake
+Close Combat
+Zen Headbutt
+Stone Edge
+# 12 - 1.61 % (61 battles)
+
+Terrakion @ Leftovers Lv. 100 -- Justified
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Close Combat
+X-Scissor
+Smack Down
+# 13 - 1.40 % (53 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 252 Spd (34.0 %)  
+Swords Dance
+Earthquake
+Close Combat
+Stone Edge
+# 14 - 1.37 % (52 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (98.1 %)  
+Taunt
+Rock Tomb
+Close Combat
+Stealth Rock
+# 15 - 1.27 % (48 battles)
+
+Terrakion @ Air Balloon Lv. 100 -- Justified
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (52.1 %)  
+Earthquake
+Close Combat
+Stone Edge
+Stealth Rock
+# 16 - 1.14 % (43 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (20.9 %)  
+Earthquake
+Close Combat
+Iron Head
+Stone Edge
+# 17 - 1.00 % (38 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Rock Slide
+Taunt
+Close Combat
+# 18 - 0.98 % (37 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (29.7 %)  
+Earthquake
+Close Combat
+Stone Edge
+Stealth Rock
+# 19 - 0.87 % (33 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.5 %)  
+Earthquake
+Close Combat
+Poison Jab
+Stone Edge
+# 20 - 0.84 % (32 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Close Combat
+Stone Edge
+Stealth Rock
+# 21 - 0.84 % (32 battles)
+
+Terrakion @ Air Balloon Lv. 100 -- Justified
+Nature: Hasty - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Close Combat
+Iron Head
+Stone Edge
+Stealth Rock
+# 22 - 0.82 % (31 battles)
+
+Terrakion @ Choice Band Lv. 100 -- Justified
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (41.9 %)  
+Earthquake
+Close Combat
+X-Scissor
+Stone Edge
+# 23 - 0.77 % (29 battles)
+
+Terrakion @ Focus Sash Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (65.5 %)  
+Earthquake
+Rock Slide
+Close Combat
+Iron Head
+# 24 - 0.74 % (28 battles)
+
+Terrakion @ Life Orb Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (53.6 %)  
+Taunt
+Close Combat
+Stone Edge
+Stealth Rock
+# 25 - 0.63 % (24 battles)
+
+Terrakion @ Choice Scarf Lv. 100 -- Justified
+Nature: Jolly - EVs: 252 Atk / 252 Spd (79.2 %)  
+Earthquake
+Quick Attack
+Close Combat
+Stone Edge

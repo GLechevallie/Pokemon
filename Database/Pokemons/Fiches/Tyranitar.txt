@@ -1,0 +1,405 @@
+Rock/Dark
+100/134/110/95/100/61
+202.0
+50/50
+
+# 1 - 6.51 % (5134 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (97.3 %) / Unnerve (2.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Earthquake
+Crunch
+Dragon Dance
+Stone Edge
+# 2 - 5.13 % (4045 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.2 %)  
+Ice Punch
+Earthquake
+Crunch
+Dragon Dance
+# 3 - 2.75 % (2166 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (99.7 %) / Unnerve (0.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (33.4 %)  
+Ice Punch
+Earthquake
+Dragon Dance
+Stone Edge
+# 4 - 2.69 % (2119 battles)
+
+Tyranitar @ Choice Scarf Lv. 100 -- Sand Stream (99.5 %) / Unnerve (0.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (42.0 %)  
+Earthquake
+Pursuit
+Crunch
+Stone Edge
+# 5 - 2.30 % (1817 battles)
+
+Tyranitar @ Choice Scarf Lv. 100 -- Sand Stream (99.8 %) / Unnerve (0.2 %)
+Nature: Hasty - EVs: 200 Atk / 56 SAtk / 252 Spd (65.7 %)  
+Ice Beam
+Earthquake
+Crunch
+Stone Edge
+# 6 - 1.66 % (1309 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (93.7 %) / Unnerve (6.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (40.9 %)  
+Earthquake
+Rock Slide
+Crunch
+Dragon Dance
+# 7 - 1.65 % (1301 battles)
+
+Tyranitar @ Choice Band Lv. 100 -- Sand Stream (97.8 %) / Unnerve (2.2 %)
+Nature: Adamant - EVs: 200 HP / 120 Atk / 188 Def (20.8 %)  
+Earthquake
+Pursuit
+Crunch
+Stone Edge
+# 8 - 1.41 % (1111 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream (99.9 %) / Unnerve (0.1 %)
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (32.5 %)  
+Earthquake
+Pursuit
+Crunch
+Stone Edge
+# 9 - 1.37 % (1083 battles)
+
+Tyranitar @ Choice Scarf Lv. 100 -- Sand Stream
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (36.2 %)  
+Pursuit
+Crunch
+Superpower
+Stone Edge
+# 10 - 1.35 % (1061 battles)
+
+Tyranitar @ Choice Scarf Lv. 100 -- Sand Stream
+Nature: Naive - EVs: 20 HP / 36 Def / 200 SAtk / 252 Spd (99.2 %)  
+Ice Beam
+Fire Blast
+Rock Slide
+Dark Pulse
+# 11 - 1.21 % (953 battles)
+
+Tyranitar @ Choice Band Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 52 HP / 252 Atk / 204 Spd (16.2 %)  
+Pursuit
+Crunch
+Superpower
+Stone Edge
+# 12 - 1.20 % (947 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 252 SDef / 4 Spd (80.4 %)  
+Earthquake
+Payback
+Stone Edge
+Power-Up Punch
+# 13 - 1.14 % (900 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (99.4 %) / Unnerve (0.6 %)
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (20.0 %)  
+Fire Punch
+Crunch
+Dragon Dance
+Stone Edge
+# 14 - 1.13 % (889 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (99.6 %) / Unnerve (0.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (34.9 %)  
+Ice Punch
+Crunch
+Dragon Dance
+Stone Edge
+# 15 - 0.91 % (721 battles)
+
+Tyranitar @ Leftovers Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 252 HP / 144 Atk / 56 Def / 56 SDef (86.3 %)  
+Ice Punch
+Substitute
+Crunch
+Focus Punch
+# 16 - 0.83 % (654 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (98.0 %) / Unnerve (2.0 %)
+Nature: Adamant - EVs: 224 Atk / 176 Def / 60 SDef / 48 Spd (21.7 %)  
+Fire Punch
+Earthquake
+Dragon Dance
+Stone Edge
+# 17 - 0.74 % (586 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream
+Nature: Sassy - EVs: 252 HP / 4 SAtk / 252 SDef (55.3 %)  
+Ice Beam
+Fire Blast
+Pursuit
+Stone Edge
+# 18 - 0.61 % (480 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (56.0 %)  
+Fire Punch
+Earthquake
+Crunch
+Dragon Dance
+# 19 - 0.57 % (447 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (97.5 %) / Unnerve (2.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (52.8 %)  
+Crunch
+Superpower
+Dragon Dance
+Stone Edge
+# 20 - 0.53 % (419 battles)
+
+Tyranitar @ Leftovers Lv. 100 -- Sand Stream (99.8 %) / Unnerve (0.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (29.8 %)  
+Earthquake
+Crunch
+Dragon Dance
+Stone Edge
+# 21 - 0.53 % (418 battles)
+
+Tyranitar @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Naive - EVs: 4 HP / 252 Atk / 252 Spd (39.0 %)  
+Fire Blast
+Crunch
+Stone Edge
+Stealth Rock
+# 22 - 0.53 % (417 battles)
+
+Tyranitar @ Choice Band Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 80 HP / 252 Atk / 176 Spd (36.9 %)  
+Ice Punch
+Earthquake
+Pursuit
+Stone Edge
+# 23 - 0.52 % (411 battles)
+
+Tyranitar @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 252 HP / 252 Atk (49.6 %)  
+Earthquake
+Pursuit
+Stone Edge
+Stealth Rock
+# 24 - 0.52 % (408 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (97.3 %) / Unnerve (2.7 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (17.2 %)  
+Ice Punch
+Earthquake
+Crunch
+Stone Edge
+# 25 - 0.51 % (405 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream
+Nature: Sassy - EVs: 252 HP / 4 Atk / 252 SDef (47.2 %)  
+Pursuit
+Crunch
+Superpower
+Stone Edge
+# 1 - 5.49 % (1071 battles)
+
+Tyranitar @ Focus Sash Lv. 100 -- Sand Stream (99.6 %) / Unnerve (0.4 %)
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (32.5 %)  
+Ice Beam
+Fire Blast
+Crunch
+Stealth Rock
+# 2 - 2.44 % (476 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (95.4 %) / Unnerve (4.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (43.5 %)  
+Earthquake
+Crunch
+Dragon Dance
+Stone Edge
+# 3 - 1.69 % (330 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (99.1 %) / Unnerve (0.9 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (56.7 %)  
+Ice Punch
+Earthquake
+Crunch
+Dragon Dance
+# 4 - 1.38 % (269 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream
+Nature: Relaxed - EVs: 252 HP / 128 SAtk / 128 SDef (81.4 %)  
+Ice Beam
+Fire Blast
+Crunch
+Stealth Rock
+# 5 - 1.25 % (244 battles)
+
+Tyranitar @ Choice Scarf Lv. 100 -- Sand Stream (99.6 %) / Unnerve (0.4 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (45.1 %)  
+Earthquake
+Pursuit
+Crunch
+Stone Edge
+# 6 - 1.05 % (205 battles)
+
+Tyranitar @ Choice Band Lv. 100 -- Sand Stream (97.1 %) / Unnerve (2.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 SDef (24.9 %)  
+Earthquake
+Pursuit
+Crunch
+Stone Edge
+# 7 - 1.00 % (195 battles)
+
+Tyranitar @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Quiet - EVs: 104 HP / 152 Atk / 252 SAtk (91.8 %)  
+Ice Beam
+Fire Blast
+Pursuit
+Stealth Rock
+# 8 - 0.98 % (191 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream
+Nature: Naive - EVs: 116 Atk / 140 SAtk / 252 Spd (58.1 %)  
+Flamethrower
+Ice Beam
+Crunch
+Dragon Dance
+# 9 - 0.90 % (176 battles)
+
+Tyranitar @ Focus Sash Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (74.4 %)  
+Earthquake
+Crunch
+Stone Edge
+Stealth Rock
+# 10 - 0.89 % (174 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (94.8 %)  
+Earthquake
+Rock Slide
+Pursuit
+Crunch
+# 11 - 0.86 % (167 battles)
+
+Tyranitar @ Choice Band Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 160 HP / 252 Atk / 96 Spd (51.5 %)  
+Pursuit
+Crunch
+Superpower
+Stone Edge
+# 12 - 0.85 % (166 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream
+Nature: Sassy - EVs: 252 HP / 4 SAtk / 252 SDef (44.0 %)  
+Fire Blast
+Pursuit
+Stone Edge
+Stealth Rock
+# 13 - 0.80 % (156 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (96.2 %) / Unnerve (3.8 %)
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (19.2 %)  
+Ice Punch
+Earthquake
+Dragon Dance
+Stone Edge
+# 14 - 0.78 % (153 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (88.9 %) / Unnerve (11.1 %)
+Nature: Adamant - EVs: 252 Atk / 252 Spd (26.8 %)  
+Fire Punch
+Crunch
+Dragon Dance
+Stone Edge
+# 15 - 0.75 % (146 battles)
+
+Tyranitar @ Choice Scarf Lv. 100 -- Sand Stream
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (45.2 %)  
+Ice Punch
+Earthquake
+Crunch
+Stone Edge
+# 16 - 0.75 % (146 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (95.2 %)  
+Earthquake
+Fire Blast
+Crunch
+Stone Edge
+# 17 - 0.74 % (145 battles)
+
+Tyranitar @ Tyranitarite Lv. 100 -- Sand Stream (99.3 %) / Unnerve (0.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (70.3 %)  
+Ice Punch
+Crunch
+Dragon Dance
+Stone Edge
+# 18 - 0.72 % (141 battles)
+
+Tyranitar @ Choice Scarf Lv. 100 -- Sand Stream
+Nature: Hasty - EVs: 200 Atk / 56 SAtk / 252 Spd (51.8 %)  
+Ice Beam
+Earthquake
+Crunch
+Stone Edge
+# 19 - 0.70 % (136 battles)
+
+Tyranitar @ Smooth Rock Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (20.6 %)  
+Earthquake
+Crunch
+Stone Edge
+Stealth Rock
+# 20 - 0.70 % (136 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (26.5 %)  
+Earthquake
+Pursuit
+Crunch
+Stone Edge
+# 21 - 0.69 % (135 battles)
+
+Tyranitar @ Leftovers Lv. 100 -- Sand Stream
+Nature: Brave - EVs: 252 HP / 252 Atk (44.4 %)  
+Fire Blast
+Crunch
+Stone Edge
+Stealth Rock
+# 22 - 0.67 % (131 battles)
+
+Tyranitar @ Focus Sash Lv. 100 -- Sand Stream
+Nature: Naive - EVs: 168 Def / 88 SAtk / 252 Spd (45.8 %)  
+Ice Beam
+Earthquake
+Crunch
+Stealth Rock
+# 23 - 0.66 % (128 battles)
+
+Tyranitar @ Assault Vest Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 252 SDef / 4 Spd (77.3 %)  
+Earthquake
+Payback
+Stone Edge
+Power-Up Punch
+# 24 - 0.64 % (124 battles)
+
+Tyranitar @ Leftovers Lv. 100 -- Sand Stream
+Nature: Careful - EVs: 252 HP / 252 Atk / 4 SDef (35.5 %)  
+Earthquake
+Crunch
+Stone Edge
+Stealth Rock
+# 25 - 0.62 % (120 battles)
+
+Tyranitar @ Leftovers Lv. 100 -- Sand Stream
+Nature: Sassy - EVs: 232 HP / 252 Atk / 16 SDef / 8 Spd (27.5 %)  
+Fire Blast
+Pursuit
+Stone Edge
+Stealth Rock

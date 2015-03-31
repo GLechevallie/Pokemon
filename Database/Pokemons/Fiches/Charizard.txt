@@ -1,0 +1,405 @@
+Fire/Flying
+78/84/78/109/85/100
+90.5
+87.5/12.5
+
+# 1 - 13.07 % (14104 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (92.6 %) / Solar Power (7.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.6 %)  
+Earthquake
+Dragon Claw
+Dragon Dance
+Flare Blitz
+# 2 - 8.70 % (9381 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (92.8 %) / Solar Power (7.2 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (16.1 %)  
+Dragon Claw
+Dragon Dance
+Roost
+Flare Blitz
+# 3 - 5.57 % (6007 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (69.3 %) / Solar Power (30.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.1 %)  
+Flamethrower
+Solar Beam
+Air Slash
+Dragon Pulse
+# 4 - 3.61 % (3894 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (83.9 %) / Solar Power (16.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (19.9 %)  
+Solar Beam
+Fire Blast
+Roost
+Focus Blast
+# 5 - 2.80 % (3021 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (97.3 %) / Solar Power (2.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (23.2 %)  
+Fire Punch
+Earthquake
+Dragon Claw
+Dragon Dance
+# 6 - 2.53 % (2730 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (80.8 %) / Solar Power (19.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (24.3 %)  
+Flamethrower
+Solar Beam
+Roost
+Air Slash
+# 7 - 2.41 % (2595 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (91.0 %) / Solar Power (9.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (42.6 %)  
+Thunder Punch
+Dragon Claw
+Dragon Dance
+Flare Blitz
+# 8 - 1.89 % (2039 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (75.6 %) / Solar Power (24.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (45.7 %)  
+Flamethrower
+Solar Beam
+Air Slash
+Focus Blast
+# 9 - 1.84 % (1989 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (75.2 %) / Solar Power (24.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (29.0 %)  
+Solar Beam
+Fire Blast
+Air Slash
+Focus Blast
+# 10 - 1.81 % (1950 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (72.8 %) / Solar Power (27.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (34.8 %)  
+Solar Beam
+Fire Blast
+Air Slash
+Dragon Pulse
+# 11 - 1.59 % (1711 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (80.2 %) / Solar Power (19.8 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (31.9 %)  
+Solar Beam
+Fire Blast
+Roost
+Air Slash
+# 12 - 1.55 % (1677 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (66.7 %) / Solar Power (33.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (48.9 %)  
+Solar Beam
+Fire Blast
+Dragon Pulse
+Focus Blast
+# 13 - 1.48 % (1596 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (90.9 %) / Solar Power (9.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (23.5 %)  
+Earthquake
+Outrage
+Dragon Dance
+Flare Blitz
+# 14 - 1.47 % (1582 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (75.2 %) / Solar Power (24.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.4 %)  
+Flamethrower
+Solar Beam
+Dragon Pulse
+Focus Blast
+# 15 - 1.35 % (1455 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (86.2 %) / Solar Power (13.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.0 %)  
+Fire Punch
+Thunder Punch
+Dragon Claw
+Dragon Dance
+# 16 - 1.26 % (1355 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (93.6 %) / Solar Power (6.4 %)
+Nature: Adamant - EVs: 248 HP / 32 Atk / 188 SDef / 40 Spd (21.6 %)  
+Earthquake
+Will-O-Wisp
+Dragon Claw
+Roost
+# 17 - 1.01 % (1089 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (92.9 %) / Solar Power (7.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (19.5 %)  
+Outrage
+Dragon Dance
+Roost
+Flare Blitz
+# 18 - 0.99 % (1069 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (94.5 %) / Solar Power (5.5 %)
+Nature: Adamant - EVs: 112 HP / 252 Atk / 4 Def / 140 Spd (21.0 %)  
+Brick Break
+Dragon Claw
+Dragon Dance
+Flare Blitz
+# 19 - 0.97 % (1045 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (79.4 %) / Solar Power (20.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (37.8 %)  
+Flamethrower
+Solar Beam
+Roost
+Focus Blast
+# 20 - 0.77 % (834 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (84.2 %) / Solar Power (15.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (36.0 %)[Ground]  
+Flamethrower
+Solar Beam
+Hidden Power
+Air Slash
+# 21 - 0.73 % (783 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (83.5 %) / Solar Power (16.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.2 %)  
+Fire Punch
+Dragon Claw
+Dragon Dance
+Roost
+# 22 - 0.67 % (719 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (94.4 %) / Solar Power (5.6 %)
+Nature: Impish - EVs: 252 HP / 136 SAtk / 120 Spd (14.0 %)  
+Will-O-Wisp
+Dragon Claw
+Roost
+Flare Blitz
+# 23 - 0.64 % (695 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (81.4 %) / Solar Power (18.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (35.1 %)  
+Flamethrower
+Solar Beam
+Ancient Power
+Air Slash
+# 24 - 0.63 % (683 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (81.3 %) / Solar Power (18.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (38.1 %)  
+Flamethrower
+Solar Beam
+Ancient Power
+Roost
+# 25 - 0.62 % (668 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (53.3 %) / Solar Power (46.7 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (17.4 %)  
+Flamethrower
+Solar Beam
+Roost
+Dragon Pulse
+# 1 - 7.41 % (1750 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (84.4 %) / Solar Power (15.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (30.9 %)  
+Earthquake
+Dragon Claw
+Dragon Dance
+Flare Blitz
+# 2 - 5.30 % (1252 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (70.0 %) / Solar Power (30.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (19.5 %)  
+Flamethrower
+Solar Beam
+Air Slash
+Dragon Pulse
+# 3 - 5.03 % (1186 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (95.5 %) / Solar Power (4.5 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (15.4 %)  
+Dragon Claw
+Dragon Dance
+Roost
+Flare Blitz
+# 4 - 4.24 % (1001 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (85.6 %) / Solar Power (14.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (17.3 %)  
+Solar Beam
+Fire Blast
+Roost
+Focus Blast
+# 5 - 3.35 % (790 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (93.0 %) / Solar Power (7.0 %)
+Nature: Adamant - EVs: 248 HP / 32 Atk / 188 SDef / 40 Spd (13.5 %)  
+Earthquake
+Will-O-Wisp
+Dragon Claw
+Roost
+# 6 - 3.11 % (733 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (64.7 %) / Solar Power (35.3 %)
+Nature: Hardy - EVs: 136 HP / 104 Atk / 76 Def / 64 SDef / 128 Spd (31.7 %)  
+Fire Punch
+Thunder Punch
+Dragon Claw
+Dragon Dance
+# 7 - 3.08 % (728 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (70.7 %) / Solar Power (29.3 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (27.3 %)  
+Flamethrower
+Solar Beam
+Roost
+Air Slash
+# 8 - 2.78 % (655 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (69.9 %) / Solar Power (30.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (39.5 %)  
+Flamethrower
+Solar Beam
+Air Slash
+Focus Blast
+# 9 - 2.53 % (597 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (58.5 %) / Solar Power (41.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (41.5 %)  
+Solar Beam
+Fire Blast
+Dragon Pulse
+Focus Blast
+# 10 - 2.33 % (551 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (89.1 %) / Solar Power (10.9 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.8 %)  
+Flamethrower
+Solar Beam
+Roost
+Focus Blast
+# 11 - 2.23 % (526 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (84.6 %) / Solar Power (15.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (36.7 %)  
+Thunder Punch
+Dragon Claw
+Dragon Dance
+Flare Blitz
+# 12 - 2.01 % (474 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (83.1 %) / Solar Power (16.9 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (19.4 %)  
+Solar Beam
+Fire Blast
+Air Slash
+Focus Blast
+# 13 - 1.97 % (466 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (97.0 %) / Solar Power (3.0 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (28.1 %)  
+Fire Punch
+Earthquake
+Dragon Claw
+Dragon Dance
+# 14 - 1.91 % (450 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (82.0 %) / Solar Power (18.0 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (24.2 %)  
+Solar Beam
+Fire Blast
+Roost
+Air Slash
+# 15 - 1.56 % (367 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (62.1 %) / Solar Power (37.9 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (26.4 %)  
+Solar Beam
+Fire Blast
+Air Slash
+Dragon Pulse
+# 16 - 1.31 % (310 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (76.1 %) / Solar Power (23.9 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (23.5 %)  
+Flamethrower
+Solar Beam
+Dragon Pulse
+Focus Blast
+# 17 - 0.94 % (223 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (97.8 %) / Solar Power (2.2 %)
+Nature: Jolly - EVs: 136 HP / 120 Atk / 252 Spd (19.7 %)  
+Will-O-Wisp
+Dragon Claw
+Roost
+Flare Blitz
+# 18 - 0.94 % (221 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (55.7 %) / Solar Power (44.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (12.2 %)  
+Flamethrower
+Solar Beam
+Roost
+Dragon Pulse
+# 19 - 0.85 % (201 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (99.5 %) / Solar Power (0.5 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (80.6 %)  
+Solar Beam
+Fire Blast
+Ancient Power
+Dragon Pulse
+# 20 - 0.81 % (192 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (90.1 %) / Solar Power (9.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (32.8 %)  
+Earthquake
+Outrage
+Dragon Dance
+Flare Blitz
+# 21 - 0.81 % (191 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (72.3 %) / Solar Power (27.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.4 %)  
+Flamethrower
+Solar Beam
+Ancient Power
+Air Slash
+# 22 - 0.78 % (185 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (91.9 %) / Solar Power (8.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (37.3 %)[Ground]  
+Flamethrower
+Solar Beam
+Hidden Power
+Air Slash
+# 23 - 0.72 % (170 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (74.1 %) / Solar Power (25.9 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (46.5 %)  
+Solar Beam
+Fire Blast
+Roost
+Dragon Pulse
+# 24 - 0.69 % (164 battles)
+
+Charizard @ Charizardite X Lv. 100 -- Blaze (99.4 %) / Solar Power (0.6 %)
+Nature: Careful - EVs: 248 HP / 32 Atk / 188 SDef / 40 Spd (78.0 %)  
+Earthquake
+Will-O-Wisp
+Roost
+Flare Blitz
+# 25 - 0.69 % (162 battles)
+
+Charizard @ Charizardite Y Lv. 100 -- Blaze (66.7 %) / Solar Power (33.3 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (52.5 %)  
+Solar Beam
+Fire Blast
+Ancient Power
+Air Slash

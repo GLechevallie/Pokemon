@@ -1,0 +1,4 @@
+Dragon/Fairy
+75/110/110/110/105/80
+Pixilate
+20.6

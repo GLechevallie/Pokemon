@@ -1,0 +1,4 @@
+Rock/Fairy
+50/160/110/160/110/110
+Magic Bounce
+27.8

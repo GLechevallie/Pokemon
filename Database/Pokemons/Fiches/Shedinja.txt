@@ -1,0 +1,405 @@
+Bug/Ghost
+1/90/45/30/30/40
+1.2
+asexue
+
+# 1 - 17.24 % (65 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (61.5 %)  
+Swords Dance
+Will-O-Wisp
+X-Scissor
+Shadow Sneak
+# 2 - 10.61 % (40 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 Spd (65.0 %)  
+Swords Dance
+Protect
+X-Scissor
+Shadow Sneak
+# 3 - 9.81 % (37 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (91.9 %)  
+Swords Dance
+Sucker Punch
+X-Scissor
+Shadow Sneak
+# 4 - 8.49 % (32 battles)
+
+Shedinja @ Weakness Policy Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 Spd (81.2 %)  
+Swords Dance
+Endure
+Sucker Punch
+X-Scissor
+# 5 - 7.16 % (27 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+X-Scissor
+Shadow Sneak
+Phantom Force
+# 6 - 5.84 % (22 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+X-Scissor
+Shadow Claw
+# 7 - 3.71 % (14 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Baton Pass
+Will-O-Wisp
+X-Scissor
+Shadow Sneak
+# 8 - 3.45 % (13 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Baton Pass
+Will-O-Wisp
+Shadow Sneak
+Hone Claws
+# 9 - 2.92 % (11 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Naive - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+X-Scissor
+Phantom Force
+# 10 - 2.65 % (10 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Lonely - EVs: 252 Atk / 252 Spd (100.0 %)  
+Toxic
+Protect
+X-Scissor
+Shadow Claw
+# 11 - 2.39 % (9 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Baton Pass
+Will-O-Wisp
+Sucker Punch
+Shadow Claw
+# 12 - 2.12 % (8 battles)
+
+Shedinja @ Focus Band Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Confuse Ray
+Frustration
+Shadow Claw
+# 13 - 2.12 % (8 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Naughty - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Swords Dance
+Dig
+X-Scissor
+Shadow Sneak
+# 14 - 1.86 % (7 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Protect
+Sucker Punch
+Shadow Sneak
+# 15 - 1.86 % (7 battles)
+
+Shedinja @ Weakness Policy Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Endure
+Shadow Claw
+Shadow Sneak
+# 16 - 1.59 % (6 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Toxic
+Shadow Sneak
+Phantom Force
+# 17 - 1.59 % (6 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Confuse Ray
+Will-O-Wisp
+X-Scissor
+# 18 - 1.59 % (6 battles)
+
+Shedinja @ Weakness Policy Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (66.7 %)  
+Swords Dance
+Endure
+X-Scissor
+Shadow Sneak
+# 19 - 1.33 % (5 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Swords Dance
+Confuse Ray
+Will-O-Wisp
+Shadow Sneak
+# 20 - 1.06 % (4 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Sucker Punch
+X-Scissor
+# 21 - 0.80 % (3 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Phantom Force
+# 22 - 0.80 % (3 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Toxic
+Will-O-Wisp
+X-Scissor
+Shadow Sneak
+# 23 - 0.80 % (3 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+X-Scissor
+Shadow Claw
+Shadow Sneak
+Hone Claws
+# 24 - 0.80 % (3 battles)
+
+Shedinja @ Weakness Policy Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Endure
+Bug Buzz
+Shadow Sneak
+Hone Claws
+# 25 - 0.53 % (2 battles)
+
+Shedinja @ (No Item) Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Aerial Ace
+Sucker Punch
+X-Scissor
+Phantom Force
+# 1 - 18.18 % (12 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Hardy - EVs: 252 Atk / 252 Spd (100.0 %)  
+Will-O-Wisp
+Sucker Punch
+X-Scissor
+Phantom Force
+# 2 - 16.67 % (11 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+X-Scissor
+Shadow Sneak
+Phantom Force
+# 3 - 9.09 % (6 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Baton Pass
+Will-O-Wisp
+Shadow Sneak
+Hone Claws
+# 4 - 6.06 % (4 battles)
+
+Shedinja @ Focus Band Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Confuse Ray
+Frustration
+Shadow Claw
+# 5 - 6.06 % (4 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Swords Dance
+Toxic
+Sucker Punch
+X-Scissor
+# 6 - 6.06 % (4 battles)
+
+Shedinja @ Weakness Policy Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 Spd (100.0 %)  
+Swords Dance
+Endure
+Sucker Punch
+X-Scissor
+# 7 - 4.55 % (3 battles)
+
+Shedinja @ Focus Sash Lv. 20 -- Wonder Guard
+Nature: Hardy - EVs: 4 Atk / 252 SAtk / 252 SDef (100.0 %)  
+Toxic
+Aerial Ace
+Shadow Claw
+Phantom Force
+# 8 - 4.55 % (3 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Toxic
+X-Scissor
+Shadow Sneak
+# 9 - 4.55 % (3 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+X-Scissor
+Shadow Sneak
+# 10 - 3.03 % (2 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Confuse Ray
+Will-O-Wisp
+X-Scissor
+# 11 - 3.03 % (2 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Sucker Punch
+X-Scissor
+Shadow Sneak
+# 12 - 1.52 % (1 battles)
+
+Shedinja @ (No Item) Lv. 100 -- Wonder Guard
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Bug Buzz
+# 13 - 1.52 % (1 battles)
+
+Shedinja @ Bright Powder Lv. 100 -- Wonder Guard
+Nature: Hardy - EVs: 252 Atk (100.0 %)  
+(No Move)
+Swords Dance
+Sucker Punch
+Shadow Sneak
+# 14 - 1.52 % (1 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+(No Move)
+Leech Life
+# 15 - 1.52 % (1 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+Sucker Punch
+Shadow Sneak
+# 16 - 1.52 % (1 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Will-O-Wisp
+X-Scissor
+Shadow Claw
+# 17 - 1.52 % (1 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Brave - EVs: 4 HP / 252 Atk / 252 SAtk (100.0 %)  
+Protect
+Baton Pass
+Will-O-Wisp
+Shadow Sneak
+# 18 - 1.52 % (1 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Baton Pass
+Will-O-Wisp
+X-Scissor
+Shadow Sneak
+# 19 - 1.52 % (1 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+X-Scissor
+Shadow Claw
+Shadow Sneak
+Hone Claws
+# 20 - 1.52 % (1 battles)
+
+Shedinja @ Metronome Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Fury Cutter
+Will-O-Wisp
+Sucker Punch
+Shadow Sneak
+# 21 - 1.52 % (1 battles)
+
+Shedinja @ Insect Plate Lv. 20 -- Wonder Guard
+Nature: Hardy - EVs: 252 HP / 100 Atk / 156 Spd (100.0 %)  
+Toxic
+Confuse Ray
+Substitute
+X-Scissor
+# 22 - 1.52 % (1 battles)
+
+Shedinja @ Weakness Policy Lv. 100 -- Wonder Guard
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Endure
+X-Scissor
+Shadow Sneak
+# 23 - 1.52 % (1 battles)
+
+Shedinja @ Weakness Policy Lv. 100 -- Wonder Guard
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Endure
+Sucker Punch
+X-Scissor
+Shadow Sneak
+# 24 - 0 % (65 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 252 Spd (61.5 %)  
+Swords Dance
+Will-O-Wisp
+X-Scissor
+Shadow Sneak
+# 25 - 0 % (40 battles)
+
+Shedinja @ Focus Sash Lv. 100 -- Wonder Guard
+Nature: Adamant - EVs: 252 Atk / 4 SAtk / 252 Spd (65.0 %)  
+Swords Dance
+Protect
+X-Scissor
+Shadow Sneak

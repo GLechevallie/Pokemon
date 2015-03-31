@@ -1,0 +1,405 @@
+Psychic/Flying
+65/75/70/95/70/95
+15
+50/50
+
+# 1 - 16.82 % (464 battles)
+
+Xatu @ Life Orb Lv. 100 -- Synchronize (2.8 %) / Magic Bounce (97.2 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (54.7 %)  
+Heat Wave
+Roost
+Grass Knot
+Psyshock
+# 2 - 5.65 % (156 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 HP / 64 Def / 120 SAtk / 64 SDef / 8 Spd (28.8 %)  
+Substitute
+Roost
+Stored Power
+Dazzling Gleam
+# 3 - 4.60 % (127 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 252 Def (100.0 %)  
+Toxic
+Calm Mind
+Roost
+Dazzling Gleam
+# 4 - 3.33 % (92 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Impish - EVs: 248 HP / 252 Def / 8 SDef (72.8 %)  
+Toxic
+Night Shade
+Roost
+U-turn
+# 5 - 2.83 % (78 battles)
+
+Xatu @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (73.1 %)  
+Heat Wave
+Roost
+U-turn
+Psyshock
+# 6 - 2.68 % (74 battles)
+
+Xatu @ Life Orb Lv. 100 -- Synchronize (2.7 %) / Magic Bounce (97.3 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (74.3 %)  
+Psychic
+Heat Wave
+Roost
+Grass Knot
+# 7 - 2.61 % (72 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 HP / 252 Spd (100.0 %)  
+Signal Beam
+Calm Mind
+Roost
+Psyshock
+# 8 - 2.32 % (64 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 116 HP / 252 SAtk / 140 Spd (100.0 %)  
+Giga Drain
+Roost
+Psyshock
+Dazzling Gleam
+# 9 - 2.07 % (57 battles)
+
+Xatu @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Adamant - EVs: 252 Atk / 252 Spd (68.4 %)  
+Drill Peck
+Roost
+Sucker Punch
+Zen Headbutt
+# 10 - 2.07 % (57 battles)
+
+Xatu @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (50.9 %)  
+Giga Drain
+Heat Wave
+U-turn
+Psyshock
+# 11 - 1.96 % (54 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 248 HP / 204 Def / 56 Spd (44.4 %)  
+Calm Mind
+Roost
+Grass Knot
+Dazzling Gleam
+# 12 - 1.74 % (48 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 252 Spd (58.3 %)  
+Psychic
+Giga Drain
+Calm Mind
+Roost
+# 13 - 1.67 % (46 battles)
+
+Xatu @ Rocky Helmet Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 248 HP / 252 Def / 8 SDef (80.4 %)  
+Heat Wave
+Roost
+U-turn
+Grass Knot
+# 14 - 1.41 % (39 battles)
+
+Xatu @ Rocky Helmet Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (61.5 %)  
+Toxic
+Psychic
+Night Shade
+Roost
+# 15 - 1.38 % (38 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (42.1 %)  
+Thunder Wave
+Night Shade
+Roost
+U-turn
+# 16 - 1.38 % (38 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 200 HP / 164 Def / 36 SDef / 108 Spd (26.3 %)  
+Calm Mind
+Roost
+Stored Power
+Dazzling Gleam
+# 17 - 1.23 % (34 battles)
+
+Xatu @ Expert Belt Lv. 100 -- Magic Bounce
+Nature: Calm - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Ground]  
+Hidden Power
+Roost
+Stored Power
+Dazzling Gleam
+# 18 - 1.20 % (33 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SDef / 252 Spd (100.0 %)  
+Toxic
+Night Shade
+Protect
+Roost
+# 19 - 1.16 % (32 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 248 Def / 8 Spd (56.2 %)  
+Psychic
+Calm Mind
+Roost
+Dazzling Gleam
+# 20 - 1.12 % (31 battles)
+
+Xatu @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Toxic
+Psychic
+Heat Wave
+Trick
+# 21 - 1.09 % (30 battles)
+
+Xatu @ Choice Band Lv. 100 -- Magic Bounce
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (50.0 %)  
+Drill Peck
+U-turn
+Sucker Punch
+Zen Headbutt
+# 22 - 1.09 % (30 battles)
+
+Xatu @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 208 HP / 4 Def / 248 SAtk / 48 Spd (100.0 %)  
+Calm Mind
+Roost
+Stored Power
+Dazzling Gleam
+# 23 - 1.05 % (29 battles)
+
+Xatu @ Leftovers Lv. 100 -- Synchronize (3.4 %) / Magic Bounce (96.6 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (55.2 %)  
+Toxic
+Reflect
+Roost
+U-turn
+# 24 - 0.94 % (26 battles)
+
+Xatu @ Focus Sash Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Heat Wave
+Roost
+Stored Power
+Dazzling Gleam
+# 25 - 0.94 % (26 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Psychic
+Roost
+U-turn
+Trick Room
+# 1 - 20.00 % (44 battles)
+
+Xatu @ Life Orb Lv. 100 -- Synchronize (9.1 %) / Magic Bounce (90.9 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (34.1 %)  
+Heat Wave
+Roost
+Grass Knot
+Psyshock
+# 2 - 5.45 % (12 battles)
+
+Xatu @ Choice Band Lv. 100 -- Magic Bounce
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (91.7 %)  
+Drill Peck
+U-turn
+Sucker Punch
+Zen Headbutt
+# 3 - 3.64 % (8 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 248 HP / 204 Def / 56 Spd (62.5 %)  
+Calm Mind
+Roost
+Grass Knot
+Dazzling Gleam
+# 4 - 3.64 % (8 battles)
+
+Xatu @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (75.0 %)  
+Heat Wave
+Roost
+U-turn
+Psyshock
+# 5 - 3.18 % (7 battles)
+
+Xatu @ Choice Scarf Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (85.7 %)  
+Giga Drain
+Heat Wave
+U-turn
+Psyshock
+# 6 - 3.18 % (7 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Toxic
+Night Shade
+Feather Dance
+Roost
+# 7 - 2.73 % (6 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Mild - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Thunder Wave
+Psychic
+Roost
+U-turn
+# 8 - 2.73 % (6 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Toxic
+Night Shade
+Giga Drain
+Roost
+# 9 - 2.73 % (6 battles)
+
+Xatu @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (33.3 %)  
+Psychic
+Heat Wave
+Roost
+Grass Knot
+# 10 - 2.73 % (6 battles)
+
+Xatu @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Calm - EVs: 252 HP / 252 SDef (100.0 %)  
+Night Shade
+Light Screen
+Reflect
+Roost
+# 11 - 2.27 % (5 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Jolly - EVs: 40 HP / 120 Def / 96 SDef / 252 Spd (100.0 %)  
+Thunder Wave
+Toxic
+Quick Attack
+U-turn
+# 12 - 1.82 % (4 battles)
+
+Xatu @ Choice Band Lv. 100 -- Magic Bounce
+Nature: Careful - EVs: 252 HP / 252 SDef (75.0 %)  
+Thunder Wave
+Trick
+Roost
+U-turn
+# 13 - 1.82 % (4 battles)
+
+Xatu @ Choice Scarf Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 252 Def (75.0 %)  
+Psychic
+Trick
+Roost
+U-turn
+# 14 - 1.82 % (4 battles)
+
+Xatu @ Choice Scarf Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Giga Drain
+Heat Wave
+Trick
+Psyshock
+# 15 - 1.82 % (4 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Psychic
+Heat Wave
+Calm Mind
+Roost
+# 16 - 1.82 % (4 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Calm - EVs: 252 HP / 252 SDef (100.0 %)  
+Night Shade
+Feather Dance
+Roost
+U-turn
+# 17 - 1.36 % (3 battles)
+
+Xatu @ Choice Band Lv. 100 -- Magic Bounce
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Drill Peck
+Trick
+U-turn
+Sucker Punch
+# 18 - 1.36 % (3 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (66.7 %)  
+Thunder Wave
+Night Shade
+Roost
+U-turn
+# 19 - 1.36 % (3 battles)
+
+Xatu @ Leftovers Lv. 100 -- Synchronize (33.3 %) / Magic Bounce (66.7 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (100.0 %)  
+Toxic
+Reflect
+Roost
+U-turn
+# 20 - 1.36 % (3 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 248 HP / 204 Def / 56 Spd (100.0 %)  
+Toxic
+Roost
+U-turn
+Psyshock
+# 21 - 1.36 % (3 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 252 HP / 64 Def / 72 SAtk / 120 Spd (100.0 %)  
+Psychic
+Calm Mind
+Roost
+Dazzling Gleam
+# 22 - 1.36 % (3 battles)
+
+Xatu @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 116 HP / 252 SAtk / 140 Spd (100.0 %)  
+Giga Drain
+Roost
+Psyshock
+Dazzling Gleam
+# 23 - 1.36 % (3 battles)
+
+Xatu @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (100.0 %)  
+Light Screen
+Reflect
+Protect
+Wish
+# 24 - 1.36 % (3 battles)
+
+Xatu @ Rocky Helmet Lv. 100 -- Synchronize
+Nature: Bold - EVs: 248 HP / 200 Def / 60 Spd (100.0 %)  
+Thunder Wave
+Psychic
+Heat Wave
+Roost
+# 25 - 0.91 % (2 battles)
+
+Xatu @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Heat Wave
+Trick
+U-turn

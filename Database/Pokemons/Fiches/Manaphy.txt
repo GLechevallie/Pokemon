@@ -1,0 +1,405 @@
+Water/-
+100/100/100/100/100/100
+1.4
+asexue
+
+# 1 - 33.30 % (4186 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (25.5 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 2 - 8.66 % (1088 battles)
+
+Manaphy @ Lum Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (44.0 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 3 - 7.06 % (887 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (56.4 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 4 - 4.86 % (611 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Bold - EVs: 252 HP / 224 Def / 32 SDef (23.9 %)  
+Rest
+Rain Dance
+Calm Mind
+Scald
+# 5 - 2.98 % (374 battles)
+
+Manaphy @ Lum Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (57.0 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 6 - 2.63 % (330 battles)
+
+Manaphy @ Wacan Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (57.0 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 7 - 2.09 % (263 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (76.8 %)  
+Surf
+Tail Glow
+Energy Ball
+Dazzling Gleam
+# 8 - 2.00 % (252 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (37.3 %)  
+Surf
+Psychic
+Rain Dance
+Tail Glow
+# 9 - 1.98 % (249 battles)
+
+Manaphy @ Wacan Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (93.2 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 10 - 1.69 % (213 battles)
+
+Manaphy @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (29.1 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 11 - 1.34 % (169 battles)
+
+Manaphy @ Weakness Policy Lv. 100 -- Hydration
+Nature: Hardy - EVs: 4 HP / 96 Def / 156 SAtk / 96 SDef / 156 Spd (100.0 %)[Fire] 
+Surf
+Ice Beam
+Hidden Power
+Tail Glow
+# 12 - 1.25 % (157 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (41.4 %)  
+Surf
+Ice Beam
+Psychic
+Tail Glow
+# 13 - 1.23 % (154 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 HP / 252 Spd (27.3 %)  
+Surf
+Ice Beam
+Rest
+Tail Glow
+# 14 - 1.14 % (143 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 236 HP / 252 SAtk / 20 Spd (59.4 %)[Fire]  
+Hidden Power
+Tail Glow
+Energy Ball
+Scald
+# 15 - 1.06 % (133 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (91.7 %)  
+Surf
+Ice Beam
+Shadow Ball
+Tail Glow
+# 16 - 1.03 % (129 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 8 Def / 248 SAtk / 252 Spd (26.4 %)  
+Ice Beam
+Psychic
+Tail Glow
+Scald
+# 17 - 0.94 % (118 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 96 HP / 120 Def / 60 SAtk / 120 SDef / 112 Spd (39.0 %)  
+Ice Beam
+Rest
+Rain Dance
+Scald
+# 18 - 0.77 % (97 battles)
+
+Manaphy @ Damp Rock Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 HP / 4 Def / 252 SDef (91.8 %)  
+Rest
+Rain Dance
+Tail Glow
+Scald
+# 19 - 0.70 % (88 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (62.5 %)  
+Ice Beam
+Substitute
+Tail Glow
+Scald
+# 20 - 0.67 % (84 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (84.5 %)  
+Ice Beam
+Rain Dance
+Tail Glow
+Scald
+# 21 - 0.55 % (69 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Calm - EVs: 132 Def / 136 SAtk / 152 SDef / 88 Spd (100.0 %)  
+Surf
+Ice Beam
+Rest
+Rain Dance
+# 22 - 0.53 % (67 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Modest - EVs: 80 HP / 68 Def / 112 SAtk / 76 SDef / 172 Spd (41.8 %)  
+Ice Beam
+Tail Glow
+Scald
+Dazzling Gleam
+# 23 - 0.53 % (67 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Modest - EVs: 96 Def / 96 SAtk / 96 SDef / 220 Spd (100.0 %)  
+Toxic
+Rest
+Rain Dance
+Scald
+# 24 - 0.53 % (67 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Calm - EVs: 136 Def / 136 SAtk / 148 SDef / 88 Spd (100.0 %)  
+Rest
+Rain Dance
+Energy Ball
+Scald
+# 25 - 0.53 % (66 battles)
+
+Manaphy @ Salac Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (50.0 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 1 - 33.45 % (398 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (29.6 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 2 - 10.00 % (119 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (27.7 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 3 - 5.71 % (68 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Bold - EVs: 248 HP / 236 Def / 24 Spd (30.9 %)  
+Rest
+Rain Dance
+Calm Mind
+Scald
+# 4 - 5.55 % (66 battles)
+
+Manaphy @ Lum Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (63.6 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 5 - 2.69 % (32 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (46.9 %)  
+Surf
+Psychic
+Rain Dance
+Tail Glow
+# 6 - 2.69 % (32 battles)
+
+Manaphy @ Wacan Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (68.8 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 7 - 1.93 % (23 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Surf
+Psychic
+Substitute
+Tail Glow
+# 8 - 1.51 % (18 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Modest - EVs: 244 HP / 104 SAtk / 16 SDef / 144 Spd (61.1 %) 
+Surf
+Rest
+Rain Dance
+Tail Glow
+# 9 - 1.34 % (16 battles)
+
+Manaphy @ Life Orb Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (25.0 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 10 - 1.26 % (15 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 HP / 252 Spd (40.0 %)  
+Ice Beam
+Psychic
+Tail Glow
+Scald
+# 11 - 1.18 % (14 battles)
+
+Manaphy @ Choice Scarf Lv. 100 -- Hydration
+Nature: Modest - EVs: 252 SAtk / 252 Spd (78.6 %)  
+Surf
+Ice Beam
+U-turn
+Energy Ball
+# 12 - 1.18 % (14 battles)
+
+Manaphy @ Red Card Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 13 - 1.18 % (14 battles)
+
+Manaphy @ Red Card Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Rain Dance
+Tail Glow
+Scald
+Dazzling Gleam
+# 14 - 1.18 % (14 battles)
+
+Manaphy @ Lum Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (28.6 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 15 - 1.18 % (14 battles)
+
+Manaphy @ Wacan Berry Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Psychic
+Tail Glow
+Energy Ball
+Scald
+# 16 - 1.01 % (12 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Icy Wind
+Tail Glow
+Energy Ball
+Scald
+# 17 - 0.84 % (10 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (90.0 %)  
+Surf
+Ice Beam
+Tail Glow
+Dazzling Gleam
+# 18 - 0.84 % (10 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (70.0 %)  
+Surf
+Tail Glow
+Energy Ball
+Dazzling Gleam
+# 19 - 0.76 % (9 battles)
+
+Manaphy @ Expert Belt Lv. 100 -- Hydration
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (77.8 %)  
+Surf
+Ice Beam
+Tail Glow
+Energy Ball
+# 20 - 0.76 % (9 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 252 SAtk / 252 Spd (44.4 %)  
+Surf
+Ice Beam
+Psychic
+Tail Glow
+# 21 - 0.76 % (9 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (44.4 %)  
+Surf
+Ice Beam
+Substitute
+Tail Glow
+# 22 - 0.76 % (9 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Modest - EVs: 252 HP / 220 SAtk / 36 Spd (66.7 %)  
+Psychic
+Substitute
+Tail Glow
+Scald
+# 23 - 0.76 % (9 battles)
+
+Manaphy @ Sitrus Berry Lv. 100 -- Hydration
+Nature: Hasty - EVs: 252 SAtk / 252 Spd (33.3 %)  
+Ice Beam
+Tail Glow
+Energy Ball
+Scald
+# 24 - 0.67 % (8 battles)
+
+Manaphy @ Focus Sash Lv. 100 -- Hydration
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (87.5 %)  
+Surf
+Ice Beam
+Heart Swap
+Energy Ball
+# 25 - 0.67 % (8 battles)
+
+Manaphy @ Leftovers Lv. 100 -- Hydration
+Nature: Timid - EVs: 80 HP / 252 SDef / 176 Spd (87.5 %)  
+Surf
+Ice Beam
+Rain Dance
+Tail Glow

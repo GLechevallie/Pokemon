@@ -1,0 +1,405 @@
+Bug/Poison
+70/65/60/90/75/90
+12.5
+50/50
+
+# 1 - 18.30 % (256 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Tinted Lens (6.6 %) / Wonder Skin (93.4 %)
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (70.3 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 2 - 14.51 % (203 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Shield Dust (96.6 %) / Tinted Lens (3.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (96.6 %)  
+Sludge Bomb
+Giga Drain
+Bug Buzz
+Quiver Dance
+# 3 - 11.15 % (156 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust (31.4 %) / Tinted Lens (68.6 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (67.3 %)  
+Sleep Powder
+Sludge Bomb
+Baton Pass
+Quiver Dance
+# 4 - 7.65 % (107 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust (50.5 %) / Tinted Lens (35.5 %) / Wonder Skin (14.0 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (35.5 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 5 - 6.29 % (88 battles)
+
+Venomoth @ Shell Bell Lv. 100 -- Tinted Lens
+Nature: Modest - EVs: 4 HP / 112 Def / 252 SAtk / 140 Spd (72.7 %)  
+Sludge Bomb
+Giga Drain
+Bug Buzz
+Quiver Dance
+# 6 - 4.15 % (58 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Tinted Lens
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Hidden Power
+Bug Buzz
+Venoshock
+Quiver Dance
+# 7 - 3.72 % (52 battles)
+
+Venomoth @ Red Card Lv. 100 -- Tinted Lens
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Toxic Spikes
+Bug Buzz
+Venoshock
+Quiver Dance
+# 8 - 2.64 % (37 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Tinted Lens (83.8 %) / Wonder Skin (16.2 %)
+Nature: Timid - EVs: 72 HP / 64 Def / 252 SAtk / 120 Spd (67.6 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 9 - 2.14 % (30 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 144 HP / 104 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Baton Pass
+Quiver Dance
+# 10 - 2.14 % (30 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust (90.0 %) / Wonder Skin (10.0 %)
+Nature: Timid - EVs: 252 HP / 252 Spd (86.7 %)  
+Sleep Powder
+Giga Drain
+Baton Pass
+Quiver Dance
+# 11 - 2.00 % (28 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Tinted Lens
+Nature: Timid - EVs: 252 HP / 80 Def / 80 SAtk / 16 SDef / 80 Spd (67.9 %)  
+Sleep Powder
+Psychic
+Bug Buzz
+Quiver Dance
+# 12 - 1.72 % (24 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Shield Dust (16.7 %) / Tinted Lens (29.2 %) / Wonder Skin (54.2 %)
+Nature: Hardy - EVs: 188 Def / 184 SDef / 136 Spd (54.2 %)  
+Baton Pass
+Roost
+Bug Buzz
+Quiver Dance
+# 13 - 1.43 % (20 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Wonder Skin
+Nature: Hardy - EVs: 252 HP / 4 SAtk / 252 SDef (75.0 %)  
+Psychic
+Roost
+Bug Buzz
+Quiver Dance
+# 14 - 1.36 % (19 battles)
+
+Venomoth @ Apicot Berry Lv. 100 -- Shield Dust
+Nature: Modest - EVs: 76 HP / 228 SAtk / 108 SDef / 96 Spd (100.0 %)  
+Psychic
+Silver Wind
+Venoshock
+Quiver Dance
+# 15 - 1.22 % (17 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust (64.7 %) / Tinted Lens (11.8 %) / Wonder Skin (23.5 %)
+Nature: Hardy - EVs: 4 HP / 252 SAtk / 252 Spd (64.7 %)  
+Sleep Powder
+Sludge Bomb
+Bug Buzz
+Quiver Dance
+# 16 - 1.22 % (17 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Shield Dust
+Nature: Bold - EVs: 252 HP / 148 Def / 108 SDef (100.0 %)  
+Giga Drain
+Baton Pass
+Roost
+Quiver Dance
+# 17 - 1.07 % (15 battles)
+
+Venomoth @ Life Orb Lv. 100 -- Tinted Lens
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Psychic
+Bug Buzz
+Quiver Dance
+# 18 - 0.93 % (13 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Baton Pass
+Bug Buzz
+Venoshock
+Quiver Dance
+# 19 - 0.93 % (13 battles)
+
+Venomoth @ Life Orb Lv. 100 -- Tinted Lens
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Roost
+Bug Buzz
+Quiver Dance
+# 20 - 0.71 % (10 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Tinted Lens
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Bug Buzz
+Quiver Dance
+# 21 - 0.71 % (10 battles)
+
+Venomoth @ Wide Lens Lv. 100 -- Tinted Lens (10.0 %) / Wonder Skin (90.0 %)
+Nature: Timid - EVs: 252 HP / 252 Spd (90.0 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 22 - 0.71 % (10 battles)
+
+Venomoth @ Insect Plate Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 120 SAtk / 136 SDef / 252 Spd (100.0 %)  
+Disable
+Signal Beam
+Roost
+Quiver Dance
+# 23 - 0.64 % (9 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust (44.4 %) / Wonder Skin (55.6 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (55.6 %)  
+Substitute
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 24 - 0.64 % (9 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (55.6 %)  
+Sleep Powder
+Substitute
+Baton Pass
+Quiver Dance
+# 25 - 0.57 % (8 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Tinted Lens (37.5 %) / Wonder Skin (62.5 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (62.5 %)  
+Psychic
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 1 - 16.57 % (57 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 144 HP / 104 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Baton Pass
+Quiver Dance
+# 2 - 15.41 % (53 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust (39.6 %) / Tinted Lens (35.8 %) / Wonder Skin (24.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.2 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 3 - 11.92 % (41 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Tinted Lens (14.6 %) / Wonder Skin (85.4 %)
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (46.3 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 4 - 6.98 % (24 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Tinted Lens (4.2 %) / Wonder Skin (95.8 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (95.8 %)  
+Psychic
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 5 - 6.69 % (23 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust
+Nature: Timid - EVs: 252 HP / 252 Spd (52.2 %)  
+Sleep Powder
+Giga Drain
+Baton Pass
+Quiver Dance
+# 6 - 6.10 % (21 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Shield Dust (9.5 %) / Tinted Lens (90.5 %)
+Nature: Modest - EVs: 252 SAtk / 252 Spd (95.2 %)  
+Sleep Powder
+Sludge Bomb
+Baton Pass
+Quiver Dance
+# 7 - 5.52 % (19 battles)
+
+Venomoth @ Wide Lens Lv. 100 -- Tinted Lens (94.7 %) / Wonder Skin (5.3 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (84.2 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 8 - 3.78 % (13 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Wonder Skin
+Nature: Bold - EVs: 252 HP / 148 Def / 108 SDef (92.3 %)  
+Sleep Powder
+Substitute
+Baton Pass
+Quiver Dance
+# 9 - 2.62 % (9 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Baton Pass
+Toxic Spikes
+Bug Buzz
+Quiver Dance
+# 10 - 2.33 % (8 battles)
+
+Venomoth @ Bright Powder Lv. 100 -- Wonder Skin
+Nature: Bold - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Substitute
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 11 - 2.03 % (7 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Baton Pass
+Quiver Dance
+# 12 - 1.74 % (6 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Tinted Lens (66.7 %) / Wonder Skin (33.3 %)
+Nature: Jolly - EVs: 4 HP / 252 SAtk / 252 Spd (33.3 %)  
+Sleep Powder
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 13 - 1.74 % (6 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Tinted Lens
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (50.0 %)  
+Sleep Powder
+Psychic
+Bug Buzz
+Quiver Dance
+# 14 - 1.45 % (5 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Wonder Skin
+Nature: Calm - EVs: 252 Def / 4 SDef / 252 Spd (100.0 %)  
+Baton Pass
+Roost
+Toxic Spikes
+Quiver Dance
+# 15 - 1.16 % (4 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Wonder Skin
+Nature: Modest - EVs: 176 Def / 252 SAtk / 80 SDef (100.0 %)[Fire]  
+Giga Drain
+Hidden Power
+Signal Beam
+Quiver Dance
+# 16 - 1.16 % (4 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Tinted Lens
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Giga Drain
+Bug Buzz
+Quiver Dance
+# 17 - 0.87 % (3 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Wonder Skin
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (100.0 %)  
+Sleep Powder
+Baton Pass
+Toxic Spikes
+Quiver Dance
+# 18 - 0.87 % (3 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Tinted Lens
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Sludge Bomb
+Giga Drain
+Bug Buzz
+Quiver Dance
+# 19 - 0.87 % (3 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Tinted Lens
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Bug Buzz
+Quiver Dance
+# 20 - 0.87 % (3 battles)
+
+Venomoth @ Leftovers Lv. 100 -- Wonder Skin
+Nature: Hardy - EVs: 188 Def / 184 SDef / 136 Spd (100.0 %)  
+Baton Pass
+Roost
+Bug Buzz
+Quiver Dance
+# 21 - 0.87 % (3 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Wonder Skin
+Nature: Bold - EVs: 252 HP / 148 Def / 108 SDef (100.0 %)  
+Sleep Powder
+Substitute
+Baton Pass
+Bug Buzz
+# 22 - 0.87 % (3 battles)
+
+Venomoth @ Black Sludge Lv. 100 -- Tinted Lens
+Nature: Timid - EVs: 4 HP / 252 SDef / 252 Spd (100.0 %)  
+Giga Drain
+Baton Pass
+Bug Buzz
+Quiver Dance
+# 23 - 0.87 % (3 battles)
+
+Venomoth @ Sitrus Berry Lv. 100 -- Wonder Skin
+Nature: Hardy - EVs: 0 (100.0 %)  
+Sleep Powder
+Substitute
+Baton Pass
+Bug Buzz
+# 24 - 0.58 % (2 battles)
+
+Venomoth @ Bright Powder Lv. 100 -- Tinted Lens
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Psychic
+Bug Buzz
+Quiver Dance
+# 25 - 0.58 % (2 battles)
+
+Venomoth @ Focus Sash Lv. 100 -- Tinted Lens
+Nature: Jolly - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Sleep Powder
+Substitute
+Bug Buzz
+Quiver Dance

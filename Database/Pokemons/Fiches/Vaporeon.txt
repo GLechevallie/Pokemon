@@ -1,0 +1,405 @@
+Water/-
+130/65/60/110/95/65
+29.0
+87.5/12.5
+
+# 1 - 16.02 % (5753 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (99.9 %) / Hydration (0.1 %)
+Nature: Bold - EVs: 192 HP / 252 Def / 64 Spd (25.5 %)  
+Roar
+Acid Armor
+Substitute
+Baton Pass
+# 2 - 10.49 % (3768 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (96.7 %) / Hydration (3.3 %)
+Nature: Calm - EVs: 252 HP / 252 SDef (14.6 %)  
+Toxic
+Protect
+Wish
+Scald
+# 3 - 9.35 % (3357 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (99.9 %) / Hydration (0.1 %)
+Nature: Hardy - EVs: 248 HP / 252 Def / 8 SDef (14.3 %)  
+Protect
+Heal Bell
+Wish
+Scald
+# 4 - 6.52 % (2342 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 192 HP / 252 Def / 64 Spd (17.1 %)  
+Acid Armor
+Substitute
+Baton Pass
+Scald
+# 5 - 4.45 % (1599 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (99.9 %) / Hydration (0.1 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (62.5 %)  
+Roar
+Protect
+Wish
+Scald
+# 6 - 4.30 % (1545 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (97.8 %) / Hydration (2.2 %)
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (19.7 %)  
+Ice Beam
+Protect
+Wish
+Scald
+# 7 - 2.65 % (952 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (99.4 %) / Hydration (0.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def (60.7 %)  
+Acid Armor
+Substitute
+Baton Pass
+Aqua Ring
+# 8 - 1.51 % (543 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 Def / 252 SDef (47.5 %)  
+Acid Armor
+Baton Pass
+Wish
+Scald
+# 9 - 1.22 % (439 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (99.5 %) / Hydration (0.5 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (28.9 %)  
+Surf
+Toxic
+Protect
+Wish
+# 10 - 1.18 % (423 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (98.6 %) / Hydration (1.4 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (47.0 %)  
+Ice Beam
+Acid Armor
+Baton Pass
+Scald
+# 11 - 1.10 % (394 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 160 Def / 96 SDef (40.4 %)  
+Ice Beam
+Heal Bell
+Wish
+Scald
+# 12 - 1.04 % (374 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (47.1 %)  
+Haze
+Protect
+Wish
+Scald
+# 13 - 1.03 % (370 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 56 HP / 252 Def / 200 SAtk (100.0 %)[Grass]  
+Surf
+Ice Beam
+Haze
+Hidden Power
+# 14 - 1.01 % (364 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (97.3 %) / Hydration (2.7 %)
+Nature: Bold - EVs: 248 HP / 252 SDef / 8 Spd (22.5 %)  
+Toxic
+Heal Bell
+Wish
+Scald
+# 15 - 1.01 % (364 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Protect
+Baton Pass
+Aqua Ring
+Scald
+# 16 - 1.01 % (364 battles)
+
+Vaporeon @ Red Card Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Acid Armor
+Baton Pass
+Aqua Ring
+Scald
+# 17 - 1.01 % (362 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (90.3 %) / Hydration (9.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (24.9 %)  
+Substitute
+Baton Pass
+Aqua Ring
+Scald
+# 18 - 0.87 % (311 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (19.9 %)  
+Acid Armor
+Baton Pass
+Aqua Ring
+Scald
+# 19 - 0.80 % (288 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 212 Def / 44 SDef (45.8 %)  
+Surf
+Acid Armor
+Baton Pass
+Aqua Ring
+# 20 - 0.80 % (287 battles)
+
+Vaporeon @ White Herb Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (99.3 %)  
+Acid Armor
+Baton Pass
+Aqua Ring
+Scald
+# 21 - 0.78 % (280 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (98.9 %) / Hydration (1.1 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (23.6 %)  
+Ice Beam
+Toxic
+Wish
+Scald
+# 22 - 0.68 % (244 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (36.9 %)  
+Roar
+Acid Armor
+Baton Pass
+Scald
+# 23 - 0.65 % (232 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Modest - EVs: 252 HP / 252 SDef (46.6 %)  
+Protect
+Baton Pass
+Wish
+Scald
+# 24 - 0.57 % (204 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (10.8 %) / Hydration (89.2 %)
+Nature: Bold - EVs: 124 HP / 240 Def / 144 SDef (92.6 %)  
+Haze
+Protect
+Rain Dance
+Scald
+# 25 - 0.52 % (186 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (58.1 %)  
+Haze
+Heal Bell
+Wish
+Scald
+# 1 - 14.09 % (416 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (98.1 %) / Hydration (1.9 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (42.3 %)  
+Toxic
+Protect
+Wish
+Scald
+# 2 - 11.51 % (340 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 192 HP / 252 Def / 64 SDef (42.1 %)  
+Roar
+Acid Armor
+Substitute
+Baton Pass
+# 3 - 7.82 % (231 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (99.6 %) / Hydration (0.4 %)
+Nature: Calm - EVs: 252 HP / 252 Def / 4 Spd (37.7 %)  
+Ice Beam
+Protect
+Wish
+Scald
+# 4 - 4.67 % (138 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Protect
+Baton Pass
+Aqua Ring
+Scald
+# 5 - 4.54 % (134 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (31.3 %)  
+Protect
+Heal Bell
+Wish
+Scald
+# 6 - 3.18 % (94 battles)
+
+Vaporeon @ Red Card Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Acid Armor
+Baton Pass
+Aqua Ring
+Scald
+# 7 - 2.95 % (87 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (31.0 %)  
+Acid Armor
+Baton Pass
+Aqua Ring
+Scald
+# 8 - 2.78 % (82 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (25.6 %)  
+Roar
+Protect
+Wish
+Scald
+# 9 - 2.61 % (77 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 192 HP / 252 Def / 64 Spd (15.6 %)  
+Acid Armor
+Substitute
+Baton Pass
+Scald
+# 10 - 2.54 % (75 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 56 HP / 252 Def / 200 SAtk (100.0 %)[Grass]  
+Surf
+Ice Beam
+Haze
+Hidden Power
+# 11 - 2.20 % (65 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 4 Def / 252 SDef (78.5 %)  
+Surf
+Toxic
+Heal Bell
+Wish
+# 12 - 2.13 % (63 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (9.5 %) / Hydration (90.5 %)
+Nature: Bold - EVs: 124 HP / 240 Def / 144 SDef (95.2 %)  
+Haze
+Protect
+Rain Dance
+Scald
+# 13 - 1.66 % (49 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (91.8 %)[Electric]  
+Toxic
+Protect
+Hidden Power
+Wish
+# 14 - 1.46 % (43 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 252 Def / 252 SDef (23.3 %)  
+Acid Armor
+Baton Pass
+Wish
+Scald
+# 15 - 1.15 % (34 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 24 HP / 64 Atk / 176 Def / 244 SDef (100.0 %)  
+Waterfall
+Rest
+Curse
+Baton Pass
+# 16 - 1.08 % (32 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (37.5 %)  
+Ice Beam
+Toxic
+Wish
+Scald
+# 17 - 1.08 % (32 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb (96.9 %) / Hydration (3.1 %)
+Nature: Bold - EVs: 252 HP / 4 SDef / 252 Spd (40.6 %)  
+Substitute
+Baton Pass
+Aqua Ring
+Scald
+# 18 - 1.05 % (31 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 188 HP / 252 Def / 68 SDef (41.9 %)  
+Surf
+Toxic
+Protect
+Wish
+# 19 - 0.81 % (24 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Calm - EVs: 196 HP / 100 Def / 212 SDef (45.8 %)  
+Acid Armor
+Substitute
+Baton Pass
+Aqua Ring
+# 20 - 0.78 % (23 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (91.3 %)  
+Toxic
+Haze
+Rest
+Scald
+# 21 - 0.78 % (23 battles)
+
+Vaporeon @ Sitrus Berry Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (91.3 %)  
+Ice Beam
+Protect
+Wish
+Scald
+# 22 - 0.75 % (22 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 Spd (45.5 %)  
+Roar
+Acid Armor
+Baton Pass
+Scald
+# 23 - 0.71 % (21 battles)
+
+Vaporeon @ Lum Berry Lv. 100 -- Hydration
+Nature: Hardy - EVs: 228 HP / 72 SAtk / 208 Spd (81.0 %)  
+Ice Beam
+Rest
+Rain Dance
+Scald
+# 24 - 0.61 % (18 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 108 HP / 252 Def / 148 SDef (100.0 %)  
+Protect
+Wish
+Yawn
+Scald
+# 25 - 0.54 % (16 battles)
+
+Vaporeon @ Leftovers Lv. 100 -- Water Absorb
+Nature: Bold - EVs: 248 HP / 252 Def / 8 Spd (68.8 %)  
+Haze
+Protect
+Wish
+Scald

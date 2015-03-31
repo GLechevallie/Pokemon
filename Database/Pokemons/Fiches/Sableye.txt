@@ -1,0 +1,405 @@
+Dark/Ghost
+50/75/75/65/65/50
+11.0
+50/50
+
+# 1 - 24.30 % (1008 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (0.5 %) / Prankster (99.5 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (7.1 %)  
+Recover
+Will-O-Wisp
+Taunt
+Foul Play
+# 2 - 18.25 % (757 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (0.8 %) / Prankster (99.2 %)
+Nature: Careful - EVs: 240 HP / 132 Def / 132 SDef / 4 Spd (18.0 %)  
+Recover
+Will-O-Wisp
+Taunt
+Knock Off
+# 3 - 5.62 % (233 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 8 Def / 248 SDef (15.0 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Taunt
+# 4 - 4.00 % (166 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 116 HP / 124 Atk / 252 Def / 16 Spd (62.7 %)  
+Confuse Ray
+Will-O-Wisp
+Taunt
+Sucker Punch
+# 5 - 3.16 % (131 battles)
+
+Sableye @ Lum Berry Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (96.2 %)  
+Recover
+Will-O-Wisp
+Taunt
+Foul Play
+# 6 - 3.06 % (127 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 252 SDef / 4 Spd (54.3 %)  
+Night Shade
+Recover
+Will-O-Wisp
+Taunt
+# 7 - 2.43 % (101 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 60 HP / 224 Def / 224 SDef (96.0 %)  
+Recover
+Confuse Ray
+Protect
+Will-O-Wisp
+# 8 - 2.22 % (92 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 4 Def / 252 SDef (78.3 %)  
+Recover
+Will-O-Wisp
+Taunt
+Shadow Sneak
+# 9 - 2.17 % (90 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (1.1 %) / Prankster (98.9 %)
+Nature: Careful - EVs: 252 Def / 252 SDef (74.4 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Foul Play
+# 10 - 2.12 % (88 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 240 HP / 248 Def / 20 Spd (98.9 %)  
+Recover
+Substitute
+Will-O-Wisp
+Taunt
+# 11 - 1.98 % (82 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (1.2 %) / Prankster (98.8 %)
+Nature: Bold - EVs: 252 HP / 56 Def / 200 SDef (62.2 %)  
+Toxic
+Recover
+Will-O-Wisp
+Taunt
+# 12 - 1.71 % (71 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (8.5 %) / Prankster (91.5 %)
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (52.1 %)  
+Night Shade
+Recover
+Confuse Ray
+Will-O-Wisp
+# 13 - 1.59 % (66 battles)
+
+Sableye @ Lagging Tail Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (92.4 %)  
+Recover
+Will-O-Wisp
+Trick
+Foul Play
+# 14 - 1.59 % (66 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (89.4 %)  
+Torment
+Will-O-Wisp
+Taunt
+Knock Off
+# 15 - 1.45 % (60 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (93.3 %)  
+Recover
+Will-O-Wisp
+Sucker Punch
+Shadow Sneak
+# 16 - 1.13 % (47 battles)
+
+Sableye @ Lum Berry Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Payback
+# 17 - 1.06 % (44 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def (93.2 %)  
+Recover
+Will-O-Wisp
+Sucker Punch
+Foul Play
+# 18 - 0.89 % (37 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 240 SDef / 16 Spd (94.6 %)  
+Recover
+Will-O-Wisp
+Taunt
+Snarl
+# 19 - 0.77 % (32 battles)
+
+Sableye @ Focus Sash Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 HP / 128 Def / 128 SDef (75.0 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Taunt
+# 20 - 0.75 % (31 battles)
+
+Sableye @ Heat Rock Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 Def / 252 SDef / 4 Spd (61.3 %)  
+Recover
+Sunny Day
+Will-O-Wisp
+Foul Play
+# 21 - 0.72 % (30 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Sassy - EVs: 240 HP / 16 Def / 252 SDef (100.0 %)  
+Recover
+Substitute
+Sunny Day
+Will-O-Wisp
+# 22 - 0.65 % (27 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 252 Def (51.9 %)  
+Recover
+Will-O-Wisp
+Taunt
+Metal Burst
+# 23 - 0.65 % (27 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 124 Def / 132 SDef (40.7 %)  
+Recover
+Will-O-Wisp
+Knock Off
+Foul Play
+# 24 - 0.63 % (26 battles)
+
+Sableye @ Choice Band Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 HP / 252 SDef (73.1 %)  
+Recover
+Will-O-Wisp
+Taunt
+Trick
+# 25 - 0.63 % (26 battles)
+
+Sableye @ Choice Specs Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 Def / 252 SDef (100.0 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Trick
+# 1 - 20.38 % (421 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (0.5 %) / Prankster (99.5 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (17.3 %)  
+Recover
+Will-O-Wisp
+Taunt
+Foul Play
+# 2 - 20.18 % (417 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (0.7 %) / Prankster (99.3 %)
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (24.9 %)  
+Recover
+Will-O-Wisp
+Taunt
+Knock Off
+# 3 - 14.67 % (303 battles)
+
+Sableye @ Lagging Tail Lv. 100 -- Prankster
+Nature: Calm - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Recover
+Will-O-Wisp
+Taunt
+Trick
+# 4 - 3.92 % (81 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (48.1 %)  
+Toxic
+Recover
+Will-O-Wisp
+Taunt
+# 5 - 3.39 % (70 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (24.3 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Taunt
+# 6 - 2.66 % (55 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 252 Def (38.2 %)  
+Recover
+Will-O-Wisp
+Taunt
+Metal Burst
+# 7 - 1.79 % (37 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 240 HP / 248 Def / 20 Spd (86.5 %)  
+Recover
+Substitute
+Will-O-Wisp
+Taunt
+# 8 - 1.65 % (34 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 116 HP / 124 Atk / 252 Def / 16 Spd (44.1 %)  
+Confuse Ray
+Will-O-Wisp
+Taunt
+Sucker Punch
+# 9 - 1.60 % (33 battles)
+
+Sableye @ Damp Rock Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (63.6 %)  
+Rain Dance
+Will-O-Wisp
+Taunt
+Gravity
+# 10 - 1.40 % (29 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (3.4 %) / Prankster (96.6 %)
+Nature: Careful - EVs: 252 HP / 4 Atk / 252 SDef (41.4 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Foul Play
+# 11 - 1.21 % (25 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 248 HP / 92 Def / 168 SDef (100.0 %)  
+Toxic
+Night Shade
+Recover
+Taunt
+# 12 - 1.16 % (24 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 60 HP / 224 Def / 224 SDef (58.3 %)  
+Recover
+Confuse Ray
+Protect
+Will-O-Wisp
+# 13 - 1.16 % (24 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 HP / 252 SDef / 4 Spd (41.7 %)  
+Recover
+Will-O-Wisp
+Taunt
+Sucker Punch
+# 14 - 1.11 % (23 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 4 Def / 252 SDef (65.2 %)  
+Recover
+Will-O-Wisp
+Taunt
+Shadow Sneak
+# 15 - 1.06 % (22 battles)
+
+Sableye @ Lum Berry Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (63.6 %)  
+Recover
+Will-O-Wisp
+Taunt
+Foul Play
+# 16 - 0.87 % (18 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 88 Def / 168 SDef (22.2 %)  
+Night Shade
+Recover
+Will-O-Wisp
+Taunt
+# 17 - 0.87 % (18 battles)
+
+Sableye @ Damp Rock Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 120 Def / 136 SDef (100.0 %)  
+Recover
+Rain Dance
+Will-O-Wisp
+Gravity
+# 18 - 0.87 % (18 battles)
+
+Sableye @ Lum Berry Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (100.0 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Payback
+# 19 - 0.77 % (16 battles)
+
+Sableye @ Lagging Tail Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (81.2 %)  
+Recover
+Will-O-Wisp
+Trick
+Foul Play
+# 20 - 0.68 % (14 battles)
+
+Sableye @ Leftovers Lv. 100 -- Keen Eye (21.4 %) / Prankster (78.6 %)
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (71.4 %)  
+Night Shade
+Recover
+Confuse Ray
+Will-O-Wisp
+# 21 - 0.68 % (14 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 128 Def / 128 SDef (42.9 %)  
+Recover
+Will-O-Wisp
+Knock Off
+Foul Play
+# 22 - 0.63 % (13 battles)
+
+Sableye @ (No Item) Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Recover
+Confuse Ray
+Will-O-Wisp
+Taunt
+# 23 - 0.58 % (12 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (100.0 %)  
+Toxic
+Recover
+Knock Off
+Foul Play
+# 24 - 0.58 % (12 battles)
+
+Sableye @ Leftovers Lv. 100 -- Prankster
+Nature: Hardy - EVs: 252 HP / 4 Atk / 252 Spd (100.0 %)  
+Confuse Ray
+Will-O-Wisp
+Taunt
+Magic Coat
+# 25 - 0.53 % (11 battles)
+
+Sableye @ Choice Band Lv. 100 -- Prankster
+Nature: Hardy - EVs: 4 Atk / 252 Def / 252 SDef (81.8 %)  
+Toxic
+Recover
+Will-O-Wisp
+Trick

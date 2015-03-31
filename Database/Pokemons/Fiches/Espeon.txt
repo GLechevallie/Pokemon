@@ -1,0 +1,405 @@
+Psychic/-
+65/65/60/130/95/110
+26.5
+87.5/12.5
+
+# 1 - 13.74 % (8034 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (1.3 %) / Magic Bounce (98.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (10.3 %)  
+Substitute
+Baton Pass
+Calm Mind
+Stored Power
+# 2 - 4.91 % (2869 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (0.6 %) / Magic Bounce (99.4 %)
+Nature: Bold - EVs: 200 HP / 252 Def / 24 SDef / 32 Spd (22.7 %)  
+Baton Pass
+Calm Mind
+Stored Power
+Dazzling Gleam
+# 3 - 1.35 % (788 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (49.7 %)[Fire]  
+Hidden Power
+Calm Mind
+Psyshock
+Dazzling Gleam
+# 4 - 1.31 % (768 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 252 Spd (40.5 %)[Fire]  
+Psychic
+Hidden Power
+Calm Mind
+Dazzling Gleam
+# 5 - 1.18 % (690 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (0.6 %) / Magic Bounce (99.4 %)
+Nature: Hardy - EVs: 4 Def / 252 SAtk / 252 Spd (23.8 %)  
+Morning Sun
+Calm Mind
+Psyshock
+Dazzling Gleam
+# 6 - 1.14 % (664 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (33.7 %)[Fire]  
+Hidden Power
+Shadow Ball
+Psyshock
+Dazzling Gleam
+# 7 - 1.07 % (628 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 196 HP / 76 Def / 236 SAtk (44.1 %)  
+Shadow Ball
+Calm Mind
+Psyshock
+Dazzling Gleam
+# 8 - 1.03 % (602 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (57.5 %)[Fire]  
+Hidden Power
+Shadow Ball
+Calm Mind
+Psyshock
+# 9 - 0.85 % (495 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 56 Def / 144 SAtk / 20 SDef / 36 Spd (27.5 %)  
+Baton Pass
+Shadow Ball
+Calm Mind
+Stored Power
+# 10 - 0.78 % (454 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (0.7 %) / Magic Bounce (99.3 %)
+Nature: Calm - EVs: 252 Def / 4 SAtk / 252 SDef (96.9 %)  
+Psychic
+Baton Pass
+Wish
+Calm Mind
+# 11 - 0.71 % (416 battles)
+
+Espeon @ Life Orb Lv. 100 -- Synchronize (2.9 %) / Magic Bounce (97.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (40.6 %)  
+Shadow Ball
+Calm Mind
+Psyshock
+Dazzling Gleam
+# 12 - 0.71 % (413 battles)
+
+Espeon @ Choice Scarf Lv. 100 -- Synchronize (0.7 %) / Magic Bounce (99.3 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (39.7 %)[Fire]  
+Hidden Power
+Trick
+Psyshock
+Dazzling Gleam
+# 13 - 0.69 % (401 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Synchronize (9.5 %) / Magic Bounce (90.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (34.4 %)  
+Psychic
+Shadow Ball
+Trick
+Dazzling Gleam
+# 14 - 0.68 % (397 battles)
+
+Espeon @ Light Clay Lv. 100 -- Synchronize (3.8 %) / Magic Bounce (96.2 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (57.4 %)  
+Psychic
+Light Screen
+Reflect
+Dazzling Gleam
+# 15 - 0.68 % (395 battles)
+
+Espeon @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (81.5 %)[Fire]  
+Psychic
+Hidden Power
+Signal Beam
+Psyshock
+# 16 - 0.65 % (382 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Synchronize (0.5 %) / Magic Bounce (99.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.8 %)[Fire]  
+Hidden Power
+Trick
+Psyshock
+Dazzling Gleam
+# 17 - 0.65 % (382 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Synchronize (0.3 %) / Magic Bounce (99.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (38.7 %)  
+Shadow Ball
+Trick
+Psyshock
+Dazzling Gleam
+# 18 - 0.64 % (373 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (19.8 %) / Magic Bounce (80.2 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (28.2 %)  
+Psychic
+Substitute
+Baton Pass
+Calm Mind
+# 19 - 0.63 % (368 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Calm - EVs: 252 HP / 164 SDef / 92 Spd (95.1 %)[Ground]  
+Psychic
+Hidden Power
+Trick
+Yawn
+# 20 - 0.63 % (367 battles)
+
+Espeon @ Assault Vest Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (78.5 %)[Fire]  
+Hidden Power
+Shadow Ball
+Grass Knot
+Psyshock
+# 21 - 0.62 % (362 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (2.2 %) / Magic Bounce (97.8 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (40.1 %)  
+Baton Pass
+Morning Sun
+Calm Mind
+Stored Power
+# 22 - 0.60 % (352 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 252 Spd (69.0 %)  
+Psychic
+Baton Pass
+Calm Mind
+Dazzling Gleam
+# 23 - 0.60 % (349 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Calm - EVs: 252 HP / 252 SDef / 4 Spd (100.0 %)  
+Toxic
+Baton Pass
+Future Sight
+Trick
+# 24 - 0.59 % (344 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (7.0 %) / Magic Bounce (93.0 %)
+Nature: Bold - EVs: 252 HP / 252 SDef / 4 Spd (26.7 %)  
+Psychic
+Baton Pass
+Morning Sun
+Calm Mind
+# 25 - 0.58 % (341 battles)
+
+Espeon @ Leftovers Lv. 100 -- Synchronize (0.3 %) / Magic Bounce (99.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (17.9 %)  
+Substitute
+Baton Pass
+Stored Power
+Dazzling Gleam
+# 1 - 4.83 % (287 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Psychic
+Hidden Power
+Trick
+Signal Beam
+# 2 - 3.35 % (199 battles)
+
+Espeon @ Choice Scarf Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 0 (98.0 %)  
+Psychic
+Trick
+Signal Beam
+Dazzling Gleam
+# 3 - 3.00 % (178 battles)
+
+Espeon @ Light Clay Lv. 100 -- Synchronize (0.6 %) / Magic Bounce (99.4 %)
+Nature: Timid - EVs: 252 HP / 252 Spd (48.9 %)  
+Psychic
+Light Screen
+Reflect
+Baton Pass
+# 4 - 2.19 % (130 battles)
+
+Espeon @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (93.1 %)  
+Light Screen
+Signal Beam
+Psyshock
+Dazzling Gleam
+# 5 - 2.00 % (119 battles)
+
+Espeon @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (49.6 %)  
+Psychic
+Light Screen
+Reflect
+Morning Sun
+# 6 - 1.77 % (105 battles)
+
+Espeon @ Light Clay Lv. 100 -- Synchronize (2.9 %) / Magic Bounce (97.1 %)
+Nature: Hardy - EVs: 252 Def / 116 SDef / 140 Spd (63.8 %)[Rock]  
+Light Screen
+Reflect
+Hidden Power
+Psyshock
+# 7 - 1.45 % (86 battles)
+
+Espeon @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 HP / 4 SAtk / 252 Spd (72.1 %)  
+Psychic
+Light Screen
+Reflect
+Wish
+# 8 - 1.41 % (84 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (14.3 %)  
+Substitute
+Baton Pass
+Calm Mind
+Stored Power
+# 9 - 1.38 % (82 battles)
+
+Espeon @ Light Clay Lv. 100 -- Synchronize (25.6 %) / Magic Bounce (74.4 %)
+Nature: Timid - EVs: 252 HP / 252 Spd (18.3 %)[Fighting]  
+Psychic
+Light Screen
+Reflect
+Hidden Power
+# 10 - 1.21 % (72 battles)
+
+Espeon @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (44.4 %)  
+Light Screen
+Reflect
+Psyshock
+Dazzling Gleam
+# 11 - 1.18 % (70 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 196 SAtk / 60 SDef / 252 Spd (51.4 %)  
+Psychic
+Shadow Ball
+Calm Mind
+Dazzling Gleam
+# 12 - 1.15 % (68 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 196 HP / 76 Def / 236 SAtk (66.2 %)  
+Shadow Ball
+Calm Mind
+Psyshock
+Dazzling Gleam
+# 13 - 1.13 % (67 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (73.1 %)  
+Psychic
+Trick
+Wish
+Dazzling Gleam
+# 14 - 1.13 % (67 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 252 Spd (94.0 %)  
+Psychic
+Baton Pass
+Calm Mind
+Dazzling Gleam
+# 15 - 1.03 % (61 battles)
+
+Espeon @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 252 Spd (37.7 %)  
+Psychic
+Light Screen
+Reflect
+Yawn
+# 16 - 0.98 % (58 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 252 Spd (48.3 %)[Fire]  
+Psychic
+Hidden Power
+Calm Mind
+Dazzling Gleam
+# 17 - 0.98 % (58 battles)
+
+Espeon @ Life Orb Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (94.8 %)[Fire]  
+Hidden Power
+Grass Knot
+Psyshock
+Dazzling Gleam
+# 18 - 0.91 % (54 battles)
+
+Espeon @ Focus Sash Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (92.6 %)[Fire]  
+Psychic
+Hidden Power
+Shadow Ball
+Dazzling Gleam
+# 19 - 0.91 % (54 battles)
+
+Espeon @ Focus Sash Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Psychic
+Hidden Power
+Yawn
+Grass Knot
+# 20 - 0.86 % (51 battles)
+
+Espeon @ Light Clay Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (62.7 %)  
+Psychic
+Light Screen
+Reflect
+Grass Knot
+# 21 - 0.84 % (50 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (46.0 %)  
+Psychic
+Shadow Ball
+Trick
+Dazzling Gleam
+# 22 - 0.76 % (45 battles)
+
+Espeon @ Choice Scarf Lv. 100 -- Magic Bounce
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (75.6 %)  
+Shadow Ball
+Trick
+Psyshock
+Dazzling Gleam
+# 23 - 0.74 % (44 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (61.4 %)[Ice]  
+Psychic
+Hidden Power
+Shadow Ball
+Dazzling Gleam
+# 24 - 0.74 % (44 battles)
+
+Espeon @ Choice Specs Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (90.9 %)[Fire]  
+Hidden Power
+Trick
+Psyshock
+Dazzling Gleam
+# 25 - 0.72 % (43 battles)
+
+Espeon @ Leftovers Lv. 100 -- Magic Bounce
+Nature: Timid - EVs: 164 HP / 92 SAtk / 252 Spd (74.4 %)  
+Psychic
+Baton Pass
+Shadow Ball
+Calm Mind

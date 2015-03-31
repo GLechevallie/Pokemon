@@ -1,0 +1,405 @@
+Psychic/-
+70/55/95/95/110/65
+44.0
+25/75
+
+# 1 - 11.66 % (1017 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Frisk (1.2 %) / Shadow Tag (98.8 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (27.9 %)[Fire]  
+Thunderbolt
+Psychic
+Hidden Power
+Trick
+# 2 - 5.09 % (444 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Frisk (0.5 %) / Shadow Tag (99.5 %)
+Nature: Timid - EVs: 80 HP / 228 SAtk / 200 Spd (30.4 %)[Fire]  
+Psychic
+Rest
+Hidden Power
+Trick
+# 3 - 4.59 % (400 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (79.8 %)  
+Psychic
+Rest
+Trick
+Energy Ball
+# 4 - 3.73 % (325 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Frisk (0.6 %) / Shadow Tag (99.4 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (26.8 %)  
+Thunderbolt
+Trick
+Energy Ball
+Psyshock
+# 5 - 2.83 % (247 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Frisk (1.2 %) / Shadow Tag (98.8 %)
+Nature: Modest - EVs: 64 HP / 252 SAtk / 192 Spd (61.1 %)[Ground]  
+Psychic
+Hidden Power
+Trick
+Energy Ball
+# 6 - 2.29 % (200 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 HP / 252 SAtk (73.0 %)  
+Psychic
+Trick
+Brick Break
+Calm Mind
+# 7 - 2.20 % (192 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 80 HP / 232 SAtk / 196 Spd (63.0 %)  
+Thunderbolt
+Rest
+Trick
+Psyshock
+# 8 - 2.10 % (183 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 112 HP / 252 SAtk / 144 Spd (66.1 %)[Fire]  
+Hidden Power
+Trick
+Energy Ball
+Psyshock
+# 9 - 1.89 % (165 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (21.2 %)[Fire]  
+Thunderbolt
+Hidden Power
+Energy Ball
+Psyshock
+# 10 - 1.85 % (161 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (86.3 %)  
+Thunderbolt
+Psychic
+Trick
+Energy Ball
+# 11 - 1.77 % (154 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (98.1 %)  
+Trick
+Dark Pulse
+Energy Ball
+Psyshock
+# 12 - 1.75 % (153 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 252 HP / 132 SAtk / 124 Spd (75.8 %)  
+Thunderbolt
+Psychic
+Trick
+Energy Ball
+# 13 - 1.71 % (149 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 252 SAtk / 252 Spd (38.9 %)[Ice]  
+Thunderbolt
+Psychic
+Hidden Power
+Trick
+# 14 - 1.71 % (149 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (59.7 %)  
+Psychic
+Trick
+Calm Mind
+Foul Play
+# 15 - 1.71 % (149 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Frisk (15.4 %) / Shadow Tag (84.6 %)
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (18.8 %)[Ice]  
+Thunderbolt
+Hidden Power
+Trick
+Psyshock
+# 16 - 1.70 % (148 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Trick
+Calm Mind
+Dark Pulse
+Energy Ball
+# 17 - 1.64 % (143 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 252 Spd (59.4 %)[Fire]  
+Psychic
+Hidden Power
+Trick
+Grass Knot
+# 18 - 1.42 % (124 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 252 SAtk / 252 Spd (42.7 %)[Fire]  
+Psychic
+Hidden Power
+Shadow Ball
+Trick
+# 19 - 1.32 % (115 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Frisk (2.6 %) / Shadow Tag (97.4 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (33.9 %)[Ice]  
+Thunderbolt
+Hidden Power
+Trick
+Psyshock
+# 20 - 1.20 % (105 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 HP / 252 SAtk (99.0 %)  
+Psychic
+Shadow Ball
+Trick
+Calm Mind
+# 21 - 1.19 % (104 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.8 %)  
+Thunderbolt
+Psychic
+Trick
+Grass Knot
+# 22 - 1.17 % (102 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 24 HP / 248 SAtk / 236 Spd (100.0 %)[Fire]  
+Psychic
+Hidden Power
+Dark Pulse
+Energy Ball
+# 23 - 1.11 % (97 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (53.6 %)  
+Psychic
+Trick
+Calm Mind
+Energy Ball
+# 24 - 1.02 % (89 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (89.9 %)  
+Thunderbolt
+Trick
+Calm Mind
+Psyshock
+# 25 - 1.01 % (88 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (94.3 %)  
+Psychic
+Rest
+Trick
+Charge Beam
+# 1 - 7.31 % (92 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Frisk (2.2 %) / Shadow Tag (97.8 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (34.8 %)[Ice]  
+Thunderbolt
+Psychic
+Hidden Power
+Trick
+# 2 - 5.24 % (66 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Taunt
+Trick
+Psyshock
+Magic Room
+# 3 - 4.85 % (61 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Trick
+Calm Mind
+Dark Pulse
+Energy Ball
+# 4 - 4.29 % (54 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Calm - EVs: 100 HP / 192 Def / 124 SAtk / 92 SDef (57.4 %)  
+Thunder Wave
+Psychic
+Trick
+Calm Mind
+# 5 - 3.81 % (48 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Psychic
+Rest
+Trick
+Charge Beam
+# 6 - 3.57 % (45 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 80 HP / 228 SAtk / 200 Spd (46.7 %)[Fire]  
+Psychic
+Rest
+Hidden Power
+Trick
+# 7 - 3.42 % (43 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (23.3 %)  
+Thunderbolt
+Trick
+Energy Ball
+Psyshock
+# 8 - 3.34 % (42 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (88.1 %)  
+Psychic
+Rest
+Trick
+Energy Ball
+# 9 - 3.34 % (42 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (97.6 %)  
+Trick
+Calm Mind
+Energy Ball
+Psyshock
+# 10 - 3.10 % (39 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 252 SAtk / 252 Spd (59.0 %)[Fire]  
+Psychic
+Hidden Power
+Shadow Ball
+Trick
+# 11 - 3.02 % (38 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (81.6 %)  
+Toxic
+Rest
+Taunt
+Trick
+# 12 - 2.94 % (37 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Frisk (2.7 %) / Shadow Tag (97.3 %)
+Nature: Modest - EVs: 64 HP / 252 SAtk / 192 Spd (89.2 %)[Ground]  
+Psychic
+Hidden Power
+Trick
+Energy Ball
+# 13 - 2.54 % (32 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)  
+Trick
+Snatch
+Psyshock
+Magic Room
+# 14 - 2.46 % (31 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 SAtk / 252 Spd (54.8 %)[Fire]  
+Psychic
+Hidden Power
+Trick
+Grass Knot
+# 15 - 2.22 % (28 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 252 HP / 92 SAtk / 164 Spd (39.3 %)[Ice]  
+Thunderbolt
+Psychic
+Hidden Power
+Trick
+# 16 - 2.14 % (27 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (48.1 %)[Ground]  
+Thunderbolt
+Hidden Power
+Trick
+Psyshock
+# 17 - 1.99 % (25 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 56 HP / 252 SAtk / 200 Spd (80.0 %)[Fire]  
+Hidden Power
+Trick
+Energy Ball
+Psyshock
+# 18 - 1.83 % (23 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (82.6 %)  
+Thunderbolt
+Psychic
+Trick
+Energy Ball
+# 19 - 1.83 % (23 battles)
+
+Gothitelle @ Choice Specs Lv. 100 -- Frisk (4.3 %) / Shadow Tag (95.7 %)
+Nature: Modest - EVs: 252 SAtk / 252 SDef (30.4 %)[Fire]  
+Thunderbolt
+Hidden Power
+Trick
+Psyshock
+# 20 - 1.43 % (18 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 80 HP / 232 SAtk / 196 Spd (50.0 %)  
+Thunderbolt
+Rest
+Trick
+Psyshock
+# 21 - 1.35 % (17 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (94.1 %)  
+Thunderbolt
+Trick
+Calm Mind
+Psyshock
+# 22 - 1.19 % (15 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Modest - EVs: 80 HP / 176 SAtk / 252 Spd (33.3 %)  
+Psychic
+Rest
+Taunt
+Trick
+# 23 - 0.95 % (12 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Timid - EVs: 32 HP / 252 SAtk / 224 Spd (33.3 %)[Ice]  
+Psychic
+Hidden Power
+Trick
+Energy Ball
+# 24 - 0.87 % (11 battles)
+
+Gothitelle @ Choice Scarf Lv. 100 -- Shadow Tag
+Nature: Hardy - EVs: 192 Def / 124 SAtk / 192 SDef (100.0 %)  
+Toxic
+Psychic
+Shadow Ball
+Trick
+# 25 - 0.87 % (11 battles)
+
+Gothitelle @ Chesto Berry Lv. 100 -- Shadow Tag
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Rest
+Charm
+Calm Mind
+Psyshock

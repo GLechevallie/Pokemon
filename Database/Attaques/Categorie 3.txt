@@ -1,0 +1,28 @@
+Type	Prec	Prio	PP	Soin
+
+Milk Drink
+Normal	101	0	16	50
+
+Moonlight
+Fairy	101	0	8	50
+
+Morning Sun
+Normal	101	0	8	50
+
+Recover
+Normal	101	0	16	50
+
+Roost
+Flying	101	0	16	50
+
+Slack Off
+Normal	101	0	16	50
+
+Soft-Boiled
+Normal	101	0	16	50
+
+Softboiled
+Normal	101	0	16	50
+
+Synthesis
+Grass	101	0	8	50

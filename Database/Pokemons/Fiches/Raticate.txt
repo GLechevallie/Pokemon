@@ -1,0 +1,405 @@
+Normal/-
+55/81/60/50/70/97
+18.5
+50/50
+
+# 1 - 26.79 % (90 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (92.2 %)  
+Protect
+Facade
+U-turn
+Sucker Punch
+# 2 - 8.33 % (28 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Protect
+Pursuit
+Facade
+Sucker Punch
+# 3 - 7.44 % (25 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 252 Spd (44.0 %)  
+Flame Wheel
+Protect
+Facade
+Sucker Punch
+# 4 - 6.55 % (22 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (90.9 %)  
+Protect
+Pursuit
+Facade
+U-turn
+# 5 - 4.17 % (14 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 252 Spd (64.3 %)  
+Super Fang
+Protect
+Facade
+Sucker Punch
+# 6 - 2.98 % (10 battles)
+
+Raticate @ Leftovers Lv. 100 -- Hustle
+Nature: Adamant - EVs: 252 Atk / 120 SDef / 136 Spd (100.0 %)  
+Super Fang
+Crunch
+Final Gambit
+Wild Charge
+# 7 - 2.98 % (10 battles)
+
+Raticate @ Toxic Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roar
+Facade
+U-turn
+Sucker Punch
+# 8 - 2.68 % (9 battles)
+
+Raticate @ Life Orb Lv. 100 -- Hustle
+Nature: Hardy - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Quick Attack
+Reversal
+Sucker Punch
+# 9 - 2.38 % (8 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (62.5 %)  
+Crunch
+Facade
+U-turn
+Sucker Punch
+# 10 - 2.08 % (7 battles)
+
+Raticate @ Leftovers Lv. 100 -- Run Away
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Super Fang
+U-turn
+Sucker Punch
+Final Gambit
+# 11 - 2.08 % (7 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Flame Wheel
+Facade
+U-turn
+Sucker Punch
+# 12 - 2.08 % (7 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Return
+Iron Tail
+Facade
+Retaliate
+# 13 - 1.79 % (6 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Flame Wheel
+Facade
+Sucker Punch
+# 14 - 1.79 % (6 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 84 HP / 164 Atk / 76 Def / 64 SDef / 120 Spd (100.0 %)  
+Toxic
+Quick Attack
+Super Fang
+Facade
+# 15 - 1.79 % (6 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Crunch
+Facade
+Zen Headbutt
+# 16 - 1.49 % (5 battles)
+
+Raticate @ Choice Scarf Lv. 100 -- Hustle
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Hyper Fang
+Crunch
+U-turn
+Wild Charge
+# 17 - 1.49 % (5 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Pursuit
+Facade
+U-turn
+Sucker Punch
+# 18 - 1.19 % (4 battles)
+
+Raticate @ Choice Band Lv. 100 -- Hustle
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Frustration
+Crunch
+U-turn
+# 19 - 1.19 % (4 battles)
+
+Raticate @ Leftovers Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Swords Dance
+Flame Wheel
+Return
+Sucker Punch
+# 20 - 1.19 % (4 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Crunch
+Facade
+U-turn
+# 21 - 1.19 % (4 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Facade
+U-turn
+Sucker Punch
+Wild Charge
+# 22 - 1.19 % (4 battles)
+
+Raticate @ Toxic Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Quick Attack
+Frustration
+Wild Charge
+# 23 - 0.89 % (3 battles)
+
+Raticate @ Choice Scarf Lv. 100 -- Hustle
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Frustration
+Crunch
+U-turn
+Me First
+# 24 - 0.89 % (3 battles)
+
+Raticate @ Leftovers Lv. 100 -- Run Away
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+Super Fang
+Sucker Punch
+Final Gambit
+# 25 - 0.89 % (3 battles)
+
+Raticate @ Leftovers Lv. 100 -- Run Away
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)[Dragon]  
+Body Slam
+Bite
+Hyper Fang
+Hidden Power
+# 1 - 21.74 % (10 battles)
+
+Raticate @ Choice Scarf Lv. 100 -- Hustle
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Frustration
+Crunch
+U-turn
+Me First
+# 2 - 13.04 % (6 battles)
+
+Raticate @ Leftovers Lv. 100 -- Run Away
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+Super Fang
+U-turn
+Sucker Punch
+Final Gambit
+# 3 - 10.87 % (5 battles)
+
+Raticate @ Wide Lens Lv. 100 -- Hustle
+Nature: Adamant - EVs: 184 Atk / 108 Def / 96 SDef / 120 Spd (100.0 %)  
+Super Fang
+Flame Wheel
+Crunch
+Wild Charge
+# 4 - 8.70 % (4 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 4 SDef / 252 Spd (50.0 %)  
+Protect
+Facade
+U-turn
+Sucker Punch
+# 5 - 6.52 % (3 battles)
+
+Raticate @ Choice Band Lv. 100 -- Hustle
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Quick Attack
+Frustration
+Crunch
+U-turn
+# 6 - 4.35 % (2 battles)
+
+Raticate @ Choice Scarf Lv. 100 -- Hustle
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Hyper Fang
+Crunch
+U-turn
+Wild Charge
+# 7 - 4.35 % (2 battles)
+
+Raticate @ Leftovers Lv. 100 -- Run Away
+Nature: Jolly - EVs: 252 HP / 252 Spd (100.0 %)  
+(No Move)
+Super Fang
+Sucker Punch
+Final Gambit
+# 8 - 2.17 % (1 battles)
+
+Raticate @ Choice Scarf Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 HP / 4 Def / 252 Spd (100.0 %)  
+Thunder Wave
+Taunt
+U-turn
+Final Gambit
+# 9 - 2.17 % (1 battles)
+
+Raticate @ Focus Sash Lv. 5 -- Run Away
+Nature: Brave - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+Quick Attack
+Endeavor
+# 10 - 2.17 % (1 battles)
+
+Raticate @ Focus Sash Lv. 5 -- Run Away
+Nature: Hardy - EVs: 0 (100.0 %)  
+(No Move)
+Quick Attack
+Pursuit
+Endeavor
+# 11 - 2.17 % (1 battles)
+
+Raticate @ Focus Sash Lv. 100 -- Run Away
+Nature: Brave - EVs: 0 (100.0 %)  
+(No Move)
+(No Move)
+Quick Attack
+Endeavor
+# 12 - 2.17 % (1 battles)
+
+Raticate @ Focus Sash Lv. 100 -- Run Away
+Nature: Timid - EVs: 252 HP / 252 Spd (100.0 %)  
+Thunder Wave
+Toxic
+Endeavor
+Sucker Punch
+# 13 - 2.17 % (1 battles)
+
+Raticate @ Wide Lens Lv. 100 -- Hustle
+Nature: Modest - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Blizzard
+Hyper Beam
+Thunder
+Shadow Ball
+# 14 - 2.17 % (1 battles)
+
+Raticate @ Wide Lens Lv. 100 -- Hustle
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Hyper Fang
+Crunch
+U-turn
+Wild Charge
+# 15 - 2.17 % (1 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Hasty - EVs: 252 Atk / 252 Spd (100.0 %)  
+(No Move)
+Swords Dance
+Protect
+Facade
+# 16 - 2.17 % (1 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Flame Wheel
+Facade
+Sucker Punch
+# 17 - 2.17 % (1 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Protect
+Sucker Punch
+Giga Impact
+# 18 - 2.17 % (1 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Facade
+U-turn
+Sucker Punch
+# 19 - 2.17 % (1 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Flame Wheel
+Protect
+Facade
+Sucker Punch
+# 20 - 2.17 % (1 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Protect
+Pursuit
+Facade
+Sucker Punch
+# 21 - 2.17 % (1 battles)
+
+Raticate @ Toxic Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (100.0 %)  
+Roar
+Facade
+U-turn
+Sucker Punch
+# 22 - 0 % (90 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (92.2 %)  
+Protect
+Facade
+U-turn
+Sucker Punch
+# 23 - 0 % (28 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Protect
+Pursuit
+Facade
+Sucker Punch
+# 24 - 0 % (25 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Jolly - EVs: 252 Atk / 252 Spd (44.0 %)  
+Flame Wheel
+Protect
+Facade
+Sucker Punch
+# 25 - 0 % (22 battles)
+
+Raticate @ Flame Orb Lv. 100 -- Guts
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (90.9 %)  
+Protect
+Pursuit
+Facade
+U-turn

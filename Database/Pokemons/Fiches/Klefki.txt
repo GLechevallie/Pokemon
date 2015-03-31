@@ -1,0 +1,405 @@
+Steel/Fairy
+57/80/91/80/87/75
+3.0
+50/50
+
+# 1 - 10.78 % (1191 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 68 HP / 248 Def / 12 SAtk / 180 SDef (40.0 %)  
+Thunder Wave
+Iron Defense
+Calm Mind
+Draining Kiss
+# 2 - 7.78 % (860 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster (99.9 %) / Magician (0.1 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (11.5 %)  
+Thunder Wave
+Light Screen
+Reflect
+Foul Play
+# 3 - 5.19 % (573 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 HP / 252 SDef / 4 Spd (32.5 %)  
+Thunder Wave
+Substitute
+Spikes
+Foul Play
+# 4 - 3.93 % (434 battles)
+
+Klefki @ Choice Scarf Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 160 Def / 96 SDef (88.7 %)  
+Thunder Wave
+Spikes
+Switcheroo
+Foul Play
+# 5 - 3.07 % (339 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster (98.2 %) / Magician (1.8 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (66.4 %)  
+Light Screen
+Reflect
+Spikes
+Foul Play
+# 6 - 2.77 % (306 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (67.0 %)  
+Thunder Wave
+Reflect
+Spikes
+Foul Play
+# 7 - 2.69 % (297 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (15.8 %)  
+Thunder Wave
+Light Screen
+Reflect
+Foul Play
+# 8 - 2.59 % (286 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (34.3 %)  
+Thunder Wave
+Substitute
+Calm Mind
+Draining Kiss
+# 9 - 2.48 % (274 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (55.8 %)  
+Thunder Wave
+Toxic
+Spikes
+Foul Play
+# 10 - 1.99 % (220 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 68 Def / 188 SDef (34.1 %)  
+Thunder Wave
+Light Screen
+Reflect
+Draining Kiss
+# 11 - 1.95 % (215 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (16.3 %)  
+Thunder Wave
+Light Screen
+Reflect
+Spikes
+# 12 - 1.42 % (157 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (69.4 %)  
+Thunder Wave
+Toxic
+Light Screen
+Reflect
+# 13 - 1.30 % (144 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Modest - EVs: 24 HP / 116 Def / 252 SAtk / 116 SDef (100.0 %)  
+Thunder Wave
+Toxic
+Flash Cannon
+Dazzling Gleam
+# 14 - 1.28 % (142 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 24 Atk / 232 SDef (57.7 %)  
+Thunder Wave
+Toxic
+Spikes
+Play Rough
+# 15 - 0.96 % (106 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 Def / 252 SDef / 4 Spd (100.0 %)  
+Thunder Wave
+Calm Mind
+Heal Block
+Draining Kiss
+# 16 - 0.94 % (104 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Careful - EVs: 72 HP / 252 Def / 184 SDef (71.2 %)  
+Light Screen
+Reflect
+Spikes
+Foul Play
+# 17 - 0.93 % (103 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 248 HP / 8 Def / 252 SDef (100.0 %)  
+Thunder Wave
+Toxic
+Spikes
+Rain Dance
+# 18 - 0.90 % (100 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (88.0 %)  
+Thunder Wave
+Light Screen
+Reflect
+Play Rough
+# 19 - 0.90 % (100 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 168 Def / 88 SDef (99.0 %)  
+Thunder Wave
+Reflect
+Calm Mind
+Draining Kiss
+# 20 - 0.88 % (97 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 160 Def / 252 SDef (59.8 %)  
+Thunder Wave
+Substitute
+Spikes
+Play Rough
+# 21 - 0.84 % (93 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 152 Def / 104 SDef (37.6 %)  
+Thunder Wave
+Spikes
+Foul Play
+Dazzling Gleam
+# 22 - 0.81 % (89 battles)
+
+Klefki @ Bright Powder Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 100 Def / 56 SAtk / 100 SDef (100.0 %)  
+Thunder Wave
+Rest
+Spikes
+Draining Kiss
+# 23 - 0.70 % (77 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 128 Def / 128 SDef (81.8 %)  
+Thunder Wave
+Spikes
+Torment
+Foul Play
+# 24 - 0.70 % (77 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Modest - EVs: 24 HP / 116 Def / 252 SAtk / 116 SDef (83.1 %)  
+Thunder Wave
+Spikes
+Flash Cannon
+Dazzling Gleam
+# 25 - 0.66 % (73 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (95.9 %)  
+Toxic
+Substitute
+Protect
+Spikes
+# 1 - 11.36 % (719 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 252 SDef (17.1 %)  
+Thunder Wave
+Light Screen
+Reflect
+Foul Play
+# 2 - 5.43 % (344 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 248 HP / 68 Def / 192 SDef (14.2 %)  
+Thunder Wave
+Substitute
+Spikes
+Foul Play
+# 3 - 4.86 % (308 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster (98.7 %) / Magician (1.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (49.4 %)  
+Light Screen
+Reflect
+Spikes
+Foul Play
+# 4 - 4.49 % (284 battles)
+
+Klefki @ Choice Scarf Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (94.7 %)  
+Toxic
+Spikes
+Switcheroo
+Foul Play
+# 5 - 3.93 % (249 battles)
+
+Klefki @ Choice Scarf Lv. 100 -- Prankster
+Nature: Jolly - EVs: 252 Def / 4 SDef / 252 Spd (98.0 %)  
+Thunder Wave
+Toxic
+Spikes
+Switcheroo
+# 6 - 3.57 % (226 battles)
+
+Klefki @ Choice Specs Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 Def / 252 SDef (100.0 %)  
+Thunder Wave
+Substitute
+Spikes
+Switcheroo
+# 7 - 2.92 % (185 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (16.8 %)  
+Thunder Wave
+Light Screen
+Reflect
+Spikes
+# 8 - 2.67 % (169 battles)
+
+Klefki @ Light Clay Lv. 100 -- Prankster
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (39.6 %)  
+Thunder Wave
+Light Screen
+Reflect
+Draining Kiss
+# 9 - 2.53 % (160 battles)
+
+Klefki @ Choice Scarf Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 160 Def / 96 SDef (93.8 %)  
+Thunder Wave
+Spikes
+Switcheroo
+Foul Play
+# 10 - 2.18 % (138 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 HP / 252 Def / 4 Spd (15.9 %)  
+Thunder Wave
+Light Screen
+Reflect
+Foul Play
+# 11 - 1.90 % (120 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 184 HP / 176 Def / 128 SDef (79.2 %)  
+Thunder Wave
+Reflect
+Spikes
+Foul Play
+# 12 - 1.86 % (118 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Calm - EVs: 92 HP / 228 Def / 180 SDef / 8 Spd (28.0 %)  
+Thunder Wave
+Light Screen
+Reflect
+Spikes
+# 13 - 1.83 % (116 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 104 Atk / 152 Def (17.2 %)  
+Thunder Wave
+Toxic
+Spikes
+Foul Play
+# 14 - 1.42 % (90 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (91.1 %)  
+Toxic
+Substitute
+Protect
+Spikes
+# 15 - 1.34 % (85 battles)
+
+Klefki @ Iron Ball Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 64 Def / 192 SDef (49.4 %)  
+Thunder Wave
+Spikes
+Switcheroo
+Foul Play
+# 16 - 1.17 % (74 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (48.6 %)  
+Thunder Wave
+Substitute
+Calm Mind
+Draining Kiss
+# 17 - 1.15 % (73 battles)
+
+Klefki @ Flame Orb Lv. 100 -- Prankster
+Nature: Bold - EVs: 128 Def / 252 SAtk / 128 SDef (100.0 %)  
+Thunder Wave
+Spikes
+Switcheroo
+Dazzling Gleam
+# 18 - 1.12 % (71 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 152 Def / 104 Spd (43.7 %)  
+Thunder Wave
+Spikes
+Foul Play
+Dazzling Gleam
+# 19 - 1.07 % (68 battles)
+
+Klefki @ Focus Sash Lv. 100 -- Prankster
+Nature: Timid - EVs: 4 HP / 252 Def / 252 SDef (98.5 %)  
+Thunder Wave
+Light Screen
+Reflect
+Foul Play
+# 20 - 0.81 % (51 battles)
+
+Klefki @ Air Balloon Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 Def / 252 SDef (100.0 %)  
+Thunder Wave
+Light Screen
+Spikes
+Foul Play
+# 21 - 0.77 % (49 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Modest - EVs: 180 HP / 168 Def / 160 SDef (79.6 %)  
+Thunder Wave
+Substitute
+Spikes
+Dazzling Gleam
+# 22 - 0.74 % (47 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Impish - EVs: 252 HP / 252 SDef (89.4 %)  
+Thunder Wave
+Toxic
+Substitute
+Protect
+# 23 - 0.73 % (46 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 64 Def / 192 SDef (82.6 %)  
+Thunder Wave
+Spikes
+Attract
+Foul Play
+# 24 - 0.71 % (45 battles)
+
+Klefki @ Damp Rock Lv. 100 -- Prankster
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (55.6 %)  
+Thunder Wave
+Spikes
+Rain Dance
+Foul Play
+# 25 - 0.68 % (43 battles)
+
+Klefki @ Leftovers Lv. 100 -- Prankster
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (32.6 %)  
+Thunder Wave
+Toxic
+Spikes
+Play Rough

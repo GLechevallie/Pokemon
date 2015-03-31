@@ -1,0 +1,405 @@
+Ground/Flying
+89/125/90/115/80/101
+68.0
+100/0
+
+# 1 - 10.99 % (3762 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (2.2 %) / Sheer Force (97.8 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (32.3 %)  
+Psychic
+Focus Blast
+Earth Power
+Stealth Rock
+# 2 - 9.11 % (3119 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.9 %) / Sheer Force (99.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.2 %)  
+Psychic
+Focus Blast
+Earth Power
+Sludge Wave
+# 3 - 6.97 % (2388 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.6 %) / Sheer Force (99.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (23.1 %)  
+Psychic
+Calm Mind
+Focus Blast
+Earth Power
+# 4 - 4.85 % (1660 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (3.0 %) / Sheer Force (97.0 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (26.6 %)  
+Psychic
+Calm Mind
+Earth Power
+Sludge Wave
+# 5 - 3.91 % (1340 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.6 %) / Sheer Force (99.4 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (43.4 %)[Ice]  
+Hidden Power
+Focus Blast
+Earth Power
+Sludge Wave
+# 6 - 3.37 % (1155 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.2 %) / Sheer Force (99.8 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (60.8 %)  
+Psychic
+Substitute
+Earth Power
+Sludge Wave
+# 7 - 3.01 % (1032 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.3 %) / Sheer Force (99.7 %)
+Nature: Modest - EVs: 228 HP / 252 SAtk / 28 Spd (36.3 %)  
+Psychic
+Rock Polish
+Focus Blast
+Earth Power
+# 8 - 2.77 % (948 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.7 %) / Sheer Force (98.3 %)
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (67.3 %)  
+Psychic
+Knock Off
+Focus Blast
+Earth Power
+# 9 - 2.25 % (770 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.8 %) / Sheer Force (98.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (40.9 %)[Ice]  
+Psychic
+Hidden Power
+Earth Power
+Sludge Wave
+# 10 - 1.91 % (655 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (5.3 %) / Sheer Force (94.7 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (35.9 %)  
+Psychic
+Earth Power
+Stealth Rock
+Sludge Wave
+# 11 - 1.76 % (603 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.5 %) / Sheer Force (98.5 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (31.3 %)  
+Calm Mind
+Focus Blast
+Earth Power
+Sludge Wave
+# 12 - 1.76 % (602 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.2 %) / Sheer Force (99.8 %)
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (32.6 %)  
+Psychic
+Knock Off
+Earth Power
+Sludge Wave
+# 13 - 1.68 % (575 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (2.6 %) / Sheer Force (97.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (40.0 %)[Ice]  
+Psychic
+Hidden Power
+Focus Blast
+Earth Power
+# 14 - 1.40 % (479 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.0 %) / Sheer Force (99.0 %)
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (42.2 %)  
+Psychic
+Rock Polish
+Earth Power
+Sludge Wave
+# 15 - 1.37 % (468 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (23.9 %)  
+Psychic
+Sludge Bomb
+Focus Blast
+Earth Power
+# 16 - 1.12 % (384 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (2.1 %) / Sheer Force (97.9 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (41.9 %)  
+Psychic
+Substitute
+Focus Blast
+Earth Power
+# 17 - 1.12 % (383 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.0 %) / Sheer Force (99.0 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (35.0 %)[Ice]  
+Hidden Power
+Calm Mind
+Earth Power
+Sludge Wave
+# 18 - 1.06 % (362 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force (97.0 %) / Sheer Force (3.0 %)
+Nature: Naive - EVs: 8 HP / 248 Atk / 252 Spd (43.6 %)[Ice]  
+Earthquake
+Hidden Power
+U-turn
+Stone Edge
+# 19 - 1.02 % (350 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.3 %) / Sheer Force (99.7 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (72.3 %)[Ice]  
+Psychic
+Hidden Power
+Earth Power
+Stealth Rock
+# 20 - 1.01 % (346 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 12 HP / 244 SAtk / 252 Spd (87.0 %)[Ice]  
+Substitute
+Hidden Power
+Focus Blast
+Earth Power
+# 21 - 0.97 % (331 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Rash - EVs: 4 Def / 252 SAtk / 252 Spd (37.8 %)[Ice]  
+Hidden Power
+Superpower
+Earth Power
+Sludge Wave
+# 22 - 0.95 % (324 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (72.2 %)[Ice]  
+Psychic
+Hidden Power
+Calm Mind
+Earth Power
+# 23 - 0.84 % (286 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (47.2 %)  
+Focus Blast
+Earth Power
+Stealth Rock
+Sludge Wave
+# 24 - 0.81 % (278 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (45.7 %)[Ice]  
+Psychic
+Sludge Bomb
+Hidden Power
+Earth Power
+# 25 - 0.78 % (267 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 156 HP / 252 SAtk / 100 Spd (52.8 %)  
+Rock Polish
+Focus Blast
+Earth Power
+Sludge Wave
+# 1 - 13.17 % (734 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (2.6 %) / Sheer Force (97.4 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (22.6 %)  
+Psychic
+Focus Blast
+Earth Power
+Stealth Rock
+# 2 - 8.79 % (490 battles)
+
+Landorus @ Focus Sash Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.7 %)[Ice]  
+Psychic
+Hidden Power
+Earth Power
+Stealth Rock
+# 3 - 6.35 % (354 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.8 %) / Sheer Force (99.2 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (42.1 %)  
+Psychic
+Earth Power
+Stealth Rock
+Sludge Wave
+# 4 - 4.11 % (229 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.4 %) / Sheer Force (99.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (23.1 %)  
+Psychic
+Calm Mind
+Focus Blast
+Earth Power
+# 5 - 4.07 % (227 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.9 %) / Sheer Force (99.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.2 %)  
+Psychic
+Focus Blast
+Earth Power
+Sludge Wave
+# 6 - 3.37 % (188 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (79.3 %)  
+Psychic
+Knock Off
+Focus Blast
+Earth Power
+# 7 - 2.98 % (166 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.6 %) / Sheer Force (99.4 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (43.4 %)  
+Psychic
+Rock Polish
+Focus Blast
+Earth Power
+# 8 - 2.91 % (162 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (0.6 %) / Sheer Force (99.4 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (63.6 %)  
+Focus Blast
+Earth Power
+Stealth Rock
+Sludge Wave
+# 9 - 2.24 % (125 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (80.0 %)[Ice]  
+Hidden Power
+Focus Blast
+Earth Power
+Sludge Wave
+# 10 - 2.21 % (123 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (48.0 %) / Sheer Force (52.0 %)
+Nature: Naive - EVs: 252 Atk / 252 Spd (100.0 %)[Ice]  
+Earthquake
+Rock Slide
+Hidden Power
+Knock Off
+# 11 - 1.97 % (110 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.8 %) / Sheer Force (98.2 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (26.4 %)  
+Psychic
+Calm Mind
+Earth Power
+Sludge Wave
+# 12 - 1.92 % (107 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.9 %) / Sheer Force (98.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (43.9 %)[Ice]  
+Psychic
+Hidden Power
+Earth Power
+Sludge Wave
+# 13 - 1.92 % (107 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 12 HP / 244 SAtk / 252 Spd (94.4 %)[Ice]  
+Substitute
+Hidden Power
+Focus Blast
+Earth Power
+# 14 - 1.74 % (97 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.0 %) / Sheer Force (99.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (56.7 %)[Ice]  
+Psychic
+Hidden Power
+Earth Power
+Stealth Rock
+# 15 - 1.56 % (87 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (52.9 %)  
+Psychic
+Knock Off
+Earth Power
+Sludge Wave
+# 16 - 1.45 % (81 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.9 %)  
+Psychic
+Substitute
+Earth Power
+Sludge Wave
+# 17 - 1.44 % (80 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (82.5 %)[Ice]  
+Psychic
+Hidden Power
+U-turn
+Earth Power
+# 18 - 1.36 % (76 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (2.6 %) / Sheer Force (97.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (44.7 %)[Ice]  
+Psychic
+Hidden Power
+Focus Blast
+Earth Power
+# 19 - 1.33 % (74 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (39.2 %)  
+Psychic
+Rock Polish
+Earth Power
+Sludge Wave
+# 20 - 1.24 % (69 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (42.0 %)  
+Psychic
+Substitute
+Focus Blast
+Earth Power
+# 21 - 1.18 % (66 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force (93.9 %) / Sheer Force (6.1 %)
+Nature: Naive - EVs: 4 HP / 200 Atk / 52 SAtk / 252 Spd (48.5 %)[Ice]  
+Earthquake
+Hidden Power
+U-turn
+Stone Edge
+# 22 - 0.95 % (53 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (58.5 %)  
+Psychic
+Sludge Bomb
+Focus Blast
+Earth Power
+# 23 - 0.93 % (52 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sand Force (1.9 %) / Sheer Force (98.1 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (51.9 %)[Electric]  
+Hidden Power
+Earth Power
+Stealth Rock
+Sludge Wave
+# 24 - 0.92 % (51 battles)
+
+Landorus @ Life Orb Lv. 100 -- Sheer Force
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (43.1 %)  
+Calm Mind
+Focus Blast
+Earth Power
+Sludge Wave
+# 25 - 0.86 % (48 battles)
+
+Landorus @ Choice Scarf Lv. 100 -- Sand Force (39.6 %) / Sheer Force (60.4 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (47.9 %)  
+Earthquake
+Knock Off
+U-turn
+Stone Edge

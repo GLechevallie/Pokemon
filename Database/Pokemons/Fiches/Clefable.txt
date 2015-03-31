@@ -1,0 +1,405 @@
+Fairy/-
+95/70/73/95/90/60
+40.0
+25/75
+
+# 1 - 9.84 % (4669 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (0.1 %) / Magic Guard (99.9 %)
+Nature: Calm - EVs: 252 HP / 160 Def / 96 SDef (25.6 %)  
+Flamethrower
+Soft-Boiled
+Calm Mind
+Moonblast
+# 2 - 3.95 % (1875 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (0.4 %) / Magic Guard (30.2 %) / Unaware (69.4 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (23.1 %)  
+Flamethrower
+Moonlight
+Calm Mind
+Moonblast
+# 3 - 3.43 % (1629 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (0.8 %) / Magic Guard (13.9 %) / Unaware (85.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (34.3 %)  
+Protect
+Heal Bell
+Wish
+Moonblast
+# 4 - 3.09 % (1469 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (0.5 %) / Magic Guard (21.6 %) / Unaware (77.8 %)
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (22.0 %)  
+Moonlight
+Cosmic Power
+Charge Beam
+Stored Power
+# 5 - 3.04 % (1445 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (0.3 %) / Magic Guard (99.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (52.9 %)  
+Soft-Boiled
+Cosmic Power
+Charge Beam
+Stored Power
+# 6 - 2.41 % (1143 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (1.0 %) / Magic Guard (0.5 %) / Unaware (98.4 %)
+Nature: Bold - EVs: 248 HP / 236 Def / 24 SDef (25.6 %)  
+Heal Bell
+Moonlight
+Calm Mind
+Moonblast
+# 7 - 2.32 % (1099 battles)
+
+Clefable @ Life Orb Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (22.7 %)  
+Flamethrower
+Soft-Boiled
+Calm Mind
+Moonblast
+# 8 - 2.14 % (1015 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (25.8 %)  
+Soft-Boiled
+Calm Mind
+Stored Power
+Moonblast
+# 9 - 1.58 % (749 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (2.9 %) / Magic Guard (26.7 %) / Unaware (70.4 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (24.7 %)  
+Protect
+Wish
+Aromatherapy
+Moonblast
+# 10 - 1.48 % (703 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (3.4 %) / Unaware (96.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (37.8 %)  
+Protect
+Wish
+Calm Mind
+Moonblast
+# 11 - 1.11 % (526 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (42.8 %) / Unaware (57.2 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (30.4 %)  
+Flamethrower
+Wish
+Calm Mind
+Moonblast
+# 12 - 1.08 % (514 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (2.5 %) / Magic Guard (97.5 %)
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (11.9 %)  
+Soft-Boiled
+Cosmic Power
+Stored Power
+Moonblast
+# 13 - 0.98 % (467 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (0.4 %) / Magic Guard (99.6 %)
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (49.7 %)  
+Toxic
+Soft-Boiled
+Cosmic Power
+Stored Power
+# 14 - 0.94 % (444 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Calm - EVs: 168 HP / 112 Def / 228 SDef (24.1 %)  
+Flamethrower
+Soft-Boiled
+Heal Bell
+Moonblast
+# 15 - 0.83 % (394 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (60.7 %) / Unaware (39.3 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (51.0 %)  
+Flamethrower
+Thunder Wave
+Calm Mind
+Moonblast
+# 16 - 0.83 % (392 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (5.1 %) / Magic Guard (94.9 %)
+Nature: Modest - EVs: 252 Def / 252 SDef (28.3 %)  
+Flamethrower
+Soft-Boiled
+Cosmic Power
+Moonblast
+# 17 - 0.77 % (366 battles)
+
+Clefable @ Toxic Orb Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 Def / 4 SAtk / 252 SDef (100.0 %)  
+Flamethrower
+Toxic
+Soft-Boiled
+Cosmic Power
+# 18 - 0.77 % (364 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (97.3 %) / Unaware (2.7 %)
+Nature: Modest - EVs: 112 HP / 112 Def / 188 SAtk / 96 SDef (90.1 %)  
+Flamethrower
+Thunderbolt
+Calm Mind
+Moonblast
+# 19 - 0.72 % (341 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (0.3 %) / Magic Guard (99.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def (44.9 %) 
+Thunder Wave
+Soft-Boiled
+Stealth Rock
+Moonblast
+# 20 - 0.70 % (332 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (3.0 %) / Unaware (97.0 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (44.0 %)  
+Heal Bell
+Moonlight
+Cosmic Power
+Stored Power
+# 21 - 0.69 % (327 battles)
+
+Clefable @ Life Orb Lv. 100 -- Magic Guard
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Flamethrower
+Thunderbolt
+Thunder Wave
+Moonblast
+# 22 - 0.68 % (323 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def (84.5 %) 
+Flamethrower
+Soft-Boiled
+Calm Mind
+Dazzling Gleam
+# 23 - 0.66 % (312 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (1.6 %) / Magic Guard (36.9 %) / Unaware (61.5 %)
+Nature: Modest - EVs: 252 HP / 128 Def / 128 SDef (36.2 %)  
+Moonlight
+Cosmic Power
+Stored Power
+Moonblast
+# 24 - 0.65 % (307 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (6.8 %) / Unaware (93.2 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk (55.7 %)  
+Heal Bell
+Moonlight
+Cosmic Power
+Moonblast
+# 25 - 0.63 % (297 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (75.8 %)  
+Soft-Boiled
+Cosmic Power
+Calm Mind
+Moonblast
+# 1 - 4.34 % (202 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 208 HP / 252 SAtk / 48 Spd (13.9 %)  
+Flamethrower
+Soft-Boiled
+Calm Mind
+Moonblast
+# 2 - 4.13 % (192 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (51.0 %)  
+Flamethrower
+Soft-Boiled
+Stealth Rock
+Moonblast
+# 3 - 3.12 % (145 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def (31.7 %)  
+Thunder Wave
+Soft-Boiled
+Stealth Rock
+Moonblast
+# 4 - 2.62 % (122 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Modest - EVs: 112 HP / 112 Def / 188 SAtk / 96 SDef (100.0 %) 
+Flamethrower
+Thunderbolt
+Calm Mind
+Moonblast
+# 5 - 2.51 % (117 battles)
+
+Clefable @ Life Orb Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (45.3 %)  
+Flamethrower
+Soft-Boiled
+Calm Mind
+Moonblast
+# 6 - 1.89 % (88 battles)
+
+Clefable @ Leftovers Lv. 100 -- Cute Charm (19.3 %) / Magic Guard (80.7 %)
+Nature: Careful - EVs: 252 HP / 132 Def / 124 SDef (50.0 %)  
+Seismic Toss
+Toxic
+Soft-Boiled
+Cosmic Power
+# 7 - 1.78 % (83 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (2.4 %) / Unaware (97.6 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (50.6 %)  
+Protect
+Wish
+Calm Mind
+Moonblast
+# 8 - 1.76 % (82 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (29.3 %) / Unaware (70.7 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (19.5 %)  
+Flamethrower
+Moonlight
+Calm Mind
+Moonblast
+# 9 - 1.65 % (77 battles)
+
+Clefable @ Focus Sash Lv. 100 -- Magic Guard (98.7 %) / Unaware (1.3 %)
+Nature: Modest - EVs: 208 HP / 252 SAtk / 48 Spd (97.4 %)  
+Fire Blast
+Magic Coat
+Stealth Rock
+Moonblast
+# 10 - 1.53 % (71 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (64.8 %) / Unaware (35.2 %)
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (43.7 %)  
+Moonlight
+Cosmic Power
+Charge Beam
+Stored Power
+# 11 - 1.46 % (68 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Calm - EVs: 252 HP / 252 SDef (38.2 %)  
+Soft-Boiled
+Cosmic Power
+Stored Power
+Moonblast
+# 12 - 1.35 % (63 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (30.2 %)  
+Soft-Boiled
+Cosmic Power
+Charge Beam
+Stored Power
+# 13 - 1.29 % (60 battles)
+
+Clefable @ Life Orb Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Soft-Boiled
+Calm Mind
+Stored Power
+Moonblast
+# 14 - 1.16 % (54 battles)
+
+Clefable @ Life Orb Lv. 100 -- Magic Guard
+Nature: Modest - EVs: 252 HP / 52 SAtk / 200 Spd (100.0 %)  
+Flamethrower
+Ice Beam
+Calm Mind
+Moonblast
+# 15 - 1.14 % (53 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Hardy - EVs: 252 HP / 252 Def / 4 SDef (24.5 %)  
+Soft-Boiled
+Calm Mind
+Stored Power
+Moonblast
+# 16 - 1.05 % (49 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 252 HP / 252 Def (42.9 %)  
+Soft-Boiled
+Calm Mind
+Stealth Rock
+Moonblast
+# 17 - 1.05 % (49 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard (18.4 %) / Unaware (81.6 %)
+Nature: Bold - EVs: 252 HP / 220 Def / 36 SDef (16.3 %)  
+Protect
+Heal Bell
+Wish
+Moonblast
+# 18 - 1.03 % (48 battles)
+
+Clefable @ Leftovers Lv. 100 -- Unaware
+Nature: Bold - EVs: 104 HP / 252 Def / 152 SAtk (89.6 %)  
+Flamethrower
+Moonlight
+Calm Mind
+Dazzling Gleam
+# 19 - 1.03 % (48 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Calm - EVs: 252 HP / 128 Def / 128 SDef (75.0 %)  
+Toxic
+Soft-Boiled
+Cosmic Power
+Stored Power
+# 20 - 1.01 % (47 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 116 HP / 64 Def / 76 SAtk / 252 SDef (97.9 %)  
+Fire Blast
+Soft-Boiled
+Stealth Rock
+Moonblast
+# 21 - 1.01 % (47 battles)
+
+Clefable @ Life Orb Lv. 100 -- Magic Guard
+Nature: Modest - EVs: 4 HP / 252 Def / 252 SAtk (100.0 %)  
+Psychic
+Wish
+Calm Mind
+Moonblast
+# 22 - 0.99 % (46 battles)
+
+Clefable @ Focus Sash Lv. 100 -- Magic Guard (67.4 %) / Unaware (32.6 %)
+Nature: Modest - EVs: 208 HP / 252 SAtk / 48 Spd (56.5 %)  
+Flamethrower
+Magic Coat
+Stealth Rock
+Moonblast
+# 23 - 0.99 % (46 battles)
+
+Clefable @ Leftovers Lv. 100 -- Magic Guard
+Nature: Modest - EVs: 92 HP / 252 SAtk / 164 SDef (100.0 %)  
+Flamethrower
+Thunderbolt
+Signal Beam
+Moonblast
+# 24 - 0.97 % (45 battles)
+
+Clefable @ Life Orb Lv. 100 -- Magic Guard
+Nature: Quiet - EVs: 252 HP / 4 Def / 252 SAtk (62.2 %)  
+Flamethrower
+Heal Bell
+Moonlight
+Moonblast
+# 25 - 0.97 % (45 battles)
+
+Clefable @ Light Clay Lv. 100 -- Magic Guard
+Nature: Bold - EVs: 4 HP / 252 Def / 252 SDef (100.0 %)  
+Seismic Toss
+Light Screen
+Reflect
+Soft-Boiled

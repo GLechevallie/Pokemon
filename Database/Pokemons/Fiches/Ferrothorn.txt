@@ -1,0 +1,405 @@
+Grass/Steel
+74/94/131/54/116/20
+110.0
+50/50
+
+# 1 - 4.99 % (2996 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (10.5 %)  
+Leech Seed
+Gyro Ball
+Power Whip
+Stealth Rock
+# 2 - 4.64 % (2785 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 252 HP / 92 Def / 164 SDef (9.6 %)  
+Leech Seed
+Gyro Ball
+Power Whip
+Stealth Rock
+# 3 - 4.61 % (2768 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 SDef (9.4 %)  
+Leech Seed
+Protect
+Gyro Ball
+Stealth Rock
+# 4 - 3.15 % (1892 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (11.3 %)  
+Leech Seed
+Thunder Wave
+Power Whip
+Stealth Rock
+# 5 - 2.37 % (1424 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (12.2 %)  
+Leech Seed
+Protect
+Gyro Ball
+Stealth Rock
+# 6 - 2.36 % (1418 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (9.7 %)  
+Leech Seed
+Thunder Wave
+Power Whip
+Stealth Rock
+# 7 - 2.29 % (1374 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 68 HP / 184 Atk / 128 Def / 128 SDef (11.8 %)  
+Leech Seed
+Protect
+Gyro Ball
+Power Whip
+# 8 - 2.17 % (1300 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Hardy - EVs: 252 HP / 216 Def / 40 SDef (10.0 %)  
+Leech Seed
+Protect
+Power Whip
+Stealth Rock
+# 9 - 1.71 % (1024 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Brave - EVs: 252 HP / 192 Atk / 12 Def / 52 SDef (18.8 %)  
+Leech Seed
+Protect
+Gyro Ball
+Power Whip
+# 10 - 1.70 % (1023 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 252 HP / 40 Def / 216 SDef (9.6 %)  
+Leech Seed
+Protect
+Spikes
+Gyro Ball
+# 11 - 1.61 % (967 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 4 Atk / 252 Def / 252 SDef (11.0 %)  
+Leech Seed
+Thunder Wave
+Gyro Ball
+Stealth Rock
+# 12 - 1.60 % (958 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 228 HP / 224 Atk / 8 Def / 48 SDef (21.1 %)  
+Leech Seed
+Spikes
+Gyro Ball
+Power Whip
+# 13 - 1.51 % (904 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (23.8 %)  
+Leech Seed
+Spikes
+Gyro Ball
+Stealth Rock
+# 14 - 1.43 % (860 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (14.9 %)  
+Leech Seed
+Protect
+Spikes
+Power Whip
+# 15 - 1.35 % (812 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (35.0 %)  
+Leech Seed
+Protect
+Power Whip
+Stealth Rock
+# 16 - 1.33 % (798 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 252 HP / 252 SDef (16.8 %)  
+Leech Seed
+Thunder Wave
+Gyro Ball
+Stealth Rock
+# 17 - 0.98 % (587 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (14.1 %)  
+Leech Seed
+Spikes
+Gyro Ball
+Power Whip
+# 18 - 0.92 % (552 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 Atk / 252 Def / 4 SDef (16.5 %)  
+Leech Seed
+Thunder Wave
+Gyro Ball
+Power Whip
+# 19 - 0.90 % (538 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 168 Def / 88 SDef (21.7 %)  
+Leech Seed
+Spikes
+Gyro Ball
+Stealth Rock
+# 20 - 0.88 % (528 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 HP / 132 Def / 124 SDef (14.2 %)  
+Leech Seed
+Thunder Wave
+Spikes
+Power Whip
+# 21 - 0.86 % (519 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Careful - EVs: 4 Atk / 252 Def / 252 SDef (61.5 %)  
+Leech Seed
+Rest
+Sleep Talk
+Power Whip
+# 22 - 0.77 % (464 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 252 Def (72.2 %)  
+Leech Seed
+Curse
+Protect
+Gyro Ball
+# 23 - 0.77 % (464 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (20.7 %)  
+Leech Seed
+Knock Off
+Gyro Ball
+Stealth Rock
+# 24 - 0.77 % (460 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Careful - EVs: 108 HP / 200 Def / 200 SDef (25.9 %)  
+Leech Seed
+Toxic
+Protect
+Gyro Ball
+# 25 - 0.76 % (454 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (14.8 %)  
+Leech Seed
+Thunder Wave
+Protect
+Power Whip
+# 1 - 5.71 % (930 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 SDef (14.8 %)  
+Leech Seed
+Protect
+Gyro Ball
+Stealth Rock
+# 2 - 4.52 % (736 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (12.4 %)  
+Leech Seed
+Gyro Ball
+Power Whip
+Stealth Rock
+# 3 - 4.21 % (686 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 248 HP / 252 Def / 8 SDef (12.7 %)  
+Leech Seed
+Gyro Ball
+Power Whip
+Stealth Rock
+# 4 - 3.51 % (571 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (23.6 %)  
+Leech Seed
+Protect
+Gyro Ball
+Stealth Rock
+# 5 - 2.78 % (453 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 252 HP / 128 Def / 128 SDef (14.6 %)  
+Leech Seed
+Thunder Wave
+Power Whip
+Stealth Rock
+# 6 - 2.53 % (411 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 HP / 4 Atk / 252 Def (15.6 %)  
+Leech Seed
+Thunder Wave
+Power Whip
+Stealth Rock
+# 7 - 2.42 % (394 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 Def / 252 SDef (18.3 %)  
+Leech Seed
+Spikes
+Power Whip
+Stealth Rock
+# 8 - 2.40 % (391 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 252 HP / 4 Def / 252 SDef (16.4 %)  
+Leech Seed
+Spikes
+Gyro Ball
+Stealth Rock
+# 9 - 2.37 % (385 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 HP / 252 Def (19.2 %)  
+Leech Seed
+Spikes
+Gyro Ball
+Stealth Rock
+# 10 - 2.17 % (354 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Careful - EVs: 252 HP / 100 Atk / 156 SDef (11.3 %)  
+Leech Seed
+Thunder Wave
+Gyro Ball
+Stealth Rock
+# 11 - 1.97 % (320 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 4 HP / 252 Def / 252 SDef (47.2 %)  
+Leech Seed
+Toxic
+Gyro Ball
+Stealth Rock
+# 12 - 1.97 % (320 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (13.4 %)  
+Leech Seed
+Protect
+Power Whip
+Stealth Rock
+# 13 - 1.92 % (313 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 56 Def / 200 SDef (19.5 %)  
+Leech Seed
+Thunder Wave
+Gyro Ball
+Stealth Rock
+# 14 - 1.33 % (217 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 252 Def (49.8 %)  
+Leech Seed
+Toxic
+Gyro Ball
+Stealth Rock
+# 15 - 1.29 % (210 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Brave - EVs: 252 Def / 252 SDef (90.0 %)  
+Leech Seed
+Knock Off
+Gyro Ball
+Power Whip
+# 16 - 1.12 % (183 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 108 Def / 148 SDef (48.1 %)  
+Leech Seed
+Knock Off
+Gyro Ball
+Stealth Rock
+# 17 - 1.11 % (180 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 4 HP / 252 Def / 252 SDef (46.1 %)  
+Spikes
+Gyro Ball
+Power Whip
+Stealth Rock
+# 18 - 1.09 % (177 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 252 Def (17.5 %)  
+Leech Seed
+Spikes
+Gyro Ball
+Power Whip
+# 19 - 1.04 % (169 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Careful - EVs: 252 HP / 120 Def / 120 SDef / 16 Spd (58.0 %)  
+Leech Seed
+Knock Off
+Power Whip
+Stealth Rock
+# 20 - 0.97 % (158 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 48 Def / 208 SDef (19.6 %)  
+Leech Seed
+Protect
+Power Whip
+Stealth Rock
+# 21 - 0.93 % (152 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 0 (23.0 %)  
+Spikes
+Gyro Ball
+Power Whip
+Stealth Rock
+# 22 - 0.93 % (152 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 4 HP / 252 Atk / 252 Def (15.8 %)  
+Leech Seed
+Curse
+Gyro Ball
+Stealth Rock
+# 23 - 0.92 % (149 battles)
+
+Ferrothorn @ Rocky Helmet Lv. 100 -- Iron Barbs
+Nature: Bold - EVs: 252 HP / 252 Def (80.5 %)  
+Leech Seed
+Protect
+Spikes
+Stealth Rock
+# 24 - 0.84 % (136 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Sassy - EVs: 252 HP / 128 Def / 128 SDef (42.6 %)  
+Leech Seed
+Thunder Wave
+Gyro Ball
+Power Whip
+# 25 - 0.83 % (135 battles)
+
+Ferrothorn @ Leftovers Lv. 100 -- Iron Barbs
+Nature: Relaxed - EVs: 252 HP / 4 Atk / 252 Def (79.3 %)  
+Leech Seed
+Knock Off
+Gyro Ball
+Stealth Rock

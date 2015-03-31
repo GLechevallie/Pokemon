@@ -1,0 +1,4 @@
+Normal/Flying
+83/80/80/135/80/121
+No Guard
+50.5

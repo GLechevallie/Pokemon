@@ -1,0 +1,4 @@
+Steel/Psychic
+80/145/150/105/110/110
+Tough Claws
+942.9

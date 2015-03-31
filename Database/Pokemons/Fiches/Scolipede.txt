@@ -1,0 +1,405 @@
+Bug/Poison
+60/100/89/55/69/112
+220.0
+50/50
+
+# 1 - 14.49 % (2562 battles)
+
+Scolipede @ Mental Herb Lv. 100 -- Poison Point (0.5 %) / Speed Boost (99.5 %)
+Nature: Timid - EVs: 240 HP / 92 Def / 176 Spd (16.5 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 2 - 5.06 % (894 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (0.2 %) / Speed Boost (99.8 %)
+Nature: Calm - EVs: 132 Def / 252 SDef / 124 Spd (11.2 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 3 - 3.23 % (571 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Speed Boost
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (32.2 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 4 - 3.05 % (540 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Speed Boost
+Nature: Timid - EVs: 160 HP / 96 Def / 252 Spd (20.7 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 5 - 2.99 % (529 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (0.6 %) / Speed Boost (99.4 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (35.3 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 6 - 2.88 % (509 battles)
+
+Scolipede @ Life Orb Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (40.1 %)  
+Earthquake
+Protect
+Megahorn
+Poison Jab
+# 7 - 2.50 % (442 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Poison Point (0.7 %) / Speed Boost (99.3 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (25.8 %)  
+Swords Dance
+Protect
+Megahorn
+Baton Pass
+# 8 - 2.09 % (369 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Poison Point (0.3 %) / Speed Boost (99.7 %)
+Nature: Timid - EVs: 252 HP / 4 SDef / 252 Spd (22.8 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 9 - 1.83 % (323 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Speed Boost
+Nature: Careful - EVs: 4 HP / 252 Def / 252 SDef (57.0 %)  
+Substitute
+Attract
+Baton Pass
+Iron Defense
+# 10 - 1.76 % (311 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (93.9 %)  
+Swords Dance
+Earthquake
+Poison Jab
+X-Scissor
+# 11 - 1.66 % (293 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 252 Spd (52.9 %)  
+Swords Dance
+Earthquake
+Megahorn
+Poison Jab
+# 12 - 1.39 % (246 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Poison Point (2.4 %) / Speed Boost (97.6 %)
+Nature: Jolly - EVs: 252 HP / 252 Spd (22.4 %)  
+Swords Dance
+Protect
+Baton Pass
+Poison Jab
+# 13 - 1.33 % (236 battles)
+
+Scolipede @ Sitrus Berry Lv. 100 -- Speed Boost
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (97.5 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 14 - 1.28 % (227 battles)
+
+Scolipede @ (No Item) Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 240 HP / 252 Atk / 16 Spd (100.0 %)  
+Substitute
+Protect
+Megahorn
+Baton Pass
+# 15 - 1.02 % (181 battles)
+
+Scolipede @ Mental Herb Lv. 100 -- Speed Boost
+Nature: Bold - EVs: 252 HP / 4 Def / 252 Spd (78.5 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 16 - 0.92 % (163 battles)
+
+Scolipede @ Wide Lens Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 240 HP / 96 Atk / 160 Def / 12 Spd (100.0 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Megahorn
+# 17 - 0.91 % (161 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (4.3 %) / Speed Boost (95.7 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (34.8 %)  
+Swords Dance
+Substitute
+Megahorn
+Baton Pass
+# 18 - 0.89 % (157 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Swords Dance
+Megahorn
+Baton Pass
+Aqua Tail
+# 19 - 0.87 % (154 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (37.0 %)  
+Swords Dance
+Rock Slide
+Protect
+Baton Pass
+# 20 - 0.87 % (153 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Timid - EVs: 252 HP / 252 Spd (24.8 %)  
+Swords Dance
+Protect
+Baton Pass
+Iron Defense
+# 21 - 0.84 % (149 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Speed Boost
+Nature: Impish - EVs: 252 HP / 252 Def / 4 Spd (23.5 %)  
+Swords Dance
+Protect
+Megahorn
+Baton Pass
+# 22 - 0.83 % (147 battles)
+
+Scolipede @ Weakness Policy Lv. 100 -- Speed Boost
+Nature: Bold - EVs: 252 HP / 252 Def / 4 Spd (78.9 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 23 - 0.81 % (143 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (0.7 %) / Speed Boost (99.3 %)
+Nature: Hardy - EVs: 252 Def / 252 SDef (48.3 %)  
+Swords Dance
+Protect
+Baton Pass
+Iron Defense
+# 24 - 0.79 % (140 battles)
+
+Scolipede @ Life Orb Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (78.6 %)  
+Earthquake
+Rock Slide
+Protect
+Megahorn
+# 25 - 0.77 % (137 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Hardy - EVs: 252 Atk / 252 Spd (48.9 %)  
+Swords Dance
+Megahorn
+Baton Pass
+Iron Defense
+# 1 - 27.60 % (5243 battles)
+
+Scolipede @ Mental Herb Lv. 100 -- Poison Point (0.1 %) / Speed Boost (99.9 %)
+Nature: Timid - EVs: 240 HP / 92 Def / 176 Spd (11.9 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 2 - 6.81 % (1294 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Poison Point (0.1 %) / Speed Boost (99.9 %)
+Nature: Impish - EVs: 216 HP / 232 Def / 4 SDef / 56 Spd (39.6 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 3 - 6.18 % (1174 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (0.3 %) / Speed Boost (99.7 %)
+Nature: Jolly - EVs: 252 HP / 4 SDef / 252 Spd (19.4 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 4 - 4.31 % (818 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (0.6 %) / Speed Boost (99.4 %)
+Nature: Bold - EVs: 252 Def / 252 SDef (26.9 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 5 - 2.70 % (512 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Poison Point (0.6 %) / Speed Boost (99.4 %)
+Nature: Careful - EVs: 252 Def / 252 SDef (19.9 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 6 - 2.64 % (502 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Poison Point (0.4 %) / Speed Boost (99.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (39.2 %)  
+Swords Dance
+Protect
+Baton Pass
+Poison Jab
+# 7 - 2.38 % (453 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Poison Point (0.4 %) / Speed Boost (99.6 %)
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (17.7 %)  
+Swords Dance
+Protect
+Megahorn
+Baton Pass
+# 8 - 2.31 % (438 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Speed Boost
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (17.6 %)  
+Swords Dance
+Substitute
+Protect
+Baton Pass
+# 9 - 1.48 % (282 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Poison Point (0.7 %) / Speed Boost (99.3 %)
+Nature: Timid - EVs: 252 HP / 4 Def / 252 Spd (27.3 %)  
+Substitute
+Protect
+Baton Pass
+Iron Defense
+# 10 - 1.24 % (236 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Hardy - EVs: 252 Atk / 252 Spd (96.2 %)  
+Swords Dance
+Megahorn
+Baton Pass
+Iron Defense
+# 11 - 1.23 % (234 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Timid - EVs: 252 SAtk / 252 Spd (32.9 %)  
+Swords Dance
+Protect
+Baton Pass
+Iron Defense
+# 12 - 1.20 % (228 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 Atk / 4 Def / 252 Spd (50.9 %)  
+Swords Dance
+Substitute
+Megahorn
+Baton Pass
+# 13 - 1.03 % (195 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 252 Spd (42.6 %)  
+Protect
+Baton Pass
+Iron Defense
+Poison Jab
+# 14 - 0.99 % (189 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (66.1 %)  
+Swords Dance
+Rock Slide
+Protect
+Baton Pass
+# 15 - 0.96 % (183 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 4 HP / 252 SDef / 252 Spd (100.0 %)  
+Swords Dance
+Baton Pass
+Toxic Spikes
+Steamroller
+# 16 - 0.92 % (175 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 32 HP / 228 Def / 248 Spd (94.3 %)  
+Rock Slide
+Substitute
+Baton Pass
+Iron Defense
+# 17 - 0.86 % (164 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (2.4 %) / Speed Boost (97.6 %)
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (52.4 %)  
+Swords Dance
+Protect
+Baton Pass
+Iron Defense
+# 18 - 0.82 % (156 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (79.5 %)  
+Swords Dance
+Earthquake
+Rock Slide
+Megahorn
+# 19 - 0.80 % (152 battles)
+
+Scolipede @ Life Orb Lv. 100 -- Speed Boost
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (41.4 %)  
+Earthquake
+Protect
+Megahorn
+Poison Jab
+# 20 - 0.75 % (142 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 112 Def / 144 SDef (38.7 %)  
+Swords Dance
+Protect
+Baton Pass
+Poison Jab
+# 21 - 0.67 % (127 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Poison Point (1.6 %) / Speed Boost (98.4 %)
+Nature: Hardy - EVs: 252 HP / 4 SDef / 252 Spd (44.1 %)  
+Swords Dance
+Protect
+Megahorn
+Baton Pass
+# 22 - 0.66 % (125 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Speed Boost
+Nature: Impish - EVs: 240 HP / 136 Def / 132 SDef (26.4 %)  
+Swords Dance
+Substitute
+Baton Pass
+Iron Defense
+# 23 - 0.65 % (123 battles)
+
+Scolipede @ Black Sludge Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 252 HP / 40 Def / 216 Spd (26.8 %)  
+Swords Dance
+Protect
+Megahorn
+Baton Pass
+# 24 - 0.64 % (122 battles)
+
+Scolipede @ Leftovers Lv. 100 -- Speed Boost
+Nature: Careful - EVs: 252 HP / 252 SDef (74.6 %)  
+Protect
+Baton Pass
+Iron Defense
+Poison Jab
+# 25 - 0.61 % (115 battles)
+
+Scolipede @ Focus Sash Lv. 100 -- Speed Boost
+Nature: Jolly - EVs: 248 HP / 8 Def / 252 Spd (36.5 %)  
+Swords Dance
+Rock Slide
+Substitute
+Baton Pass

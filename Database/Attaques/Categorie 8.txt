@@ -1,0 +1,25 @@
+Classe	Type	Puis	Prec	Prio	PP	Recul	Contact
+
+Drain Punch
+phys	Fighting	75	100	0	16	50	yes
+
+Draining Kiss
+spec	Fairy	50	100	0	16	75	yes
+
+Dream Eater
+spec	Psychic	100	100	0	24	50	no
+
+Giga Drain
+spec	Grass	75	100	0	16	50	no
+
+Horn Leech
+phys	Grass	75	100	0	16	50	yes
+
+Leech Life
+phys	Bug	20	100	0	24	50	yes
+
+Mega Drain
+spec	Grass	40	100	0	24	50	no
+
+Oblivion Wing
+spec	Flying	80	100	0	16	75	no

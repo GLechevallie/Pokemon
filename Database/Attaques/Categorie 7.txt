@@ -1,0 +1,58 @@
+Classe	Type	Puis	Prec	Prio	PP	Cible	NCoups	Crit	Peur	Recul	Stats	Variat°	Taux	Contact
+
+Ancient Power
+spec	Rock	60	100	0	8	adv	1	0	0	0	Atq/Def/SAtq/SDef/Vit	1/1/1/1/1	10	no
+
+Charge Beam
+spec	Electric	50	90	0	16	adv	1	0	0	0	SAtq	1	70	no
+
+Close Combat
+phys	Fighting	120	100	0	8	adv	1	0	0	0	Def/SDef	-1/-1	100	yes
+
+Diamond Storm
+phys	Rock	100	95	0	8	allAdv	1	0	0	0	Def	1	50	no
+
+Draco Meteor
+spec	Dragon	130	90	0	8	adv	1	0	0	0	SAtq	-2	100	no
+
+Dragon Ascent
+phys	Flying	120	100	0	8	adv	1	0	0	0	Def/SDef	-1/-1	100	yes
+
+Fiery Dance
+spec	Fire	80	100	0	16	adv	1	0	0	0	SAtq	1	50	no
+
+Flame Charge
+phys	Fire	50	100	0	32	adv	1	0	0	0	Vit	1	100	yes
+
+Hammer Arm
+phys	Fighting	100	90	0	16	adv	1	0	0	0	Vit	-1	100	yes
+
+Leaf Storm
+spec	Grass	130	90	0	8	adv	1	0	0	0	SAtq	-2	100	no
+
+Meteor Mash
+phys	Steel	90	90	0	16	adv	1	0	0	0	Atq	1	20	yes
+
+Ominous Wind
+spec	Ghost	60	100	0	8	adv	1	0	0	0	Atq/Def/SAtq/SDef/Vit	1/1/1/1/1	10	no
+
+Overheat
+spec	Fire	130	90	0	8	adv	1	0	0	0	SAtq	-2	100	no
+
+Power-Up Punch
+phys	Fighting	40	100	0	32	adv	1	0	0	0	Atq	1	100	yes
+
+Psycho Boost
+spec	Psychic	140	90	0	8	adv	1	0	0	0	SAtq	-2	100	no
+
+Silver Wind
+spec	Bug	60	100	0	8	adv	1	0	0	0	Atq/Def/SAtq/SDef/Vit	1/1/1/1/1	10	no
+
+Steel Wing
+phys	Steel	70	90	0	40	adv	1	0	0	0	Def	1	10	yes
+
+Superpower
+phys	Fighting	120	100	0	8	adv	1	0	0	0	Atq/Def	-1/-1	100	yes
+
+V-create
+phys	Fire	180	95	0	8	adv	1	0	0	0	Def/SDef/Vit	-1/-1/-1	100	yes

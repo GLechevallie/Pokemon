@@ -1,0 +1,405 @@
+Dark/Steel
+65/125/100/60/70/70
+70.0
+50/50
+
+# 1 - 34.58 % (22322 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (99.1 %) / Inner Focus (0.8 %) / Pressure (0.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (21.7 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 2 - 6.71 % (4329 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant (97.1 %) / Inner Focus (2.4 %) / Pressure (0.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (27.7 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 3 - 6.08 % (3925 battles)
+
+Bisharp @ Dread Plate Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (14.1 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 4 - 4.86 % (3138 battles)
+
+Bisharp @ Leftovers Lv. 100 -- Defiant (99.4 %) / Inner Focus (0.3 %) / Pressure (0.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (18.5 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 5 - 3.97 % (2562 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (99.9 %) / Pressure (0.1 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (31.4 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 6 - 3.58 % (2310 battles)
+
+Bisharp @ Black Glasses Lv. 100 -- Defiant (99.4 %) / Inner Focus (0.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.2 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 7 - 2.64 % (1702 battles)
+
+Bisharp @ Dread Plate Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (44.4 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 8 - 2.15 % (1389 battles)
+
+Bisharp @ Black Glasses Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (41.1 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 9 - 1.67 % (1076 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.3 %)  
+Low Kick
+Knock Off
+Sucker Punch
+Iron Head
+# 10 - 1.14 % (737 battles)
+
+Bisharp @ Assault Vest Lv. 100 -- Defiant
+Nature: Adamant - EVs: 64 HP / 252 Atk / 192 SDef (16.6 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 11 - 1.14 % (733 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (86.4 %) / Inner Focus (13.5 %) / Pressure (0.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (33.3 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 12 - 1.03 % (666 battles)
+
+Bisharp @ Lum Berry Lv. 100 -- Defiant
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (18.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 13 - 0.99 % (636 battles)
+
+Bisharp @ Leftovers Lv. 100 -- Defiant (99.8 %) / Inner Focus (0.2 %)
+Nature: Adamant - EVs: 52 HP / 252 Atk / 204 Spd (19.5 %)  
+Swords Dance
+Substitute
+Sucker Punch
+Iron Head
+# 14 - 0.97 % (625 battles)
+
+Bisharp @ Leftovers Lv. 100 -- Defiant (90.6 %) / Inner Focus (7.8 %) / Pressure (1.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (47.2 %)  
+Substitute
+Knock Off
+Sucker Punch
+Iron Head
+# 15 - 0.87 % (564 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (96.6 %) / Inner Focus (3.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.3 %)  
+Knock Off
+Sucker Punch
+Psycho Cut
+Iron Head
+# 16 - 0.78 % (502 battles)
+
+Bisharp @ Air Balloon Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 HP / 252 Atk (32.9 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 17 - 0.72 % (468 battles)
+
+Bisharp @ Choice Band Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (94.0 %)  
+Knock Off
+Sucker Punch
+Poison Jab
+Iron Head
+# 18 - 0.62 % (399 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (41.4 %)  
+Swords Dance
+Pursuit
+Knock Off
+Sucker Punch
+# 19 - 0.57 % (366 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (98.4 %) / Inner Focus (1.4 %) / Pressure (0.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (29.2 %)  
+Swords Dance
+Brick Break
+Knock Off
+Sucker Punch
+# 20 - 0.55 % (357 battles)
+
+Bisharp @ Choice Band Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (56.6 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 21 - 0.51 % (327 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (99.7 %) / Inner Focus (0.3 %)
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 Def (43.4 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Power-Up Punch
+# 22 - 0.45 % (290 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (98.3 %) / Pressure (1.7 %)
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (24.1 %)  
+Substitute
+Knock Off
+Sucker Punch
+Iron Head
+# 23 - 0.45 % (290 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (70.0 %)  
+Pursuit
+Taunt
+Knock Off
+Sucker Punch
+# 24 - 0.43 % (280 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 Atk / 160 Def / 96 SDef (38.9 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Stone Edge
+# 25 - 0.41 % (266 battles)
+
+Bisharp @ Assault Vest Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 HP / 252 Atk (85.3 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Power-Up Punch
+# 1 - 26.54 % (1329 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (99.2 %) / Inner Focus (0.5 %) / Pressure (0.3 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (22.3 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 2 - 10.02 % (502 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant (98.6 %) / Inner Focus (0.6 %) / Pressure (0.8 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (35.5 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 3 - 8.39 % (420 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant (92.4 %) / Inner Focus (7.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (59.3 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Stealth Rock
+# 4 - 4.29 % (215 battles)
+
+Bisharp @ Leftovers Lv. 100 -- Defiant (99.5 %) / Pressure (0.5 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (20.5 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 5 - 2.96 % (148 battles)
+
+Bisharp @ Black Glasses Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 Atk / 4 Def / 252 Spd (33.1 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 6 - 2.26 % (113 battles)
+
+Bisharp @ Dread Plate Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (16.8 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 7 - 1.90 % (95 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (30.5 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 8 - 1.84 % (92 battles)
+
+Bisharp @ Dread Plate Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (25.0 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 9 - 1.68 % (84 battles)
+
+Bisharp @ Black Glasses Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (36.9 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 10 - 1.60 % (80 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (75.0 %)  
+Low Kick
+Knock Off
+Sucker Punch
+Iron Head
+# 11 - 1.42 % (71 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant
+Nature: Impish - EVs: 252 Atk / 252 Def / 4 Spd (100.0 %)  
+Thunder Wave
+Sucker Punch
+Stealth Rock
+Power-Up Punch
+# 12 - 1.36 % (68 battles)
+
+Bisharp @ Leftovers Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (29.4 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Stealth Rock
+# 13 - 1.28 % (64 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 Atk / 252 Spd (68.8 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Stealth Rock
+# 14 - 1.26 % (63 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (98.4 %) / Inner Focus (1.6 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (58.7 %)  
+Swords Dance
+Brick Break
+Knock Off
+Sucker Punch
+# 15 - 1.24 % (62 battles)
+
+Bisharp @ Leftovers Lv. 100 -- Defiant (58.1 %) / Inner Focus (41.9 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (41.9 %)  
+Swords Dance
+Substitute
+Sucker Punch
+Iron Head
+# 16 - 1.20 % (60 battles)
+
+Bisharp @ Leftovers Lv. 100 -- Defiant (98.3 %) / Inner Focus (1.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (38.3 %)  
+Substitute
+Knock Off
+Sucker Punch
+Iron Head
+# 17 - 1.08 % (54 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant (96.3 %) / Inner Focus (3.7 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (55.6 %)  
+Brick Break
+Knock Off
+Sucker Punch
+Iron Head
+# 18 - 0.98 % (49 battles)
+
+Bisharp @ Choice Band Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (71.4 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head
+# 19 - 0.96 % (48 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (89.6 %)  
+Swords Dance
+Sucker Punch
+Psycho Cut
+Iron Head
+# 20 - 0.90 % (45 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant
+Nature: Adamant - EVs: 252 Atk / 252 Spd (100.0 %)  
+Low Kick
+Pursuit
+Sucker Punch
+Stealth Rock
+# 21 - 0.82 % (41 battles)
+
+Bisharp @ Sitrus Berry Lv. 100 -- Inner Focus
+Nature: Adamant - EVs: 252 Atk / 252 Def / 4 SDef (100.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Poison Jab
+# 22 - 0.74 % (37 battles)
+
+Bisharp @ Lum Berry Lv. 100 -- Defiant
+Nature: Jolly - EVs: 104 HP / 252 Atk / 152 Spd (27.0 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 23 - 0.70 % (35 battles)
+
+Bisharp @ Life Orb Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (37.1 %)  
+Low Kick
+Knock Off
+Sucker Punch
+Iron Head
+# 24 - 0.68 % (34 battles)
+
+Bisharp @ Lum Berry Lv. 100 -- Defiant
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (88.2 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Stealth Rock
+# 25 - 0.64 % (32 battles)
+
+Bisharp @ Focus Sash Lv. 100 -- Defiant
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (84.4 %)  
+Pursuit
+Knock Off
+Sucker Punch
+Iron Head

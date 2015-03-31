@@ -1,0 +1,405 @@
+Water/Fighting
+90/95/95/70/90/70
+54.0
+50/50
+
+# 1 - 17.73 % (128 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (53.9 %)  
+Rest
+Sleep Talk
+Scald
+Circle Throw
+# 2 - 12.33 % (89 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 252 HP (83.1 %)  
+Ice Punch
+Waterfall
+Substitute
+Focus Punch
+# 3 - 10.66 % (77 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (49.4 %)  
+Waterfall
+Substitute
+Encore
+Focus Punch
+# 4 - 6.09 % (44 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 160 HP / 252 Atk / 96 Spd (65.9 %)  
+Toxic
+Waterfall
+Substitute
+Focus Punch
+# 5 - 4.71 % (34 battles)
+
+Poliwrath @ Choice Band Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 252 Atk / 252 Def (85.3 %)  
+Ice Punch
+Earthquake
+Waterfall
+Brick Break
+# 6 - 4.43 % (32 battles)
+
+Poliwrath @ Life Orb Lv. 100 -- Swift Swim
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Rock Slide
+Substitute
+Brick Break
+# 7 - 4.29 % (31 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Impish - EVs: 248 HP / 68 Atk / 192 Def (100.0 %)  
+Hypnosis
+Waterfall
+Encore
+Circle Throw
+# 8 - 4.02 % (29 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 168 HP / 252 Atk / 16 Def / 56 SDef / 16 Spd (41.4 %) 
+Waterfall
+Substitute
+Focus Punch
+Bulk Up
+# 9 - 2.63 % (19 battles)
+
+Poliwrath @ Choice Scarf Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Ice Punch
+Earthquake
+Waterfall
+Brick Break
+# 10 - 2.49 % (18 battles)
+
+Poliwrath @ Choice Band Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (94.4 %)  
+Ice Punch
+Waterfall
+Poison Jab
+Circle Throw
+# 11 - 2.49 % (18 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 248 HP / 252 Def / 8 Spd (100.0 %)  
+Toxic
+Waterfall
+Protect
+Circle Throw
+# 12 - 2.49 % (18 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 SDef (100.0 %)  
+Waterfall
+Bulk Up
+Payback
+Circle Throw
+# 13 - 2.35 % (17 battles)
+
+Poliwrath @ Sitrus Berry Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 216 HP / 252 Atk / 40 SDef (100.0 %)  
+Waterfall
+Rain Dance
+Brick Break
+Power-Up Punch
+# 14 - 2.22 % (16 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Careful - EVs: 252 Atk / 4 Def / 252 SDef (62.5 %)  
+Rest
+Sleep Talk
+Bulk Up
+Circle Throw
+# 15 - 1.94 % (14 battles)
+
+Poliwrath @ Rocky Helmet Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 220 HP / 140 Atk / 148 Def (100.0 %)  
+Ice Punch
+Earthquake
+Waterfall
+Belly Drum
+# 16 - 1.66 % (12 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 SDef (100.0 %)  
+Waterfall
+Substitute
+Focus Punch
+Vacuum Wave
+# 17 - 1.52 % (11 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 128 HP / 128 Atk / 252 SDef (90.9 %)  
+Ice Punch
+Waterfall
+Brick Break
+Bulk Up
+# 18 - 1.11 % (8 battles)
+
+Poliwrath @ Wide Lens Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 252 Atk / 40 SDef / 216 Spd (100.0 %)  
+Hypnosis
+Dive
+Rock Tomb
+Wake-Up Slap
+# 19 - 0.97 % (7 battles)
+
+Poliwrath @ Choice Band Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Ice Punch
+Waterfall
+Rock Slide
+Brick Break
+# 20 - 0.97 % (7 battles)
+
+Poliwrath @ Life Orb Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 120 HP / 228 Atk / 40 Def / 40 SDef / 80 Spd (100.0 %) 
+Ice Punch
+Hypnosis
+Waterfall
+Wake-Up Slap
+# 21 - 0.83 % (6 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 0 (100.0 %)  
+Ice Beam
+Hypnosis
+Rock Slide
+Water Pulse
+# 22 - 0.83 % (6 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 252 Atk / 252 Def / 4 SDef (100.0 %)  
+Waterfall
+Substitute
+Belly Drum
+Focus Punch
+# 23 - 0.83 % (6 battles)
+
+Poliwrath @ Life Orb Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Ice Punch
+Earthquake
+Waterfall
+Poison Jab
+# 24 - 0.83 % (6 battles)
+
+Poliwrath @ Life Orb Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Earthquake
+Waterfall
+Wake-Up Slap
+Poison Jab
+# 25 - 0.69 % (5 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Jolly - EVs: 252 Atk / 252 Spd (60.0 %)  
+Earthquake
+Hypnosis
+Waterfall
+Bulk Up
+# 1 - 11.43 % (4 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 252 HP (100.0 %)  
+Ice Punch
+Waterfall
+Substitute
+Focus Punch
+# 2 - 8.57 % (3 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 160 HP / 252 Atk / 96 SDef (100.0 %)  
+Toxic
+Waterfall
+Substitute
+Focus Punch
+# 3 - 5.71 % (2 battles)
+
+Poliwrath @ Choice Band Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 252 Atk / 252 Def (100.0 %)  
+Ice Punch
+Earthquake
+Waterfall
+Brick Break
+# 4 - 5.71 % (2 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 252 Atk / 40 SDef / 216 Spd (100.0 %)  
+Ice Punch
+Earthquake
+Rock Slide
+Brick Break
+# 5 - 5.71 % (2 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (50.0 %)  
+Ice Punch
+Waterfall
+Brick Break
+Bulk Up
+# 6 - 5.71 % (2 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Jolly - EVs: 252 Atk / 252 Spd (100.0 %)  
+Earthquake
+Hypnosis
+Waterfall
+Bulk Up
+# 7 - 5.71 % (2 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 76 HP / 224 Atk / 56 Def / 56 SDef / 96 Spd (100.0 %) 
+Waterfall
+Rock Slide
+Bulk Up
+Circle Throw
+# 8 - 5.71 % (2 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (50.0 %)  
+Waterfall
+Substitute
+Encore
+Focus Punch
+# 9 - 5.71 % (2 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 184 HP / 252 Atk / 16 Def / 56 SDef (100.0 %)  
+Waterfall
+Substitute
+Focus Punch
+Bulk Up
+# 10 - 5.71 % (2 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 SDef (100.0 %)  
+Waterfall
+Bulk Up
+Payback
+Circle Throw
+# 11 - 5.71 % (2 battles)
+
+Poliwrath @ Life Orb Lv. 100 -- Swift Swim
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Rock Slide
+Substitute
+Brick Break
+# 12 - 5.71 % (2 battles)
+
+Poliwrath @ Sitrus Berry Lv. 100 -- Swift Swim
+Nature: Adamant - EVs: 216 HP / 252 Atk / 40 SDef (100.0 %)  
+Waterfall
+Rain Dance
+Brick Break
+Power-Up Punch
+# 13 - 2.86 % (1 battles)
+
+Poliwrath @ Choice Band Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 252 HP / 252 Atk / 4 Def (100.0 %)  
+Ice Punch
+Waterfall
+Rock Slide
+Brick Break
+# 14 - 2.86 % (1 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 40 HP / 88 Atk / 128 Def / 252 Spd (100.0 %)  
+Earthquake
+Waterfall
+Brick Break
+Bulk Up
+# 15 - 2.86 % (1 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Careful - EVs: 252 HP / 4 Def / 252 SDef (100.0 %)[Grass]  
+Toxic
+Encore
+Hidden Power
+Scald
+# 16 - 2.86 % (1 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Swift Swim
+Nature: Jolly - EVs: 4 HP / 252 Atk / 252 Spd (100.0 %)  
+Waterfall
+Rock Slide
+Brick Break
+Poison Jab
+# 17 - 2.86 % (1 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 SDef (100.0 %)  
+Waterfall
+Substitute
+Focus Punch
+Vacuum Wave
+# 18 - 2.86 % (1 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (100.0 %)  
+Waterfall
+Bulk Up
+Payback
+Power-Up Punch
+# 19 - 2.86 % (1 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (100.0 %)  
+Rest
+Sleep Talk
+Scald
+Circle Throw
+# 20 - 2.86 % (1 battles)
+
+Poliwrath @ Black Belt Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 0 (100.0 %)  
+Ice Punch
+Earthquake
+Waterfall
+Circle Throw
+# 21 - 0 % (128 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Impish - EVs: 252 HP / 252 Def / 4 SDef (53.9 %)  
+Rest
+Sleep Talk
+Scald
+Circle Throw
+# 22 - 0 % (89 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 252 HP (83.1 %)  
+Ice Punch
+Waterfall
+Substitute
+Focus Punch
+# 23 - 0 % (77 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 40 HP / 252 Atk / 216 Spd (49.4 %)  
+Waterfall
+Substitute
+Encore
+Focus Punch
+# 24 - 0 % (44 battles)
+
+Poliwrath @ Leftovers Lv. 100 -- Water Absorb
+Nature: Adamant - EVs: 160 HP / 252 Atk / 96 Spd (65.9 %)  
+Toxic
+Waterfall
+Substitute
+Focus Punch
+# 25 - 0 % (34 battles)
+
+Poliwrath @ Choice Band Lv. 100 -- Water Absorb
+Nature: Hardy - EVs: 252 Atk / 252 Def (85.3 %)  
+Ice Punch
+Earthquake
+Waterfall
+Brick Break

@@ -1,0 +1,4 @@
+Dragon/Ground
+108/170/115/120/95/92
+Sand Force
+95.0

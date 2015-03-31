@@ -1,0 +1,405 @@
+Psychic/Fairy
+68/65/65/125/115/80
+48.4
+50/50
+
+# 1 - 6.95 % (2686 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (12.6 %) / Trace (85.2 %) / Telepathy (2.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (21.7 %)  
+Hyper Voice
+Calm Mind
+Focus Blast
+Psyshock
+# 2 - 4.53 % (1749 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (78.0 %) / Trace (21.1 %) / Telepathy (0.9 %)
+Nature: Timid - EVs: 252 HP / 132 Def / 16 SAtk / 108 Spd (71.4 %)[Ground] 
+Hidden Power
+Hyper Voice
+Calm Mind
+Psyshock
+# 3 - 2.43 % (938 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (44.8 %) / Trace (55.2 %)
+Nature: Bold - EVs: 212 Def / 44 SAtk / 252 Spd (14.6 %)  
+Thunderbolt
+Hyper Voice
+Calm Mind
+Psyshock
+# 4 - 2.20 % (849 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (21.4 %) / Trace (78.4 %) / Telepathy (0.1 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (19.8 %)  
+Shadow Ball
+Hyper Voice
+Calm Mind
+Psyshock
+# 5 - 2.03 % (784 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (14.4 %) / Trace (85.6 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (39.3 %)  
+Taunt
+Hyper Voice
+Focus Blast
+Psyshock
+# 6 - 1.64 % (632 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (0.6 %) / Trace (99.4 %)
+Nature: Timid - EVs: 168 SAtk / 88 SDef / 252 Spd (44.0 %)  
+Substitute
+Hyper Voice
+Focus Blast
+Psyshock
+# 7 - 1.37 % (528 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (16.7 %) / Trace (83.3 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (26.5 %)  
+Shadow Ball
+Hyper Voice
+Focus Blast
+Psyshock
+# 8 - 1.19 % (461 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (48.8 %) / Trace (51.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (60.3 %)  
+Will-O-Wisp
+Hyper Voice
+Focus Blast
+Psyshock
+# 9 - 1.17 % (450 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (33.6 %) / Trace (66.4 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (25.3 %)  
+Thunderbolt
+Hyper Voice
+Energy Ball
+Psyshock
+# 10 - 1.13 % (436 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (6.9 %) / Trace (91.3 %) / Telepathy (1.8 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (43.3 %)  
+Destiny Bond
+Hyper Voice
+Focus Blast
+Psyshock
+# 11 - 1.02 % (393 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (15.0 %) / Trace (85.0 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (30.3 %)[Fire]  
+Thunderbolt
+Hidden Power
+Hyper Voice
+Psyshock
+# 12 - 0.99 % (383 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (59.3 %) / Trace (40.7 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (50.9 %)  
+Thunderbolt
+Hyper Voice
+Focus Blast
+Psyshock
+# 13 - 0.97 % (374 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (43.3 %) / Trace (56.7 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (24.9 %)  
+Psychic
+Hyper Voice
+Calm Mind
+Focus Blast
+# 14 - 0.97 % (373 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (26.8 %) / Trace (73.2 %)
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (52.3 %)  
+Thunderbolt
+Calm Mind
+Psyshock
+Moonblast
+# 15 - 0.89 % (345 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (87.5 %) / Trace (12.5 %)
+Nature: Modest - EVs: 4 Atk / 252 SAtk / 252 Spd (62.3 %)[Fire]  
+Destiny Bond
+Hidden Power
+Hyper Voice
+Psyshock
+# 16 - 0.88 % (340 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (9.4 %) / Trace (90.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (54.4 %)  
+Shadow Ball
+Hyper Voice
+Energy Ball
+Psyshock
+# 17 - 0.86 % (332 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (15.7 %) / Trace (83.1 %) / Telepathy (1.2 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (58.1 %)  
+Thunderbolt
+Psychic
+Hyper Voice
+Calm Mind
+# 18 - 0.79 % (306 battles)
+
+Gardevoir @ Choice Scarf Lv. 100 -- Synchronize (6.9 %) / Trace (93.1 %)
+Nature: Modest - EVs: 252 SAtk / 252 SDef (40.8 %)  
+Thunderbolt
+Psychic
+Shadow Ball
+Moonblast
+# 19 - 0.66 % (254 battles)
+
+Gardevoir @ Leftovers Lv. 100 -- Synchronize
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (100.0 %)  
+Psychic
+Shadow Ball
+Focus Blast
+Moonblast
+# 20 - 0.65 % (252 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (55.6 %) / Trace (27.4 %) / Telepathy (17.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (15.5 %)  
+Thunderbolt
+Psychic
+Shadow Ball
+Moonblast
+# 21 - 0.64 % (248 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (1.6 %) / Trace (98.4 %)
+Nature: Modest - EVs: 116 HP / 244 Def / 148 SAtk (69.8 %)  
+Hyper Beam
+Psychic
+Hyper Voice
+Focus Blast
+# 22 - 0.64 % (248 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (98.4 %)  
+Shadow Ball
+Taunt
+Hyper Voice
+Calm Mind
+# 23 - 0.64 % (247 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (73.3 %)  
+Thunderbolt
+Protect
+Hyper Voice
+Psyshock
+# 24 - 0.62 % (238 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (100.0 %)[Fire]  
+Thunderbolt
+Psychic
+Hidden Power
+Focus Blast
+# 25 - 0.59 % (227 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (63.9 %) / Trace (36.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (44.1 %)  
+Psychic
+Shadow Ball
+Hyper Voice
+Moonblast
+# 1 - 5.58 % (233 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (12.9 %) / Trace (84.5 %) / Telepathy (2.6 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (27.0 %)  
+Hyper Voice
+Calm Mind
+Focus Blast
+Psyshock
+# 2 - 4.91 % (205 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (12.7 %) / Trace (87.3 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (28.3 %)  
+Taunt
+Hyper Voice
+Focus Blast
+Psyshock
+# 3 - 2.90 % (121 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (60.3 %) / Trace (37.2 %) / Telepathy (2.5 %)
+Nature: Timid - EVs: 252 HP / 132 Def / 16 SAtk / 108 Spd (38.8 %)[Ground] 
+Hidden Power
+Hyper Voice
+Calm Mind
+Psyshock
+# 4 - 2.63 % (110 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (100.0 %)  
+Thunderbolt
+Shadow Ball
+Hyper Voice
+Focus Blast
+# 5 - 2.25 % (94 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (1.1 %) / Trace (98.9 %)
+Nature: Timid - EVs: 168 SAtk / 88 SDef / 252 Spd (50.0 %)  
+Substitute
+Hyper Voice
+Focus Blast
+Psyshock
+# 6 - 2.11 % (88 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (72.7 %) / Trace (27.3 %)
+Nature: Bold - EVs: 212 Def / 44 SAtk / 252 Spd (27.3 %)  
+Thunderbolt
+Hyper Voice
+Calm Mind
+Psyshock
+# 7 - 2.06 % (86 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (86.0 %)  
+Shadow Ball
+Taunt
+Hyper Voice
+Calm Mind
+# 8 - 1.77 % (74 battles)
+
+Gardevoir @ Leftovers Lv. 100 -- Trace
+Nature: Modest - EVs: 4 HP / 124 Def / 252 SAtk / 128 SDef (100.0 %)  
+Thunderbolt
+Thunder Wave
+Psyshock
+Moonblast
+# 9 - 1.68 % (70 battles)
+
+Gardevoir @ Choice Specs Lv. 100 -- Trace
+Nature: Modest - EVs: 4 HP / 252 SAtk / 252 Spd (98.6 %)  
+Shadow Ball
+Trick
+Psyshock
+Moonblast
+# 10 - 1.56 % (65 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (12.3 %) / Trace (87.7 %)
+Nature: Modest - EVs: 252 SAtk / 4 SDef / 252 Spd (21.5 %)  
+Shadow Ball
+Hyper Voice
+Focus Blast
+Psyshock
+# 11 - 1.39 % (58 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize
+Nature: Modest - EVs: 4 Atk / 252 SAtk / 252 SDef (100.0 %)  
+Fire Punch
+Hyper Voice
+Calm Mind
+Moonblast
+# 12 - 1.36 % (57 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (33.3 %)[Ground]  
+Hidden Power
+Taunt
+Hyper Voice
+Psyshock
+# 13 - 1.36 % (57 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (8.8 %) / Trace (91.2 %)
+Nature: Modest - EVs: 72 HP / 132 Def / 100 SAtk / 96 SDef / 108 Spd (26.3 %) 
+Shadow Ball
+Hyper Voice
+Calm Mind
+Psyshock
+# 14 - 1.34 % (56 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (5.4 %) / Trace (87.5 %) / Telepathy (7.1 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (44.6 %)  
+Destiny Bond
+Hyper Voice
+Focus Blast
+Psyshock
+# 15 - 1.25 % (52 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 252 SAtk / 252 Spd (82.7 %)  
+Magic Coat
+Hyper Voice
+Focus Blast
+Psyshock
+# 16 - 1.17 % (49 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (81.6 %) / Trace (18.4 %)
+Nature: Modest - EVs: 4 Atk / 252 SAtk / 252 Spd (69.4 %)[Fire]  
+Destiny Bond
+Hidden Power
+Hyper Voice
+Psyshock
+# 17 - 1.17 % (49 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Encore
+Taunt
+Hyper Voice
+Calm Mind
+# 18 - 1.10 % (46 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (10.9 %) / Trace (89.1 %)
+Nature: Timid - EVs: 252 SAtk / 252 Spd (50.0 %)  
+Shadow Ball
+Hyper Voice
+Energy Ball
+Psyshock
+# 19 - 1.08 % (45 battles)
+
+Gardevoir @ Choice Scarf Lv. 100 -- Synchronize (51.1 %) / Trace (48.9 %)
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (51.1 %)  
+Thunderbolt
+Psychic
+Focus Blast
+Moonblast
+# 20 - 1.05 % (44 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (2.3 %) / Trace (97.7 %)
+Nature: Timid - EVs: 8 HP / 248 SAtk / 252 Spd (61.4 %)  
+Encore
+Hyper Voice
+Focus Blast
+Psyshock
+# 21 - 0.93 % (39 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 SDef (100.0 %)  
+Thunder Wave
+Protect
+Wish
+Hyper Voice
+# 22 - 0.91 % (38 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Trace
+Nature: Timid - EVs: 252 SAtk / 252 Spd (100.0 %)  
+Taunt
+Hyper Voice
+Calm Mind
+Focus Blast
+# 23 - 0.86 % (36 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (5.6 %) / Trace (94.4 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (38.9 %)  
+Will-O-Wisp
+Hyper Voice
+Calm Mind
+Psyshock
+# 24 - 0.84 % (35 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (5.7 %) / Trace (94.3 %)
+Nature: Timid - EVs: 4 Def / 252 SAtk / 252 Spd (51.4 %)[Fire]  
+Thunderbolt
+Hidden Power
+Hyper Voice
+Psyshock
+# 25 - 0.79 % (33 battles)
+
+Gardevoir @ Gardevoirite Lv. 100 -- Synchronize (27.3 %) / Trace (36.4 %) / Telepathy (36.4 %)
+Nature: Hardy - EVs: 100 HP / 92 Def / 68 SAtk / 104 Spd (30.3 %)  
+Thunderbolt
+Psychic
+Shadow Ball
+Moonblast

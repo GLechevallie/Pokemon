@@ -1,0 +1,526 @@
+ 0 : dégâts sans effet secondaire
+ 1 : attaques de statut
+ 2 : boosts/baisses de stats
+ 3 : soins
+ 4 : dégâts avec effet de statut
+ 6 : dégâts avec baisse de stats
+ 7 : dégâts avec boosts de stats
+ 8 : vol de vie
+10 : attaques de météo/terrain
+11 : attaques d'équipe
+13 : autres
+
+2	Acid Armor
+6	Acid Spray
+0	Acrobatics
+2	Acupressure
+0	Aerial Ace
+0	Aeroblast
+2	Agility
+0	Air Cutter
+0	Air Slash
+13	Ally Switch
+2	Amnesia
+7	Ancient Power
+0	Aqua Jet
+13	Aqua Ring
+0	Aqua Tail
+0	Arm Thrust
+13	Aromatherapy
+13	Assist
+0	Astonish
+13	Attract
+0	Aura Sphere
+2	Autotomize
+0	Avalanche
+
+2	Baby-Doll Eyes
+2	Barrier
+13	Baton Pass
+0	Beat Up
+13	Belly Drum
+4	Bind
+0	Bite
+0	Blast Burn
+4	Blaze Kick
+4	Blizzard
+13	Block
+4	Body Slam
+4	Bolt Strike
+0	Bone Rush
+0	Boomburst
+4	Bounce
+0	Brave Bird
+0	Brick Break
+0	Brine
+6	Bubble
+6	Bubble Beam
+0	Bug Bite
+6	Bug Buzz
+2	Bulk Up
+6	Bulldoze
+0	Bullet Punch
+0	Bullet Seed
+
+2	Calm Mind
+13	Captivate
+13	Celebrate
+13	Charge
+7	Charge Beam
+2	Charm
+4	Chatter
+0	Circle Throw
+0	Clear Smog
+7	Close Combat
+2	Coil
+2	Confide
+1	Confuse Ray
+13	Copycat
+2	Cosmic Power
+2	Cotton Guard
+0	Counter
+0	Crabhammer
+0	Cross Chop
+4	Cross Poison
+6	Crunch
+2	Curse
+0	Cut
+
+0	Dark Pulse
+1	Dark Void
+0	Dazzling Gleam
+13	Defog
+13	Destiny Bond
+13	Detect
+7	Diamond Storm
+0	Dig
+13	Disable
+0	Disarming Voice
+4	Discharge
+0	Dive
+0	Double-Edge
+0	Double Hit
+0	Double Kick
+0	Double Slap
+2	Double Team
+7	Draco Meteor
+7	Dragon Ascent
+4	Dragon Breath
+0	Dragon Claw
+2	Dragon Dance
+0	Dragon Pulse
+0	Dragon Rush
+0	Dragon Tail
+8	Drain Punch
+8	Draining Kiss
+8	Dream Eater
+0	Drill Peck
+0	Drill Run
+0	Dual Chop
+4	Dynamic Punch
+
+6	Earth Power
+0	Earthquake
+0	Echoed Voice
+0	Egg Bomb
+10	Electric Terrain
+0	Electro Ball
+6	Electroweb
+13	Embargo
+4	Ember
+13	Encore
+0	Endeavor
+13	Endure
+6	Energy Ball
+13	Entrainment
+0	Eruption
+0	Explosion
+0	Extrasensory
+0	Extreme Speed
+
+0	Facade
+13	Fairy Lock
+0	Fairy Wind
+0	Fake Out
+2	Fake Tears
+2	Feather Dance
+0	Feint
+0	Feint Attack
+0	Fell Stinger
+7	Fiery Dance
+0	Final Gambit
+4	Fire Blast
+4	Fire Fang
+0	Fire Pledge
+4	Fire Punch
+4	Fire Spin
+4	Fissure
+0	Flail
+0	Flame Burst
+7	Flame Charge
+4	Flame Wheel
+4	Flamethrower
+4	Flare Blitz
+2	Flash
+6	Flash Cannon
+13	Flatter
+0	Fling
+0	Fly
+6	Focus Blast
+2	Focus Energy
+0	Focus Punch
+13	Follow Me
+4	Force Palm
+13	Foresight
+0	Foul Play
+4	Freeze-Dry
+4	Freeze Shock
+0	Frenzy Plant
+0	Frost Breath
+0	Frustration
+0	Fury Cutter
+0	Fusion Bolt
+13	Future Sight
+
+13	Gastro Acid
+0	Gear Grind
+2	Geomancy
+8	Giga Drain
+0	Giga Impact
+6	Glaciate
+1	Glare
+0	Grass Knot
+1	Grass Whistle
+10	Gravity
+2	Growl
+2	Growth
+4	Guillotine
+4	Gunk Shot
+0	Gyro Ball
+
+10	Hail
+7	Hammer Arm
+13	Happy Hour
+13	Haze
+0	Head Smash
+0	Headbutt
+13	Heal Bell
+13	Heal Block
+13	Heal Pulse
+13	Healing Wish
+13	Heart Swap
+4	Heat Wave
+0	Heavy Slam
+13	Helping Hand
+0	Hex
+0	Hidden Power
+0	High Jump Kick
+2	Hone Claws
+4	Horn Drill
+8	Horn Leech
+2	Howl
+4	Hurricane
+1	Hypnosis
+0	Hydro Cannon
+0	Hydro Pump
+0	Hyper Beam
+0	Hyper Fang
+0	Hyper Voice
+
+4	Ice Beam
+4	Ice Fang
+4	Ice Punch
+0	Ice Shard
+0	Icicle Crash
+0	Icicle Spear
+6	Icy Wind
+13	Imprison
+0	Incinerate
+4	Infestation
+13	Ingrain
+2	Iron Defense
+0	Iron Head
+6	Iron Tail
+
+0	Judgment
+0	Jump Kick
+
+13	King's Shield
+0	Knock Off
+
+0	Last Resort
+4	Lava Plume
+0	Leaf Blade
+7	Leaf Storm
+6	Leaf Tornado
+8	Leech Life
+13	Leech Seed
+4	Lick
+11	Light Screen
+13	Lock-On
+1	Lovely Kiss
+0	Low Kick
+6	Low Sweep
+13	Lunar Dance
+6	Luster Purge
+
+0	Mach Punch
+13	Magic Coat
+10	Magic Room
+4	Magma Storm
+13	Magnet Rise
+13	Mat Block
+0	Me First
+13	Mean Look
+8	Mega Drain
+0	Mega Kick
+0	Megahorn
+13	Memento
+0	Metal Burst
+2	Metal Sound
+7	Meteor Mash
+13	Metronome
+3	Milk Drink
+13	Mimic
+2	Minimize
+13	Miracle Eye
+0	Mirror Coat
+13	Mirror Move
+13	Mist
+10	Misty Terrain
+6	Moonblast
+3	Moonlight
+3	Morning Sun
+6	Mud Bomb
+6	Mud-Slap
+6	Muddy Water
+6	Mystical Fire
+
+2	Nasty Plot
+0	Natural Gift
+6	Night Daze
+0	Night Shade
+0	Night Slash
+13	Nightmare
+4	Nuzzle
+
+8	Oblivion Wing
+7	Ominous Wind
+0	Origin Pulse
+0	Outrage
+7	Overheat
+
+13	Pain Split
+2	Parting Shot
+0	Payback
+0	Peck
+13	Perish Song
+0	Petal Blizzard
+0	Petal Dance
+0	Phantom Force
+0	Pin Missile
+6	Play Rough
+0	Pluck
+4	Poison Fang
+4	Poison Jab
+13	Powder
+0	Power Gem
+13	Power Split
+0	Power Whip
+7	Power-Up Punch
+0	Precipice Blades
+0	Prescience
+13	Protect
+13	Psych Up
+6	Psychic
+7	Psycho Boost
+0	Psycho Cut
+13	Psycho Shift
+0	Psyshock
+0	Psystrike
+0	Psywave
+0	Pursuit
+
+0	Quick Attack
+13	Quick Guard
+2	Quiver Dance
+
+13	Rage Powder
+10	Rain Dance
+0	Rapid Spin
+0	Razor Leaf
+6	Razor Shell
+3	Recover
+13	Recycle
+11	Reflect
+13	Reflect Type
+13	Refresh
+13	Rest
+0	Retaliate
+0	Return
+0	Revenge
+0	Reversal
+13	Roar
+0	Rock Blast
+2	Rock Polish
+0	Rock Slide
+6	Rock Smash
+0	Rock Throw
+6	Rock Tomb
+13	Role Play
+3	Roost
+0	Round
+
+4	Sacred Fire
+0	Sacred Sword
+11	Safeguard
+2	Sand Attack
+4	Sand Tomb
+10	Sandstorm
+4	Scald
+2	Scary Face
+4	Secret Power
+0	Seed Bomb
+6	Seed Flare
+0	Secret Sword
+0	Seismic Toss
+0	Self-Destruct
+7	Silver Wind
+6	Shadow Ball
+0	Shadow Claw
+0	Shadow Force
+0	Shadow Punch
+0	Shadow Sneak
+4	Sheer Cold
+2	Shell Smash
+2	Shift Gear
+0	Shock Wave
+4	Signal Beam
+13	Simple Beam
+1	Sing
+13	Skill Swap
+0	Skull Bash
+0	Sky Attack
+0	Sky Drop
+0	Sky Uppercut
+3	Slack Off
+0	Slam
+0	Slash
+1	Sleep Powder
+13	Sleep Talk
+4	Sludge Bomb
+4	Sludge Wave
+0	Smack Down
+2	Smokescreen
+6	Snarl
+13	Snatch
+13	Soak
+3	Soft-Boiled
+3	Softboiled
+0	Solar Beam
+0	SolarBeam
+0	Spacial Rend
+4	Spark
+13	Spider Web
+11	Spikes
+13	Spiky Shield
+1	Spore
+11	Stealth Rock
+0	Steamroller
+7	Steel Wing
+11	Sticky Web
+13	Stockpile
+0	Stone Edge
+0	Stored Power
+0	Storm Throw
+0	Strength
+0	Struggle
+6	Struggle Bug
+1	Stun Spore
+13	Substitute
+0	Sucker Punch
+10	Sunny Day
+0	Super Fang
+7	Superpower
+1	Supersonic
+0	Surf
+13	Swagger
+1	Sweet Kiss
+0	Swift
+13	Switcheroo
+2	Swords Dance
+0	Synchronoise
+3	Synthesis
+
+0	Tackle
+2	Tail Glow
+0	Tail Slap
+11	Tailwind
+0	Take Down
+13	Taunt
+1	Teeter Dance
+13	Telekinesis
+4	Thunder
+4	Thunder Fang
+4	Thunder Punch
+4	Thunder Shock
+1	Thunder Wave
+4	Thunderbolt
+2	Tickle
+13	Topsy-Turvy
+1	Toxic
+11	Toxic Spikes
+13	Torment
+0	Thief
+0	Thrash
+13	Transform
+4	Tri Attack
+13	Trick
+10	Trick Room
+0	Trump Card
+4	Twineedle
+0	Twister
+
+0	U-turn
+4	UFO Invasion
+0	Uproar
+
+7	V-create
+0	Vacuum Wave
+2	Venom Drench
+0	Venoshock
+0	Volt Switch
+0	Volt Tackle
+
+0	Wake-Up Slap
+0	Water Gun
+0	Water Pledge
+4	Water Pulse
+0	Water Shuriken
+10	Water Sport
+0	Water Spout
+0	Waterfall
+0	Weather Ball
+4	Whirlpool
+13	Whirlwind
+13	Wide Guard
+0	Wild Charge
+1	Will-O-Wisp
+0	Wing Attack
+13	Wish
+2	Withdraw
+0	Wood Hammer
+2	Work Up
+13	Worry Seed
+
+0	X-Scissor
+
+0	Yakumo Gap
+13	Yawn
+
+4	Zap Cannon
+0	Zen Headbutt
+
+13	-
+13	(No Move)
+13	Nothing

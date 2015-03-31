@@ -1,0 +1,4 @@
+Electric/Steel
+50/60/95/120/70/70
+60.0
+asexue

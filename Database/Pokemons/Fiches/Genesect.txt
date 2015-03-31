@@ -1,0 +1,405 @@
+Bug/Steel
+71/120/95/120/95/99
+82.5
+asexue
+
+# 1 - 10.60 % (4844 battles)
+
+Genesect @ Choice Band Lv. 100 -- Download
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (35.4 %)  
+Extreme Speed
+Blaze Kick
+U-turn
+Iron Head
+# 2 - 9.24 % (4224 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (15.0 %)  
+Flamethrower
+Ice Beam
+Thunderbolt
+U-turn
+# 3 - 5.74 % (2622 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (30.4 %)  
+Flamethrower
+Ice Beam
+U-turn
+Iron Head
+# 4 - 3.92 % (1792 battles)
+
+Genesect @ Choice Band Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 252 Spd (32.0 %)  
+Flamethrower
+Extreme Speed
+U-turn
+Iron Head
+# 5 - 2.75 % (1255 battles)
+
+Genesect @ Choice Band Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (39.2 %)  
+Ice Beam
+Extreme Speed
+U-turn
+Iron Head
+# 6 - 2.20 % (1006 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hardy - EVs: 132 HP / 112 Def / 48 SAtk / 84 SDef / 132 Spd (23.1 %)  
+Flamethrower
+Ice Beam
+U-turn
+Bug Buzz
+# 7 - 1.99 % (911 battles)
+
+Genesect @ Focus Sash Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (92.9 %)  
+Flamethrower
+Extreme Speed
+U-turn
+Iron Head
+# 8 - 1.25 % (570 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Lonely - EVs: 136 Atk / 120 SAtk / 252 Spd (24.4 %)  
+Flamethrower
+Thunderbolt
+U-turn
+Iron Head
+# 9 - 1.17 % (536 battles)
+
+Genesect @ Life Orb Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 252 Spd (22.6 %)  
+Flamethrower
+Extreme Speed
+Bug Buzz
+Iron Head
+# 10 - 1.12 % (513 battles)
+
+Genesect @ Life Orb Lv. 100 -- Download
+Nature: Hasty - EVs: 64 HP / 96 Atk / 96 SAtk / 252 Spd (66.5 %)  
+Flamethrower
+Ice Beam
+U-turn
+Iron Head
+# 11 - 1.05 % (482 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (22.8 %)  
+Flamethrower
+Ice Beam
+U-turn
+Energy Ball
+# 12 - 1.03 % (472 battles)
+
+Genesect @ Life Orb Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SDef / 252 Spd (100.0 %)  
+Extreme Speed
+Blaze Kick
+Iron Head
+Fell Stinger
+# 13 - 1.03 % (470 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (16.6 %)  
+Flamethrower
+Ice Beam
+U-turn
+Flash Cannon
+# 14 - 1.02 % (467 battles)
+
+Genesect @ Life Orb Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (62.7 %)  
+Flamethrower
+Extreme Speed
+U-turn
+Iron Head
+# 15 - 0.88 % (400 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Timid - EVs: 252 SAtk / 4 SDef / 252 Spd (89.2 %)  
+Flamethrower
+Ice Beam
+Thunderbolt
+Bug Buzz
+# 16 - 0.80 % (367 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 200 Atk / 252 SAtk / 56 Spd (37.6 %)  
+Flamethrower
+Thunderbolt
+U-turn
+Flash Cannon
+# 17 - 0.78 % (358 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (40.5 %)  
+Flamethrower
+Ice Beam
+U-turn
+Iron Head
+# 18 - 0.76 % (347 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (37.8 %)  
+Flamethrower
+Ice Beam
+Thunderbolt
+U-turn
+# 19 - 0.76 % (346 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Naive - EVs: 4 Atk / 252 SAtk / 252 Spd (85.5 %)  
+Flamethrower
+Ice Beam
+U-turn
+Energy Ball
+# 20 - 0.75 % (341 battles)
+
+Genesect @ Choice Band Lv. 100 -- Download
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (34.9 %)  
+Explosion
+Extreme Speed
+U-turn
+Iron Head
+# 21 - 0.73 % (334 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (39.5 %)  
+Flamethrower
+Ice Beam
+Thunderbolt
+Flash Cannon
+# 22 - 0.68 % (312 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (47.4 %)  
+Flamethrower
+Extreme Speed
+U-turn
+Iron Head
+# 23 - 0.68 % (310 battles)
+
+Genesect @ Leftovers Lv. 100 -- Download
+Nature: Modest - EVs: 164 HP / 92 SAtk / 252 Spd (88.7 %)  
+Flamethrower
+Tri Attack
+Bug Buzz
+Iron Head
+# 24 - 0.67 % (304 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (93.4 %)  
+Flamethrower
+Ice Beam
+Giga Drain
+Flash Cannon
+# 25 - 0.63 % (287 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Lonely - EVs: 100 Atk / 156 SAtk / 252 Spd (15.0 %)  
+Ice Beam
+Thunderbolt
+U-turn
+Iron Head
+# 1 - 19.33 % (4376 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Lonely - EVs: 132 Atk / 252 SAtk / 124 Spd (12.5 %)  
+Flamethrower
+Ice Beam
+Thunderbolt
+U-turn
+# 2 - 12.07 % (2733 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Naive - EVs: 252 Atk / 4 SAtk / 252 Spd (27.3 %)  
+Flamethrower
+Ice Beam
+U-turn
+Iron Head
+# 3 - 7.42 % (1680 battles)
+
+Genesect @ Choice Band Lv. 100 -- Download
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (50.8 %)  
+Extreme Speed
+Blaze Kick
+U-turn
+Iron Head
+# 4 - 3.85 % (871 battles)
+
+Genesect @ Choice Band Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (33.3 %)  
+Flamethrower
+Extreme Speed
+U-turn
+Iron Head
+# 5 - 3.07 % (696 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Mild - EVs: 252 SAtk / 252 Spd (56.3 %)  
+Flamethrower
+Ice Beam
+U-turn
+Energy Ball
+# 6 - 2.57 % (583 battles)
+
+Genesect @ Choice Band Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (50.3 %)  
+Ice Beam
+Extreme Speed
+U-turn
+Iron Head
+# 7 - 2.55 % (577 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (32.2 %)  
+Flamethrower
+Ice Beam
+U-turn
+Bug Buzz
+# 8 - 2.31 % (522 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Rash - EVs: 4 Atk / 252 SAtk / 252 Spd (15.5 %)  
+Flamethrower
+Ice Beam
+U-turn
+Flash Cannon
+# 9 - 1.82 % (411 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (19.2 %)  
+Flamethrower
+Thunderbolt
+U-turn
+Iron Head
+# 10 - 1.69 % (382 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (28.8 %)  
+Ice Beam
+Thunderbolt
+U-turn
+Iron Head
+# 11 - 1.34 % (303 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Rash - EVs: 4 Atk / 252 SAtk / 252 Spd (30.7 %)  
+Ice Beam
+Thunderbolt
+U-turn
+Flash Cannon
+# 12 - 1.33 % (301 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 4 HP / 252 Atk / 252 Spd (80.4 %)  
+Flamethrower
+Extreme Speed
+U-turn
+Iron Head
+# 13 - 1.32 % (298 battles)
+
+Genesect @ Focus Sash Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (91.3 %)  
+Flamethrower
+Extreme Speed
+U-turn
+Iron Head
+# 14 - 1.29 % (293 battles)
+
+Genesect @ Focus Sash Lv. 100 -- Download
+Nature: Hasty - EVs: 16 Atk / 240 SAtk / 252 Spd (61.1 %)[Ground]  
+Ice Beam
+Hidden Power
+Extreme Speed
+Bug Buzz
+# 15 - 1.28 % (290 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 128 HP / 252 SAtk / 128 Spd (53.8 %)  
+Flamethrower
+Ice Beam
+Bug Buzz
+Energy Ball
+# 16 - 1.21 % (275 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SAtk / 252 Spd (38.9 %)  
+Ice Beam
+Extreme Speed
+U-turn
+Iron Head
+# 17 - 1.21 % (275 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (82.5 %)  
+Flamethrower
+Ice Beam
+Thunderbolt
+Giga Drain
+# 18 - 1.18 % (267 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (70.4 %)  
+Flamethrower
+Ice Beam
+Giga Drain
+U-turn
+# 19 - 1.13 % (256 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Rash - EVs: 252 SAtk / 252 Spd (36.7 %)  
+Flamethrower
+Thunderbolt
+U-turn
+Flash Cannon
+# 20 - 1.03 % (234 battles)
+
+Genesect @ Life Orb Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 252 Spd (20.5 %)  
+Flamethrower
+Extreme Speed
+Bug Buzz
+Iron Head
+# 21 - 0.92 % (208 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 128 Atk / 128 SAtk / 252 Spd (39.9 %)  
+Flamethrower
+Ice Beam
+Extreme Speed
+U-turn
+# 22 - 0.87 % (198 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Hasty - EVs: 252 HP / 4 Atk / 252 Spd (35.9 %)  
+Flamethrower
+Ice Beam
+U-turn
+Iron Head
+# 23 - 0.76 % (173 battles)
+
+Genesect @ Expert Belt Lv. 100 -- Download
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (55.5 %)  
+Flamethrower
+Ice Beam
+Thunderbolt
+U-turn
+# 24 - 0.72 % (164 battles)
+
+Genesect @ Life Orb Lv. 100 -- Download
+Nature: Hasty - EVs: 4 Atk / 252 SAtk / 252 Spd (93.3 %)  
+Ice Beam
+Thunder
+U-turn
+Bug Buzz
+# 25 - 0.66 % (150 battles)
+
+Genesect @ Choice Scarf Lv. 100 -- Download
+Nature: Hasty - EVs: 252 Atk / 4 SDef / 252 Spd (58.0 %)  
+Ice Beam
+Explosion
+U-turn
+Iron Head

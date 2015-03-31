@@ -1,0 +1,405 @@
+Water/-
+90/75/75/90/100/70
+33.9
+50/50
+
+# 1 - 4.95 % (424 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Calm - EVs: 252 Def / 252 SDef (40.1 %)  
+Ice Beam
+Toxic
+Perish Song
+Scald
+# 2 - 3.98 % (341 battles)
+
+Politoed @ Leftovers Lv. 100 -- Water Absorb (0.6 %) / Drizzle (99.4 %)
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (63.0 %)  
+Toxic
+Protect
+Perish Song
+Scald
+# 3 - 3.10 % (265 battles)
+
+Politoed @ Leftovers Lv. 100 -- Water Absorb (3.0 %) / Drizzle (97.0 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (94.0 %)  
+Toxic
+Protect
+Encore
+Scald
+# 4 - 2.97 % (254 battles)
+
+Politoed @ Choice Specs Lv. 100 -- Water Absorb (5.1 %) / Drizzle (94.9 %)
+Nature: Modest - EVs: 4 Def / 252 SAtk / 252 Spd (31.5 %)  
+Hydro Pump
+Ice Beam
+Psychic
+Focus Blast
+# 5 - 2.24 % (192 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (59.9 %)  
+Toxic
+Perish Song
+Encore
+Scald
+# 6 - 2.11 % (181 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (30.9 %)  
+Ice Beam
+Toxic
+Protect
+Scald
+# 7 - 2.08 % (178 battles)
+
+Politoed @ Chesto Berry Lv. 100 -- Water Absorb (28.7 %) / Drizzle (71.3 %)
+Nature: Modest - EVs: 252 HP / 232 SAtk / 24 Spd (48.3 %)[Grass]  
+Ice Beam
+Rest
+Hidden Power
+Scald
+# 8 - 1.89 % (162 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 192 SAtk / 24 Spd (59.9 %)  
+Ice Beam
+Perish Song
+Encore
+Scald
+# 9 - 1.83 % (157 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 248 HP / 216 Def / 36 SDef / 8 Spd (42.7 %)  
+Ice Beam
+Toxic
+Encore
+Scald
+# 10 - 1.73 % (148 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 128 Def / 128 SDef (68.9 %)  
+Ice Beam
+Toxic
+Psychic
+Scald
+# 11 - 1.59 % (136 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (78.7 %)  
+Ice Beam
+Encore
+Endeavor
+Scald
+# 12 - 1.24 % (106 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 252 SAtk (37.7 %)  
+Ice Beam
+Toxic
+Encore
+Scald
+# 13 - 1.23 % (105 battles)
+
+Politoed @ Choice Specs Lv. 100 -- Water Absorb (21.9 %) / Drizzle (78.1 %)
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (54.3 %)[Grass]  
+Hydro Pump
+Ice Beam
+Psychic
+Hidden Power
+# 14 - 1.14 % (98 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (39.8 %)  
+Toxic
+Rest
+Sleep Talk
+Scald
+# 15 - 1.09 % (93 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SAtk (100.0 %)  
+Toxic
+Haze
+Rain Dance
+Scald
+# 16 - 1.07 % (92 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Modest - EVs: 248 HP / 192 SAtk / 68 Spd (100.0 %)  
+Ice Beam
+Protect
+Encore
+Scald
+# 17 - 1.03 % (88 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Water Absorb (1.1 %) / Drizzle (98.9 %)
+Nature: Bold - EVs: 252 HP / 252 Def (27.3 %)  
+Toxic
+Protect
+Perish Song
+Scald
+# 18 - 1.02 % (87 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Calm - EVs: 252 HP / 4 Def / 252 SDef (62.1 %)  
+Hypnosis
+Perish Song
+Encore
+Scald
+# 19 - 0.93 % (80 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Modest - EVs: 176 HP / 184 SAtk / 148 SDef (100.0 %)  
+Ice Beam
+Perish Song
+Refresh
+Scald
+# 20 - 0.83 % (71 battles)
+
+Politoed @ Shell Bell Lv. 100 -- Drizzle
+Nature: Bold - EVs: 88 Def / 252 SAtk / 168 SDef (100.0 %)  
+Ice Beam
+Toxic
+Perish Song
+Scald
+# 21 - 0.83 % (71 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (57.7 %)[Grass]  
+Surf
+Ice Beam
+Haze
+Hidden Power
+# 22 - 0.79 % (68 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 192 Def / 64 SDef (35.3 %)  
+Toxic
+Rest
+Perish Song
+Scald
+# 23 - 0.77 % (66 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Modest - EVs: 168 HP / 252 SAtk / 88 Spd (95.5 %)  
+Hydro Pump
+Surf
+Ice Beam
+Perish Song
+# 24 - 0.76 % (65 battles)
+
+Politoed @ Choice Specs Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (46.2 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Focus Blast
+# 25 - 0.75 % (64 battles)
+
+Politoed @ Choice Scarf Lv. 100 -- Drizzle
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (98.4 %)  
+Hydro Pump
+Ice Beam
+Perish Song
+Focus Blast
+# 1 - 7.24 % (548 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Water Absorb (0.2 %) / Drizzle (99.8 %)
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (42.2 %)  
+Ice Beam
+Encore
+Endeavor
+Scald
+# 2 - 2.93 % (222 battles)
+
+Politoed @ Choice Specs Lv. 100 -- Water Absorb (2.7 %) / Drizzle (97.3 %)
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (89.2 %)[Grass]  
+Hydro Pump
+Ice Beam
+Psychic
+Hidden Power
+# 3 - 2.64 % (200 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Relaxed - EVs: 252 HP / 248 Def / 8 Spd (96.0 %)  
+Rest
+Perish Song
+Encore
+Scald
+# 4 - 2.36 % (179 battles)
+
+Politoed @ Leftovers Lv. 100 -- Water Absorb (2.8 %) / Drizzle (97.2 %)
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (31.8 %)  
+Toxic
+Protect
+Perish Song
+Scald
+# 5 - 1.74 % (132 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Water Absorb (1.5 %) / Drizzle (98.5 %)
+Nature: Bold - EVs: 156 HP / 132 Def / 196 SAtk / 16 SDef / 8 Spd (18.9 %)  
+Ice Beam
+Toxic
+Protect
+Scald
+# 6 - 1.70 % (129 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 176 Def / 80 SDef (19.4 %)  
+Toxic
+Protect
+Perish Song
+Scald
+# 7 - 1.49 % (113 battles)
+
+Politoed @ Wide Lens Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (100.0 %)[Grass]  
+Hydro Pump
+Ice Beam
+Perish Song
+Hidden Power
+# 8 - 1.47 % (111 battles)
+
+Politoed @ Choice Scarf Lv. 100 -- Water Absorb (1.8 %) / Drizzle (98.2 %)
+Nature: Timid - EVs: 4 HP / 252 SAtk / 252 Spd (61.3 %)  
+Hydro Pump
+Ice Beam
+Psychic
+Focus Blast
+# 9 - 1.47 % (111 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Calm - EVs: 252 HP / 252 SDef (97.3 %)  
+Hypnosis
+Rest
+Sleep Talk
+Scald
+# 10 - 1.41 % (107 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (28.0 %)  
+Ice Beam
+Toxic
+Protect
+Scald
+# 11 - 1.32 % (100 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Quiet - EVs: 252 Atk / 4 Def / 252 SAtk (100.0 %)  
+Hydro Pump
+Ice Beam
+Earthquake
+Scald
+# 12 - 1.28 % (97 battles)
+
+Politoed @ Shell Bell Lv. 100 -- Drizzle
+Nature: Bold - EVs: 88 Def / 252 SAtk / 168 SDef (100.0 %)  
+Ice Beam
+Toxic
+Perish Song
+Scald
+# 13 - 1.28 % (97 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 100 Def / 156 Spd (35.1 %)  
+Ice Beam
+Hypnosis
+Perish Song
+Scald
+# 14 - 1.15 % (87 battles)
+
+Politoed @ Choice Specs Lv. 100 -- Water Absorb (8.0 %) / Drizzle (92.0 %)
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (60.9 %)  
+Hydro Pump
+Ice Beam
+Psychic
+Focus Blast
+# 15 - 1.12 % (85 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (52.9 %)  
+Ice Beam
+Toxic
+Encore
+Scald
+# 16 - 1.02 % (77 battles)
+
+Politoed @ Choice Specs Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 252 SAtk / 4 Spd (35.1 %)[Grass]  
+Hydro Pump
+Ice Beam
+Hidden Power
+Focus Blast
+# 17 - 1.02 % (77 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Water Absorb (1.3 %) / Drizzle (98.7 %)
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (45.5 %)  
+Ice Beam
+Hypnosis
+Encore
+Scald
+# 18 - 0.98 % (74 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Modest - EVs: 252 HP / 252 SAtk (79.7 %)  
+Ice Beam
+Toxic
+Encore
+Scald
+# 19 - 0.94 % (71 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 124 SAtk / 132 SDef (43.7 %)  
+Toxic
+Haze
+Perish Song
+Scald
+# 20 - 0.92 % (70 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Water Absorb (1.4 %) / Drizzle (98.6 %)
+Nature: Hardy - EVs: 252 HP / 252 SDef (32.9 %)  
+Ice Beam
+Toxic
+Perish Song
+Scald
+# 21 - 0.90 % (68 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 252 Def (33.8 %)  
+Toxic
+Protect
+Encore
+Scald
+# 22 - 0.87 % (66 battles)
+
+Politoed @ Leftovers Lv. 100 -- Drizzle
+Nature: Modest - EVs: 176 HP / 184 SAtk / 148 SDef (100.0 %)  
+Ice Beam
+Perish Song
+Refresh
+Scald
+# 23 - 0.87 % (66 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Drizzle
+Nature: Bold - EVs: 252 HP / 252 Def / 4 SDef (89.4 %)  
+Hydro Pump
+Ice Beam
+Toxic
+Protect
+# 24 - 0.87 % (66 battles)
+
+Politoed @ Damp Rock Lv. 100 -- Water Absorb (1.5 %) / Drizzle (98.5 %)
+Nature: Calm - EVs: 252 HP / 4 SAtk / 252 SDef (34.8 %)  
+Toxic
+Perish Song
+Encore
+Scald
+# 25 - 0.83 % (63 battles)
+
+Politoed @ Choice Specs Lv. 100 -- Water Absorb (4.8 %) / Drizzle (95.2 %)
+Nature: Modest - EVs: 252 HP / 4 Def / 252 SAtk (93.7 %)  
+Hydro Pump
+Surf
+Ice Beam
+Psychic

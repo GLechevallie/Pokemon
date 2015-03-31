@@ -1,0 +1,4 @@
+Fighting/Psychic
+60/100/85/80/85/100
+Pure Power
+31.5

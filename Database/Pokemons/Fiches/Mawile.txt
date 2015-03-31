@@ -1,0 +1,405 @@
+Steel/Fairy
+50/85/85/55/55/50
+11.5
+50/50
+
+# 1 - 36.04 % (25673 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (10.3 %) / Intimidate (83.9 %) / Sheer Force (5.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (9.8 %)  
+Swords Dance
+Sucker Punch
+Iron Head
+Play Rough
+# 2 - 12.27 % (8744 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (5.1 %) / Intimidate (93.1 %) / Sheer Force (1.7 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (11.3 %)  
+Swords Dance
+Sucker Punch
+Fire Fang
+Play Rough
+# 3 - 8.01 % (5705 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (3.8 %) / Intimidate (96.2 %)
+Nature: Adamant - EVs: 12 HP / 252 Atk / 244 Spd (11.6 %)  
+Substitute
+Focus Punch
+Sucker Punch
+Play Rough
+# 4 - 5.27 % (3757 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (7.8 %) / Intimidate (90.8 %) / Sheer Force (1.4 %)
+Nature: Adamant - EVs: 132 HP / 252 Atk / 124 Spd (12.3 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Play Rough
+# 5 - 3.78 % (2695 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (9.4 %) / Intimidate (88.7 %) / Sheer Force (1.9 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (18.1 %)  
+Sucker Punch
+Fire Fang
+Iron Head
+Play Rough
+# 6 - 3.21 % (2289 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (3.2 %) / Intimidate (91.5 %) / Sheer Force (5.3 %)
+Nature: Adamant - EVs: 132 HP / 252 Atk / 124 Spd (13.3 %)  
+Swords Dance
+Substitute
+Sucker Punch
+Play Rough
+# 7 - 2.00 % (1424 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (4.1 %) / Intimidate (95.9 %)
+Nature: Adamant - EVs: 56 HP / 252 Atk / 32 Def / 168 Spd (15.4 %)  
+Focus Punch
+Sucker Punch
+Iron Head
+Play Rough
+# 8 - 1.59 % (1132 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (0.6 %) / Intimidate (99.4 %)
+Nature: Adamant - EVs: 116 HP / 252 Atk / 140 Spd (38.9 %)  
+Substitute
+Focus Punch
+Sucker Punch
+Iron Head
+# 9 - 1.41 % (1007 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (2.7 %) / Intimidate (97.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (24.3 %)  
+Swords Dance
+Focus Punch
+Sucker Punch
+Play Rough
+# 10 - 1.27 % (902 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (9.1 %) / Intimidate (86.6 %) / Sheer Force (4.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (24.4 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Play Rough
+# 11 - 1.22 % (870 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (7.1 %) / Intimidate (92.9 %)
+Nature: Adamant - EVs: 240 HP / 248 Atk / 20 Spd (61.6 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 12 - 0.99 % (702 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (40.0 %) / Intimidate (56.8 %) / Sheer Force (3.1 %)
+Nature: Adamant - EVs: 252 Atk / 252 Def (35.6 %)  
+Swords Dance
+Brick Break
+Sucker Punch
+Play Rough
+# 13 - 0.88 % (628 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (12.6 %) / Intimidate (83.0 %) / Sheer Force (4.5 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (21.7 %)  
+Ice Punch
+Swords Dance
+Sucker Punch
+Play Rough
+# 14 - 0.80 % (570 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (4.0 %) / Intimidate (87.7 %) / Sheer Force (8.2 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (12.8 %)  
+Sucker Punch
+Iron Head
+Play Rough
+Power-Up Punch
+# 15 - 0.75 % (536 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (20.9 %) / Intimidate (78.7 %) / Sheer Force (0.4 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (23.1 %)  
+Brick Break
+Sucker Punch
+Iron Head
+Play Rough
+# 16 - 0.73 % (521 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (6.7 %) / Intimidate (60.3 %) / Sheer Force (33.0 %)
+Nature: Jolly - EVs: 176 Atk / 132 Def / 200 Spd (32.8 %)  
+Protect
+Sucker Punch
+Iron Head
+Play Rough
+# 17 - 0.69 % (490 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (5.1 %) / Intimidate (89.0 %) / Sheer Force (5.9 %)
+Nature: Adamant - EVs: 252 Atk / 252 Def (14.1 %)  
+Substitute
+Sucker Punch
+Iron Head
+Play Rough
+# 18 - 0.58 % (411 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (2.4 %) / Intimidate (83.0 %) / Sheer Force (14.6 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (31.4 %)  
+Ice Punch
+Swords Dance
+Sucker Punch
+Iron Head
+# 19 - 0.55 % (393 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (6.6 %) / Intimidate (79.9 %) / Sheer Force (13.5 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (34.6 %)  
+Ice Punch
+Sucker Punch
+Iron Head
+Play Rough
+# 20 - 0.49 % (352 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (6.0 %) / Intimidate (77.6 %) / Sheer Force (16.5 %)
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 Def (40.6 %)  
+Sucker Punch
+Fire Fang
+Play Rough
+Power-Up Punch
+# 21 - 0.47 % (333 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (9.0 %) / Intimidate (86.8 %) / Sheer Force (4.2 %)
+Nature: Adamant - EVs: 96 HP / 252 Atk / 160 Spd (28.2 %)  
+Thunder Punch
+Swords Dance
+Sucker Punch
+Play Rough
+# 22 - 0.44 % (317 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (25.2 %) / Intimidate (74.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (45.4 %)  
+Ice Punch
+Thunder Punch
+Swords Dance
+Sucker Punch
+# 23 - 0.44 % (316 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate (84.5 %) / Sheer Force (15.5 %)
+Nature: Brave - EVs: 232 HP / 252 Atk / 24 Spd (82.3 %)  
+Swords Dance
+Crunch
+Sucker Punch
+Iron Head
+# 24 - 0.44 % (315 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (21.3 %) / Intimidate (75.9 %) / Sheer Force (2.9 %)
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Def (19.4 %)  
+Sucker Punch
+Iron Head
+Stone Edge
+Play Rough
+# 25 - 0.42 % (298 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate (98.7 %) / Sheer Force (1.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (76.5 %)  
+Swords Dance
+Baton Pass
+Iron Head
+Play Rough
+# 1 - 32.36 % (1670 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (10.5 %) / Intimidate (80.8 %) / Sheer Force (8.7 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (14.9 %)  
+Swords Dance
+Sucker Punch
+Iron Head
+Play Rough
+# 2 - 16.80 % (867 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (3.5 %) / Intimidate (96.2 %) / Sheer Force (0.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (42.7 %)  
+Swords Dance
+Sucker Punch
+Fire Fang
+Play Rough
+# 3 - 6.34 % (327 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (4.9 %) / Intimidate (95.1 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Spd (8.9 %)  
+Substitute
+Focus Punch
+Sucker Punch
+Play Rough
+# 4 - 5.02 % (259 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (4.6 %) / Intimidate (93.4 %) / Sheer Force (1.9 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (32.8 %)  
+Sucker Punch
+Fire Fang
+Iron Head
+Play Rough
+# 5 - 4.90 % (253 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (9.9 %) / Intimidate (88.9 %) / Sheer Force (1.2 %)
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (17.8 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Play Rough
+# 6 - 3.08 % (159 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (3.1 %) / Intimidate (94.3 %) / Sheer Force (2.5 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (48.4 %)  
+Knock Off
+Sucker Punch
+Iron Head
+Play Rough
+# 7 - 2.29 % (118 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (3.4 %) / Intimidate (81.4 %) / Sheer Force (15.3 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 Def (15.3 %)  
+Swords Dance
+Substitute
+Sucker Punch
+Play Rough
+# 8 - 2.11 % (109 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (4.6 %) / Intimidate (95.4 %)
+Nature: Adamant - EVs: 56 HP / 252 Atk / 32 Def / 168 Spd (23.9 %)  
+Focus Punch
+Sucker Punch
+Iron Head
+Play Rough
+# 9 - 1.43 % (74 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (1.4 %) / Intimidate (98.6 %)
+Nature: Adamant - EVs: 116 HP / 252 Atk / 140 Spd (28.4 %)  
+Substitute
+Focus Punch
+Sucker Punch
+Iron Head
+# 10 - 1.18 % (61 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (3.3 %) / Intimidate (50.8 %) / Sheer Force (45.9 %)
+Nature: Hardy - EVs: 252 Atk / 4 Def / 252 Spd (45.9 %)  
+Substitute
+Sucker Punch
+Iron Head
+Play Rough
+# 11 - 1.07 % (55 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate
+Nature: Adamant - EVs: 248 HP / 252 Atk / 8 Spd (40.0 %)  
+Swords Dance
+Focus Punch
+Sucker Punch
+Play Rough
+# 12 - 1.05 % (54 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (3.7 %) / Intimidate (88.9 %) / Sheer Force (7.4 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk (29.6 %)  
+Sucker Punch
+Iron Head
+Play Rough
+Power-Up Punch
+# 13 - 0.93 % (48 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (33.3 %) / Intimidate (64.6 %) / Sheer Force (2.1 %)
+Nature: Jolly - EVs: 252 Atk / 252 Spd (27.1 %)  
+Brick Break
+Sucker Punch
+Iron Head
+Play Rough
+# 14 - 0.83 % (43 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter
+Nature: Adamant - EVs: 4 HP / 252 Atk / 252 Spd (53.5 %)  
+Swords Dance
+Sucker Punch
+Play Rough
+Power-Up Punch
+# 15 - 0.81 % (42 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (4.8 %) / Intimidate (90.5 %) / Sheer Force (4.8 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (57.1 %)  
+Ice Punch
+Swords Dance
+Sucker Punch
+Play Rough
+# 16 - 0.70 % (36 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate
+Nature: Adamant - EVs: 240 HP / 248 Atk / 20 Spd (52.8 %)  
+Swords Dance
+Knock Off
+Sucker Punch
+Iron Head
+# 17 - 0.68 % (35 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate
+Nature: Adamant - EVs: 252 Atk / 252 Def / 4 Spd (77.1 %)  
+Knock Off
+Sucker Punch
+Play Rough
+Power-Up Punch
+# 18 - 0.58 % (30 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate
+Nature: Adamant - EVs: 252 Atk / 112 Def / 144 Spd (50.0 %)  
+Substitute
+Sucker Punch
+Fire Fang
+Play Rough
+# 19 - 0.50 % (26 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (23.1 %) / Intimidate (76.9 %)
+Nature: Adamant - EVs: 212 Atk / 232 Def / 64 Spd (23.1 %)  
+Swords Dance
+Brick Break
+Sucker Punch
+Play Rough
+# 20 - 0.50 % (26 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate
+Nature: Careful - EVs: 196 Atk / 76 Def / 236 SDef (100.0 %)  
+Substitute
+Pain Split
+Stockpile
+Play Rough
+# 21 - 0.50 % (26 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (53.8 %) / Intimidate (46.2 %)
+Nature: Impish - EVs: 252 HP / 252 Atk / 4 SDef (53.8 %)  
+Sucker Punch
+Iron Head
+Stone Edge
+Play Rough
+# 22 - 0.45 % (23 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (8.7 %) / Intimidate (69.6 %) / Sheer Force (21.7 %)
+Nature: Adamant - EVs: 252 HP / 252 Atk / 4 SDef (47.8 %)  
+Ice Punch
+Sucker Punch
+Iron Head
+Play Rough
+# 23 - 0.43 % (22 battles)
+
+Mawile @ Mawilite Lv. 100 -- Intimidate (9.1 %) / Sheer Force (90.9 %)
+Nature: Adamant - EVs: 252 Atk / 136 Def / 120 SDef (90.9 %)  
+Swords Dance
+Crunch
+Sucker Punch
+Iron Head
+# 24 - 0.41 % (21 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (81.0 %) / Intimidate (19.0 %)
+Nature: Brave - EVs: 252 HP / 252 Atk / 4 SDef (47.6 %)  
+Swords Dance
+Protect
+Sucker Punch
+Play Rough
+# 25 - 0.39 % (20 battles)
+
+Mawile @ Mawilite Lv. 100 -- Hyper Cutter (20.0 %) / Intimidate (75.0 %) / Sheer Force (5.0 %)
+Nature: Adamant - EVs: 96 HP / 252 Atk / 160 Spd (35.0 %)  
+Thunder Punch
+Swords Dance
+Sucker Punch
+Play Rough
