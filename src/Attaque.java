@@ -337,7 +337,7 @@ public class Attaque  implements java.io.Serializable {
 			e.printStackTrace();
 		}
 		
-		if (!(cible.equals("user") || cible.equals("adv") || cible.equals("allAdv") || cible.equals("allAdj") || cible.equals("userTeam") || cible.equals("Allie") || cible.equals("all") || cible.equals("Field") || cible.equals("userField") || cible.equals("advField") || nom.equals("(No Move)"))){
+		if (!(cible.equals("user") || cible.equals("adv") || cible.equals("allAdv") || cible.equals("allAdj") || cible.equals("userTeam") || cible.equals("Allie") || cible.equals("all") || cible.equals("Field") || cible.equals("userField") || cible.equals("advField") || cible.equals("autre"))){
 			System.out.println(nom + " - Cible incorrecte : " + cible);
 		}
 	}

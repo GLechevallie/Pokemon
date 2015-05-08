@@ -42,8 +42,14 @@ phys	Dark	60	100	0	40	adv	1	0	30	0	yes	no
 Blast Burn
 spec	Fire	150	90	0	8	adv	1	0	0	0	no	no
 
+Bone Club
+phys	Ground	65	85	0	32	adv	1	0	10	0	no	no
+
 Bone Rush
 phys	Ground	25	90	0	16	adv	2-5	0	0	0	no	no
+
+Bonemerang
+phys	Ground	50	90	0	16	adv	2	0	0	0	no	no
 
 Boomburst
 spec	Normal	140	100	0	16	allAdj	1	0	0	0	no	yes
@@ -74,6 +80,9 @@ spec	Poison	50	101	0	24	adv	1	0	0	0	no	no
 
 Counter
 phys	Fighting	1	100	-5	32	adv	1	0	0	0	yes	no
+
+Covet
+phys	Normal	60	100	0	40	adv	1	0	0	0	yes	no
 
 Crabhammer
 phys	Water	100	90	0	16	adv	1	1	0	0	yes	no
@@ -195,6 +204,9 @@ phys	Dark	1	100	0	16	adv	1	0	0	0	no	no
 Fly
 phys	Flying	90	95	0	24	adv	1	0	0	0	yes	no
 
+Flying Press
+phys	Fighting	80	95	0	16	adv	1	0	0	0	yes	no
+
 Focus Punch
 phys	Fighting	150	100	-3	32	adv	1	0	0	0	yes	no
 
@@ -297,6 +309,9 @@ phys	Fighting	1	100	0	32	adv	1	0	0	0	yes	no
 Mach Punch
 phys	Fighting	40	100	1	48	adv	1	0	0	0	yes	no
 
+Magical Leaf
+spec	Grass	60	101	0	32	adv	1	0	0	0	no	no
+
 Me First
 autre	?	1	101	0	32	adv	1	0	0	0	no	no
 
@@ -337,7 +352,7 @@ Petal Blizzard
 phys	Grass	90	100	0	24	allAdj	1	0	0	0	no	no
 
 Petal Dance
-phys	Grass	120	100	0	16	adv	1	0	0	0	yes	no
+spec	Grass	120	100	0	16	adv	1	0	0	0	yes	no
 
 Pin Missile
 phys	Bug	25	95	0	32	adv	2-5	0	0	0	no	no
@@ -458,6 +473,9 @@ phys	Normal	70	100	0	32	adv	1	1	0	0	yes	no
 
 Smack Down
 phys	Rock	50	100	0	24	adv	1	0	0	0	no	no
+
+Snore
+spec	Normal	50	100	0	24	adv	1	0	30	0	no	yes
 
 Solar Beam
 spec	Grass	120	100	0	16	adv	1	0	0	0	no	no

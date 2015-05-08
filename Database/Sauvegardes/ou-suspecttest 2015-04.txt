@@ -1,0 +1,18 @@
+Vertical 254
+0 - Aegislash [Smogon 254]
+91711
+
+Meilleur score :
+Aegislash [Smogon 4] (Aegislash-Blade)
+389344
+Adversaires de Aegislash [Smogon 4] (Aegislash-Blade) :
+Bisharp 23.498154 / Landorus-Therian 19.608814 / Keldeo 19.542826 / Landorus 16.31019 / Manaphy 14.087839 / Garchomp 13.915728 / Excadrill 13.732212 / Clefable 13.340368 / Latias 12.571134 / Ferrothorn 12.141783 / Azumarill 11.823238 / Charizard 10.382337 / Dragonite 10.25664 / Gliscor 10.251738 / Rotom-Wash 9.78003 / Scizor 9.5623255 / Heatran 9.447385 / Gyarados 9.435004 / Breloom 9.37808 / Gengar 8.762565 / Talonflame 8.3808365 / Starmie 7.8320894 / Latios 7.7966466 / Skarmory 7.440446 / Slowbro 7.326832 / Gardevoir 7.236184 / Altaria 7.1788874 / Hippowdon 7.1725044 / Thundurus 7.09809 / Tyranitar 6.5045123 / Serperior 6.464232 / Raikou 6.281067 / Metagross 5.731416 / Magnezone 5.0617914 / Venusaur 4.6152706 / Diancie 4.613174 / Quagsire 4.29572 / Gothitelle 4.1255803 / Lopunny 4.1212482 / Chansey 4.02288 / Tornadus-Therian 4.003251 / Klefki 3.5094516 / Volcarona 3.5005403 / Kyurem-Black 3.4526968 / Pinsir 3.434363 / Sableye 3.2990177 / Manectric 3.2819984 / Conkeldurr 3.2769988 / Victini 3.2267005 / Hydreigon 2.9884074 / Zapdos 2.8142824 / Amoonguss 2.7451243 / Mandibuzz 2.6853962 / Mamoswine 2.53771 / Alakazam 2.403619 / Mew 2.362287 / Celebi 2.3435402 / Infernape 2.2356462 / Feraligatr 2.1174479 / Diggersby 2.0058887 / Sylveon 1.9829592 / Jirachi 1.8711058 / Politoed 1.7255937 / Azelf 1.6416128 / Heracross 1.5706359 / Tangrowth 1.4301666 / Seismitoad 1.3357911 / Cresselia 1.316325 / Donphan 1.2640818 / Weavile 1.1252027 / Sceptile 1.0981897 / Crawdaunt 1.0881863 / Terrakion 0.95371383 / Suicune 0.92766273 / Scolipede 0.8602541 / Chesnaught 0.8262613 / Tentacruel 0.78618425 / Aegislash 0.7677262 / Gallade 0.7272733 / Togekiss 0.7138045 / Alomomola 0.70588326 / Aerodactyl 0.680382 / Empoleon 0.6055621 / Swampert 0.45657706
+
+EQUIPE :
+
+ADVERSAIRES RESTANTS :
+Garchomp 27.52205 / Landorus-Therian 24.69907 / Bisharp 21.87291 / Latias 18.52562 / Keldeo 18.51881 / Scizor 18.39372 / Heatran 16.97567 / Ferrothorn 16.752 / Talonflame 15.57808 / Starmie 14.45491 / Slowbro 13.81053 / Latios 12.70019 / Tyranitar 12.68985 / Rotom-Wash 12.26336 / Excadrill 11.92524 / Landorus 11.14336 / Gardevoir 10.9592 / Azumarill 10.66828 / Gengar 10.58121 / Skarmory 10.57248 / Clefable 10.42034 / Breloom 10.3116 / Manaphy 10.19171 / Charizard 9.94152 / Metagross 9.03103 / Thundurus 8.83369 / Serperior 8.08126 / Gyarados 8.06248 / Chansey 8.04576 / Diancie 7.68979 / Lopunny 7.6424 / Hippowdon 7.42473 / Gliscor 7.3646 / Altaria 7.1146 / Gothitelle 6.87701 / Venusaur 6.66441 / Tornadus-Therian 6.48535 / Magnezone 6.48203 / Dragonite 6.44676 / Sableye 6.23982 / Raikou 6.04137 / Klefki 5.77931 / Kyurem-Black 5.28909 / Mew 4.65269 / Celebi 4.40723 / Zapdos 4.08755 / Jirachi 3.65819 / Quagsire 3.20122 / Amoonguss 2.99567 / Mamoswine 2.86294 / Pinsir 2.79712 / Alakazam 2.77386 / Conkeldurr 2.75968 / Manectric 2.73983 / Sylveon 2.68366 / Volcarona 2.3394 / Cresselia 2.27984 / Weavile 2.21385 / Azelf 2.20852 / Hydreigon 2.19571 / Victini 2.18029 / Mandibuzz 2.06483 / Politoed 1.8271 / Infernape 1.7614 / Diggersby 1.61724 / Terrakion 1.5663 / Scolipede 1.54576 / Chesnaught 1.53945 / Feraligatr 1.51899 / Heracross 1.51748 / Tentacruel 1.49885 / Seismitoad 1.47098 / Sceptile 1.46429 / Togekiss 1.42618 / Gallade 1.31975 / Suicune 1.1338 / Tangrowth 1.09497 / Alomomola 1.06448 / Aerodactyl 0.96254 / Donphan 0.93272 / Empoleon 0.91058 / Crawdaunt 0.90184 / Swampert 0.89738 / Aegislash 0.89001
+
+
+DETAILS DE L'EQUIPE :
+

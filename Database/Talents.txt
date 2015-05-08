@@ -7,6 +7,7 @@ Analytic
 Anger Point
 Anticipation
 Arena Trap
+Aroma Veil
 Aura Break
 Bad Dreams
 Battle Armor
@@ -43,6 +44,7 @@ Flash Fire
 Flower Veil
 Friend Guard
 Frisk
+Fur Coat
 Gale Wings
 Gluttony
 Gooey
@@ -126,6 +128,7 @@ Sand Veil
 Sap Sipper
 Scrappy
 Serene Grace
+Simple
 Shadow Tag
 Sheer Force
 Shed Skin
@@ -143,6 +146,7 @@ Stall
 Stance Change
 Static
 Steadfast
+Stench
 Sticky Hold
 Storm Drain
 Strong Jaw
@@ -172,6 +176,7 @@ Victory Star
 Vital Spirit
 Volt Absorb
 Water Absorb
+Water Veil
 Weak Armor
 White Smoke
 Wonder Guard

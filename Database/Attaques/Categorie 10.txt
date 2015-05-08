@@ -3,6 +3,9 @@ Type	Prio	PP
 Electric Terrain
 Electric	0	16
 
+Grassy Terrain
+Grass	0	16
+
 Gravity
 Psychic	0	8
 

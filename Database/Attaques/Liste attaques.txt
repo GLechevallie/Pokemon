@@ -45,9 +45,12 @@
 4	Blaze Kick
 4	Blizzard
 13	Block
+4	Blue Flare
 4	Body Slam
 4	Bolt Strike
+0	Bone Club
 0	Bone Rush
+0	Bonemerang
 0	Boomburst
 4	Bounce
 0	Brave Bird
@@ -79,6 +82,7 @@
 2	Cosmic Power
 2	Cotton Guard
 0	Counter
+0	Covet
 0	Crabhammer
 0	Cross Chop
 4	Cross Poison
@@ -166,6 +170,7 @@
 13	Flatter
 0	Fling
 0	Fly
+0	Flying Press
 6	Focus Blast
 2	Focus Energy
 0	Focus Punch
@@ -191,6 +196,7 @@
 1	Glare
 0	Grass Knot
 1	Grass Whistle
+10	Grassy Terrain
 10	Gravity
 2	Growl
 2	Growth
@@ -238,6 +244,7 @@
 0	Incinerate
 4	Infestation
 13	Ingrain
+13	Ion Deluge
 2	Iron Defense
 0	Iron Head
 6	Iron Tail
@@ -267,6 +274,7 @@
 0	Mach Punch
 13	Magic Coat
 10	Magic Room
+0	Magical Leaf
 4	Magma Storm
 13	Magnet Rise
 13	Mat Block
@@ -326,6 +334,8 @@
 13	Powder
 0	Power Gem
 13	Power Split
+13	Power Swap
+13	Power Trick
 0	Power Whip
 7	Power-Up Punch
 0	Precipice Blades
@@ -414,6 +424,7 @@
 2	Smokescreen
 6	Snarl
 13	Snatch
+0	Snore
 13	Soak
 3	Soft-Boiled
 3	Softboiled

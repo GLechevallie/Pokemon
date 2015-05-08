@@ -38,6 +38,7 @@ public class Pokemon implements java.io.Serializable {
 	private int set;
 	private String nomSet;
 	private float utilisationSet;
+	private boolean probable = true;
 	private boolean competitif = true;
 	private String commentaire = "";
 	private String talentOriginal;
@@ -290,7 +291,7 @@ public class Pokemon implements java.io.Serializable {
 				cherche = true; // liste des spreads
 				while (cherche){
 					ligne = liseur.readLine();
-					if (!ligne.contains("Other") && !ligne.contains(" 0.")){
+					if (!ligne.contains("Other") && !ligne.contains(" 0.") && !ligne.contains("+--")){
 						Spreads.add(ligne);
 					}
 					else{
@@ -344,7 +345,7 @@ public class Pokemon implements java.io.Serializable {
 				System.out.println("Numero du set superieur au nombre de sets (" + set + "/" + NTotalSets + ")");
 				System.out.println(1/0);
 			}
-			utilisationSet = 1;
+			utilisationSet = 100;
 			int setBis = set;
 			int totalBis = NTotalSets;
 
@@ -357,7 +358,7 @@ public class Pokemon implements java.io.Serializable {
 						talent = talent.substring(0, talent.length()-1);
 					}
 					talentOriginal = talent;
-					utilisationSet *= Float.valueOf(Abilities.get(i).split(Pattern.quote("| "))[1].split("%")[0].substring(Abilities.get(i).split(Pattern.quote("| "))[1].split("%")[0].length()-7, Abilities.get(i).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /10;
+					utilisationSet *= Float.valueOf(Abilities.get(i).split(Pattern.quote("| "))[1].split("%")[0].substring(Abilities.get(i).split(Pattern.quote("| "))[1].split("%")[0].length()-7, Abilities.get(i).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /100;
 					setBis = setBis - i*totalBis/Abilities.size();
 					totalBis = totalBis/Abilities.size();
 				}
@@ -373,7 +374,7 @@ public class Pokemon implements java.io.Serializable {
 					while (objet.endsWith(" ")){
 						objet = objet.substring(0, objet.length()-1);
 					}
-					utilisationSet *= Float.valueOf(Items.get(i).split(Pattern.quote("| "))[1].split("%")[0].substring(Items.get(i).split(Pattern.quote("| "))[1].split("%")[0].length()-7, Items.get(i).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /10;
+					utilisationSet *= Float.valueOf(Items.get(i).split(Pattern.quote("| "))[1].split("%")[0].substring(Items.get(i).split(Pattern.quote("| "))[1].split("%")[0].length()-7, Items.get(i).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /100;
 					setBis = setBis - i*totalBis/Items.size();
 					totalBis = totalBis/Items.size();
 				}
@@ -389,7 +390,10 @@ public class Pokemon implements java.io.Serializable {
 			do{
 				if (setBis < (i+1)*totalBis/Spreads.size()){
 					spread = Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].substring(0, Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].length()-7);
-					utilisationSet *= Float.valueOf(Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].substring(Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].length()-6, Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /10;
+					while (spread.endsWith(" ")){
+						spread = spread.substring(0, spread.length()-1);
+					}
+					utilisationSet *= Float.valueOf(Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].substring(Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].length()-7, Spreads.get(i).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /100;
 					setBis = setBis - i*totalBis/Spreads.size();
 					totalBis = totalBis/Spreads.size();
 				}
@@ -418,7 +422,7 @@ public class Pokemon implements java.io.Serializable {
 					while (nomAttaque.endsWith(" ")){
 						nomAttaque = nomAttaque.substring(0, nomAttaque.length()-1);
 					}
-					utilisationSet *= Float.valueOf(Moves.get(Ck-1).split(Pattern.quote("| "))[1].split("%")[0].substring(Moves.get(Ck-1).split(Pattern.quote("| "))[1].split("%")[0].length()-6, Moves.get(Ck-1).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /10;
+					utilisationSet *= Float.valueOf(Moves.get(Ck-1).split(Pattern.quote("| "))[1].split("%")[0].substring(Moves.get(Ck-1).split(Pattern.quote("| "))[1].split("%")[0].length()-7, Moves.get(Ck-1).split(Pattern.quote("| "))[1].split("%")[0].length())).floatValue() /100;
 					if (nomAttaque.startsWith("Hidden Power")){
 						PC = nomAttaque.split(" ")[2];
 						nomAttaque = "Hidden Power";
@@ -724,7 +728,7 @@ public class Pokemon implements java.io.Serializable {
 				commentaire += "\tObjet non-pertinent";
 			}
 		}
-		if (this.objet.equals("Silk Scarf")){
+		if (this.objet.equals("Silk Scarf") || this.objet.equals("Normal Gem")){
 			boolean pertinent = false;
 			for (int i=0; i<4; ++i){
 				if ((moves[i].getType().equals("Normal") && moves[i].getPuissance() > 0) || this.getTalent().equals("Multitype") || this.connait("Judgment")){
@@ -748,7 +752,7 @@ public class Pokemon implements java.io.Serializable {
 				commentaire += "\tObjet non-pertinent";
 			}
 		}
-		if (this.objet.equals("Twisted Spoon") || this.objet.equals("Mind Plate")){
+		if (this.objet.equals("Twisted Spoon") || this.objet.equals("Mind Plate") || this.objet.equals("Odd Incense")){
 			boolean pertinent = false;
 			for (int i=0; i<4; ++i){
 				if ((moves[i].getType().equals("Psychic") && moves[i].getPuissance() > 0) || this.getTalent().equals("Multitype") || this.connait("Judgment")){
@@ -760,7 +764,7 @@ public class Pokemon implements java.io.Serializable {
 				commentaire += "\tObjet non-pertinent";
 			}
 		}
-		if (this.objet.equals("Mystic Water") || this.objet.equals("Splash Plate")){
+		if (this.objet.equals("Mystic Water") || this.objet.equals("Splash Plate") || this.objet.equals("Sea Incense") || this.objet.equals("Wave Incense")){
 			boolean pertinent = false;
 			for (int i=0; i<4; ++i){
 				if ((moves[i].getType().equals("Water") && moves[i].getPuissance() > 0) || this.getTalent().equals("Multitype") || this.connait("Judgment")){
@@ -796,7 +800,7 @@ public class Pokemon implements java.io.Serializable {
 			}
 			if (!pertinent){
 				competitif = false;
-				commentaire += "\tAttaque/objet non-pertinente";
+				commentaire += "\tAttaque/objet/nature non-pertinente";
 			}
 		}
 		if (tabNature[2] > 1 || EVs[3] > 0 || objet.equals("Choice Specs") || objet.equals("Petaya Berry")){
@@ -827,12 +831,39 @@ public class Pokemon implements java.io.Serializable {
 			commentaire += "\tTrick + Mega-gemme";
 		}
 
+		if (this.getObjet().equals("Heat Rock") && !(this.connait("Sunny Day") || this.getTalent().equals("Drought"))){
+			competitif = false;
+			commentaire += "\tRoche climat inutile";
+		}
+
+		if (this.getObjet().equals("Damp Rock") && !(this.connait("Rain Dance") || this.getTalent().equals("Drizzle"))){
+			competitif = false;
+			commentaire += "\tRoche climat inutile";
+		}
+		
+		if (this.getObjet().equals("Smooth Rock") && !(this.connait("Sandstorm") || this.getTalent().equals("Sand Stream"))){
+			competitif = false;
+			commentaire += "\tRoche climat inutile";
+		}
+		
+		if (this.getObjet().equals("Icy Rock") && !(this.connait("Hail") || this.getTalent().equals("Snow Warning"))){
+			competitif = false;
+			commentaire += "\tRoche climat inutile";
+		}
+
 		if (this.getTalent().equals("Sheer Force")) {
 			boolean utile = false;
 			for (int i=0; i<4; ++i){
 				utile = utile || moves[i].getTaux() > 0 || moves[i].getTrouille() > 0;
 			}
 			if (!utile){
+				competitif = false;
+				commentaire += "\tTalent inutile";
+			}
+		}
+		
+		if (this.getTalent().equals("Gluttony")){
+			if (!(objet.equals("Liechi Berry") || objet.equals("Ganlon Berry") || objet.equals("Petaya Berry") || objet.equals("Apicot Berry") || objet.equals("Salac Berry") || objet.equals("Lansat Berry") || objet.equals("Micle Berry") || objet.equals("Custap Berry") || objet.equals("Starf Berry"))){
 				competitif = false;
 				commentaire += "\tTalent inutile";
 			}
@@ -861,7 +892,7 @@ public class Pokemon implements java.io.Serializable {
 		
 		for (int i=0; i<4; ++i){
 			if (this.moves[i].getCategorie().equals("2")){
-				if (this.moves[i].getEffet().equals("Atq")){
+				if (this.moves[i].getEffet().equals("Atq") && this.moves[i].getCible().equals("user")){
 					boolean atqPhys = false;
 					for (int j=0; j<4; ++j){
 						if (this.moves[j].getClasse().equals("phys")){
@@ -900,9 +931,25 @@ public class Pokemon implements java.io.Serializable {
 				commentaire += "\tChoice + attaque de statut";
 			}
 		}
+		
+		if (this.objet.equals("Weakness Policy")){
+			boolean utile = false;
+			for (int i=0; i<4; ++i){
+				if (this.moves[i].getPuissance() > 0){
+					utile = true;
+				}
+			}
+			if (!utile){
+				competitif = false;
+				commentaire += "\tObjet inutile";
+			}
+		}
 
-		if (utilisationSet < 1){
-			commentaire += "\tSet fort improbable";
+		if (set > 0){
+			if (utilisationSet < (new Pokemon(nom, 0, metagame, constructeur)).getUtilisationSet() /100) {
+				probable = false;
+				commentaire += "\tSet peu probable";
+			}
 		}
 		if (utilisationSet == 0){
 			competitif = false;
@@ -1245,12 +1292,12 @@ public class Pokemon implements java.io.Serializable {
 			}
 			espece = "Mega-Medicham";
 		}
-		if (espece.equals("Pideot") && objet.equals("Pideotite")){
+		if (espece.equals("Pidgeot") && objet.equals("Pidgeotite")){
 			autorise = true;
 			if (affichage){
-				System.out.println("\n" + nomSet + " mega-evolue en Mega-Pideot !");
+				System.out.println("\n" + nomSet + " mega-evolue en Mega-Pidgeot !");
 			}
-			espece = "Mega-Pideot";
+			espece = "Mega-Pidgeot";
 		}
 		if (espece.equals("Pinsir") && objet.equals("Pinsirite")){
 			autorise = true;
@@ -1509,6 +1556,19 @@ public class Pokemon implements java.io.Serializable {
 				}
 				if (classe == 4){
 					degatsSpecRecus -= delta;
+					if (this.objet.equals("Maranga Berry") && !this.isTendu()){
+						if (affichage){
+							System.out.println(this.nomSet + " mange sa Baie Maranga.");
+						}
+						this.setObjet("(No Item)", true, true, affichage);
+						this.boost(4, 1, true, true, affichage);
+						if (this.talent.equals("Cheek Pouch")){
+							if (affichage){
+								System.out.println("Bajoue restaure de la vie a " + this.getNom() + ".");
+							}
+							this.deltaPV((int)statsInitiales[0]/4, false, true, 0, affichage);
+						}
+					}
 				}
 			}
 
@@ -1540,6 +1600,22 @@ public class Pokemon implements java.io.Serializable {
 								System.out.println("Bajoue restaure de la vie a " + this.getNom() + ".");
 							}
 							this.deltaPV((int)statsInitiales[0]/4, false, true, 0, affichage);
+						}
+					}
+					if (objet.equals("Mago Berry") && statsModifiees[0] <= statsInitiales[0]/2){
+						if(affichage){
+							System.out.println(nomSet + " mange sa Baie Mago !");
+						}
+						this.setObjet("(No Item)", true, true, affichage);
+						this.deltaPV((int)statsInitiales[0]/8, false, true, 0, affichage);
+						if (this.tabNature[4] < 1){
+							this.setStatut("Conf", true, true, true, matchBrouhaha, affichage);
+						}
+						if (this.talent.equals("Cheek Pouch")){
+							if (affichage){
+								System.out.println("Bajoue restaure de la vie a " + this.getNom() + ".");
+							}
+							this.deltaPV((int) statsInitiales[0] / 4, false, true, 0, affichage);
 						}
 					}
 					if (objet.equals("Liechi Berry") && (statsModifiees[0] <= statsInitiales[0]/4 || (talent.equals("Gluttony") && statsModifiees[0] <= statsInitiales[0]/2))){
@@ -1609,6 +1685,19 @@ public class Pokemon implements java.io.Serializable {
 						}
 					}
 				}
+				if (objet.equals("Lansat Berry") && (statsModifiees[0] <= statsInitiales[0]/4 || (talent.equals("Gluttony") && statsModifiees[0] <= statsInitiales[0]/2))){
+					if(affichage){
+						System.out.println(nomSet + " mange sa Baie Lansat !");
+					}
+					this.setObjet("(No Item)", true, true, affichage);
+					this.boost(8, 2, true, true, affichage);
+					if (this.talent.equals("Cheek Pouch")){
+						if (affichage){
+							System.out.println("Bajoue restaure de la vie a " + this.getNom() + ".");
+						}
+						this.deltaPV((int)statsInitiales[0]/4, false, true, 0, affichage);
+					}
+				}
 				if (direct && delta < 0){
 					focus = false;
 				}
@@ -1646,6 +1735,22 @@ public class Pokemon implements java.io.Serializable {
 					}
 					this.setObjet("(No Item)", true, true, affichage);
 					this.deltaPV((int)statsInitiales[0]/4, false, true, 0, affichage);
+					if (this.talent.equals("Cheek Pouch")){
+						if (affichage){
+							System.out.println("Bajoue restaure de la vie a " + this.getNom() + ".");
+						}
+						this.deltaPV((int)statsInitiales[0]/4, false, true, 0, affichage);
+					}
+				}
+				if (objet.equals("Mago Berry") && statsModifiees[0] <= statsInitiales[0]/2){
+					if(affichage){
+						System.out.println(nomSet + " mange sa Baie Mago !");
+					}
+					this.setObjet("(No Item)", true, true, affichage);
+					this.deltaPV((int)statsInitiales[0]/8, false, true, 0, affichage);
+					if (this.tabNature[5] < 1){
+						this.setStatut("Conf", true, true, true, matchBrouhaha, affichage);
+					}
 					if (this.talent.equals("Cheek Pouch")){
 						if (affichage){
 							System.out.println("Bajoue restaure de la vie a " + this.getNom() + ".");
@@ -1792,6 +1897,7 @@ public class Pokemon implements java.io.Serializable {
 			if (stat == 8){System.out.print("Le taux de critique de " + nomSet);}
 
 			if (delta == 12){System.out.println(" augmente au maximum !! (" + statsBoosts[stat] + ")");}
+			if (varReelle == 4){System.out.println(" augmente vraiment enormement ! (" + statsBoosts[stat] + ")");}
 			if (varReelle == 3){System.out.println(" augmente enormement ! (" + statsBoosts[stat] + ")");}
 			if (varReelle == 2){System.out.println(" augmente beaucoup ! (" + statsBoosts[stat] + ")");}
 			if (varReelle == 1){System.out.println(" augmente. (" + statsBoosts[stat] + ")");}
@@ -1916,16 +2022,19 @@ public class Pokemon implements java.io.Serializable {
 			statsModifieurs[1] = (float) (statsModifieurs[1] *2);
 			statsModifieurs[3] = (float) (statsModifieurs[3] *2);
 		}
+		if (objet.equals("Thick Club") && (this.espece.equals("Marowak") || this.espece.equals("Cubone"))){
+			statsModifieurs[1] = (float) (statsModifieurs[1] *2);
+		}
 		if (objet.equals("Choice Band")){
 			statsModifieurs[1] = (float) (statsModifieurs[1] *1.5);
 		}
 		if (objet.equals("Eviolite")){
-			if (this.espece.equals("Chansey") || this.espece.equals("Combusken") || this.espece.equals("Doublade") || this.espece.equals("Dusclops") || this.espece.equals("Eelektrik") || this.espece.equals("Ferroseed") || this.espece.equals("Fletchinder") || this.espece.equals("Floette") || this.espece.equals("Frogadier") || this.espece.equals("Gabite") || this.espece.equals("Gligar") || this.espece.equals("Golbat") || this.espece.equals("Klang") || this.espece.equals("Krokorok") || this.espece.equals("Gothorita") || this.espece.equals("Lickitung") || this.espece.equals("Magneton") || this.espece.equals("Metang") || this.espece.equals("Misdreavus") || this.espece.equals("Monferno") || this.espece.equals("Murkrow") || this.espece.equals("Pawniard") || this.espece.equals("Porygon") || this.espece.equals("Porygon2") || this.espece.equals("Rhydon") || this.espece.equals("Tangela") || this.espece.equals("Vullaby") || this.espece.equals("Wartortle")){
+			if (this.espece.equals("Chansey") || this.espece.equals("Combusken") || this.espece.equals("Doublade") || this.espece.equals("Dusclops") || this.espece.equals("Eelektrik") || this.espece.equals("Ferroseed") || this.espece.equals("Fletchinder") || this.espece.equals("Floette") || this.espece.equals("Frogadier") || this.espece.equals("Gabite") || this.espece.equals("Gligar") || this.espece.equals("Golbat") || this.espece.equals("Klang") || this.espece.equals("Krokorok") || this.espece.equals("Gothorita") || this.espece.equals("Lickitung") || this.espece.equals("Magneton") || this.espece.equals("Metang") || this.espece.equals("Misdreavus") || this.espece.equals("Monferno") || this.espece.equals("Murkrow") || this.espece.equals("Pawniard") || this.espece.equals("Piloswine") || this.espece.equals("Porygon") || this.espece.equals("Porygon2") || this.espece.equals("Rhydon") || this.espece.equals("Scyther") || this.espece.equals("Skorupi") || this.espece.equals("Tangela") || this.espece.equals("Vullaby") || this.espece.equals("Wartortle")){
 				statsModifieurs[2] = (float) (statsModifieurs[2] *1.5);
 				statsModifieurs[4] = (float) (statsModifieurs[4] *1.5);
 			}
 			else{
-				if (! (this.espece.equals("Abomasnow") || this.espece.equals("Basculin") || this.espece.equals("Chatot") || this.espece.equals("Gothitelle") || this.espece.equals("Jirachi") || this.espece.equals("Klefki") || this.espece.equals("Latios") || this.espece.equals("Malamar") || this.espece.equals("Nidoqueen") || this.espece.equals("Poliwrath") || this.espece.equals("Quagsire") || this.espece.equals("Raticate") || this.espece.startsWith("Rotom") || this.espece.equals("Sableye") || this.espece.equals("Togekiss") || this.espece.equals("Slurpuff") || this.espece.equals("Swanna") || this.espece.equals("Venomoth") || this.espece.equals("Xatu"))){
+				if (! (this.espece.equals("Abomasnow") || this.espece.equals("Azelf") || this.espece.equals("Basculin") || this.espece.equals("Chandelure") || this.espece.equals("Chatot") || this.espece.equals("Gothitelle") || this.espece.equals("Jirachi") || this.espece.equals("Klefki") || this.espece.equals("Latios") || this.espece.equals("Malamar") || this.espece.equals("Nidoqueen") || this.espece.equals("Poliwrath") || this.espece.equals("Quagsire") || this.espece.equals("Raticate") || this.espece.startsWith("Rotom") || this.espece.equals("Sableye") || this.espece.equals("Togekiss") || this.espece.equals("Slurpuff") || this.espece.equals("Smeargle") || this.espece.equals("Swanna") || this.espece.equals("Venomoth") || this.espece.equals("Xatu"))){
 					System.out.println("Eviolite sur " + this.espece + " ???");
 				}
 			}
@@ -1977,6 +2086,9 @@ public class Pokemon implements java.io.Serializable {
 		}
 		if (talent.equals("Huge Power") || talent.equals("Pure Power")){
 			statsModifieurs[1] = (float) (statsModifieurs[1] *2);
+		}
+		if (talent.equals("Fur Coat")){
+			statsModifieurs[2] = (float) (statsModifieurs[2] *2);
 		}
 		if (!statut.equals("OK") && talent.equals("Quick Feet")){
 			statsModifieurs[5] = (float) (statsModifieurs[5] *1.5);
@@ -2094,7 +2206,7 @@ public class Pokemon implements java.io.Serializable {
 				System.out.println(nomSet + " est degele grace a la chaleur du Soleil!");
 			}
 		}
-		if (statut.equals("Somm") && terrain.equals("electrique") && !this.getType()[0].equals("Flying") && !this.getType()[1].equals("Flying") && !this.talent.equals("Levitate") && !this.getObjet().equals("Air Balloon") && telekinesis == 0 && volMagnetic == 0){
+		if (statut.equals("Somm") && terrain.equals("Electric") && !this.getType()[0].equals("Flying") && !this.getType()[1].equals("Flying") && !this.talent.equals("Levitate") && !this.getObjet().equals("Air Balloon") && telekinesis == 0 && volMagnetic == 0){
 			statut = "OK";
 			if (affichage){
 				System.out.println(nomSet + " se reveille !");
@@ -2189,9 +2301,9 @@ public class Pokemon implements java.io.Serializable {
 		}
 
 		if (alter.equals("Amour") && (!substitute || passeClone)){
-			if (this.getTalent().equals("Oblivious")){
+			if (this.getTalent().equals("Oblivious") || this.getTalent().equals("Aroma Veil")){
 				if (affichage){
-					System.out.println("Benet protege " + this.getNom() + " de l'amour.");
+					System.out.println(this.getNom() + " est protégé contre l'amour.");
 				}
 			}
 			else{
@@ -2232,7 +2344,7 @@ public class Pokemon implements java.io.Serializable {
 
 		if (alter.equals("Repos")){
 			if (statsModifiees[0] < statsInitiales[0] || !(statut.equals("Somm") || statut.equals("OK"))){
-				if ((talent.equals("Insomnia") || talent.equals("Vital Spirit")) || (terrain.equals("electrique") && !this.getType()[0].equals("Flying") && !this.getType()[1].equals("Flying") && !this.talent.equals("Levitate") && !this.getObjet().equals("Air Balloon") && telekinesis == 0 && volMagnetic == 0) || matchBrouhaha){
+				if ((talent.equals("Insomnia") || talent.equals("Vital Spirit")) || (terrain.equals("Electric") && !this.getType()[0].equals("Flying") && !this.getType()[1].equals("Flying") && !this.talent.equals("Levitate") && !this.getObjet().equals("Air Balloon") && telekinesis == 0 && volMagnetic == 0) || matchBrouhaha){
 					if (affichage){
 						System.out.println(this.getNom() + " ne peut pas s'endormir.");
 					}
@@ -2325,7 +2437,7 @@ public class Pokemon implements java.io.Serializable {
 
 		if (statut.equals("OK") && (!substitute || passeClone)){
 
-			if (alter.equals("Brul") && !type[0].equals("Fire") && !type[1].equals("Fire")){
+			if (alter.equals("Brul") && !type[0].equals("Fire") && !type[1].equals("Fire") && !this.talent.equals("Water Veil")){
 				this.statut = "Brul";
 				if (affichage){
 					System.out.println(nomSet + " est brule.");
@@ -2334,6 +2446,11 @@ public class Pokemon implements java.io.Serializable {
 			if (alter.equals("Brul") && (type[0].equals("Fire") || type[1].equals("Fire"))){
 				if (affichage){
 					System.out.println(nomSet + " ne peut pas etre brule.");
+				}
+			}
+			if (alter.equals("Brul") && this.talent.equals("Water Veil")){
+				if (affichage){
+					System.out.println("Ignifuvoile de " + nomSet + " le protege de la brulure.");
 				}
 			}
 
@@ -2391,7 +2508,7 @@ public class Pokemon implements java.io.Serializable {
 			}
 
 			if (alter.equals("Somm")){
-				if ((terrain.equals("electrique") && !this.getType()[0].equals("Flying") && !this.getType()[1].equals("Flying") && !this.talent.equals("Levitate") && !this.getObjet().equals("Air Balloon") && telekinesis == 0 && volMagnetic == 0) || (talent.equals("Insomnia") || talent.equals("Vital Spirit")) || matchBrouhaha){
+				if ((terrain.equals("Electric") && !this.getType()[0].equals("Flying") && !this.getType()[1].equals("Flying") && !this.talent.equals("Levitate") && !this.getObjet().equals("Air Balloon") && telekinesis == 0 && volMagnetic == 0) || (talent.equals("Insomnia") || talent.equals("Vital Spirit")) || matchBrouhaha){
 					if (affichage){
 						System.out.println(nomSet + " ne peut etre endormi.");
 					}
@@ -2803,12 +2920,31 @@ public class Pokemon implements java.io.Serializable {
 			}
 		}
 
+		if (baie.equals("Petaya Berry") && !tendu){
+			trouve = true;
+			if (affichage){
+				System.out.println(nomSet + " mange la baie Pitaye !");
+			}
+			this.boost(3, 1, true, true, affichage);
+		}
+
 		if (baie.equals("Sitrus Berry") && !tendu){
 			trouve = true;
 			if (affichage){
-				System.out.println(nomSet + " mange la baie Citrus!");	
+				System.out.println(nomSet + " mange la baie Citrus !");
 			}
 			this.deltaPV((int)(statsInitiales[0]/4), false, true, 0, affichage);
+		}
+
+		if (baie.equals("Mago Berry")){
+			trouve = true;
+			if(affichage){
+				System.out.println(nomSet + " mange la Baie Mago !");
+			}
+			this.deltaPV((int)statsInitiales[0]/8, false, true, 0, affichage);
+			if (this.tabNature[5] < 1){
+				this.setStatut("Conf", true, true, true, matchBrouhaha, affichage);
+			}
 		}
 
 		if (baie.equals("Salac Berry") && !tendu){
@@ -2819,7 +2955,7 @@ public class Pokemon implements java.io.Serializable {
 			this.boost(5, 1, true, true, affichage);
 		}
 
-		if (baie.equals("Custap Berry") || baie.equals("Colbur Berry") || baie.equals("Haban Berry") || baie.equals("Occa Berry") || baie.equals("Shuca Berry") || baie.equals("Yache Berry")){
+		if (baie.equals("Chople Berry") || baie.equals("Coba Berry") || baie.equals("Custap Berry") || baie.equals("Colbur Berry") || baie.equals("Haban Berry") || baie.equals("Occa Berry") || baie.equals("Passho Berry") || baie.equals("Shuca Berry") || baie.equals("Watmel Berry") || baie.equals("Yache Berry")){
 			trouve = true;
 			if (affichage){
 				System.out.println(nomSet + " mange la baie " + baie.split(" Ber")[0] + ".");
@@ -2922,7 +3058,7 @@ public class Pokemon implements java.io.Serializable {
 
 	public void entrave (boolean affichage){
 		try{
-			if (tourEntrave == 0){
+			if (tourEntrave == 0 && !this.talent.equals("Aroma Veil")){
 				entrave = derniereAttaque.getNom();
 				tourEntrave = 4;
 				if (affichage){
@@ -3172,6 +3308,13 @@ public class Pokemon implements java.io.Serializable {
 				System.out.println("\n" + nomSet + " se regenere sous la pluie.");
 			}
 			this.deltaPV((int)(statsInitiales[0]/8), false, true, 0, affichage);
+		}
+
+		if (!statut.equals("KO") && terrain.equals("Grassy") && !(this.type[0].equals("Flying") || this.type[1].equals("Flying") || this.talent.equals("Levitate") || this.objet.equals("Air Balloon") || this.volMagnetic > 0)){
+			if (affichage && statsModifiees[0] < statsInitiales[0]){
+				System.out.println(this.getNom() + " broute l'herbe.");
+			}
+			this.deltaPV((int)(statsInitiales[0] /16), false, true, 0, affichage);
 		}
 
 		if (prescience > 0){
@@ -3529,6 +3672,10 @@ public class Pokemon implements java.io.Serializable {
 
 	public float getUtilisationSet() {
 		return utilisationSet;
+	}
+
+	public boolean isProbable() {
+		return probable;
 	}
 
 	public float getPoints() {
@@ -3928,7 +4075,7 @@ public class Pokemon implements java.io.Serializable {
 
 	public void setEncore(boolean affichage) {
 		try{
-			if (!this.getDerniereAttaque().equals((Attaque) null)){
+			if (!this.getDerniereAttaque().equals((Attaque) null) && !this.getTalent().equals("Aroma Veil")){
 				if (encore <= 0){
 					encore = 3;
 					if (affichage){
@@ -3940,7 +4087,7 @@ public class Pokemon implements java.io.Serializable {
 						System.out.println(nomSet + " doit deja repeter une capacite !");
 					}
 				}
-				if (objet.equals("Mental Herb")){
+				if (encore > 0 && objet.equals("Mental Herb")){
 					encore = 0;
 					this.setObjet("(No Item)", true, true, affichage);
 					if (affichage){
@@ -3966,7 +4113,7 @@ public class Pokemon implements java.io.Serializable {
 	}
 
 	public void setTourmente(boolean affichage) {
-		if (!this.tourmente){
+		if (!this.tourmente && !this.talent.equals("Aroma Veil")){
 			this.tourmente = true;
 			if (affichage){
 				System.out.println(nomSet + " est tourmente.");
@@ -3974,7 +4121,7 @@ public class Pokemon implements java.io.Serializable {
 		}
 		else{
 			if (affichage){
-				System.out.println(nomSet + " est deja tourmente.");
+				System.out.println("Ca n'affecte pas " + nomSet + ".");
 			}
 		}
 		if (objet.equals("Mental Herb")){
@@ -4115,9 +4262,9 @@ public class Pokemon implements java.io.Serializable {
 	}
 
 	public void setTaunted(boolean affichage) {
-		if (this.talent.equals("Oblivious")){
+		if (this.talent.equals("Oblivious") || this.talent.equals("Aroma Veil")){
 			if (affichage){
-				System.out.println("Benet de " + this.getNom() + " le protege de la Provoc.");
+				System.out.println("Ca n'affecte pas " + this.getNom() + ".");
 			}
 		}
 		else{
@@ -4342,9 +4489,9 @@ public class Pokemon implements java.io.Serializable {
 	}
 
 	public void setAntiSoin(boolean affichage) {
-		if (antiSoin > 0){
+		if (antiSoin > 0 || this.getTalent().equals("Aroma Veil")){
 			if (affichage){
-				System.out.println(nomSet + " est deja affecte par Anti-Soin.");
+				System.out.println("Ca n'affecte pas " + nomSet + ".");
 			}
 		}
 		else{

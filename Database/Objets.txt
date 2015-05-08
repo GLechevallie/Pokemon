@@ -43,6 +43,7 @@ Metal Powder
 Metronome
 Muscle Band
 Normal Gem
+Plume Fossil
 Power Herb
 Quick Claw
 Quick Powder
@@ -57,6 +58,7 @@ Shed Shell
 Shell Bell
 Silk Scarf
 Smooth Rock
+Thick Club
 Toxic Orb
 Weakness Policy
 White Herb
@@ -79,6 +81,10 @@ Sharp Beak
 Soft Sand
 Spell Tag
 Twisted Spoon
+
+Odd Incense
+Sea Incense
+Wave Incense
 
 Draco Plate
 Dread Plate
@@ -104,18 +110,24 @@ Chople Berry
 Coba Berry
 Colbur Berry
 Custap Berry
+Enigma Berry
 Haban Berry
+Jaboca Berry
+Kasib Berry
 Kee Berry
+Lansat Berry
 Leppa Berry
 Liechi Berry
 Lum Berry
-Kasib Berry
 Occa Berry
+Mago Berry
+Maranga Berry
 Passho Berry
 Persim Berry
 Petaya Berry
 Rindo Berry
 Roseli Berry
+Rowap Berry
 Salac Berry
 Shuca Berry
 Sitrus Berry

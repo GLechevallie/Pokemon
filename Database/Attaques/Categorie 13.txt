@@ -117,6 +117,9 @@ Psychic	101	0	16	user	no
 Ingrain
 Grass	101	0	32	user	no
 
+Ion Deluge
+Electric	101	1	40	all	no
+
 King's Shield
 Steel	101	4	16	user	no
 
@@ -173,6 +176,12 @@ Bug	100	1	32	adv	no
 
 Power Split
 Psychic	101	0	16	adv	no
+
+Power Swap
+Psychic	101	0	16	all	no
+
+Power Trick
+Psychic	101	0	16	user	no
 
 Protect
 Normal	101	4	16	user	no

@@ -3,6 +3,9 @@ Classe	Type	Puis	Prec	Prio	PP	Cibles	NCoups	Crit	Peur	Recul	Effet	Taux	Contact	S
 Bind
 phys	Normal	15	85	0	32	adv	1	0	0	0	Bind	100	yes	no
 
+Blue Flare
+spec	Fire	130	85	0	8	adv	1	0	0	0	Brul	20	no	no
+
 Body Slam
 phys	Normal	85	100	0	24	adv	1	0	0	0	Para	30	yes	no
 
@@ -106,7 +109,7 @@ Magma Storm
 spec	Fire	100	75	0	8	adv	1	0	0	0	MgmStrm	100	no	no
 
 Nuzzle
-phys	Electric	20	20	0	32	adv	1	0	0	0	Para	100	yes	no
+phys	Electric	20	100	0	32	adv	1	0	0	0	Para	100	yes	no
 
 Poison Fang
 phys	Poison	50	100	0	24	adv	1	0	0	0	GPsn	30	yes	no

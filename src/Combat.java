@@ -24,6 +24,7 @@ public class Combat {
 	private boolean echoUtilise = false;
 	private int compteurEcho = 0;
 	private boolean brouhaha = false;
+	private boolean ionDeluge = false;
 	private Attaque derniereAttaque = new Attaque("(No Move)");
 	private boolean briseMoule = false;
 
@@ -117,6 +118,10 @@ public class Combat {
 				attaque.setCategorie("4");
 				attaque.setEffet("Para");
 			}
+			if (this.terrain.equals("Grassy")){
+				attaque.setCategorie("4");
+				attaque.setEffet("Somm");
+			}
 			if (this.terrain.equals("Misty")){
 				attaque.setCategorie("6");
 				attaque.setEffet("SAtq");
@@ -183,6 +188,10 @@ public class Combat {
 			boostPuissance1 *= 1.3;
 			type = "Ice";
 		}
+		
+		if (ionDeluge && type.equals("Normal")){
+			type = "Electric";
+		}
 
 		if (attaquant.getCharge() > 0 && attaque.getType().equals("Electric")){
 			boostPuissance1 *= 2;
@@ -221,7 +230,7 @@ public class Combat {
 			attaquant.setDecharge(false);
 		}
 
-		if (reussi && attaquant.getEncore() > 0){
+		if (!passeFiltres && reussi && attaquant.getEncore() > 0){
 			try{
 				if (attaquant.getDerniereAttaque().getPP() > 0){
 					attaque = attaquant.getDerniereAttaque();
@@ -451,7 +460,7 @@ public class Combat {
 			reussi = false;
 			if (!defenseur.isDejaAttaque() && (defenseur.getActionPrevue().getAttaque().getCategorie().equals("0") || defenseur.getActionPrevue().getAttaque().getCategorie().equals("4") || defenseur.getActionPrevue().getAttaque().getCategorie().equals("6") || defenseur.getActionPrevue().getAttaque().getCategorie().equals("7") || defenseur.getActionPrevue().getAttaque().getCategorie().equals("8")) && !defenseur.getActionPrevue().getAttaque().getNom().equals("Chatter") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Counter") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Covet") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Focus Punch") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Me First") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Metal Burst") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Mirror Coat") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Mirror Move") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Struggle") && !defenseur.getActionPrevue().getAttaque().getNom().equals("Thief")){
 				try{
-					System.out.println(defenseur.getActionPrevue().getAttaque().toString());
+					//System.out.println(defenseur.getActionPrevue().getAttaque().toString());
 					Attaque newAttaque = defenseur.getActionPrevue().getAttaque().clone();
 					newAttaque.setMeFirst(true);
 					this.attaque(attaquant, newAttaque, defenseur, true);
@@ -844,7 +853,7 @@ public class Combat {
 			precision = 50;
 		}
 
-		if (attaquant.getTalent().equals("Hustle") && attaque.getClass().equals("phys")){
+		if (attaquant.getTalent().equals("Hustle") && attaque.getClasse().equals("phys")){
 			precision *= 0.8;
 		}
 		if (attaquant.getObjet().equals("Zoom Lens") && (defenseur.isDejaAttaque() || defenseur.isDejaSwitche())){
@@ -1017,7 +1026,7 @@ public class Combat {
 		if (attaque.getNom().equals("Fling")){
 			boolean trouve = false;
 
-			if (attaquant.getObjet().equals("Choice Band") || attaquant.getObjet().equals("Choice Scarf") || attaquant.getObjet().equals("Choice Specs") || attaquant.getObjet().equals("Expert Belt") || attaquant.getObjet().equals("Focus Sash") || attaquant.getObjet().equals("Leftovers") || attaquant.getObjet().endsWith(" Berry")){
+			if (attaquant.getObjet().equals("Black Sludge") || attaquant.getObjet().equals("Choice Band") || attaquant.getObjet().equals("Choice Scarf") || attaquant.getObjet().equals("Choice Specs") || attaquant.getObjet().equals("Expert Belt") || attaquant.getObjet().equals("Focus Sash") || attaquant.getObjet().equals("Leftovers") || attaquant.getObjet().equals("Scope Lens") || attaquant.getObjet().equals("Silk Scarf") || attaquant.getObjet().equals("Shed Shell") || attaquant.getObjet().endsWith(" Berry")){
 				trouve = true;
 				attaque.setPuissance(10);
 			}
@@ -1028,6 +1037,10 @@ public class Combat {
 			if (attaquant.getObjet().equals("Rocky Helmet")){
 				trouve = true;
 				attaque.setPuissance(60);
+			}
+			if (attaquant.getObjet().equals("Razor Claw")){
+				trouve = true;
+				attaque.setPuissance(80);
 			}
 			if (attaquant.getObjet().equals("Flame Orb")){
 				trouve = true;
@@ -1050,6 +1063,11 @@ public class Combat {
 				attaque.setEffet("Para");
 				attaque.setTaux(100);
 			}
+			if (attaquant.getObjet().equals("King's Rock") || attaquant.getObjet().equals("Razor Fang")){
+				trouve = true;
+				attaque.setPuissance(30);
+				attaque.setTrouille(100);
+			}
 			if (attaquant.getObjet().endsWith("(inutilisable)")){
 				trouve = true;
 				reussi = false;
@@ -1057,7 +1075,7 @@ public class Combat {
 					System.out.println("La Zone Magique empeche d'utiliser l'objet.");
 				}
 			}
-			if (attaquant.getObjet().equals("(No Item)")){
+			if (attaquant.getObjet().equals("(No Item)") || attaquant.getObjet().endsWith(" Gem") || attaquant.getObjet().equals("Assault Vest")){
 				trouve = true;
 				reussi = false;
 				if (affichage){
@@ -1113,27 +1131,12 @@ public class Combat {
 			attaquant.setMania(0);
 		}
 
-		if (attaque.getNom().equals("High Jump Kick") && !reussi && attaqueLancee && defenseur.getStatsModifiees()[0] > 0){
+		if (attaque.getNom().endsWith("Jump Kick") && !reussi && attaqueLancee && defenseur.getStatsModifiees()[0] > 0){
 			if (affichage){
 				System.out.println(attaquant.getNom() + " s'ecrase au sol.");
 			}
 			//System.out.println("Pied voltige echoue");
-			Pokemon cloneDef = defenseur.clone();
-			cloneDef.detruitAbri();
-			cloneDef.setClairvoyance(false);
-			cloneDef.setChargement("-");
-			attaquant.deltaPV((int)(-this.degatsPrevusJumpKick(cloneDef, attaquant, new Action (attaque, false))/2), false, true, 2, affichage);
-		}
-		if (attaque.getNom().equals("Jump Kick") && !reussi && attaqueLancee && defenseur.getStatsModifiees()[0] > 0){
-			if (affichage){
-				System.out.println(attaquant.getNom() + " s'ecrase au sol.");
-			}
-			//System.out.println("Pied saute echoue");
-			Pokemon cloneDef = defenseur.clone();
-			cloneDef.detruitAbri();
-			cloneDef.setClairvoyance(false);
-			cloneDef.setChargement("-");
-			attaquant.deltaPV((int)(-this.degatsPrevusJumpKick(cloneDef, attaquant, new Action (attaque, false))/8), false, true, 2, affichage);
+			attaquant.deltaPV((int)(-attaquant.getStatsInitiales()[0]/2), false, true, 2, affichage);
 		}
 
 		if (reussi){
@@ -1186,13 +1189,14 @@ public class Combat {
 					// CATEGORIES 0, 4, 6, 7 & 8 : degats
 					if ((attaquant.getStatsModifiees()[0] > 0 || attaque.getNom().equals("Explosion") || attaque.getNom().equals("Self-Destruct")) && reussi && (attaque.getCategorie().equals("0") || attaque.getCategorie().equals("4") || attaque.getCategorie().equals("6") || attaque.getCategorie().equals("7") || attaque.getCategorie().equals("8"))){
 
+						int NtypeDef1 = -1;
+						int NtypeDef2 = -1;
+						String[] txt = new String[] {};
+						String NumTypeAtq = "";
+						
 						try{
 							BufferedReader fis = new BufferedReader (new FileReader ("DataBase/typestable.txt"));
-							int NtypeDef1 = -1;
-							int NtypeDef2 = -1;
-							String[] txt;
-							String NumTypeAtq = "";
-							for (int i=0; i<=19;++i){
+							for (int i=0; i<=20;++i){
 								txt = fis.readLine().split(" ");
 								if (txt[1].equals(type)){NumTypeAtq += i;}
 								if (txt[1].equals(defenseur.getType()[0])){NtypeDef1 = i;}
@@ -1201,10 +1205,13 @@ public class Combat {
 							if (attaque.getNom().equals("Freeze-Dry")){
 								NumTypeAtq = "19";
 							}
-							if ((type.equals("Fighting") || type.equals("Normal")) && defenseur.getType()[0].equals("Ghost") && (defenseur.isClairvoyance() || attaquant.getTalent().equals("Scrappy"))){
+							if (attaque.getNom().equals("Flying Press")){
+								NumTypeAtq = "20";
+							}
+							if ((type.equals("Fighting") || type.equals("Normal") || type.equals("Flying Press")) && defenseur.getType()[0].equals("Ghost") && (defenseur.isClairvoyance() || attaquant.getTalent().equals("Scrappy"))){
 								NtypeDef1 = 18;
 							}
-							if ((type.equals("Fighting") || type.equals("Normal")) && defenseur.getType()[1].equals("Ghost") && (defenseur.isClairvoyance() || attaquant.getTalent().equals("Scrappy"))){
+							if ((type.equals("Fighting") || type.equals("Normal") || type.equals("Flying Press")) && defenseur.getType()[1].equals("Ghost") && (defenseur.isClairvoyance() || attaquant.getTalent().equals("Scrappy"))){
 								NtypeDef2 = 18;
 							}
 							if (type.equals("Psychic") && defenseur.getType()[0].equals("Dark") && defenseur.isOeilMiracle()){
@@ -1220,6 +1227,11 @@ public class Combat {
 							efficacite = Double.valueOf(txt[Integer.valueOf(NtypeDef1).intValue() + 1]).doubleValue() * Double.valueOf(txt[Integer.valueOf(NtypeDef2).intValue() + 1]).doubleValue() /4;
 						}
 						catch(Exception e){
+							System.out.println(txt.length);
+							for (int i=0; i<txt.length; ++i){
+								System.out.print(txt[i]);
+							}
+							System.out.println("\n" + NumTypeAtq + " --> " + NtypeDef1 + "/" + NtypeDef2);
 							e.printStackTrace();
 							System.out.println("Probleme de type" + 1/0);
 						}
@@ -1230,7 +1242,6 @@ public class Combat {
 
 						if (efficacite == 0 && defenseur.getObjet().equals("Ring Target")){
 							efficacite = 1;
-							System.out.println("La Cible rend " + defenseur.getNom() + " vulnerable.");
 						}
 
 						if ((defenseur.getTalent().equals("Levitate") || defenseur.getObjet().equals("Air Balloon") || defenseur.isTelekinesis()) && type.equals("Ground") && gravite == 0){
@@ -1512,7 +1523,7 @@ public class Combat {
 						if (attaquant.getObjet().equals("Pixie Plate") && type.equals("Fairy")){
 							boostPuissance2 *= 1.2;
 						}
-						if ((attaquant.getObjet().equals("Black Belt") || attaquant.getObjet().equals("Fist Plate")) && type.equals("Fighting")){
+						if ((attaquant.getObjet().equals("Black Belt") || attaquant.getObjet().equals("Fist Plate")) && (type.equals("Fighting") || type.equals("Flying Press"))){
 							boostPuissance2 *= 1.2;
 						}
 						if ((attaquant.getObjet().equals("Flame Plate") || attaquant.getObjet().equals("Charcoal")) && type.equals("Fire")){
@@ -1539,7 +1550,7 @@ public class Combat {
 						if ((attaquant.getObjet().equals("Poison Barb")) && type.equals("Poison")){
 							boostPuissance2 *= 1.2;
 						}
-						if ((attaquant.getObjet().equals("Twisted Spoon") || attaquant.getObjet().equals("Mind Plate")) && type.equals("Psychic")){
+						if ((attaquant.getObjet().equals("Twisted Spoon") || attaquant.getObjet().equals("Mind Plate") || attaquant.getObjet().equals("Odd Incense")) && type.equals("Psychic")){
 							boostPuissance2 *= 1.2;
 						}
 						if ((attaquant.getObjet().equals("Stone Plate")) && type.equals("Rock")){
@@ -1548,7 +1559,7 @@ public class Combat {
 						if ((attaquant.getObjet().equals("Metal Coat")) && type.equals("Steel")){
 							boostPuissance2 *= 1.2;
 						}
-						if ((attaquant.getObjet().equals("Mystic Water") || attaquant.getObjet().equals("Splash Plate")) && type.equals("Water")){
+						if ((attaquant.getObjet().equals("Mystic Water") || attaquant.getObjet().equals("Splash Plate") || attaquant.getObjet().equals("Sea Incense") || attaquant.getObjet().equals("Wave Incense")) && type.equals("Water")){
 							boostPuissance2 *= 1.2;
 						}
 
@@ -1681,6 +1692,18 @@ public class Combat {
 								System.out.println("Le terrain electrique renforce l'attaque.");
 							}
 						}
+						if (attaquant.getTerrain().equals("Grassy") && type.equals("Grass")){
+							degats = (int) (degats*1.5);
+							if (affichage){
+								System.out.println("Le terrain herbeux renforce l'attaque.");
+							}
+						}
+						if (attaquant.getTerrain().equals("Grassy") && (attaque.getNom().equals("Bulldoze") || attaque.getNom().equals("Earthquake") || attaque.getNom().equals("Magnitude"))){
+							degats = (int) (degats/2);
+							if (affichage){
+								System.out.println("Le terrain herbeux affaiblit l'attaque.");
+							}
+						}
 						if (defenseur.getTerrain().equals("Misty") && type.equals("Dragon")){
 							degats = (int) (degats/2);
 							if (affichage){
@@ -1717,7 +1740,7 @@ public class Combat {
 								defenseur.deltaPV((int)defenseur.getStatsInitiales()[0]/4, false, true, 0, affichage);
 							}
 						}
-						if (defenseur.getObjet().equals("Chople Berry") && degats>0 && efficacite>1 && type.equals("Fighting") && !defenseur.isTendu()){
+						if (defenseur.getObjet().equals("Chople Berry") && degats>0 && efficacite>1 && (type.equals("Fighting") || type.equals("Flying Press")) && !defenseur.isTendu()){
 							degats = (int) (degats/2);
 							defenseur.setObjet("(No Item)", true, true, false);
 							if (affichage){
@@ -1946,6 +1969,7 @@ public class Combat {
 
 						if (efficacite > 0 && attaque.getEffet().equals("OHKO")){
 							if (defenseur.getTalent().equals("Sturdy")){
+								degats = 0;
 								if (affichage){
 									System.out.println("Fermete de " + defenseur.getNom() + " le protege contre le KO.");
 								}
@@ -1974,27 +1998,11 @@ public class Combat {
 							defenseur.multiBoost(new String[] {"Atq"}, new int[] {12},	true, true, affichage);
 						}
 
-						if (attaque.getNom().equals("High Jump Kick") && degats <= 0 && defenseur.getStatsModifiees()[0] > 0){
+						if (attaque.getNom().endsWith("Jump Kick") && degats <= 0 && defenseur.getStatsModifiees()[0] > 0){
 							if (affichage){
 								System.out.println(attaquant.getNom() + " s'ecrase au sol.");
 							}
-							//System.out.println("Pied voltige degats=0");
-							Pokemon cloneDef = defenseur.clone();
-							cloneDef.detruitAbri();
-							cloneDef.setClairvoyance(false);
-							cloneDef.setChargement("-");
-							attaquant.deltaPV((int)(-this.degatsPrevusJumpKick(cloneDef, attaquant, new Action (attaque, false))/2), false, true, 2, affichage);
-						}
-						if (attaque.getNom().equals("Jump Kick") && degats <= 0 && defenseur.getStatsModifiees()[0] > 0){
-							if (affichage){
-								System.out.println(attaquant.getNom() + " s'ecrase au sol.");
-							}
-							//System.out.println("Pied saute degats=0");
-							Pokemon cloneDef = defenseur.clone();
-							cloneDef.detruitAbri();
-							cloneDef.setClairvoyance(false);
-							cloneDef.setChargement("-");
-							attaquant.deltaPV((int)(-this.degatsPrevusJumpKick(cloneDef, attaquant, new Action (attaque, false))/8), false, true, 2, affichage);
+							attaquant.deltaPV((int)(-attaquant.getStatsInitiales()[0]/2), false, true, 2, affichage);
 						}
 
 						reussi = false;
@@ -2002,7 +2010,7 @@ public class Combat {
 						int tauxTrouille = attaque.getTrouille();
 						int tauxEffet = attaque.getTaux();
 
-						if (tauxTrouille <= 0 && (attaquant.getObjet().equals("King's Rock") || attaquant.getObjet().equals("Razor Fang"))){
+						if (tauxTrouille <= 0 && (attaquant.getObjet().equals("King's Rock") || attaquant.getObjet().equals("Razor Fang") || attaquant.getTalent().equals("Stench"))){
 							tauxTrouille = 10;
 						}
 
@@ -2076,6 +2084,28 @@ public class Combat {
 								attaquant.deltaPV(- 1, false, true, 0, affichage);
 							}
 						}
+						
+						if (defenseur.getObjet().equals("Jaboca Berry") && attaque.getClasse().equals("phys")){
+							if (affichage){
+								System.out.println(defenseur.getNom() + " mange sa Baie Jaboca.");
+							}
+							defenseur.setObjet("(No Item)", true, true, affichage);
+							attaquant.deltaPV(- (int)(attaquant.getStatsInitiales()[0]/8), false, true, 0, affichage);
+							if (attaquant.getStatsInitiales()[0] < 8){
+								attaquant.deltaPV(- 1, false, true, 0, affichage);
+							}
+						}
+
+						if (defenseur.getObjet().equals("Rowap Berry") && attaque.getClasse().equals("spec")){
+							if (affichage){
+								System.out.println(defenseur.getNom() + " mange sa Baie Pommo.");
+							}
+							defenseur.setObjet("(No Item)", true, true, affichage);
+							attaquant.deltaPV(- (int)(attaquant.getStatsInitiales()[0]/8), false, true, 0, affichage);
+							if (attaquant.getStatsInitiales()[0] < 8){
+								attaquant.deltaPV(- 1, false, true, 0, affichage);
+							}
+						}
 
 						if (defenseur.getTalent().equals("Weak Armor") && attaque.isContact() && degats>0 && defenseur.getStatsModifiees()[0] > 0 && !clone){
 							defenseur.multiBoost(new String[] {"Def", "Vit"}, new int[] {-1,1}, passeClone, true, affichage);
@@ -2116,6 +2146,14 @@ public class Combat {
 							}
 							defenseur.setObjet("(No Item)", true, true, false);
 							defenseur.multiBoost(new String[] {"Atq", "SAtq"}, new int[] {2,2}, passeClone, true, affichage);
+						}
+
+						if (defenseur.getObjet().equals("Enigma Berry") && degats > 0 && efficacite > 1 && defenseur.getStatsModifiees()[0] > 0 && !clone){
+							if (affichage){
+								System.out.println("Vulne-Assurance se declenche!");
+							}
+							defenseur.setObjet("(No Item)", true, true, false);
+							defenseur.deltaPV((int)(defenseur.getStatsInitiales()[0]/4), false, true, 0, affichage);
 						}
 
 						if (defenseur.getObjet().equals("Air Balloon") && degats > 0 && !clone){
@@ -2299,7 +2337,7 @@ public class Combat {
 							defenseur.setObjet("(No Item)", false, false, false);
 						}
 
-						if ((attaque.getNom().equals("Thief") || attaquant.getTalent().equals("Magician")) && attaquant.getObjet().equals("(No Item)") && !defenseur.getObjet().equals("(No Item)") && !defenseur.getTalent().equals("Sticky Hold") && !(defenseur.getObjet().endsWith("ite") && !defenseur.getObjet().equals("Eviolite")) && !defenseur.getObjet().endsWith("ite X") && !defenseur.getObjet().endsWith("ite Y") && !(defenseur.getTalent().equals("Multitype") && defenseur.getObjet().contains(" Plate")) && degats > 0 && !clone){
+						if ((attaque.getNom().equals("Covet") || attaque.getNom().equals("Thief") || attaquant.getTalent().equals("Magician")) && attaquant.getObjet().equals("(No Item)") && !defenseur.getObjet().equals("(No Item)") && !defenseur.getTalent().equals("Sticky Hold") && !(defenseur.getObjet().endsWith("ite") && !defenseur.getObjet().equals("Eviolite")) && !defenseur.getObjet().endsWith("ite X") && !defenseur.getObjet().endsWith("ite Y") && !(defenseur.getTalent().equals("Multitype") && defenseur.getObjet().contains(" Plate")) && degats > 0 && !clone){
 							if (affichage){
 								System.out.println(attaquant.getNom() + " vole l'objet " + defenseur.getObjet() + " de " + defenseur.getNom() + ".");
 							}
@@ -2438,6 +2476,10 @@ public class Combat {
 
 						if (attaque.getNom().equals("Electric Terrain")){
 							this.setTerrain("Electric");
+						}
+
+						if (attaque.getNom().equals("Grassy Terrain")){
+							this.setTerrain("Grassy");
 						}
 
 						if (attaque.getNom().equals("Gravity") && gravite > 0){
@@ -2642,7 +2684,7 @@ public class Combat {
 						}
 
 						if (attaque.getNom().equals("Curse")){
-							attaquant.deltaPV(- (int)(attaquant.getStatsModifiees()[0] /2), false, true, 0, affichage);
+							attaquant.deltaPV(- (int)(attaquant.getStatsInitiales()[0] /2), false, true, 0, affichage);
 							defenseur.setMaudit(affichage);
 						}
 
@@ -2857,6 +2899,26 @@ public class Combat {
 							attaquant.setStatsInitiales(nouvStatDefenseur);
 						}
 
+						if (attaque.getNom().equals("Power Swap")){
+							int[] boostAttaquant = attaquant.getStatsBoosts();
+							boostAttaquant[1] = defenseur.getStatsBoosts()[1];
+							boostAttaquant[3] = defenseur.getStatsBoosts()[3];
+
+							int[] boostDefenseur = defenseur.getStatsBoosts();
+							boostDefenseur[1] = attaquant.getStatsBoosts()[1];
+							boostDefenseur[3] = attaquant.getStatsBoosts()[3];
+							
+							attaquant.setStatsBoosts(boostAttaquant);
+							defenseur.setStatsBoosts(boostDefenseur);
+						}
+						
+						if (attaque.getNom().equals("Power Trick")){
+							int[] statsInitiales = attaquant.getStatsInitiales();
+							statsInitiales[1] = attaquant.getStatsInitiales()[2];
+							statsInitiales[2] = attaquant.getStatsInitiales()[1];
+							attaquant.setStatsInitiales(statsInitiales);
+						}
+
 						if (attaque.getNom().equals("Psych Up")){
 							attaquant.setStatsBoosts(attaquant.getStatsBoosts());
 							if (affichage){
@@ -2930,6 +2992,15 @@ public class Combat {
 								this.attaque(attaquant, autreAtq, defenseur, true);
 							}
 							else{
+								if (affichage){
+									System.out.println("Il faut dormir pour pouvoir utiliser cette attaque!");
+								}
+							}
+						}
+						
+						if (attaque.getNom().equals("Snore")){
+							if (!attaquant.getStatut().equals("Somm")){
+								reussi = false;
 								if (affichage){
 									System.out.println("Il faut dormir pour pouvoir utiliser cette attaque!");
 								}
@@ -3517,6 +3588,8 @@ public class Combat {
 			}
 
 			brouhaha = PkmnLent.isBrouhaha() || PkmnRapide.isBrouhaha();
+			
+			ionDeluge = false;
 		}
 		else{
 			PkmnRapide.adversaireParti();
@@ -3762,6 +3835,14 @@ public class Combat {
 			Pokemon2.setTerrain(terr, affichage);
 			if (affichage){
 				System.out.println("Le terrain s'electrifie.");
+			}
+		}
+		if (terr.equals("Grassy") && !terrain.equals("Grassy")){
+			this.terrain = terr;
+			Pokemon1.setTerrain(terr, affichage);
+			Pokemon2.setTerrain(terr, affichage);
+			if (affichage){
+				System.out.println("Le terrain se couvre d'herbe.");
 			}
 		}
 		if (terr.equals("Misty") && !terrain.equals("Misty")){
@@ -4063,37 +4144,6 @@ public class Combat {
 		//		System.out.println("-----------------------");
 
 		return degatsMax;
-	}
-
-	public int degatsPrevusJumpKick(Pokemon defenseur, Pokemon attaquant, Action actionAtq){
-
-		//		if (affichage){
-		//			System.out.println("\nAnticipations de " + defenseur.getNom());
-		//		}
-
-		int PVinitiaux = (int) defenseur.getStatsModifiees()[0];
-
-		Pokemon doubleDef = new Pokemon("Missingno", 1, "none", "Smogon");
-		Pokemon doubleAtq = new Pokemon("Missingno", 1, "none", "Smogon");
-
-		doubleDef = defenseur.clone();
-		doubleAtq = attaquant.clone();
-
-		Combat prevision = new Combat (Bot, Bot, doubleDef, doubleAtq, meteo, compteurMeteo, terrain, compteurTerrain, gravite, zoneMagique, distorsion, tourniquet, false);
-		prevision.attaque(doubleAtq, actionAtq.getAttaque(), doubleDef, true);
-
-		// Degats directs
-		int degats = (int) (PVinitiaux - doubleDef.getStatsModifiees()[0]);
-
-		//						if (false){
-		//							System.out.println("Degats prevus : " + degats);
-		//							System.out.println("Degats max : " + degatsMax);
-		//							System.out.println("\n-----------------------");
-		//						}
-
-		//System.out.println("Failed Jump Kick : " + degats);
-
-		return degats;
 	}
 
 	public int[] survies(boolean affiche){

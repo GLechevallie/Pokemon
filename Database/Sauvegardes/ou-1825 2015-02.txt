@@ -1,0 +1,106 @@
+Horizontal 0
+11 - Slowbro [Smogon 93]
+45407
+
+Meilleur score :
+Heatran [Smogon 126]
+155516
+Adversaires de Heatran [Smogon 126] :
+Garchomp 27.939692 / Azumarill 25.173061 / Keldeo 22.223833 / Landorus 18.922674 / Magnezone 18.20865 / Diancie 17.440327 / Kyurem-Black 15.664508 / Landorus-Therian 14.810796 / Heatran 13.240042 / Bisharp 12.546991 / Manaphy 12.027017 / Lopunny 9.842813 / Slowbro 8.945402 / Charizard 8.835374 / Gliscor 8.543039 / Starmie 8.501107 / Tyranitar 8.500479 / Tentacruel 8.427926 / Ferrothorn 8.106759 / Zapdos 7.8623896 / Raikou 7.6722913 / Latios 7.398946 / Dragonite 7.081447 / Metagross 6.894797 / Gardevoir 6.510034 / Excadrill 6.1642456 / Conkeldurr 5.6873436 / Gengar 5.584207 / Diggersby 5.093303 / Mamoswine 4.5048575 / Talonflame 4.348398 / Breloom 4.1945834 / Manectric 4.168928 / Thundurus 4.034464 / Rotom-Wash 3.7903469 / Chansey 3.764319 / Alakazam 3.6106474 / Swampert 3.587537 / Hippowdon 3.581806 / Altaria 3.50699 / Gallade 3.35052 / Hydreigon 3.1407626 / Gothitelle 3.0756645 / Gyarados 2.9775808 / Quagsire 2.9342842 / Toxicroak 2.8425093 / Celebi 2.7514665 / Pinsir 2.7353442 / Venusaur 2.5114987 / Scizor 2.4010394 / Feraligatr 2.0104342 / Politoed 2.0020866 / Suicune 1.9550838 / Mew 1.8991426 / Victini 1.871131 / Beedrill 1.7962942 / Thundurus-Therian 1.7014707 / Clefable 1.6026448 / Skarmory 1.5510194 / Volcarona 1.4670452 / Amoonguss 1.4597542 / Entei 1.3500383 / Chesnaught 1.2212739 / Sceptile 1.2080865 / Terrakion 1.205754 / Latias 1.2038321 / Kingdra 1.1888994 / Heracross 1.1071467 / Lucario 0.9182764 / Gastrodon 0.9153758 / Dragalge 0.7844477 / Crawdaunt 0.7312654 / Kabutops 0.71222216 / Serperior 0.69975996 / Empoleon 0.6933161 / Jolteon 0.67030364 / Donphan 0.6577312 / Tornadus-Therian 0.6520071 / Cresselia 0.6420572 / Sableye 0.6283831 / Chandelure 0.5969462 / Bronzong 0.58040404 / Jirachi 0.56918263 / Wobbuffet 0.55897313 / Exploud 0.5448245 / Poliwrath 0.50005645 / Weavile 0.49931657 / Darmanitan 0.4960841 / Blastoise 0.45143044 / Omastar 0.4510733 / Meloetta 0.4408794 / Vaporeon 0.42394602 / Alomomola 0.40767616 / Azelf 0.40155354 / Aerodactyl 0.3991857 / Medicham 0.38599887 / Rhyperior 0.37885997 / Sylveon 0.37767085 / Nidoking 0.37613505 / Klefki 0.3610825 / Mandibuzz 0.35745996 / Sharpedo 0.34998587 / Slurpuff 0.34010112 / Blissey 0.32891858 / Magneton 0.30413982 / Zygarde 0.3027633 / Infernape 0.30047223 / Dugtrio 0.2906958 / Togekiss 0.25741172 / Tyrantrum 0.24620157 / Kyurem 0.22874632 / Doublade 0.22856441 / Goodra 0.20523334 / Staraptor 0.19174677 / Seismitoad 0.1881658 / Shedinja 0.18329115 / Haxorus 0.18106158 / Cofagrigus 0.17017582 / Lanturn 0.16530357 / Aggron 0.16363434 / Hawlucha 0.15902573 / Milotic 0.15896069 / Tangrowth 0.1574719 / Articuno 0.13895823 / Gorebyss 0.13606977 / Whimsicott 0.12995271 / Emboar 0.129144 / Trevenant 0.12856495 / Espeon 0.12787506 / Pikachu 0.12454907 / Reuniclus 0.12216746 / Porygon-Z 0.12070005 / Camerupt 0.119778164 / Porygon2 0.114374705 / Jellicent 0.10743663 / Slowking 0.10488141 / Cloyster 0.10173042 / Krookodile 0.10026059 / Roserade 0.094864026 / Snorlax 0.0905777 / Cradily 0.09035235 / Ampharos 0.0889857 / Ninetales 0.084510125 / Florges 0.07990451 / Cobalion 0.0791574 / Scrafty 0.076900005 / Scolipede 0.07412541 / Absol 0.07407087 / Umbreon 0.07239773 / Glalie 0.07180924 / Rotom-Heat 0.071138464 / Steelix 0.07108852 / Salamence 0.06794754 / Stoutland 0.067147486 / Houndoom 0.067089066 / Electivire 0.06304151 / Ludicolo 0.060818817 / Arcanine 0.058331486 / Registeel 0.05528143 / Weezing 0.05485102 / Forretress 0.05407135 / Mienshao 0.05251835 / Machamp 0.052305765 / Heliolisk 0.04924945 / Noivern 0.048259974 / Galvantula 0.046299186 / Pangoro 0.04531819 / Nidoqueen 0.044660687 / Shaymin 0.03963918 / Archeops 0.03869973 / Braviary 0.038210176 / Vileplume 0.037589688 / Carracosta 0.035577048 / Clawitzer 0.034393463 / Rotom-Mow 0.03353853 / Banette 0.032370076 / Cinccino 0.0309505 / Froslass 0.030638967 / Typhlosion 0.028122995 / Hitmonchan 0.027313035 / Linoone 0.025917102 / Sandslash 0.025123414 / Zangoose 0.024553666 / Venomoth 0.024528746 / Smeargle 0.024489947 / Golem 0.02421281 / Ursaring 0.024203256 / Honchkrow 0.023403931 / Ditto 0.020357883 / Hitmontop 0.020179639 / Shuckle 0.01771977 / Ambipom 0.015490544 / Crobat 0.015166555 / Bastiodon 0.014477638 / Shiftry 0.013800231 / Delphox 0.012928566 / Xatu 0.012618125 / Lapras 0.012211449 / Pidgeot 0.011545384 / Mismagius 0.011152081
+
+EQUIPE :
+Lopunny [Smogon 259] (Mega-Lopunny) / Zapdos [Smogon 0] / Suicune [Smogon 10] / Sylveon [Smogon 675]
+ADVERSAIRES RESTANTS :
+Magnezone 26.60104 / Ferrothorn 16.082796 / Garchomp 14.507343 / Azumarill 13.881471 / Keldeo 11.111917 / Charizard 10.414394 / Landorus 10.208607 / Latios 9.865511 / Kyurem-Black 9.806074 / Diancie 9.780902 / Bisharp 8.169657 / Landorus-Therian 7.700076 / Raikou 7.490599 / Talonflame 7.0735445 / Zapdos 6.9801044 / Gengar 6.960109 / Altaria 6.8051834 / Heatran 6.7883725 / Manaphy 6.4801397 / Gardevoir 6.4711037 / Lopunny 5.8022313 / Slowbro 5.714656 / Tentacruel 5.616891 / Gothitelle 5.56761 / Celebi 5.502933 / Manectric 5.1726947 / Venusaur 5.0229974 / Metagross 4.8978295 / Starmie 4.8938503 / Scizor 4.6992493 / Gliscor 4.620746 / Tyranitar 4.591823 / Rotom-Wash 4.295551 / Thundurus 4.2397127 / Dragonite 4.141478 / Chansey 3.391584 / Excadrill 3.3469956 / Clefable 3.2052896 / Alakazam 3.098978 / Skarmory 3.012952 / Volcarona 2.8864295 / Conkeldurr 2.8436718 / Diggersby 2.6412876 / Mamoswine 2.4365807 / Victini 2.2731597 / Breloom 2.175229 / Amoonguss 2.1356547 / Hydreigon 2.0675154 / Mew 2.0138922 / Swampert 1.8627847 / Hippowdon 1.790903 / Gyarados 1.7413933 / Gallade 1.7375141 / Latias 1.6856239 / Pinsir 1.6018375 / Dragalge 1.5688955 / Quagsire 1.5352328 / Sceptile 1.5194068 / Toxicroak 1.5081953 / Chesnaught 1.4115249 / Thundurus-Therian 1.377766 / Politoed 1.3640747 / Serperior 1.335583 / Suicune 1.1741089 / Cresselia 1.1307386 / Beedrill 1.1169428 / Sableye 1.1136885 / Feraligatr 1.0860044 / Jirachi 0.99729747 / Entei 0.7895496 / Sylveon 0.7492518 / Kingdra 0.7245371 / Alomomola 0.6832168 / Meloetta 0.6763313 / Chandelure 0.6754894 / Klefki 0.67511743 / Azelf 0.6747563 / Terrakion 0.626073 / Heracross 0.598063 / Mandibuzz 0.56088954 / Tornadus-Therian 0.53956944 / Gastrodon 0.5028222 / Lucario 0.4979548 / Empoleon 0.46654147 / Jolteon 0.46306878 / Togekiss 0.45275602 / Crawdaunt 0.44445693 / Kabutops 0.4381288 / Exploud 0.435475 / Magneton 0.41467807 / Bronzong 0.40658066 / Shedinja 0.3665823 / Weavile 0.33507222 / Donphan 0.3288656 / Poliwrath 0.32382795 / Cofagrigus 0.29053876 / Darmanitan 0.29051048 / Staraptor 0.28053004 / Wobbuffet 0.27948657 / Articuno 0.27791646 / Doublade 0.27641922 / Goodra 0.26124406 / Vaporeon 0.24793847 / Blastoise 0.24416903 / Blissey 0.24372914 / Omastar 0.24366258 / Whimsicott 0.23754701 / Aerodactyl 0.23407488 / Medicham 0.20744275 / Pikachu 0.20094101 / Nidoking 0.19505629 / Rhyperior 0.18942998 / Cloyster 0.18931662 / Sharpedo 0.18905678 / Roserade 0.18858297 / Slurpuff 0.17005056 / Ninetales 0.16885106 / Porygon-Z 0.1638368 / Infernape 0.1623103 / Florges 0.15980902 / Porygon2 0.15756935 / Zygarde 0.15138166 / Dugtrio 0.15094022 / Scolipede 0.14810243 / Tyrantrum 0.13316514 / Cradily 0.13027781 / Lanturn 0.12930617 / Cobalion 0.12612794 / Rotom-Heat 0.12464578 / Kyurem 0.12372397 / Tangrowth 0.11344216 / Arcanine 0.1096974 / Forretress 0.1081427 / Seismitoad 0.10389678 / Trevenant 0.10231786 / Hawlucha 0.10104211 / Weezing 0.10026491 / Milotic 0.09857685 / Haxorus 0.09780657 / Aggron 0.09469602 / Reuniclus 0.09221132 / Noivern 0.090861805 / Houndoom 0.087734364 / Gorebyss 0.083704345 / Galvantula 0.07873422 / Espeon 0.07628552 / Vileplume 0.075104125 / Emboar 0.07444226 / Registeel 0.07207713 / Heliolisk 0.070083536 / Ampharos 0.0685199 / Jellicent 0.06707491 / Camerupt 0.064619206 / Umbreon 0.061325736 / Slowking 0.06093544 / Rotom-Mow 0.052477665 / Krookodile 0.052059084 / Typhlosion 0.049716786 / Smeargle 0.048979893 / Snorlax 0.048678085 / Venomoth 0.048562154 / Archeops 0.044458736 / Ludicolo 0.043752152 / Scrafty 0.043239564 / Glalie 0.04210757 / Stoutland 0.041250933 / Cinccino 0.039992895 / Absol 0.039909285 / Salamence 0.036798634 / Electivire 0.036291238 / Steelix 0.0362193 / Ditto 0.03461966 / Banette 0.032810356 / Froslass 0.030593047 / Mienshao 0.02903586 / Machamp 0.02782368 / Shuckle 0.026037464 / Crobat 0.02602981 / Bastiodon 0.02559406 / Shaymin 0.024221553 / Linoone 0.024052994 / Nidoqueen 0.02321892 / Pidgeot 0.022974748 / Pangoro 0.022659095 / Braviary 0.02240572 / Shiftry 0.021989034 / Delphox 0.021319456 / Xatu 0.021033399 / Carracosta 0.01924286 / Ambipom 0.019133577 / Lapras 0.018946433 / Abomasnow 0.018834991 / Clawitzer 0.0185788 / Moltres 0.016602652 / Honchkrow 0.015923684 / Hitmontop 0.014496564 / Zangoose 0.014005784 / Sandslash 0.013908002 / Hitmonchan 0.0136565175 / Ursaring 0.013556049 / Drifblim 0.013545082 / Yanmega 0.01337712 / Sigilyph 0.012779269 / Golem 0.012106405 / Cacturne 0.011552028 / Mismagius 0.011019146 / Gourgeist-Super 0.010595403 / Granbull 0.010404441
+
+
+Lopunny
+ type=[Normal, -]
+ baseStats=[65, 76, 84, 54, 96, 105]
+ poids=33.3
+ sexe=male
+set=259
+ utilisation de l'espece=8.70798
+ utilisation du set=0.01598014
+ competitif=true
+ commentaire=	Set peu probable
+ talent=Limber
+ nature=Adamant
+ objet=Lopunnite
+ EVs=[0, 252, 0, 0, 4, 252]
+ statsInitiales=[271, 276, 204, 129, 229, 309, 1, 1, 0]
+ PC=Dark
+attaques=[
+ Fake Out		[cible=adv, categorie=0, classe=phys, type=Normal, puissance=40, precision=100, PP=16, priorite=3, NCoups=1, critique=0, trouille=+100, recul=0, effet=-, variation=[0], taux=0, contact=true, sonore=false], 
+ Ice Punch		[cible=adv, categorie=4, classe=phys, type=Ice, puissance=75, precision=100, PP=24, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=Gel, variation=[0], taux=10, contact=true, sonore=false], 
+ Frustration	[cible=adv, categorie=0, classe=phys, type=Normal, puissance=102, precision=100, PP=32, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=true, sonore=false], 
+ Drain Punch	[cible=adv, categorie=8, classe=phys, type=Fighting, puissance=75, precision=100, PP=16, priorite=0, NCoups=1, critique=0, trouille=+0, recul=50, effet=-, variation=[0], taux=0, contact=true, sonore=false]]
+
+
+Zapdos
+ type=[Electric, Flying]
+ baseStats=[90, 90, 85, 125, 90, 100]
+ poids=52.6
+ sexe=asexue
+set=0
+ utilisation de l'espece=8.02111
+ utilisation du set=4.8771863
+ competitif=true
+ commentaire=
+ talent=Pressure
+ nature=Bold
+ objet=Leftovers
+ EVs=[252, 0, 252, 0, 0, 4]
+ statsInitiales=[384, 194, 295, 286, 216, 237, 1, 1, 0]
+ PC=Dark
+attaques=[
+ Roost			[cible=user, categorie=3, classe=autre, type=Flying, puissance=0, precision=101, PP=16, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=50, variation=[0], taux=0, contact=false, sonore=false], 
+ Heat Wave		[cible=allAdv, categorie=4, classe=spec, type=Fire, puissance=95, precision=90, PP=16, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=Brul, variation=[0], taux=10, contact=false, sonore=false], 
+ Defog			[cible=Field, categorie=13, classe=autre, type=Flying, puissance=0, precision=101, PP=24, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=false, sonore=false], 
+ Thunderbolt	[cible=adv, categorie=4, classe=spec, type=Electric, puissance=90, precision=100, PP=24, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=Para, variation=[0], taux=10, contact=false, sonore=false]]
+
+
+Suicune
+ type=[Water, -]
+ baseStats=[100, 75, 115, 90, 115, 85]
+ poids=187.0
+ sexe=asexue
+set=10
+ utilisation de l'espece=1.02586
+ utilisation du set=7.4845643
+ competitif=true
+ commentaire=
+ talent=Pressure
+ nature=Bold
+ objet=Leftovers
+ EVs=[252, 0, 252, 0, 0, 4]
+ statsInitiales=[404, 167, 361, 216, 266, 207, 1, 1, 0]
+ PC=Dark
+attaques=[
+ Scald			[cible=adv, categorie=4, classe=spec, type=Water, puissance=80, precision=100, PP=24, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=Brul, variation=[0], taux=30, contact=false, sonore=false], 
+ Rest			[cible=user, categorie=13, classe=autre, type=Psychic, puissance=0, precision=101, PP=16, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=false, sonore=false], 
+ Sleep Talk		[cible=user, categorie=13, classe=autre, type=Normal, puissance=0, precision=101, PP=16, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=false, sonore=false], 
+ Calm Mind		[cible=user, categorie=2, classe=autre, type=Psychic, puissance=0, precision=101, PP=32, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=SAtq/SDef, variation=[1, 1], taux=0, contact=false, sonore=false]]
+
+
+Sylveon
+ type=[Fairy, -]
+ baseStats=[95, 65, 65, 110, 130, 60]
+ poids=23.5
+ sexe=male
+set=675
+ utilisation de l'espece=3.00248
+ utilisation du set=0.25776356
+ competitif=true
+ commentaire=
+ talent=Pixilate
+ nature=Bold
+ objet=Leftovers
+ EVs=[252, 0, 220, 0, 36, 0]
+ statsInitiales=[394, 149, 243, 256, 305, 156, 1, 1, 0]
+ PC=Dark
+attaques=[
+ Hyper Voice	[cible=allAdv, categorie=0, classe=spec, type=Normal, puissance=90, precision=100, PP=16, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=false, sonore=true], 
+ Wish			[cible=user, categorie=13, classe=autre, type=Normal, puissance=0, precision=101, PP=16, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=false, sonore=false], 
+ Heal Bell		[cible=userTeam, categorie=13, classe=autre, type=Normal, puissance=0, precision=101, PP=8, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=false, sonore=true], 
+ Baton Pass		[cible=user, categorie=13, classe=autre, type=Normal, puissance=0, precision=101, PP=64, priorite=0, NCoups=1, critique=0, trouille=+0, recul=0, effet=-, variation=[0], taux=0, contact=false, sonore=false]]
